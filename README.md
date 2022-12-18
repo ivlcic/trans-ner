@@ -1,6 +1,19 @@
 # trans-ner
 Named Entity Recognition with [Transformers](https://github.com/huggingface/transformers)
 
+The aim of this project was to deduce if:
+
+_Can the fine-tuning of a multilingual embeddings with other than the target language corpora improve named entity recognition for a specific language?_
+
+Special thanks goes to people from [The Department of Knowledge Tehnologies of Jožef Stefan Institute](https://kt.ijs.si/) for mentoring, helping and direction.
+
+- Senja Polak
+- Matthew Purver
+- Nada Lavrač
+- Boško Koloski
+- Marko Pranjić
+- Hanh Tran
+
 ## Prepare
 
 ```bash
