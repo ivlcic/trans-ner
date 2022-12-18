@@ -7,9 +7,9 @@ _Can the fine-tuning of a multilingual embeddings with other than the target lan
 
 Special thanks goes to people from [The Department of Knowledge Tehnologies of Jožef Stefan Institute](https://kt.ijs.si/) for mentoring, helping and direction.
 
-- Senja Polak
-- Matthew Purver
-- Nada Lavrač
+- Senja Pollak
+- prof. Matthew Purver
+- prof. Nada Lavrač
 - Boško Koloski
 - Marko Pranjić
 - Hanh Tran
