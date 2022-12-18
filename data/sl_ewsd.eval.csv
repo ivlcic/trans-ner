@@ -1,0 +1,203 @@
+index,sentence,ner
+121,Poimenovana je po francoskem politiku in generalu Charlesu de Gaullu .,O O O O O O O B-PER I-PER I-PER O
+618,Strinjal se je tudi z imenovanjem grškega patriarha .,O O O O O O O O O
+281,"Peel ni želel vladati pod omejitvami , ki jih je vsilila kraljica , zato je odstopil s položaja in pustil , da se je na oblast vrnil Melbourne .",B-PER O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O
+33,Skupaj so se tretje sezone udeležile mladinske ekipe 24 nogometnih klubov iz 24 držav .,O O O O O O O O O O O O O O O
+2015,"S pogodbo se je Bohemond strinjal , da bo postal cesarjev vazal in da bo branil cesarstvo , kadar bo to potrebno .",O O O O B-PER O O O O O O O O O O O O O O O O O O
+623,Kot mnogi drugi fosilni konji je bil Mesohippus v Severni Ameriki pogost .,O O O O O O O O O B-LOC I-LOC O O
+1170,RETScreen se pogosto uporablja za spodbujanje in izvajanje projektov čiste energije .,B-MISC O O O O O O O O O O O
+239,"Leta 1923 je Debye prav tako razvil teorijo za pojasnitev Comptonovega pojava , premika frekvence rentgenskih žarkov ali gama žarkov , ki nastane ob njihovi interakciji z elektroni .",O O O B-PER O O O O O O B-MISC I-MISC O O O O O O O O O O O O O O O O O
+1515,Ta pes ima kratko in gladko dlako .,O O O O O O O O
+1371,"Litijev hidroksid je močna baza , iz katere pri segrevanju z maščobo nastane litijev stearat – milo .",O O O O O O O O O O O O O O O O O O
+622,"To mu je omogočilo oblikovati Paulijevo izključitveno načelo , ki pravi , da v istem kvantnem sistemu dva elektrona ne moreta biti nikoli v istem kvantnem stanju .",O O O O O B-MISC I-MISC I-MISC O O O O O O O O O O O O O O O O O O O O
+945,"Wikimedijina zbirka ( krajše Zbirka ) je spletni repozitorij slik , zvočnih posnetkov in drugih predstavnostnih gradiv , ki so na voljo brezplačno .",B-MISC I-MISC O O B-MISC O O O O O O O O O O O O O O O O O O O
+114,"Opažanja kažejo , da je 73 % celotne energijske gostote današnjega vesolja v tej obliki .",O O O O O O O O O O O O O O O O
+1128,"Družinska anamneza je dejavnik tveganja za razvoj astme , saj pri tem sodeluje veliko različnih genov .",O O O O O O O O O O O O O O O O O
+1351,Komatsu je prvi prototip kmetijskega traktorja izdelal leta 1931 .,B-ORG O O O O O O O O O
+472,Zdaj je hitro napredoval po vojaški hierarhiji .,O O O O O O O O
+1415,"Naravno železo sestavljajo štirje stabilni izotopi : 54Fe ( 5,845 % ) , 56Fe ( 91,754 % ) , 57Fe ( 2,119 % ) in 58Fe ( 0,282 % ) , od katerih ima samo 57Fe spin ( − 1 ⁄ 2 ) .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1217,"Miss Universe je vsakoletno mednarodno lepotno tekmovanje , ki ga organizira organizacija Miss Universe .",B-MISC I-MISC O O O O O O O O O O B-ORG I-ORG O
+589,Od takrat gora Fuji ni več izbruhnila .,O O O B-LOC O O O O
+582,Ime izvira iz rimskega imena Portus Cale .,O O O O O B-LOC I-LOC O
+12,Večina prebivalcev je katolikov .,O O O O O
+1395,"Po tem , ko je izgubil večino mostov na Donavi , je Mack s svojo vojsko odkorakal nazaj v Ulm .",O O O O O O O O O B-LOC O O B-PER O O O O O O B-LOC O
+773,Razjede so lahko boleče ali občutljive ( 30 % ) in se lahko pojavijo tudi izven območja spolovil ( 2 – 7 % ) .,O O O O O O O O O O O O O O O O O O O O O O O O O
+307,"Japonska je bila prva država , ki je zgradila železniške proge , namenjene potovanjem z visoko hitrostjo .",B-LOC O O O O O O O O O O O O O O O O O
+1280,"Raziskovalci zato sklepajo , da lahko zmanjšanje debelosti izboljša nivo javnega zdravja , vendar pa je malo verjetno , da bo to znižalo skupne izdatke za zdravstvo .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+936,Po smrti prve žene leta 1742 se je poročil s Španko Anastasio Maxarti Ximenes .,O O O O O O O O O O B-PER I-PER I-PER I-PER O
+931,Znotraj mestnega obzidja je živelo do 65.000 ljudi .,O O O O O O O O O
+1276,Mladi nogometaši se zunaj uradne sezone udeležujejo različnih dogodkov .,O O O O O O O O O O
+37,Ta izkušnja je pustila močan pečat na njegovih poznejših delih .,O O O O O O O O O O O
+1238,"Zelo ugoden je bil pojav kometa leta 1879 , ko so ga lahko opazovali najdlje do sedaj , štiri mesece .",O O O O O O O O O O O O O O O O O O O O O
+1477,Med tema dvema deloma reke je precejšnja geološka razlika .,O O O O O O O O O O
+1801,Klub je bil ustanovljen 22. maja 1898 kot NK Olympia Darmstadt .,O O O O O O O O B-ORG I-ORG I-ORG O
+1111,Poimenovan je po italijanskem astronomu Galileju Galileju .,O O O O O B-PER I-PER O
+714,Vnaprej prevedena vprašanja in odgovori ter strojno prevajanje jim omogočajo sporazumevanje v lastnem jeziku .,O O O O O O O O O O O O O O O
+477,Nahajajo se zlasti v tropskih in subtropskih krajih .,O O O O O O O O O
+146,Zanj so se zanimali tudi številni drugi klubi v Prvi ligi .,O O O O O O O O O B-MISC I-MISC O
+665,Zahodna Afrika je najzahodnejša regija Afrike .,B-LOC I-LOC O O O B-LOC O
+539,"Pohvalil ga je Einstein ; objavljeno je bilo kot samostojna monografija , ki še do danes velja za eno referenčnih del na tem področju .",O O O B-PER O O O O O O O O O O O O O O O O O O O O O
+1027,"Neubijanje je izraz , ki se nanaša na odsotnost ubijanja ter odsotnost groženj z ubijanjem in pogojev , ki napeljujejo k ubijanju v človeški družbi .",O O O O O O O O O O O O O O O O O O O O O O O O O O
+101,Pavia je po triletnem obleganju padla leta 572 in tako postala prva prestolnica novega italskega Langobardskega kraljestva .,B-LOC O O O O O O O O O O O O O O B-LOC I-LOC O
+643,Med parjenjem samec z zobmi zagrabi samico za kožo na tilniku .,O O O O O O O O O O O O
+527,"Kraljestvo Jeruzalem je bilo krščansko kraljestvo , ustanovljeno v Levantu leta 1099 , kot posledica prve križarske vojne .",B-LOC I-LOC O O O O O O O B-LOC O O O O O O O O O
+164,Lokalne in regionalne oblasti znotraj Evropske unije so lobirale za večji vpliv pri zadevah EU .,O O O O O B-ORG I-ORG O O O O O O O B-ORG O
+430,Nelson Mandela je po 27 letih v ujetništvu izpuščen iz zapora .,B-PER I-PER O O O O O O O O O O
+1349,"Oblikovana je bila meščanska straža , sestavljena iz lovcev na konjih in topništva .",O O O O O O O O O O O O O O
+1258,"Od leta 1893 poteka čez zemeljsko ožino , ki je široka le 6,3 km , Korintski prekop , tako da je Peloponez v resnici otok .",O O O O O O O O O O O O O O O B-LOC I-LOC O O O O B-LOC O O O O
+296,Z vzorci telesnih tekočin in tkiv obolelih oseb je treba ravnati izredno previdno .,O O O O O O O O O O O O O O
+1084,Vplive reform je v japonskem kulturnem življenju še danes opaziti .,O O O O O O O O O O O
+1267,Hugbert je začel uresničevati načrte svojih predhodnikov za ustanovitev neodvisne Bavarske cerkve .,B-PER O O O O O O O O O B-ORG I-ORG O
+890,Vsi organizmi na Zemlji so potomci istega skupnega prednika oziroma genskega sklada .,O O O B-LOC O O O O O O O O O
+446,"Grška kultura je imela močan vpliv na rimsko cesarstvo , ki je njeno različico zaneslo v mnoge dele Evrope .",O O O O O O O O O O O O O O O O O O B-LOC O
+456,"Križarji so se odločili , da napadejo Damask z zahoda , kjer bi jim številni sadovnjaki zagotovili stalno zalogo hrane .",O O O O O O O B-LOC O O O O O O O O O O O O O
+1649,V naslednjih dveh desetletjih so mesta prefekture nadomestila veliko večino kitajskih prefektur ; to se še vedno dogaja .,O O O O O O O O O O O O O O O O O O O
+1844,"Viden je bil s prostim očesom celih 18 mesecev , kar je bilo dvakrat toliko , kot je bil viden Veliki komet iz leta 1811 .",O O O O O O O O O O O O O O O O O O O O B-LOC I-LOC O O O O
+107,"Poroka je bila predlagana kot način , da se ustvari prijateljstvo med Dansko in Švedsko .",O O O O O O O O O O O O B-LOC O B-LOC O
+611,"Riževa vstaja je v sodobni japonski zgodovini z vidika obsega , velikosti in nasilja brez primere .",O O O O O O O O O O O O O O O O O
+1317,Vendar to ni vplivalo na njeno kariero .,O O O O O O O O
+949,"V tem delu ameriški turist Jaka Racman obišče jezero Titikaka in spozna nekaj tamkajšnjih prebivalcev , med njimi tudi svojeglavo lamo .",O O O O O B-PER I-PER O O B-LOC O O O O O O O O O O O O
+443,"Goffredo Malaterra odkrito zapiše , da si je Bohemond nadel križ samo zato , da bi ropal in osvajal grško ozemlje .",B-PER I-PER O O O O O O B-PER O O O O O O O O O O O O O
+653,Namesto streptomicina se včasih uporabljata klaritromicin ali moksifloksacin .,O O O O O O O O O
+1471,"Najmlajši sin , Henrik , je dobil denar .",O O O B-PER O O O O O
+1538,"Njihov materni jezik je litovščina , eden izmed zgolj dveh preživelih baltskih jezikov .",O O O O O O O O O O O O O O
+1756,Dobitniki nagrade EBBA nastopijo v živo na prireditvi in na festivalu .,O O B-MISC O O O O O O O O O
+1864,Mestna arhitektura je iz mešanice slogov .,O O O O O O O
+1933,"Jurij je pozneje postal močan zaveznik cesarja Maksimilijana I. in podpiral je njegove kampanje v Švabiji , Švici , Geldernu in na Madžarskem .",B-PER O O O O O O B-PER I-PER O O O O O O B-LOC O B-LOC O B-LOC O O B-LOC O
+1570,Nestorjev tekst je obširno preuredil iguman Silvester in na koncu kronike dodal svoj podpis .,B-PER O O O O O B-PER O O O O O O O O
+221,Med poletjem in zimo je velika razlika v temperaturi .,O O O O O O O O O O
+1709,"Z Viljemovo smrtjo se je končala personalna unija med Združenim kraljestvom in Hannovrom , ki je trajala od leta 1714 .",O B-PER O O O O O O O B-LOC I-LOC O B-LOC O O O O O O O O
+1872,Anka je v tretjem letu vladanja ubil princ Majova no Okimi kot povračilo za uboj njegovega očeta .,B-PER O O O O O O O B-PER I-PER I-PER O O O O O O O
+1074,Njegov najboljši rezultat je bil četrto mesto .,O O O O O O O O
+1403,Utrpel je hude poškodbe glave in ostal v komi nekaj dni .,O O O O O O O O O O O O
+1036,Do leta 1582 je bilo že 150.000 spreobrnjencev ( 2 % prebivalstva ) in 200 cerkev .,O O O O O O O O O O O O O O O O O
+717,"Tomaža so prav tako obtožili , da preganja lokalno plemstvo , kar je povzročilo vrsto uporov proti njegovi oblasti .",B-PER O O O O O O O O O O O O O O O O O O O
+1063,"Ko je govorila na novinarski konferenci v Moskvi , je dejala , da so Rusi » taki kot mi « .",O O O O O O O B-LOC O O O O O O B-PER O O O O O O
+1211,Najstarejše kamnine na Zemlji najdemo v severnoameriškem kratonu v Kanadi .,O O O B-LOC O O O O O B-LOC O
+106,"Fokker je bil nizozemski proizvajalec letal , poimenovan po svojem ustanovitelju , Anthonyju Fokkerju .",B-ORG O O O O O O O O O O O B-PER I-PER O
+594,Browning je vplival na oblikovanje skoraj vseh kategorij strelnega orožja .,B-PER O O O O O O O O O O
+1913,"Trenutno potekajo programi za razvoj cepiva proti dengi , ki naj bi pokrivali vse štiri serotipe .",O O O O O O O O O O O O O O O O O
+759,V samo eni raziskavi genetskih povezav je bilo več kot 100 genov povezanih z astmo ; še naprej jih odkrivajo .,O O O O O O O O O O O O O O O O O O O O O
+642,Protiprimer je v logiki in še posebej v njeni uporabi v matematiki in filozofiji izjema od predlaganega splošnega pravila ali zakona .,O O O O O O O O O O O O O O O O O O O O O O
+212,"Na svatbo Ahilovih staršev , morske nimfe Tetide in kralja Peleja , so povabljeni vsi bogovi razen boginje prepira , Eris .",O O B-PER O O O O B-PER O O B-PER O O O O O O O O O B-PER O
+236,"Čiščenje pomnilnika je okoli leta 1959 izumil John McCarthy , da bi olajšal ročno upravljanje pomnilnika v jeziku Lisp .",O O O O O O O B-PER I-PER O O O O O O O O O B-MISC O
+1769,"Kozmonavt Aleksej Arhipovič Leonov za 12 minut zapusti plovilo Voshod 2 in postane prvi človek , ki se sprehaja po vesolju .",O B-PER I-PER I-PER O O O O O B-MISC I-MISC O O O O O O O O O O O
+168,Skupno raziskovalno središče Evropske komisije je odgovorno za nudenje tehnične in znanstvene podpore pobudi .,B-ORG I-ORG I-ORG B-ORG I-ORG O O O O O O O O O O
+951,"Storil je samomor tako , da je zaužil cianid .",O O O O O O O O O O
+1240,"Predstavlja pomemben vzrok smrti med vsemi starostnimi skupinami , ki povzroči 4 milijone smrtnih žrtev letno ( 7 % vseh smrti na svetu ) .",O O O O O O O O O O O O O O O O O O O O O O O O O
+1767,"To je znano kot geocentrični model vesolja ali Ptolemejski sistem , ki je poimenovan po Ptolemeju .",O O O O O O O O B-MISC I-MISC O O O O O B-PER O
+666,Sporazum med Anglijo in Švedsko je privedel do nastanka tretje koalicije .,O O B-LOC O B-LOC O O O O O O O
+1991,"Najnižja količina energije , ki je potrebna , da elektron zapusti površino , se imenuje delovna funkcija .",O O O O O O O O O O O O O O O O O O
+8,Potem je začel s študijem kemije pri Adolfu von Baeyerju in botanike pri Carlu Nägeliju na Inštitutu za botaniko v Münchnu .,O O O O O O O B-PER I-PER I-PER O O O B-PER I-PER O B-ORG I-ORG I-ORG O B-LOC O
+186,Pri zelo starih in zelo mladih so lahko simptomi nejasni ali pa nespecifični .,O O O O O O O O O O O O O O
+1022,Marsh je odkril prve fosile pterozavra v Ameriki .,B-PER O O O O O O B-LOC O
+1713,Film je bil splošno priznan in dobro sprejet po celem svetu .,O O O O O O O O O O O O
+1332,"Bakreno kupolo v obliki derviškega klobuka podpira osem stebrov , visokih deset metrov .",O O O O O O O O O O O O O O
+690,Prva črka vsakega odstavka je orisana z rdečimi in rumenimi pikami .,O O O O O O O O O O O O
+1257,"Bruto domač proizvod je tržna vrednost vseh končnih proizvodov in storitev , ki jih je ustvarilo gospodarstvo neke države v enem letu .",O O O O O O O O O O O O O O O O O O O O O O O
+885,Mnogo pomembnih značilnosti fizikalnih sistemov se lahko matematično prikaže kot matrične enačbe .,O O O O O O O O O O O O O
+1529,Dvorec je nekajkrat menjal lastnike .,O O O O O O
+1210,"Janszoon je nadaljeval s kartiranjem okoli 320 kilometrov obale , za katero je mislil , da je južni podaljšek Nove Gvineje .",B-PER O O O O O O O O O O O O O O O O O O B-LOC I-LOC O
+83,"IMI omogoča javnim organom na državni , regionalni in lokalni ravni , da poiščejo sorodne organe v drugih državah in z njimi izmenjajo informacije .",B-MISC O O O O O O O O O O O O O O O O O O O O O O O O
+1661,"Po Ruprehtovi smrti leta 1410 , je bilo njegovo ozemlje razdeljeno med njegove štiri sinove .",O B-PER O O O O O O O O O O O O O O
+831,Za napad na Japonsko se je zdelo nujno enotno poveljstvo .,O O O B-LOC O O O O O O O
+1058,Bedaki se potem prepirajo drug z drugim .,O O O O O O O O
+1117,"Na začetku 20. stoletja je psihiater Kurt Schneider določil oblike psihotičnih simptomov , ki so po njegovem mnenju ločile shizofrenijo od drugih psihotičnih motenj .",O O O O O O B-PER I-PER O O O O O O O O O O O O O O O O O
+536,"Če v približno dveh tednih ne pride do implantacije , rumeno telesce usahne , kar povzroči izrazit padec v ravni progesterona in estrogena .",O O O O O O O O O O O O O O O O O O O O O O O O
+1428,"Ljudje bodo rekli , da smo konzervativni ali celo nazadnjaški .",O O O O O O O O O O O
+593,"Na podlagi niza dokazov , ki jih odkrijeta na truplu , Holmes in Watson najdeta Reordanov dom in odkrijeta poskuse , ki naj bi združili znanost in magijo .",O O O O O O O O O O O B-PER O B-PER O B-PER O O O O O O O O O O O O O
+863,"Leta 1990 je ameriška korporacija General motors kupila 51 - % delež proizvajalca avtomobilov SAAB Automobile , deset let pozneje pa še preostanek .",O O O O O B-ORG I-ORG O O O O O O O B-ORG I-ORG O O O O O O O O
+1996,"Imajo usta polna ostrih zob , ki so posejani tudi po jeziku .",O O O O O O O O O O O O O
+1012,"Vera je samozavedanje in samozavest človeka , ki se še ni našel ali pa se je že znova izgubil .",O O O O O O O O O O O O O O O O O O O O
+840,Največji delež financiranja je namenjen hrani in prehranjevanju .,O O O O O O O O O
+619,"Na primer , skupine , ki izvirajo iz vzhodne in južne Evrope , so se po teh merilih običajno slabše odrezale .",O O O O O O O O O O O B-LOC O O O O O O O O O O
+503,Friderik IX. je bil danski kralj med letoma 1947 in 1972 .,B-PER I-PER O O O O O O O O O O
+894,Uran je sedmi planet v Osončju .,B-LOC O O O O B-LOC O
+1350,"To je edini most čez Temzo v smeri toka od središča Londona , ki so ga odprli po Tower Bridgeu leta 1894 .",O O O O O B-LOC O O O O O B-LOC O O O O O O B-LOC I-LOC O O O
+128,"Lunina iluzija je optična prevara , ki povzroči , da se Luna zdi večja ob horizontu kot višje na nebu .",O O O O O O O O O O O B-LOC O O O O O O O O O
+1032,So zelo teritorialni in agresivni tako do svoje kot do tujih vrst .,O O O O O O O O O O O O O
+291,V času četrte republike ( 1946 – 58 ) je bila federacija zastopana v francoskem parlamentu .,O O O O O O O O O O O O O O O O O
+148,"Besedilo so spremenili tako , da ni več omenjalo Josipa Stalina .",O O O O O O O O O B-PER I-PER O
+326,Do prenosa lahko pride z uživanjem okužene vode ali s souporabo osebnih predmetov .,O O O O O O O O O O O O O O
+1922,"Nekdanji predsednik vlade in dramatik Alfred Sant je menil , da gre za Sammutovo mojstrovino , britanska pisateljica in pesnica Marjorie Boulton pa je izjavila , da gre za „ imenitno delo “ .",O O O O O B-PER I-PER O O O O O O B-PER O O O O O O B-PER I-PER O O O O O O O O O O O O
+201,"Nekateri ljudje so le prenašalci – simptomov ne razvijejo , lahko pa okužbo prenesejo na druge osebe .",O O O O O O O O O O O O O O O O O O
+1647,Priestley je obiskal Lavoisiera in mu opisal svoj poskus in kako je sprostil nov plin .,B-PER O O B-PER O O O O O O O O O O O O
+1431,"Nasprotovali ti bodo , vendar se ne boj , dana ti bo milost , da storiš to , kar je potrebno .",O O O O O O O O O O O O O O O O O O O O O O
+1241,Do prenosa hepatitisa C z matere na otroka pride v manj kot 10 % nosečnosti .,O O O O O O O O O O O O O O O O
+1225,To povzroča obarvanje .,O O O O
+1705,"Fizik z Berkeleyja , profesor J. Robert Oppenheimer , je bil leta 1942 imenovan na mesto znanstvenega vodje projekta Manhattan .",O O B-ORG O O B-PER I-PER I-PER O O O O O O O O O O O B-MISC O
+927,"Messier 110 oziroma M110 , znana tudi kot NGC 205 , je pritlikava eliptična galaksija , ki je satelit Andromedine galaksije .",B-LOC I-LOC O B-LOC O O O O B-LOC I-LOC O O O O O O O O O B-LOC I-LOC O
+150,Po navadi igra na mestu levega vezista ali levega branilca .,O O O O O O O O O O O
+1179,Butan je leta 1971 postal član Združenih narodov .,B-LOC O O O O O B-ORG I-ORG O
+232,Evropska skupnost sprejme evropsko zastavo .,B-ORG I-ORG O O O O
+669,"Temelji na dveh ključih , enem javnem in enem zasebnem .",O O O O O O O O O O O
+568,Bolezen se običajno pojavi kot izbruh v tropskih regijah podsaharske Afrike .,O O O O O O O O O O B-LOC O
+1091,"Te vrzeli so bile sčasoma zapolnjene , saj so kemiki odkrili nove elemente , ki so prisotni v naravi .",O O O O O O O O O O O O O O O O O O O O
+610,Kot prestolonaslednik Danske je dobil sedež v državnem svetu in je nato pomagal očetu pri vladnih nalogah .,O O B-LOC O O O O O O O O O O O O O O O
+1965,"CIL trenutno obsega 17 knjig v približno 70 delih , v katerih je približno 180.000 napisov .",B-MISC O O O O O O O O O O O O O O O O
+1374,"Google je izdal Google aplikacije za vašo domeno , ki je nabor aplikacij za organizacije .",B-ORG O O B-MISC I-MISC I-MISC I-MISC I-MISC O O O O O O O O
+694,Ob koncu sezone so bili uvrščeni na 4. mesto .,O O O O O O O O O O
+1103,"Nekateri vzroki so povezani s klasičnimi , toda neznačilnimi kliničnimi značilnostmi .",O O O O O O O O O O O O
+1831,Brez diskriminacije oseb ali skupin Licenca ne sme diskriminirati nobene osebe ali skupine oseb .,O O O O O B-MISC O O O O O O O O O
+1871,Skupno število vseh govorcev jezikov gbe je med 4 in 8 milijonov .,O O O O O O O O O O O O O
+46,"Znamenite poslednje besede Fransa Sammuta so bile : » Žena in jaz bi morala iti v Jeruzalem , vendar mislim , da se je načrt spremenil . «",O O O B-PER I-PER O O O O O O O O O O O B-LOC O O O O O O O O O O O
+181,S 84 km² je največje naravno jezero na Islandiji .,O O O O O O O O B-LOC O
+1898,"Isto velja za Lockheed F-35B Lightning II : čeprav je operativno STOVL , ima v preizkusnih letih tudi možnost VTOL .",O O O B-MISC I-MISC I-MISC I-MISC O O O O B-MISC O O O O O O O B-MISC O
+1560,"Videti je , da je preostanek življenja preživel razmeroma mirno .",O O O O O O O O O O O
+119,"Film vsebuje izvlečke govorov , ki so jih imeli na kongresu različni nacistični voditelji , vključno z Adolfom Hitlerjem .",O O O O O O O O O O O O O O O O O B-PER I-PER O
+1592,V 19. stoletju so se pogledi na debelost v zahodnem svetu spremenili .,O O O O O O O O O O O O O
+1793,"Da bi Nemčija Osmanskemu cesarstvu preprečila pridružitev antanti , je spodbudila Romunijo in Bolgarijo , da se pridružita centralnim silam .",O O B-LOC I-LOC I-LOC O O O O O O B-LOC O B-LOC O O O O O O O
+1525,"Obstajajo tudi kristjani , ki podobno občutijo .",O O O O O O O O
+1259,"Nemška jugozahodna Afrika je bila edina nemška kolonija , v kateri se je naselilo veliko Nemcev .",B-LOC I-LOC I-LOC O O O O O O O O O O O O B-PER O
+1253,"Drugi ukrepi vključujejo izboljšan dostop do sanitarij , recimo uporaba funkcionalnih in čistih stranišč ter dostop do čiste vode .",O O O O O O O O O O O O O O O O O O O O
+354,"Druga ključna osebnost je bil škof Serafim , s pravim imenom Štefan Ustvolski .",O O O O O O B-PER O O O O B-PER I-PER O
+1577,V razvitem svetu so te okužbe najpogostejše pri povratnikih s potovanj ali med priseljenci .,O O O O O O O O O O O O O O O
+779,"Njegovo perje pozimi postane povsem belo , razen črnega repa .",O O O O O O O O O O O
+725,"Do zdaj najstarejši poznan dokument , ki vključuje ime Flambertenges , je delo iz leta 1066 .",O O O O O O O O O B-LOC O O O O O O O
+1578,"Izbira antibiotika je sprva odvisna od značilnosti prizadete osebe , kot so starost , zdravstveno ozadje in kraj , kjer so se okužili .",O O O O O O O O O O O O O O O O O O O O O O O O
+553,Pod ministrskim predsednikom Louisom Botho je leta 1910 postal ustanovna članica Južnoafriške unije .,O O O B-PER I-PER O O O O O O B-LOC I-LOC O
+2009,"Leta 1805 sta Joseph Louis Gay - Lussac in Alexander von Humboldt dokazala , da je voda sestavljena iz dveh delov vodika in enega dela kisika .",O O O B-PER I-PER I-PER I-PER I-PER O B-PER I-PER I-PER O O O O O O O O O O O O O O O
+1984,Sredi desetega stoletja je benediktinske nune nadomestil kolegijski kapitelj moških kanonikov .,O O O O O O O O O O O O
+1826,"8 – 10 dni pozneje se virus razširi v druga tkiva , med drugim v komarjeve slinavke , od koder se začne sproščati v komarjevo slino .",O O O O O O O O O O O O O O O O O O O O O O O O O O O
+342,Ta strah ni neutemeljen .,O O O O O
+282,Izumrtje je izginotje celotne vrste .,O O O O O O
+1784,Zakonik je vseboval burgundsko običajno pravo in je značilen germanski zakonik iz tistega obdobja .,O O O O O O O O O O O O O O O
+1932,"Istega leta je prvič obiskal Pariz , kjer je srečal Pabla Picassa , ki ga je mlad Dalí občudoval .",O O O O O B-LOC O O O O B-PER I-PER O O O O O B-PER O O
+796,"Cepljenje varuje pred določenimi pljučnicami bakterijskega in virusnega izvora , tako pri otrocih kot pri odraslih .",O O O O O O O O O O O O O O O O O
+1449,Frey je v 80-ih letih dosegel solo uspeh .,B-PER O O O O O O O O
+629,"Ko se je vrnil iz potovanja v Nico , je kralj Friderik naredil kratek postanek v Hamburgu in prespal v hotelu Hamburger Hof .",O O O O O O O B-LOC O O O B-PER O O O O B-LOC O O O B-ORG I-ORG I-ORG O
+833,V svoji zgodnji zgodovini je bila Amerika skupek britanskih kolonij na vzhodni obali današnjih Združenih držav Amerike .,O O O O O O B-LOC O O O O O O O B-LOC I-LOC I-LOC O
+294,"Grško ime Hersónes pomeni » polotok « in dobro opiše prostor , na katerem je bila zgrajena kolonija .",O O B-PER O O O O O O O O O O O O O O O O
+1487,"Zdravniki lahko tudi spodbudijo bolnike , da svoje partnerje prepričajo , naj kontaktirajo zdravnika .",O O O O O O O O O O O O O O O
+1149,Vse dokumente si lahko prenesete iz spletnega mesta knjižnice .,O O O O O O O O O O
+884,"Ta biogeokemijski krog opisuje gibanje kisika med tremi največjimi rezervoarji kisika na Zemlji – atmosfero , biosfero in litosfero – in znotraj njih .",O O O O O O O O O O O O B-LOC O O O O O O O O O O O
+531,Euler se je naučil rusko in se ustalil v življenje v Sankt Peterburgu .,B-PER O O O O O O O O O O B-LOC I-LOC O
+810,"Naum je na obali Ohridskega jezera ustanovil samostan , ki so ga pozneje poimenovali po njem .",B-PER O O O B-LOC I-LOC O O O O O O O O O O O
+1943,"Tudi enostavni enocelični organizmi posedujejo osnovna orodja v obliki encimov , ki služijo kot zaščita pred okužbo z bakteriofagi .",O O O O O O O O O O O O O O O O O O O O
+1187,Prepričajte se sami : v Sovjetski zvezi si vsi želijo miru in prijateljstva med narodi .,O O O O O B-LOC I-LOC O O O O O O O O O
+1603,"Več kot 230.000 nemških in italijanskih vojakov je postalo vojnih ujetnikov , med njimi večina afriškega korpusa .",O O O O O O O O O O O O O O O O O O
+1622,Od svojega premiernega predvajanja naprej je MTV močno spreminjal glasbeno industrijo .,O O O O O O B-ORG O O O O O
+372,V prvem stadiju bolezen zdravimo s pentamidinom ali suraminom .,O O O O O O O O O O
+673,Poleg tega so njegovi zobje podobni zobem zgodnjih kitov .,O O O O O O O O O O
+1562,Prvi del ( odstavki 2 – 14 ) opisuje Avgustovo politično kariero in našteva njegove položaje in častne politične naslove .,O O O O O O O O O B-PER O O O O O O O O O O O
+237,"Prvenstvo osvoji tisti dirkač ali konstruktor , ki ima na koncu sezone največje število točk .",O O O O O O O O O O O O O O O O
+382,Zelena je simbol islama .,O O O O O
+1785,"Če bi prišlo do inflacije , bi bila velika območja vesolja zaradi eksponentne širitve potisnjena onkraj našega vidnega obzorja .",O O O O O O O O O O O O O O O O O O O O
+965,"Leta 1733 je odšel v Madrid kot glasbeni mojster princese Marije Barbare , ki se je poročila v špansko kraljevo družino .",O O O O O B-LOC O O O O B-PER I-PER O O O O O O O O O O
+174,Kot člana komunistične partije so ga izbrali v državno dumo .,O O O O O O O O O O O
+756,"Epoksidi so etri , v katerih je kisik vključen v obroč s tremi atomi .",O O O O O O O O O O O O O O O
+1804,"Datum bitke , 15. junij , se na Danskem še vedno obeležuje kot Valdemarsdag ( državni » dan zastave « ) .",O O O O O O O O B-LOC O O O O B-MISC O O O O O O O O
+227,Lahko vsebuje eno samo komponento ali pa gre za zmes komponent .,O O O O O O O O O O O O
+522,"Bil je prepričan , da je Zemlja okrogla .",O O O O O O B-LOC O O
+1375,"Poleg tega je Evropska komisija uporabila svojo rezervo za nujno pomoč , da bi se odzvala na krize in nepričakovane katastrofe .",O O O B-ORG I-ORG O O O O O O O O O O O O O O O O O
+1524,Ta kombinacija evropskih in severnoafriških tehnologij za gradnjo ladij je prvič omogočila obsežno trgovino in potovanje čez Atlantik .,O O O O O O O O O O O O O O O O O B-LOC O
+1673,Windows NT 3.1 je izšel v dveh različicah : Windows NT 3.1 za delovne postaje in Windows NT Advanced Server za serverje .,B-MISC I-MISC I-MISC O O O O O O B-MISC I-MISC I-MISC O O O O B-MISC I-MISC I-MISC I-MISC O O O
+1630,"Japonske vojne ladje so nato opazile , obstrelile in poškodovale ladjo Južna Dakota .",O O O O O O O O O O O B-MISC I-MISC O
+651,Sir William Herschel je odkril planet Uran .,O B-PER I-PER O O O B-LOC O
+1348,Atena je bila boginja modrosti in bojevnikov ter zaščitnica Aten .,B-PER O O O O O O O O B-LOC O
+69,Stopnja financiranja ESS se med regijami razlikuje in je odvisna od njihovega relativnega bogastva .,O O B-ORG O O O O O O O O O O O O
+465,"Za trenutno obdobje financiranja ESS so ti cilji naslednji : cilj regionalne konkurenčnosti in zaposlovanja : povečati regionalno konkurenčnost , zaposlovanje in privlačnost za naložbe .",O O O O B-ORG O O O O O O O O O O O O O O O O O O O O O
+49,Po preteku 8 do 12 tednov okužena oseba preide v kronično fazo bolezni in v 60 – 70 % nikoli ne razvije novih simptomov .,O O O O O O O O O O O O O O O O O O O O O O O O O
+846,Simple mail transfer protocol ( SMTP ) je internetni standard za prenos elektronske pošte .,B-MISC I-MISC I-MISC I-MISC O B-MISC O O O O O O O O O
+919,Poleti so pogosti suh veter in nevihte .,O O O O O O O O
+879,Beseda » Indija « izhaja iz imena reke Ind .,O O B-LOC O O O O O B-LOC O

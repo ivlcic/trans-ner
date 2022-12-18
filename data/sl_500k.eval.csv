@@ -1,0 +1,949 @@
+index,sentence,ner
+4445,"Končana je bila obnova fresk v ladji , na ostenju gotskega okna , delno pa so tudi restavrirali stranski baročni oltar sv. Marka v cerkvi na Bregu pri Žirovnici .",O O O O O O O O O O O O O O O O O O O O O O B-PER O O O B-LOC O B-LOC O
+7369,"Mnogi si miren nočni spanec omogočijo s kemijo : leta 1998 je bilo v Avstriji izdanih 1,3 milijona receptov za uspavalne in pomirjevalne tablete .",O O O O O O O O O O O O O O B-LOC O O O O O O O O O O
+2795,"Zdaj ni več daleč , senor . """,O O O O O O O O
+8816,"Jasno , da ne samo na nemških tleh .",O O O O O O O O O
+3091,Ljudi je družil komunizem .,O O O O O
+3523,"Da bomo lahko ne samo govorili o pravni državi , pa tudi da bomo imeli urejen pravni red , je seveda treba čimprej oblikovati in sprejeti , in tu Vlada že deluje v tej smeri , vse tiste zakone , ki pomenijo oblikovanje sodobnih učinkovitih , državnih in drugih organov .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-ORG O O O O O O O O O O O O O O O O O O O O O
+5124,Pri tem imajo študentje podporo pri mnogih kosovskih ustanovah .,O O O O O O O O O O
+5263,( on ),O O O
+5829,Slovenci tiskamo kar 656 časopisov najrazličnejših oblik in vsebin .,B-PER O O O O O O O O O
+7895,"Zgovornejši je bil J. L. z ministrstva za notranje zadeve , ki je vodil akcijo proti ponarejevalcem , ki so v odkup - za četrtino vrednosti - ponujali tisoč ponarejenih bankovcev po sto dolarjev .",O O O B-PER I-PER O B-ORG I-ORG I-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O O O O O
+8138,"V hiši , v kateri so stanovali , so imeli skupna stranišča .",O O O O O O O O O O O O O
+1473,"V njem je bilo med drugim zapisano : "" Po Rimu se vlačuge sprehajajo kot poročene ženske ali jezdijo na mulah , iz srca mesta pa jim sledijo plemenitaši in kleriki iz hiše kardinalov .",O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O
+682,"Pritisk na mlade je dandanes velik : najprej jih obremenjuje že njihov lastni razvoj , nato vse hujše zahteve šole , preobilica učne snovi , zahtevni urniki , vse ostrejši boj za čim boljše ocene in uvrstitev v razredu ter včasih tudi pretirana pričakovanja staršev .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+3110,"Tako smo se po zaslugi njenega prepričevanja proti grozeči zanemarjenosti oborožili še z drugim sesalcem , če bi se zgodilo , da bi morali naš 1100 - vatni sesalec nekega dne dati v popravilo .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+565,Repna plavut je globoko razcepljena .,O O O O O O
+2522,"Kot odrasli so prvorojenci pogosto izredno ustvarjalni , angažirani , ambiciozni , polni zagona , včasih so nagnjeni k perfekcionizmu .",O O O O O O O O O O O O O O O O O O O O O
+3192,""" Saj to mislim , "" sem rekel .",O O O O O O O O O
+3207,"Ampak potiskali so kljub vsemu samo simbolično , tako da so graničarji vrata zmeraj bolj zapirali , čeprav - in tu vam bom zaupal še eno skrbno varovano nemško skrivnost tiste noči - , čeprav vrat sploh niso hoteli več zapreti .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+4683,Z njegove leve je dvakrat počilo in policist je padel po tleh .,O O O O O O O O O O O O O
+5321,"Smešno vprašanje , boste rekli , saj samo odpro usta in že so polne vode .",O O O O O O O O O O O O O O O O
+1702,"* Če nosite kontaktne leče , jih posebno skrbno čistite in shranjujte .",O O O O O O O O O O O O O
+3476,"Marsikateri seksualno sprevrženi Kozorog se poslužuje hujših oblik sadizma , kot so denimo igrice » ujetništva « .",O O O O O O O O O O O O O O O O O O
+2097,Ne .,O O
+3228,"Toda na koncu bi lahko rekli , da so točko izgubili domači hokejisti .",O O O O O O O O O O O O O O
+3753,"Si kakor senca , ki nad vsem Krasom stoji nerazodeta bolest .",O O O O O O O B-LOC O O O O
+3693,"Na esej pri poklicni maturi se pripravljajo vsa šolska leta , intenzivneje proti koncu šolanja .",O O O O O O O O O O O O O O O O
+6592,"Nikoli se ne zaganjajte , kot da bi hiteli na sestanek .",O O O O O O O O O O O O
+7436,"Dasi današnjemu človeku iz grško - rimske literature silijo v misel predvsem razne ljubko spotikljive prigode teh bogov , se moramo zavedati , da so bili za večino svojih častilcev vendarle poosebljenja naravnih sil .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1652,"Slovenski tenis je imel v finalu še enega predstavnika , in sicer v kategoriji fantov do 16 let .",O O O O O O O O O O O O O O O O O O O
+9359,"Otroci se naučijo iskati zadovoljstvo oziroma veselje tudi v socialno zaželenih dejavnostih , ki primarno niso prijetne .",O O O O O O O O O O O O O O O O O O
+8839,"Taki so bili vsi ; nove velesile in stare , prave velesile in pritlikavke , Nemčija in Rusija , Italija , Srbija , Črna gora .",O O O O O O O O O O O O O O O B-LOC O B-LOC O B-LOC O B-LOC O B-LOC I-LOC O
+4788,Navzočih je več sto otrok .,O O O O O O
+7943,"Hvala , gospod Mežan .",O O O B-PER O
+8294,"Sprašujem se , zakaj je predsednik vlade Drnovšek tako priljubljen , saj pravzaprav ne počne nič .",O O O O O O O B-PER O O O O O O O O O
+8856,"Sindikati in velepodjetniki so morali hočeš nočeš vladati skupaj , kakor že leta 1923 , za časa prvega Stresemannovega kanclerstva in zadnjikrat za časa Stresemannovega zunanjega ministrstva .",O O O O O O O O O O O O O O O O O O B-PER O O O O O B-PER O O O
+3784,Avtomobili niso imeli registrskih tablic .,O O O O O O
+6083,"Radijske in tv aparature lahko napajamo iz vrste alternativnih električnih virov , ki nimajo z Elektro podjetjem nobene zveze , torej RTVS za njih ne ve in se naročnina ne plačuje .",O O O O O O O O O O O O O O O O O O O O O B-ORG O O O O O O O O O O
+2723,"Nebo so zastirali oblaki , a je bilo kljub temu mogoče za njimi zaslutiti skoraj polno luno .",O O O O O O O O O O O O O O O O O O
+3316,"Že zdaj apeliramo na navijače , da naj ne porušijo tistega , kar smo preteklo sezono gradili . """,O O O O O O O O O O O O O O O O O O O
+4785,"Slišal sem , da se je s podjetništvom začel ukvarjati že kot študent .",O O O O O O O O O O O O O O
+7301,Samica pripravi na samčevem teritoriju gnezdo in vanj odloži ikre .,O O O O O O O O O O O
+5709,"Mineva leto dni , odkar me je pot vodila v Spodnji Gasteraj k družini Bohak , Jožici , Zarji in Ernestu .",O O O O O O O O O O B-LOC I-LOC O O B-PER O B-PER O B-PER O B-PER O
+3032,"Z rokami na kozarcih in zdrobljen na koščke je videl , da si je spisal vlogo nekakšnega odrešitelja , nekakšnega zmagovalca , vlogo zablodelega viteza , don Kihota , ki je zgrešil čas in vrata in na svojem vrancu prijezdil v sobo .",O O O O O O O O O O O O O O O O O O O O O O O O O O B-PER I-PER O O O O O O O O O O O O O O O
+6952,Imenujemo ga odprto sporočilo ( plaintext ) .,O O O O O O O O
+3281,"Tudi Guti bi se raje kot k večnim tekmecem preselil na Apeninski polotok : "" Rad spoznavam nove kraje .",O B-PER O O O O O O O O O B-LOC I-LOC O O O O O O O
+8143,"Pozneje so ugotovili , da je bilo to zgolj psihološko .",O O O O O O O O O O O
+6643,"Minister Bavčar mi je obljubil pomoč pri transportu skozi Slovenijo , pozneje smo začeli kupovati orožje iz skladišč MNZ RS .",O B-PER O O O O O O O B-LOC O O O O O O O O B-ORG I-ORG O
+3463,"To ji ponavadi ni pretežko , saj stremi k ravnovesju .",O O O O O O O O O O O
+2977,Kot prva je v svojem programu izvajala tudi aksel .,O O O O O O O O O O
+718,"In kako bi bog lahko bolje dokazal svojo vsevednost kot tako , da je vedel za Kajnovo skrito željo , da bi imel mir pred njim , bogom , namreč , ne pa z njim .",O O O O O O O O O O O O O O O O B-PER O O O O O O O O O O O O O O O O O O O
+1597,"Letošnje letno poročilo evropske komisije navaja velik napredek pri postopkih za ustanavljanje podjetij , boljši dostop podjetij do elektronskega poslovanja , uvajanje različnih oblik podjetniškega izobraževanja na visokih in srednjih šolah , na drugi strani pa tudi opozarja na zanemarjanje vprašanja učinkovitega zastopanja interesov malih podjetij na nacionalni in evropski ravni .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+3041,Morate se zbrati .,O O O O
+2713,Kakih deset mož se je z vsemi močmi trudilo napeti ogromne samostrele .,O O O O O O O O O O O O O
+7982,"Čeprav živijo muslimani predvsem na nigerijskem severu , kristjani pa jugu , država nima več versko nemešanih območij , kot jih je imela nekoč , kar je posledica preseljevanja ljudi v zadnjih desetletjih .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+6805,"Ali bi zvezi NATO dovolili , da parkira letalonosilko Saratoga v koprskem pristanišču ?",O O O B-ORG O O O O O B-MISC O O O O
+667,"Imenujejo ga najboljši prijatelj jeter , saj vsebuje flavonoide , protioksidante in grenčico , ki pospešujejo čiščenje organizma .",O O O O O O O O O O O O O O O O O O O
+1796,Vendar Teodora ni imela potrpljenja .,O B-PER O O O O
+683,Zaključnega srečanja sta se udeležila tudi dr. Dušan Plut in predsednik RS Milan Kučan .,O O O O O O O B-PER I-PER O O B-ORG B-PER I-PER O
+3998,"38. člen zakona o vojaški dolžnosti omogoča tudi civilno služenje vojaškega roka , kar pa ni nič drugega , kot prisilno delo , saj mora delo posameznik opravljati proti svoji volji in brez ustreznega finančnega nadomestila .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+743,Morda nas bo še razveseljeval s sončnimi dnevi .,O O O O O O O O O
+4295,"Ponarejen srnin hrbet : Potrebujemo 1 kg zmlete govedine in svinjine , 15 dag starega kruha , žlico sesekljane čebule , žličko peteršilja , 2 strta stroka česna , 5 dag na kocke narezane slanine , 1 jajce , malo drobtin , moke in maščobe , 1 dl kisle smetane , sol in po želji nekaj strtih brinovih jagod ter ščepec šetraja .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+984,"Že leta 1831 mu je uspel preboj z romanom Šagrinova koža , zatem pa se je lotil velikega projekta s skupnim naslovom Človeška komedija , ki ga zaradi prezgodnje smrti ni uresničil v celoti , a dolgovi niso nič manj pogoltno pritiskali nanj .",O O O O O O O O O B-MISC I-MISC O O O O O O O O O O O B-MISC I-MISC O O O O O O O O O O O O O O O O O O O O
+2694,"Mateja Kocjan pa je povedala , da inšpekcija , predvsem v poletnih mesecih , prejme tudi po več kot eno prijavo dnevno .",B-PER I-PER O O O O O O O O O O O O O O O O O O O O O
+8459,Ceste od Anhovega do Ljubljane bodo dnevno razbremenjene za 80 težkih tovornjakov,O O B-LOC O B-LOC O O O O O O O
+5878,"Vedeli so , da si morajo poiskati novo skrivališče .",O O O O O O O O O O
+3379,"Organizatorji so prepričani , da bo plesna kultura , ki je že osvojila južni del Slovenije , pritegnila na podobne prireditve tudi ostale Slovence .",O O O O O O O O O O O O O O O B-LOC O O O O O O O B-PER O
+5506,Tel. : 031 / 480 682 . - 8651,O O O O O O O O O
+600,Visoka je približno 1 / 5 oziroma 1 / 6 telesne dolžine .,O O O O O O O O O O O O O
+7152,"• Unicum : poletna , K , glavnata solata z nekoliko izdolženo glavo , list je zelen z rjavimi pegami .",O O O O O O O O O O O O O O O O O O O O O
+5723,"Kot so zapisali v svojem uvodu , v Prlekiji ni ne piramid ne morja ne Triglava , je pa dediščina , ki so jo mladim zapustili njihovi pradedje in se ohranja že 130 let : to so kasaške dirke .",O O O O O O O O B-LOC O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O
+4547,"Ugotovila sta , da bo še najbolj na varnem pri starših .",O O O O O O O O O O O O
+6241,"Dela naj bi končali predvidoma do konca letošnjega novembra , mladinsko prenočišče bo tako predvidoma nared za odprtje na pomlad prihodnje leto .",O O O O O O O O O O O O O O O O O O O O O O O
+8446,"Cilju , da bi poslance volili po dvokrožnem večinskem sistemu , se niso odrekli - s političnimi zavezniki nameravajo po volitvah v parlamentu ustavno volilno ureditev spremeniti .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+5639,"Povprašal sem nekaj kolegov , ki tudi niso vedeli natančnega odgovora na vaše vprašanje .",O O O O O O O O O O O O O O O
+383,Na srečo za nami ni nikogar več .,O O O O O O O O
+7347,"Namesto da bi to političarko upošteval kot nevarnega nasprotnika in njene zahteve označil za neavstralske , je molčal in jo opogumil , saj je spregovorila o marsičem , kar je tudi njemu prihajalo na misel , vendar si ni upal z besedo pred avstralsko javnost .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+8885,"Pod gospostvo nemškega rajha je skupaj s "" sudetskimi Nemci "" prišlo takrat tudi skoraj milijon Čehov .",O O O O O O O O O B-PER O O O O O O B-PER O
+1904,"Tako lahko v nekem organizmu kombinirajo na primer ribje , mišje , človeške in žuželčje gene .",O O O O O O O O O O O O O O O O O
+9184,Julia : Odlično sem .,B-PER O O O O
+5818,"Potem je nekdo planil na sejo in povedal , da je v Trade Centru prišlo do eksplozije .",O O O O O O O O O O O O B-MISC I-MISC O O O O
+8190,"Zbirka je časovno omejena od 60. do 80. let , ko se je svet in z njim tudi svet umetnosti spet popolnoma spremenil .",O O O O O O O O O O O O O O O O O O O O O O O O
+188,Dandanašnji & % # svet !,O O O O O O
+7131,"Predlog za spremembo zakonodaje pa gre tudi pri nas v smer , da organiziranemu kriminalu ob denarni kazni odvzamemo tudi premoženjsko korist .",O O O O O O O O O O O O O O O O O O O O O O O
+662,Na prireditvi so slovesno razglasili prekmursko vinsko kraljico Simono Vida iz Čentibe pri Lendavi .,O O O O O O O O B-PER I-PER O B-LOC O B-LOC O
+3573,Hvala lepa .,O O O
+512,Roke so iztegnjene tudi v položaju za glavo .,O O O O O O O O O
+5099,"Osmina finala evrolige se izmika tudi Simonu Petrovu , medtem ko je Boštjan Nachbar z Benettonom zmagal še četrtič zapored .",O O O O O O B-PER I-PER O O O O B-PER I-PER O B-ORG O O O O O
+416,"Oče je bil še zelo mlad , oblečen v pulover in suknjič iz tvida .",O O O O O O O O O O O O O O O
+2258,"Shakespearov opus je sicer ( zaradi preglednosti ) porazdeljen na posamezna obdobja in zvrsti , vendar je kljub razlikam med posameznimi deli med seboj povezan z mnogimi temeljnimi vprašanji o človeku in njegovem statusu na planetu Zemlja .",B-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O
+1393,"Bili ste vodja ekipe na igrišču , odigrali zelo hladnokrvno in presenetili .",O O O O O O O O O O O O O
+5320,"Ob posebnih priložnostih so sodelovali Mitrovi » vojaki « v sakramentu kruha in vina , ko so žrtvovali svetega bika .",O O O O O B-PER O O O O O O O O O O O O O O O
+8229,"Imela je štiri sestre , ki so vse postale svetnice .",O O O O O O O O O O O
+8373,Zaradi samovžiga je do tal pogorelo gospodarsko poslopje .,O O O O O O O O O
+6382,"Med drugim je postal nekakšen idejni program nacistične stranke , evangelij in sveto pismo za pripadnike nacionalsocialistične stranke Nemčije tretjega rajha .",O O O O O O O O O O O O O O O O B-ORG I-ORG I-ORG O O O
+6716,"Pri IBM so morda hoteli z imenom svojega novega operacijskega sistema povedati , da bodo njegove sposobnosti videti čarobne .",O B-ORG O O O O O O O O O O O O O O O O O O
+2027,"BREŽICE - V galeriji brežiške podružnice Dolenjske banke bodo jutri odprli razstavo ob 100. obletnici Franja Stiplovška , slikarja , grafika in profesorja .",B-LOC O O O O O B-ORG I-ORG O O O O O O O B-PER I-PER O O O O O O O
+4772,"In ne nazadnje , kakšna svoboda za manjšino bi bila , če bi se morali izogibati popisu ?",O O O O O O O O O O O O O O O O O O
+350,Očitno pa se nama je vrstni red raztežajev po tolikih letih nekoliko zmedel .,O O O O O O O O O O O O O O
+9475,"Dvodnevni festival se pričenja danes dopoldne , potekal pa bo pod geslom Starejši spreminjamo sebe in svet za vse generacije .",O O O O O O O O O O O O O O O O O O O O O
+9211,"Posvetoval se je z madame de La Motte , ki ni bila samo njegova zaupnica , temveč ji je uspelo pridobiti tudi prijateljstvo Marije Antoinette .",O O O O O B-PER I-PER I-PER O O O O O O O O O O O O O O O B-PER I-PER O
+4097,"PRITOŽBA ZADRŽI IZVRŠITEV ODLOČITVE O PRAVICI OZIROMA OBVEZNOSTI IZ DELOVNEGA RAZMERJA JAVNEGA USLUŽBENCA , ČE ZAKON NE DOLOČA DRUGAČE .",O O O O O O O O O O O O O O O O O O O O
+8514,Po večletni državljanski vojni je zagotovil mir in blaginjo ter okrepil vpliv in prestiž Rima .,O O O O O O O O O O O O O O B-LOC O
+6778,"S poskusom FDG PET ( slika 3 , desno ) lahko na podlagi intenzivnosti porabe glukoze merimo možgansko aktivnost .",O O O O O O O O O O O O O O O O O O O O
+6735,"Vsekakor morajo pravi standardi šele nastati , pa tudi močnejše ustanove , ki bodo skrbele za njihov razvoj .",O O O O O O O O O O O O O O O O O O O
+6934,"Visioneer je prav na Comdexu predstavil nov model z oznako PaperPort VX , ki premore predvsem novo različico ( 3.0 ) programske opreme .",B-ORG O O O B-MISC O O O O O B-MISC I-MISC O O O O O O O O O O O O
+7581,"Temne lase na špice , nos ma ko smučarska proga .",O O O O O O O O O O O
+4151,"Monarhija je v zadnjem letu nekoliko spremenila svoj slog , "" žal pa ni pokazala , da je pripravljena na bolj temeljne spremembe "" .",O O O O O O O O O O O O O O O O O O O O O O O O O
+1349,"Prav je , da so za tak dogodek zaprli cesto , saj če jo za vsako kolesarsko dirko , jo lahko tudi za četvorko , je bila zadovoljna Andreja Babnik .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PER I-PER O
+9282,"Zdi se mi , da v Sloveniji ne znamo pravilno uporabiti vseh pretokov informacij , ki prihajajo iz zmogljivih omrežij .",O O O O O O B-LOC O O O O O O O O O O O O O O
+1367,"Malih sej so se udeležili samo predstavniki petih velesil , splošne so bile namenjene vsem sodelujočim državam .",O O O O O O O O O O O O O O O O O O
+3945,"Skrajni čas je , da članice EU spet začnejo bolj poslušati druga drugo in hkrati bolj misliti na Evropo .",O O O O O O B-ORG O O O O O O O O O O O B-LOC O
+7398,"Vaš vnuk je bil še pred kratkim nebogljen dojenček , potem pa je kar čez noč shodil in se čez nekaj časa začel z vami "" pogovarjati "" z razpoznavnimi besedami in znamenji .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+9276,"S to prispodobo sta kočevski župan Janko Veber in Matjaž Vehovec , predsednik uprave Ljubljanskih mlekarn , včeraj v Kočevju odprla obnovljeno in povečano sirarno , ki je en od treh največjih letošnjih naložb te družbe .",O O O O O O B-PER I-PER O B-PER I-PER O O O B-ORG I-ORG O O O B-LOC O O O O O O O O O O O O O O O O O
+8781,Na čem se je spotaknil ?,O O O O O O
+7239,"Deklici je ponudil granatno jabolko in jo prepričal , da je jedla od njega .",O O O O O O O O O O O O O O O
+4693,Nobenega kritja .,O O O
+2106,"Evropsko in s tem tudi slovensko pustovanje je bolj prireditev oziroma atrakcija ali predstavitev mitoloških figur , kot so kurenti , laufarji in podobni .",O O O O O O O O O O O O O O O O O O O O O O O O O
+93,"V deželni vladi so uredili Urad za narodnostne manjšine in jim dali vedeti , da so za njih pomembne in da spoštujejo ter podpirajo njihova hotenja , njihovo identiteto v kulturnem in jezikovnem smislu .",O O O O O B-ORG I-ORG I-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O
+6381,"Mein Kampf je knjiga Adolfa Hitlerja , katere prvi del je izšel leta 1925 , drugi pa leta 1927 .",B-MISC I-MISC O O B-PER I-PER O O O O O O O O O O O O O O
+282,"Celje se je v zadnjih letih zelo razvilo , to vidi vsak , ki se pelje skozi mesto .",B-LOC O O O O O O O O O O O O O O O O O O
+4241,"Kot intonacija celote , nemara spomin na nekdanji ' dan ljubezni ' s svetom .",O O O O O O O O O O O O O O O
+5900,"Povedal mi je , da je “ neki njegov prijatelj ” na slovenskem notranjem ministrstvu začel prodajati slovenske dokumente po 5000 mark .",O O O O O O O O O O O O O O O O O O O O O O O
+8347,"Potem ko sta v polfinalu s 6:2 , 6:0 premagala belgijski par Braband , Tinck , sta bila v finalu s 6:3 , 5:7 , 7:6 boljša od avstrijske dvojice Marach , Neumueller .",O O O O O O O O O O O O B-PER O B-PER O O O O O O O O O O O O O O O B-PER O B-PER O
+3568,"Zagotavljam , da z enkratno objavo dobi ne desetkrat ampak stokrat povrnjenih tistih 50.000 tolarjev , ki bi jih sicer plačal za kazen .",O O O O O O O O O O O O O O O O O O O O O O O O
+2677,Poleg diete in zdravega načina življenja k zniževanju vrednosti zlasti slabega holesterola zelo pripomorejo tudi zdravila satini .,O O O O O O O O O O O O O O O O O O
+7612,"Kot pevca okteta , ki nosi ime Lesna , ga seveda skrbi usoda Lesne , potem ko je podjetje prevzel Andrej Kokalj .",O O O O O O O B-ORG O O O O O B-ORG O O O O O O B-PER I-PER O
+5742,"Ta seveda posega v zasebnost in le lokalno dosegljivost podatkov , vendar v nadzorovanem okolju to verjetno ni težava .",O O O O O O O O O O O O O O O O O O O O
+8590,Voda jima je ponekod segala do vratu .,O O O O O O O O
+3111,"Nepozabno , s kako militantnostjo je zalezovala mikrobe !",O O O O O O O O O
+8934,"S šestimi plesalkami Tina Janežič , Leja Jurišić , Jana Menger , Valerie Oberleithner , Sinja Ožbolt , Katarina Stegnar ki so hkrati tudi soustvarjalke projekta , se je lotil plesnega razmisleka o današnji ženski umeščenosti , o njenih konstruiranih podobah , vsiljenih idealih , kultu telesa in še čem .",O O O B-PER I-PER O B-PER I-PER O B-PER I-PER O B-PER I-PER O B-PER I-PER O B-PER I-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+5356,"Kot so na hitro našteli stanovalci , biva v ulici , ali bolje na območju , ki pogreša omenjeni pločnik in razsvetljavo , več kot 30 ljudi .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+3068,"Na vročem mešamo , da se osušijo .",O O O O O O O O
+4426,Glede tega je ustanovna listina jasna in bi bilo v primeru napada na Irak sklicevanje na samoobrambo zloraba te pravice .,O O O O O O O O O O O O O B-LOC O O O O O O O
+2629,Po različnih virih so v Guantanamu doslej zabeležili že okoli 30 poskusov samomorov .,O O O O O B-LOC O O O O O O O O
+3736,"V Rim , Pariz ali v London .",O B-LOC O B-LOC O O B-LOC O
+2200,"Deskanje na snegu je resnično posebna športna zvrst , tesno povezana z divjimi zabavami in sproščenim vzdušjem .",O O O O O O O O O O O O O O O O O O
+4377,"Glede na potreben vložek pa je naložba predraga , so ocenili v Darsu in prometnem ministrstvu .",O O O O O O O O O O O O B-ORG O O O O
+709,"Uredba o svetlobnem onesnaževanju je zdaj v strokovni obravnavi , je pojasnila Manca Šetina Miklič iz službe za odnose z javnostjo pri ministrstvu .",O O O O O O O O O O O O B-PER I-PER I-PER O O O O O O O O O
+6602,"Če je vreme ugodno , se okrog 20. aprila že pojavi kakšen roj .",O O O O O O O O O O O O O O
+853,"Ja , vojna je iz njih naredila pošasti .",O O O O O O O O O
+609,"Hrbtna in repna plavut sta temne srebrnkaste do rumenkaste barve , prsne in trebušni plavuti pa temno rumeno pegaste .",O O O O O O O O O O O O O O O O O O O O
+6600,"Ko v družini ne bo več zalege , konec novembra v začetku decembra , izkoristimo prvi sončen dan za tretiranje varoje z zameglevanjem .",O O O O O O O O O O O O O O O O O O O O O O O O
+3415,"Seznanitev s pravili v zvezi s sprejemanjem daril naj bi stranke odvrnila od poskusov nedovoljenega » obdarovanja « javnih uslužbencev , hkrati pa krepila zaupanje strank v delo uprave .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+4231,L. R.,O O
+5169,To mu je v nadaljevanju v podporo pri izboljševanju kakovosti njegovega dela .,O O O O O O O O O O O O O
+9369,"V Mariboru smo že znani po tem , da začnemo tarnati in razpravljati po tem , ko je že zdavnaj prepozno .",O B-LOC O O O O O O O O O O O O O O O O O O O O
+4085,"ZJU DOLOČA ŠTIRI OCENE , IN SICER : DA DELO OPRAVLJA ODLIČNO , DELO OPRAVLJA DOBRO , DELO OPRAVLJA ZADOVOLJIVO IN DELO OPRAVLJA NEZADOVOLJIVO ( 113. ČLEN ) .",B-MISC O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+6650,Policijska zgodba o intervenciji in pridržanju je seveda nasprotna .,O O O O O O O O O O
+5132,Zato tudi ne manjka odzivov nanjo .,O O O O O O O
+5867,"Vendar smo jim kar nekajkrat dokazali , da podzemne združbe , ki jih redno spremljamo preko njihovih spletnih strani , pripravljajo napade , ki smo jih pogosto pravilno napovedali .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+8182,"Nastop Ere Koroška je dobrodošel ne le zaradi tega , ker je ohranil del domačih trgovin in tudi nekaj delovnih mest , temveč je pomagal vzpostaviti konkurenco med čedalje številčnejšimi koroškimi trgovci .",O B-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+4536,» V Piranu je bil rojen eden največjih violinistov in skladateljev Giuseppe Tartini . . .,O O B-LOC O O O O O O O O B-PER I-PER O O O
+254,"V povprečju za odstotek višje cene v skupini prevozov so posledica višjih cen storitev , povezanih z vzdrževanjem in popravili vozil , te so se zvišale za 2,9 odstotka , kot tudi za 1,2 odstotka višje cene osebnih avtomobilov .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2427,"Agentka ni prav dobro razmislila in je rekla : » Seveda , Susan bom prosila , naj spremeni nekaj besed , pa bo . «",O O O O O O O O O O O O B-PER O O O O O O O O O O O O
+9254,"Ukaz zaženete s pomočjo kontrolne plošče ali z zagonom terminalskega okna , v katerem vtipkate :",O O O O O O O O O O O O O O O O
+4718,"Zaposlen človek v naši državi je v povprečju , po podatkih iz leta 1999 , na dopustu 17 delovnih ur na mesec .",O O O O O O O O O O O O O O O O O O O O O O O
+3574,"Danes mi je nekako usojeno , da govorimo o ogroženih skupinah , o nekadilcih , otrocih in tako naprej .",O O O O O O O O O O O O O O O O O O O O
+7554,"Ricky , Monny , Richard Monaghan , moj irski soborc za svobodo , tolk , da veste , tolk , da veste , spizdi v mest na randi z babo .",B-PER O B-PER O B-PER I-PER O O O O O O O O O O O O O O O O O O O O O O O O O
+725,"Najpomembnejši dosežek pogovorov je odločitev o sestavi tekaških reprezentanc za poolimpijsko sezono , v kateri je na sporedu tudi svetovno prvenstvo v italijanski dolini Fiemme .",O O O O O O O O O O O O O O O O O O O O O O O B-LOC I-LOC O
+5315,"Pater je predstavnik Mitra na zemlji , je poosebljena nebeška luč , učitelj in vodja skupnosti .",O O O B-PER O O O O O O O O O O O O O
+6972,"Gre za dobrodošlo novost , ki sicer ne ponuja vseh nastavitvenih možnosti in naprednih funkcij komercialnih izdelkov , vendar kljub temu predstavlja pomembno zaščito pred internetnimi napadalci .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2011,"Zanimal jo je naturalizacijski princip , po katerem deluje institucija kot socialna organizacija .",O O O O O O O O O O O O O O
+3505,Druga zadeva .,O O O
+7022,"Mnoge ženske , ki so prej imele bolj nereden ciklus , ugotavljajo , da po rojstvu prvega otroka menstruacija postane bolj redna in enakomerna .",O O O O O O O O O O O O O O O O O O O O O O O O O
+2659,"Lokalne skupnosti so namreč lahko z dodatnim projektom kandidirale za nagrado 10.000 britanskih funtov , ki je namenjena sofinanciranju točno določenega projekta , ki je vezan na upravljanje z okoljem .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+7778,"NOV IZRAZ : Zemljevidi so posebne slike , pri katerih so različna območja s povezavami povezana do različnih spletnih lokacij .",O O O O O O O O O O O O O O O O O O O O O
+5708,CDN - A KK Lipica in Kobilarna Lipica : finale pokala v dresuri,B-MISC O O B-ORG I-ORG O B-ORG I-ORG O O O O O
+2647,"O celotnem dogajanju zdaj podrobno R. Koselleck , Die Herausbildung des modernen Geschichtsbegriffs .",O O O O O B-PER I-PER O B-MISC I-MISC I-MISC I-MISC I-MISC O
+6174,Na leto nameravajo izdelati sto tisoč tacum in jih kar 70 odstotkov izvoziti .,O O O O O O O O O O O O O O
+8046,"Navadno ne zapira povsem vhoda v nožnico , tako da lahko pri menstruaciji kri brez težav odteče .",O O O O O O O O O O O O O O O O O O
+1991,"Potem imamo ponovno analizo zbranih podatkov , v kateri sta Aaron Wildavsky in Karl Dake6 povezala naravnanost do tveganja s političnimi preferencami .",O O O O O O O O O O B-PER I-PER O B-PER I-PER O O O O O O O O
+7520,Solze so ji prvrele v oči .,O O O O O O O
+3053,Pognal se je skozi vrsto na spodnji trg .,O O O O O O O O O
+595,"Obarvanost : Predvsem rjave barve , s progami in črtami v sredini prsnih plavuti ; na vsaki strani gobca ima značilno svetlejšo liso .",O O O O O O O O O O O O O O O O O O O O O O O O
+5333,"Premoč se izraža v bojih , ki jih samci bijejo med seboj .",O O O O O O O O O O O O O
+5502,Tel. : 031 / 728 968 . - 8678,O O O O O O O O O
+7104,Takrat sva bila tam kot slovenska predstavnika z Miro Mihelič .,O O O O O O O O B-PER I-PER O
+520,Okvirji zagotavljajo šabloni stabilno obliko .,O O O O O O
+2865,Kaj pravite ? «,O O O O
+7827,Niste še končali .,O O O O
+3081,Kot odgovorni urednik informativnega programa je bil Darko zaslužen za ustanovitev Studia Ljubljana pod vodstvom Tomaža Peroviča .,O O O O O O O B-PER O O O B-ORG I-ORG O O B-PER I-PER O
+3038,"Prisotni v sobi so se že napolnili s tremi dvojnimi odmerki vodke , kot običajno so pognali po grlu eno za drugo , takoj nato pa prižgali vsak svoj zavitek - to je bil hkrati trenutek , ko je glasba s svojimi temnimi toni preplavila hišo in se razlila prek trga , tako da so nekje na polovici zvitka zaslišali trkanje po vratih pameti , le trenutek zatem pa sta jo pijača in dim zavzela v enem samem naskoku in jo zdrobila v prah .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+7869,"A ja , pravi Hrvat , transparentov ?",O O O O B-PER O O O
+2780,"Kunze , perzijski vodnik , ki jih je spremljal skoraj vso pot od Benetk , se je odpravil proti konju , še prej pa je s pogledom ošinil Marca .",B-PER O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O B-PER O
+2205,V naslednjih mesecih se nam ne obetajo podobni filmi .,O O O O O O O O O O
+773,"S svojim dekletom se večkrat sprehajam malo naokrog in se tu počutim že prav dobro . """,O O O O O O O O O O O O O O O O O
+5843,Načrtovanje in razvoj se lahko nanaša na proizvod ali proces .,O O O O O O O O O O O
+306,Celje - Derbi domače scene je bil doslej najhujša preizkušnja večnih rokometnih prvakov v tej sezoni .,B-LOC O O O O O O O O O O O O O O O O
+6014,"Politik ali druga javna oseba je res toliko prisotna v zavesti državljanov , kolikor se pojavlja na televiziji , ko zgine iz televizije , pa zgine tudi iz zavesti občinstva .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+6627,"Stolp je grajen tako , da jih bo imel v končni fazi kar 24 , obstoječim toboganom pa bomo tako lahko kar nekaj let zapored dodajali nove .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+813,"» Zahteve po mednarodnih objavah se na UL v zadnjem desetletju zaostrujejo , zato marsikdo , ki je bil pred 20 leti izvoljen v naziv rednega profesorja , zdaj ne bi izpolnjeval niti pogojev za izvolitev v docenta . «",O O O O O O O B-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+4282,"Ne le , da ne zna vsaj v znosni pogovorni slovenščini povedati vsaj enega stavka , njegove ugotovitve so naravnost smešne .",O O O O O O O O O O O O O O O O O O O O O O
+7449,Naši viri nam brez dvoma predstavljajo samo določen odstotek prebivalstva .,O O O O O O O O O O O
+6983,Celo po zidovih sem videla žene in otroke .,O O O O O O O O O
+6383,"Sama čustva še niso pravi odraz človeka , ampak zmotna .",O O O O O O O O O O O
+6906,V soboto se bodo ob 15. uri v jurjevskih igrah pomerile ekipe društev podeželske mladine iz Bele krajine in Dolenjske .,O O O O O O O O O O O O O O O O B-LOC I-LOC O B-LOC O
+6749,"Evropska unija namreč vzpodbuja in podpira biološko kmetijstvo , v okviru tega pa tudi pridelavo in predelavo navadne konoplje .",B-ORG I-ORG O O O O O O O O O O O O O O O O O O
+5434,"Dišalo po kuhinji , po vsej hiši , celo po zafarski cesti pred hišo .",O O O O O O O O O O O O O O O
+3368,"Vaba , ob kateri ušate čisto ponorijo , je tudi sveža sardela , ali pa kruhu primešamo zmečkane slane sardele ali pri pripravi uporabimo tekočino , ki jo oddajo sardele pri soljenju .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+6582,"Bil je zagrizen , racionalen , neveren znanstvenik , ki je dokazal , da si lahko podaljšaš življenje , če si dobra oseba .",O O O O O O O O O O O O O O O O O O O O O O O O
+8935,"Ustvarjalcem pri tem , kot je povedal Potočan , ni šlo za dokončna stališča , ampak bolj za raziskavo obče sprejetih predstav o ženskosti in ženski kot bitju nežnosti , mehkobe in lepote ( ta predstava je ravno v plesu še kako navzoča ) , po drugi strani pa za hkratno dekonstrukcijo tega mita o ženskosti s pomočjo starostno , fizično in plesno zelo raznovrstnih plesalk in njihovih individualnih izkušenj .",O O O O O O O B-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+9313,"Vsebina poročila za leto 1999 je začela nastajati , ko je bilo izdelano konsolidirano revizijsko poročilo , to je ob koncu aprila .",O O O O O O O O O O O O O O O O O O O O O O O
+1555,"No , nekaj potresov in vulkanskih izbruhov pa tudi močnejših tornadov je že bilo , toda nič katastrofalnega .",O O O O O O O O O O O O O O O O O O O
+6583,V zadnjih štirih letih je delal za tri podjetja .,O O O O O O O O O O
+5524,"» Čisto je , « je oznanil in ostali so se mu pridružili .",O O O O O O O O O O O O O O
+1992,"Trenutno se Karl Drake , Aaron Wildavsky in Michael Thompson lotevajo nove raziskave o » energetskih zalogah « in porabniških vzorcih .",O O B-PER I-PER O B-PER I-PER O B-PER I-PER O O O O O O O O O O O O
+6394,"S političnim in administrativnim diskurzom deli pravni diskurz skupno značilnost in to je njegova eksplicitna vsebinska usmerjenost k skupinskim interesom , čeprav se deloma , na primer v okviru mestnega prava , ukvarja z individualnimi interesi , vendar vedno v skladu z normami , ki so kolektivne .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+3048,"Na njegovem obrazu je bila vidna utrujenost in znerviranost , celodnevno izigravanje čudežno ozdravljenega fanatika je bilo naporno delo .",O O O O O O O O O O O O O O O O O O O O
+9027,"( obraz , pri katerem niti božja pomoč ne zaleže več press )",O O O O O O O O O O O O O
+59,V ta namen naj bi bila kupila tudi pištolo .,O O O O O O O O O O
+1388,"Kako to vse skupaj spominja na tisto , kar se je dogajalo v drugi svetovni vojni in tudi v zadnji vojni na Balkanu . . .",O O O O O O O O O O O O O O O O O O O O O O B-LOC O O O
+4879,""" Kar sem tam zagledal , je bilo tako razburljivo , da sem pri priči pozabil na vse nevarnosti strupenih plinov .",O O O O O O O O O O O O O O O O O O O O O O
+6599,"Hvala za sodelovanje in igrajte bridž čim več , ker boste le na tak način postali boljši .",O O O O O O O O O O O O O O O O O O
+3865,Nimam pravice .,O O O
+8301,"Zato naj bi jim pomagala državna podjetja , vendar bo to bolj težko , ker bo morala enako vsoto , se pravi pet milijard mark , prispevati v sklad tudi nemška država .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+7219,"Posel je zavarovan s poroštvom londonske banke prek NLB , zato pri Elesu upajo , da bodo denar dobili - Nadomestne pogodbe s tremi italijanskimi kupci",O O O O O O O O B-ORG O O O B-ORG O O O O O O O O O O O O O
+5014,"Po letu 1916 jih je avtor zasnoval še pet , ena ( Uspavanka : Pismo ) je izšla 1917 v Ljubljanskem zvonu , ostale ( Lisica , Veverica , Stari Medo in Slovo ) pa v letih 1922 - 1931 v tržaškem Novem oziroma ljubljanskem Našem rodu .",O O O O O O O O O O O O B-MISC I-MISC I-MISC O O O O O B-ORG I-ORG O O O B-MISC O B-MISC O B-MISC I-MISC O B-MISC O O O O O O O O O B-MISC O O B-ORG I-ORG O
+7818,O Na voljo imate dve možnosti .,O O O O O O O
+4777,"Po zadnjem štetju v Sloveniji pa se ne izplača biti nič ( ne samo Italijan ali Madžar ) : tudi Slovencev je 58 tisoč manj , manj je Srbov , Hrvatov , Muslimanov in Črnogorcev .",O O O O B-LOC O O O O O O O O O B-PER O B-PER O O O B-PER O O O O O O O B-PER O B-PER O B-PER O B-PER O
+6059,Jaz pa sem rekel : kaj mi lahko pustite ?,O O O O O O O O O O
+2689,"Po Dergančevih besedah se ideje opirajo na cenejše ali celo brezplačno popoldansko parkiranje , čeprav del javnosti in občinski svetniki tega verjetno ne bodo sprejeli .",O B-PER O O O O O O O O O O O O O O O O O O O O O O O O
+890,"( foto 45b ) : Z eno roko primemo stopalo ( z levo roko levo stopalo , pozneje z desno roko desno stopalo ) .",O O O O O O O O O O O O O O O O O O O O O O O O O
+1058,"Danes ob dvajseti uri bo večer branja za branje , na katerem bodo nastopili Aleš Debeljak , Manca Košir , Ivanka Mestnik , Andreja Pleničar , Jože Zupan in študijski krožek širjenja bralne kulture razvojnoraziskovalnega centra Novo mesto .",O O O O O O O O O O O O O O B-PER I-PER O B-PER I-PER O B-PER I-PER O B-PER I-PER O B-PER I-PER O O O O O O O O B-LOC I-LOC O
+3630,"Prosim , gospod Jelinčič .",O O O B-PER O
+7160,"To je bil najdaljši polet kateregakoli space shuttla v zgodovini , preučevali pa so predvsem , kako vesoljska potovanja učinkujejo na človeški organizem .",O O O O O O O O O O O O O O O O O O O O O O O O
+4514,"Zvenela je nekam ljudsko , domače , mehko , hkrati pa je bila zvokovno tako bogata in široka kot malokatera preprosta skladba .",O O O O O O O O O O O O O O O O O O O O O O O
+6343,Med misleci maram samó še za ugasle ognjenike .,O O O O O O O O O
+3413,"Namen objave uzakonjenih prepovedi in omejitev v uradnih prostorih je v tem , da se stranke z njimi lahko seznanijo neposredno tam , kjer pridejo v stik z javno upravo , ne pa da so ta pravila » skrita « nekje v uradnem listu .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+8329,"Gotovo pa je res , da tedaj , ko delo zagotavlja komaj življenjski minimum , nastane v družbenem merilu poskus brezdelnega življenja .",O O O O O O O O O O O O O O O O O O O O O O O
+7508,"Ker jest sem bil pa velik pa štorast , ko sem bil mejhen , tko da sem začel verjet , da je z mano tud neki narobe , da sem tud jest nekak tak ko Davie …",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PER O
+7159,Ameriško vesoljsko plovilo Columbia se je po 17 dneh spet vrnilo na trdna tla .,O O O B-MISC O O O O O O O O O O O
+567,"Prsne in trebušni plavuti so majhne , trebušni sta po višini nameščeni približno na sredo trupa .",O O O O O O O O O O O O O O O O O
+335,"Leta 1986 je vzniknila ideja o preoblikovanju muzeja iz posebnega v splošni pokrajinski muzej , ki naj bi skrbel za varstvo premične kulturne dediščine , njeno realizacijo pa je prinesla sprememba financiranja muzeja leta 1990 .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+3697,"Radi bi jim omogočili globlje razumevanje branega / videnega pa tudi uprizoritveno nadgrajevanje , ki si ga mnogi tako želijo .",O O O O O O O O O O O O O O O O O O O O O
+9110,"Če ima pri nas ena zavarovalnica blizu 700 milijonov mark letne premije pri sorazmerno še manjšem deležu življenjskih zavarovanj , je v njej verjetno po tem merilu toliko na voljo za lastninjenje .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+677,Pri tem vsak otrok živi v svojem okolju doma ter v družbi svojih vrstnikov v šoli in zunaj nje .,O O O O O O O O O O O O O O O O O O O O
+7621,"Neverjetna hitrost , s katero so se hepeningi razširili , priča o miku te umetnostne zvrsti .",O O O O O O O O O O O O O O O O O
+4966,"Odvetnik Stambolićeve družine Nikola Barović in Stambolićeva žena Katarina pa sta zavrnila namige , da bi lahko bile v ozadju kakšne poslovne zadeve , saj se menda Ivan Stambolić , odkar se je upokojil , ni ukvarjal z nobenimi poslovnimi zadevami .",O B-PER O B-PER I-PER O B-PER O B-PER O O O O O O O O O O O O O O O O O O B-PER I-PER O O O O O O O O O O O O O
+1609,"Ali to pomeni , da nanjo ne misli več ?",O O O O O O O O O O
+1115,"CECIL RHODES JE BIL TAKO OČARAN NAD MATOBOM , DA SI JE TU IZBRAL PROSTOR ZA SVOJ GROB .",B-PER I-PER O O O O O B-LOC O O O O O O O O O O O
+9104,"To pa mora biti mednarodno priznana strokovna družba , ki ima v svoji sestavi pooblaščene aktuarje .",O O O O O O O O O O O O O O O O O
+1593,"IZVAJAMO NUJNE ali preventivno strojno prediranje - čiščenje zamašenih odtočnih cevi kuhinj , kopalnic , stranišč , pisoarjev in drugih kanalizacijskih naprav , strokovno in hitro , z dolgoletno prakso , povsod po Sloveniji .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O
+7405,"To pa je lahko zelo neprijetno tako za mladostnika kot za njegove starše , kajti starši z velikim zadovoljstvom opazujejo , kako njihov otrok na svojem začenja živeti samostojno življenje .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+7303,"Rastejo počasi , hitrost rasti variira od populacije do populacije .",O O O O O O O O O O O
+5303,"Mitraizem je mistična vera , o njej se ni smelo ne pisati in ne govoriti , saj so obredi potekali v zaključenih , moških krogih .",O O O O O O O O O O O O O O O O O O O O O O O O O O
+4541,"Čudno , takoj po smrti ga imenuje tako !",O O O O O O O O O
+9259,"Vzemimo za primer piranski občinski svet , čeravno je verjetno zelo podobno povsod drugod .",O O O O O O O O O O O O O O O
+3694,"V besedilu pokažejo svoje znanje , zlasti pa osebno vrednotenje obravnavane teme , saj sta izvirnost in strokovno utemeljevanje izraz osebnega intelektualnega presojanja .",O O O O O O O O O O O O O O O O O O O O O O O O
+5728,"Šimeljček pa je pred njiju vedno znova postavljal nove in nove zahteve ter ju prepričeval , da tega ali onega nikakor ne zmoreta , ter si zamišljal poteke svojih ur jahanja po svoje , kar naj bi bilo po njegovem mnenju veliko bolje in bolj zabavno kot dolgočasne lekcije .",B-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+638,"Kolesca za muharjenje v morju morajo biti mnogo večja od tistih , ki se uporabljajo pri muharjenju v sladkih vodah .",O O O O O O O O O O O O O O O O O O O O O
+624,"V tem času se lososi ustalijo na enem kraju , izgubijo značilno srebrno in dobijo bakreno rdečo barvo , shujšajo in izgubijo mišično moč .",O O O O O O O O O O O O O O O O O O O O O O O O O
+6079,"Na primer zdravila proti revmatizmu in strjevanju krvi so tipičen primer z zapleti na področju prebavne cevi , ki lahko delajo hude težave .",O O O O O O O O O O O O O O O O O O O O O O O O
+210,"Funkcijsko ni 7270 nič posebnega , večina stvari je že videna .",O O O O O O O O O O O O
+8467,Streljajte že enkrat .,O O O O
+1033,"Nujno je , da prosite svojega izbranega zdravnika , naj vas napoti na specialni pregled tja , kjer bo možno ugotoviti vzrok in naravo vašega obolenja .",O O O O O O O O O O O O O O O O O O O O O O O O O O O
+7735,"Prva generacija otrok , ki jo kontinuirano vzgajajo in poučujejo po tej metodi , je danes v 6. razredu osnovne šole .",O O O O O O O O O O O O O O O O O O O O O O
+9121,"Če bi se Kitajci zares odločili za takšno potezo , tega prav gotovo ne bi napovedovali vnaprej , temveč bi nakupe preprosto izvedli .",O O O B-PER O O O O O O O O O O O O O O O O O O O O
+8988,"V džungli je bilo soparno in snemanje naporno , zato vsakomur , ki se hoče znebiti odvečne teže , zlobno svetujem , naj se s težkim nahrbtnikom spravi na treking v deževni pragozd .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+4518,Spet sta se približala z ustnicami in se združila v dolgem poljubu .,O O O O O O O O O O O O O
+1525,"Zjutraj sem pohitel , da bi dobil novice o Ludviku Oliveju .",O O O O O O O O O B-PER I-PER O
+8455,"Vozniku , ki je uspešno opravil seminar o varnosti cestnega prometa , o čemer morajo senat za prekrške obvestiti vodje seminarjev , bodo od skupnega števila kazenskih točk odšteli štiri točke .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+7452,"Res da se na tak način našemu raziskovanju predstavlja najznačilnejši sloj , a vendar moramo reči , da po napisih ne moremo takoj sklepati na splošno pismenost .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2546,"- Ali konj z izkazanim veseljem ter zadovoljstvom pričakuje in v relativno kratkem času zaužije obrok krme , ki mu ga položite ?",O O O O O O O O O O O O O O O O O O O O O O O
+3591,"Glasoval bom za ta amandma , ker menim , da ni primerno odprodajati državne gozdove .",O O O O O O O O O O O O O O O O
+990,"Tudi pilo se je dobro trškogorsko vino , tisto za zdravje , po katerem drugi dan glava ne boli .",O O O O O O O O O O O O O O O O O O O O
+2016,Gre v nekem smislu za institucionalno potlačitev .,O O O O O O O O
+9469,"Na rezultate dobrega dela so pokazali predvsem tekmovalni uspehi Julijana Gomiščka , Andreja in Joška Štruklja , Marjana Černigoja in Marjana Šebenika .",O O O O O O O O O B-PER I-PER O B-PER O B-PER I-PER O B-PER I-PER O B-PER I-PER O
+4635,» Da .,O O O
+5994,"Kljub Kezovim poskusom ni z njim spregovorila niti besedice in kot vedno se je vprašal , ali bo sploh kdaj spet zaživela normalno življenje .",O B-PER O O O O O O O O O O O O O O O O O O O O O O O
+7257,Takrat se je namreč dogajal grunge .,O O O O O O O
+2431,"Ta ima možnosti za to , sovražnikove ženske ima pred nosom .",O O O O O O O O O O O O
+5293,Zato ne smemo voziti pod vplivom pomirjeval .,O O O O O O O O
+8253,"Kate je zadovoljna , ovir za srečen zakon torej ni .",B-PER O O O O O O O O O O
+3248,"Kot otrok sem brcal žogo pred blokom , nato pa je prišla zamisel , da bi začel trenirati v nogometnem klubu in prišlo je do vpisa v Primorje .",O O O O O O O O O O O O O O O O O O O O O O O O O O O B-ORG O
+4027,Niste skrbeli zanjo .,O O O O
+435,"Ni dovolila , da bi se poročil z mojo materjo .",O O O O O O O O O O O
+8479,Strelja naprej !,O O O
+1602,"Vse dodatne informacije dobite po tel. : 02 / 576 - 12 - 05 , po 15. uri , Dezider Baligač .",O O O O O O O O O O O O O O O O O O O B-PER I-PER O
+456,"Pearl je sedela na koncu pomola in uživala ob slastnih grižljajih ribe , ki jo je našla , Frances se je vrnila v San Antonio in Juanita mu je kuhala kavo .",B-PER O O O O O O O O O O O O O O O O O B-PER O O O O B-LOC I-LOC O B-PER O O O O O
+8120,"Ves dan je blodila po gozdovih ob rečnem bregu , ko pa se je zvečerilo in je sivi somrak razprostrl nad vodo temno pregrinjalo , je razširila roke proti tihi reki , ki je vedela za njeno žalost in veselje .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+6182,"Vendar mislim , da je sama beseda nostalgija nekaj povsem normalnega .",O O O O O O O O O O O O
+6506,Notranja stena arterij ( endotelij ) se po mastnem obroku pogosto skrči in maši .,O O O O O O O O O O O O O O O
+196,Pravi razmah digitalnih kamer pa šele prihaja .,O O O O O O O O
+8686,"Bili so popolnoma ravni , svetli in dokaj gosti .",O O O O O O O O O O
+6300,"Dobro je presodil škofove besede , da mora Agata priti na kakršenkoli način iz vode in vse to potem tudi dobro izpeljal .",O O O O O O O O B-PER O O O O O O O O O O O O O O
+6891,Vrnemo se v mesto .,O O O O O
+2086,"Gre za prehode Doljani v Hercegovini , Izačić na severozahodu države in Bosanski Brod na savskem bregu .",O O O B-LOC O B-LOC O B-LOC O O O O B-LOC I-LOC O O O O
+8292,Zato bodite bolj diplomatski in resnico zavijte v vato manj bo bolela .,O O O O O O O O O O O O O
+2757,Marco se je prižel ob tla in se po trebuhu plazil naprej .,B-PER O O O O O O O O O O O O
+7437,"Ker sta bila na primer Dioskura Kastor in Poluks , sinova dvojčka umrljive matere in večnega Zevsa - Jupitra , bi moral biti eden od njiju smrtnik , drugi pa nesmrten .",O O O O O B-PER B-PER O B-PER O O O O O O O B-PER O B-PER O O O O O O O O O O O O O
+4361,"Ker si želim , da bi se med nosečnostjo dobro počutila , kar je pomembno zame in za otroka , rada poslušam glasbo in pišem dnevnik , v katerega si zapišem tudi podatke s pregleda z ultrazvokom .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1512,In kako je s požrešnostjo ?,O O O O O O
+2642,"Drugi pomemben podatek je , da bo začel nov sistem neprofitnih najemnin veljati šele v začetku leta 2005 , in sicer bo prehod tudi tedaj postopen , namreč v štirih fazah , do leta 2007 .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1646,"Prednost kompatibilnostnega pred načinom » legacy « je predvsem v uporabi vseh 4 GB pomnilnika za namen določenega procesa ( pri 32 - bitnih aplikacijah obstaja 2 GB omejitev , preostala 2 GB pa sta namenjena operacijskemu sistemu ) .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+7730,( tt ),O O O
+5357,"Pričakujejo , da bo kdo v lokalni oblastni sestavi , v katerega domeno sodi urejanje pločnikov in postavljanje javnih luči , nemudoma rešil obravnavani pereči problem .",O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2323,"Naravne kreposti lahko primerjamo z drevesom divjakom : Drevo bo dobro uspevalo in obrodilo obilne sadeže , če bo imelo primerno pognojeno zemljo in dovolj vlage , ter ga bo sadjar ustrezno obrezoval .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2818,Pomela si je premražene roke .,O O O O O O
+6882,"Svetovalka za prašičerejo v novomeški enoti Kmetijskega zavoda mag. Zdenka Kramar je prepričana , da je ta trenutek v Sloveniji premalo prašičev , in ocenjuje , da se je v zasebni reji število prašičev že zmanjšalo za 20 odst.",O O O O O O B-ORG I-ORG O B-PER I-PER O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O
+681,"Vse bolj pa se oglašajo , ko imajo druge težave - zlasti pri učenju , v svojem razvoju in stiskah .",O O O O O O O O O O O O O O O O O O O O O
+3786,"Nato so se umaknili za vogal in se tam delali , kakor da so kilometre daleč .",O O O O O O O O O O O O O O O O O
+8845,"Erzberger je izračunal , da podmorniška vojna ne prinaša žetve , ki so si jo od nje obetali .",B-PER O O O O O O O O O O O O O O O O O O
+2015,"Pozabljanje je družbeno strukturirano z institucijami , ki bodisi spodbujajo ali pa onemogočajo mišljenje .",O O O O O O O O O O O O O O O
+2329,Ponižnemu razodeva svoje skrivnosti in ga ljubeče k sebi vleče in vabi .,O O O O O O O O O O O O O
+8478,"• Kaj naj naredi ženska , če moški v cikcaku teče po vrtu ?",O O O O O O O O O O O O O O
+4551,"To podjetje je nekakšen mejni primer , ki ga neposredno ne urejata niti zakon o lastninskem preoblikovanju podjetij niti zakon o javnih gospodarskih družbah , vrednost nominalnega družbenega kapitala z znanimi lastniki na dan 1. januarja 1993 pa bo bržčas treba ugotoviti tako , kot so to morali storiti v vseh podjetjih , ki so šla skozi postopek lastninskega preoblikovanja .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+5595,"» Mar ni v Rusiji priljubljena pesem Če se hočeš poročiti , si poišči moškega , kakršen je Putin ? « se je hihitala študentka mednarodnih financ .",O O O O B-LOC O O B-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC O O O O O O O O O
+8906,"Kot pojasnjuje , se solventnostne zahteve po kapitalu v zavarovalnicah iz leta v leto povečujejo , še posebno pa so se zahteve po rezervacijah povečale po lanskih dogodkih v ZDA , kar se v bilancah zavarovalnic lahko pokaže kot izguba .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O
+4578,"» Nana , prosim , pazi na otroka ! « sem zavpil še glasneje .",O B-PER O O O O O O O O O O O O O
+4170,“ Objektivnost v postmodernem okviru ne more govoriti o neproblematičnih objektih ; govoriti mora o specifični protezi in prevajanju .,O O O O O O O O O O O O O O O O O O O O
+6971,"Požarna pregrada v drugem svežnju popravkov za Windows XP deluje tako , da preprečuje povezave , ki jih računalnik ali uporabnik nista zahtevala .",O O O O O O O B-MISC I-MISC O O O O O O O O O O O O O O O
+8215,"Revalorizacija nabavne cene ne bo več priznana , res pa je , da bodo obvezniški skladi v določenih primerih obravnavani ugodneje .",O O O O O O O O O O O O O O O O O O O O O O
+2378,Priprava : Korenček operemo in dobro ostrgamo .,O O O O O O O O
+3735,"» Potem pa naj gre po svetu , kdor hoče .",O O O O O O O O O O O
+1758,Ruta ne dobra .,O O O O
+220,"Finci so pač domnevali , da kupci njihovih slušalk Bluetooth uporabljajo tudi njihove mobilnike .",B-PER O O O O O O O O B-MISC O O O O O
+4767,"Nekaj pripadnikov italijanske narodnosti je denimo očitalo popisu , zakaj je sploh dovolil preštevati manjšino .",O O O O O O O O O O O O O O O O
+5500,Tel. : 031 / 798569 . - 8647,O O O O O O O O
+7357,"Uspešnost dela ombudsmana bi morda laže ocenjevali v nekem daljšem časovnem obdobju , pa še takrat bi bilo to vprašljivo , saj bi se lahko zgodilo , da bi se varuh človekovih pravic srečeval z večjim številom različnih problemov ali pa bi bil sam tako agilen , da bi jih toliko več našel .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+7126,( mk ),O O O
+7929,"Tokrat vam bomo predstavili dve novosti : Lepotico pod krinko si že lahko ogledate v vašem kinu , na Forresterjevo odkritje pa bo treba počakati še slab teden dni .",O O O O O O O B-MISC I-MISC I-MISC O O O O O O O O O B-MISC I-MISC O O O O O O O O O
+5681,Slednji velja za najstarejšo ohranjeno gotsko stavbo pri nas .,O O O O O O O O O O
+663,"Na gradu Borl pri Ptuju je glasba počasi odzvenela , iztekle so se umetniške delavnice in otroški živžav se je polegel .",O O B-LOC O B-LOC O O O O O O O O O O O O O O O O O
+8165,Ali verjamete v nujnost obstoja svobode govora brez vsakih omejitev ?,O O O O O O O O O O O
+3034,"V sobi je ga že čakala naslednja uganka , saj so se prisotni očitno odločili razčistiti , kdo bo lastnik muhave samice , ki poležuje v fotelju .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1337,"Dolenjske gospodarstvenike je zanimalo , ali bi bilo mogoče pri urejanju tehnične regulative v skupnosti priti do rešitev , ki bi enotno veljale za vse države hkrati , kajti Trimo mora za vsako državo dobiti posebne certifikate , kar trebanjskemu podjetju jemlje veliko časa in denarja .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-ORG O O O O O O O O O O O O O O O O O
+5692,"V obdobju precejšnje konkurence , je potrebno imeti veliko samozavesti , da si upaš ustvariti oziroma izdelati nekaj povsem novega , drugačnega …",O O O O O O O O O O O O O O O O O O O O O O O
+7320,Popovke se običajno drstijo v obalnih lagunah .,O O O O O O O O
+3391,"Morda so potrebovale tudi malo spodbude : kar nekaj se jih je želelo poskusiti z ustvarjalnim pisanjem , pa so čutile , da je vse , kar napiše ženska , deležno skoraj nevoljnega ocenjevanja , kot bi v » pravi « književnosti nekako ne imelo mesta .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1536,Še več !,O O O
+7720,"Avstrijec je strelivo na sopotnikovem sedežu prekril s kapo in papirji v upanju , da ga bodo naši obmejni organi spregledali .",B-PER O O O O O O O O O O O O O O O O O O O O O
+5543,"» Jaz sem Dar , to pa je moja sestra Tally , « je razložil Dar .",O O O B-PER O O O O O O B-PER O O O O B-PER O
+1007,"Gospa Katarina je kuharica že 34 let : "" Kot kmečko dekle nisem imela možnosti za šolanje in začela sem kot pomivalka , potem pa sem se šolala ob rednem delu .",O B-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1786,Bilo pa je grozno .,O O O O O
+4401,"Tretje mesto je zanesljivo ostalo Capirossiju , ostali pa so precej zaostali .",O O O O O B-PER O O O O O O O
+3516,"In tudi , ko grem naprej v druge vrste ogrožanja nacionalne varnosti Republike Slovenije začne s stavkom , ki je že padel v oči predgovornikom , namreč je neposredni ali posredni nedemokratičen nazivni posegi za spremembo ustavne ureditve , ki se potem nadaljujejo s teoristično dejavnostjo , trgovanje z belim blagom in podobna grozodejstva , konča pa s stvarjo , ki me pravzaprav najbolj skrbi , namreč definicija na koncu obstajajo tudi možnosti nastajanja povsem novih oblik ogrožanja nacionalne varnosti .",O O O O O O O O O O O O B-LOC I-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+4194,"Če bo Mostec naš , ga bomo dali nekomu v upravljanje , vendar le za dejavnosti , ki so tam dovoljene , "" nam je zatrdil Franc Borko .",O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O B-PER I-PER O
+1223,V zjutraj še vedno nabito polnem priljubljenem lokalu Evergreen ( v katerem se sicer zbirajo predstavniki nekoliko mlajše generacije ) ni nič novega .,O O O O O O O O B-ORG O O O O O O O O O O O O O O O
+6874,"Lani so na občinskih , regijskih in državnih tekmovanjih osvojili kar 11 pokalov .",O O O O O O O O O O O O O O
+5045,Telefonski pogovori med njima so se nadaljevali naslednje tri dni .,O O O O O O O O O O O
+4066,ČLENU ZOBR POSEBEJ UREJA TUDI ODPOVED POGODBE O ZAPOSLITVI .,O B-MISC O O O O O O O O
+1950,"A medtem v Velenju še vedno niso določeni ekološki otoki , tako da zbiranje odpadkov v mestu še vedno ni ločeno , zgovoren pa je tudi podatek o zbiranju nevarnih odpadkov .",O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+7522,"Tamala Dawn , plaz se po stropu .",O B-PER O O O O O O
+4982,"Morda boste pomislili , da zabadanje iglic ni ravno primerno za otroke , vendar pa Emil Čater , dr. med. , spec. nevrolog in akupunkturolog iz Toplic Dobrna razlaga : Seveda iglice niso edini pripomoček za stimulacijo akupunkturnih točk .",O O O O O O O O O O O O O O O B-PER I-PER O O O O O O O O O B-ORG I-ORG O O O O O O O O O O O O
+5667,"Prav tako so na Lomu uredili novo progo , ki jo bodo uporabljali predvsem zahtevnejši smučarji .",O O O O B-LOC O O O O O O O O O O O O
+7081,Največ se jih je izselilo v Argentino .,O O O O O O B-LOC O
+4474,"Ta je še zmeraj v službi v 1. policijski postaji , toda iz mesta namestnika poveljnika postaje so ga premestili na detektor laži .",O O O O O O O O O O O O O O O O O O O O O O O O
+3229,Večino časa so bili boljši nasprotnik in v zadnji tretjini so vodili že s 4:1 .,O O O O O O O O O O O O O O O O
+7742,Režiser Jože Gale je sinoči v Portorožu dobil Badjurovo nagrado za življenjsko delo .,O B-PER I-PER O O O B-LOC O O O O O O O
+5223,"Če verjamete ali ne , "" je dejala vihrava , lepa mladenka , "" še do danes nisem našla princa svojih sanj .",O O O O O O O O O O O O O O O O O O O O O O O
+7501,"Tip menda misl , dam začel mlatit psa s palco , sam to b blo tko , ko dab poslal Rentona al pa Kartofla , da seksualno zadovolita Lauro McEwan .",O O O O O O O O O O O O O O O O O O O O B-PER O O B-PER O O O O B-PER I-PER O
+3583,( 42 poslancev . ),O O O O O
+5487,Izplača se !,O O O
+1281,"Ih , svojčas sem bil goreče med njimi , zdaj za ta uporabni sistemček vsaj malo navijam .",O O O O O O O O O O O O O O O O O O
+368,"Pravi divji zagon obeh nemških navez se je že do tretjega raztežaja ustavil , pred četrtim pa smo spet vsi lepo na tesnem na drobni polički .",O O O O O O O O O O O O O O O O O O O O O O O O O O O
+8938,( tlp / foto : Bojan Velikonja ),O O O O O B-PER I-PER O
+7814,Na žalost so te teme precej obsežne in presegajo obseg te knjige .,O O O O O O O O O O O O O
+6350,"Za trenutek sem mislil , da občutim , kaj zlitje z brahmanom pomeni gorečnemu privržencu vedante .",O O O O O O O O O O O O O O O O O
+5670,"Vlogo direktorja ima ekonomistka Francka Zorman , troje mladih pa se ukvarja z operativnim vodenjem del .",O O O O B-PER I-PER O O O O O O O O O O O
+2743,"Na krovu je veter tako tulil in zavijal , da je kapitan zaman napenjal glasilke .",O O O O O O O O O O O O O O O O
+3307,"Mandarić pravi , da je zanj največja težava pomanjkanje časa , kajti menda je polno zaposlen s projektom gradnje novega štadiona Portsmoutha .",B-PER O O O O O O O O O O O O O O O O O O O O B-LOC O
+6021,"Na trgih oblačil , pralnih praškov in športne opreme vplivajo na nakupno odločitev še drugi dejavniki : blagovna znamka , ime proizvajalca , kakovost blaga , modne smernice ; cena je manj pomembna .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+3549,"Sedaj , ali se hoče kompenzacijo s tem narediti - če teh ljudi manjka - da se jim da višji "" titel "" ; ne vem , kako to skupaj gre .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+7683,"Če živimo zelo stresno , je vsekakor koristno , da se najprej naučimo kakšnega načina sproščanja , ki nam bo omogočil , da bomo v svoje življenje vtkali vsaj malo miru .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+6156,Treba je spoštovati red in bolniki ne smejo hoditi naokrog kar v svojih oblekah !,O O O O O O O O O O O O O O O
+2126,( ka ),O O O
+9213,Madame de La Motte je brez razmisleka pritrdila .,O B-PER I-PER I-PER O O O O O
+6904,"Kandidati , ki izpolnjujejo z zakoni predpisane pogoje , naj pošljejo prijave z dokazili v 8 dneh po objavi razpisa na naslov šole .",O O O O O O O O O O O O O O O O O O O O O O O O
+7482,"— Oprostite , ne razumem čisto dobro …",O O O O O O O O
+7397,"Človek mimogrede pozabi , kako hitro rastejo otroci .",O O O O O O O O O
+3366,"To dejstvo nam omogoča , da tudi brez uporabe kompasa ali podobnih pripomočkov zlahka ocenimo , v katero smer bo jadrnica plula po prečenju .",O O O O O O O O O O O O O O O O O O O O O O O O O
+5824,"Pri Katrci , Rožna dolina , Cesta VIII 6 , tel. 266 - 800",B-ORG I-ORG O B-LOC I-LOC I-LOC I-LOC I-LOC I-LOC O O O O O
+8921,"V Sloveniji imamo natanko dva restavratorska strokovnjaka za tehnično industrijsko dediščino ; enega na upravi za dediščino , drugega so letos zaposlili v Tehničnem muzeju Slovenije .",O B-LOC O O O O O O O O O O O O O O O O O O O O O B-ORG I-ORG I-ORG O
+1705,Namesto prhanja se raje kopajte .,O O O O O O
+7805,( Pravzaprav teh strani na spletu ne boste našli ; izdelala sem jih posebej za to poglavje . ),O O O O O O O O O O O O O O O O O O O
+2474,Slovenci svoji državi često očitajo požrešnost .,B-PER O O O O O O
+6402,"Ker pragmatična pravila v posameznih domenah javne komunikacije in v številnih konkretnih situacijah ( na primer v sodni dvorani , v predavalnici , za politično govornico , v cerkvi ) diktirajo v veliki meri formalizirano komunikacijsko obnašanje , so ta pravila pogosto tudi pisno eksplicirana v najrazličnejših oblikah , od navidezno neobveznih navodil ( "" kako se obnašati v pogovoru z starejšo osebo "" , "" kako napisati poslovno pismo "" , na primer ) do zakonskih odredb , s katerimi se izrecno predpisuje , kaj je dopuščeno in kaj ne v javni komunikaciji , prav tako pa se določajo kazni za nespoštovanje teh norm .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1245,"» Nisem obremenjen s tem , da bi moral vsak petek ven . «",O O O O O O O O O O O O O O
+5411,"Grozdje za to vino so na Sremiču potrgali 31. januarja letos in donegovali vino , ki je postalo svetovni prvak in ponos vinske kleti , ki letos slavi 70 - letnico ustanovitve .",O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O
+6688,Zato smo z nekaterimi domačimi in tujimi kolegi odšli na pivo .,O O O O O O O O O O O O
+9025,"IZJ Ultra maratonski plavalec MARTIN STREL , v Lady , o zaužitju .",O O O O B-PER I-PER O O B-ORG O O O O
+3601,Prehajamo na naslednjo zadevo .,O O O O O
+7517,"Od dons naprej , sine , smo končal s tem .",O O O O O O O O O O O
+6565,"Na 400 kvadratnih metrih se bo lahko hkrati savnalo do 60 ljudi , možna pa bo tudi uporaba zimskega bazena in solarija .",O O O O O O O O O O O O O O O O O O O O O O O
+9111,"Prispevek obravnava sisteme oblasti , ki so se v Istri zvrstili v prehodnem obdobju od padca Beneške republike 1797 do dunajskega kongresa 1814 / 15 .",O O O O O O O O O B-LOC O O O O O O B-LOC I-LOC O O O O O O O O
+3054,"Znašel se je sredi zadnjega ceremoniala tistega dne , za konec bo župan povedal nekaj besed .",O O O O O O O O O O O O O O O O O
+2449,"V običajnih okoliščinah do časa , ko začutimo žejo , izgubimo že približno odstotek telesne teže s tekočino , to je pri 75 kilogramov težkem človeku 75 dekagramov .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+6179,"Je nekakšna skovanka , tako kot udbomafija .",O O O O O O O O
+781,Nekatere oddaje o slovenski glasbeni kulturni so bile posnete v nemškem in angleškem jeziku ter predvajane na tujih radijskih postajah .,O O O O O O O O O O O O O O O O O O O O O
+5412,( Foto : M. Vesel ),O O O B-PER I-PER O
+8652,Odleglo mi je .,O O O O
+5105,Nadaljevanje filma naj bi v ameriških kinematografih začeli predvajati prihodnje poletje .,O O O O O O O O O O O O
+1062,A v štirih mesecih do nastopa v Sydneyju se lahko zgodi še marsikaj .,O O O O O O O B-LOC O O O O O O
+7783,"Sedaj bi morali poznati razliko med strežniškimi in odjemalskimi zemljevidi in vedeti , kateri so na voljo v katerih brskalnikih .",O O O O O O O O O O O O O O O O O O O O O
+7188,"Dajmo otroku papirnat trak , najbolje košček papirnate brisače ali toaletnega papirja , ki je tanek in mehak , pa naj se z njim postavi na različna mesta v stanovanju in opazuje gibanje zraka .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+9156,"Izmerjene pospešitve so nekoliko nižje od tistih , ki jih reklamira izdelovalec , predvsem zaradi zelo hitrega testnega računalnika .",O O O O O O O O O O O O O O O O O O O O
+6646,"Vse to orožje je bilo rabljeno , iz rezerv MNZ , v glavnem jugoslovanske in ruske izdelave , celo nemško iz druge svetovne vojne .",O O O O O O O O O B-ORG O O O O O O O O O O O O O O O
+2121,"Liga Hypo , danes ob 19. uri : Elektra - Helios , Rogla - Koper , Zagorje Banka Zasavje - Loka kava , ob 20. uri : Savinjski Hopsi - Alpos Kemoplast , Kraški zidar - Triglav ,",B-MISC I-MISC O O O O O O B-ORG O B-ORG O B-ORG O B-ORG O B-ORG I-ORG I-ORG O B-ORG I-ORG O O O O O B-ORG I-ORG O B-ORG I-ORG O B-ORG I-ORG O B-ORG O
+16,Včasih so podočnjaki tudi posledica tanke kože .,O O O O O O O O
+2722,"Mornarji , ki niso spali , so strahoma oprezali za mesecem .",O O O O O O O O O O O O
+6170,"To je vozilo kompaktnega razreda ( 4,35 metra ) , v katerem tudi med enoprostorci postaja že prava gneča .",O O O O O O O O O O O O O O O O O O O O
+3003,Vse vesolje je moralo torej kakih sto milijonov let po big bangu kar žareti od superzvezd .,O O O O O O O O O O O O O O O O O
+1568,"Cvetlična dekoracija , gvaš , 1942 / 1943 ( iz zvezka risb in dekoracij iz taborišča ) / 0202013954 / 01",B-MISC I-MISC O O O O O O O O O O O O O O O O O O O
+2030,"Zaradi precejšnje investicijske vpletenosti Nemcev v Rusiji je opisano dogajanje marko obtežilo oziroma sprostilo dolar , ki se je resno začel spogledovati s tečajem 1,79 marke , vendar se je ujel okoli 1,78 marke za dolar , kar trenutno predstavlja sredino osciliranja med marko in dolarjem .",O O O O B-PER O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+4766,Napad na slovensko svobodo izbire pa je v primeru tokratnega štetja lahko tudi premalo premišljen .,O O O O O O O O O O O O O O O O
+5148,Po vsej verjetnosti zaradi petard pa je v Izoli istega dne ob 21. uri zagorelo v zabojniku na Bazoviški ulici .,O O O O O O O O B-LOC O O O O O O O O O B-LOC I-LOC O
+7425,Napadi islamskih skrajnežev v času ramadana so v Alžiriji zahtevali več kot 70 človeških življenj .,O O O O O O O O B-LOC O O O O O O O
+9341,"V vsakem jeziku drugače zveni slava božja , pravijo verniki ; vsak narod ima samosvojo poezijo , ki je neprevedljiva v drug jezik vsak prevod je že prepesnitev v drug jezikovni in duhovni , kulturni horizont .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+3547,Tega enostavno ne razumem .,O O O O O
+7589,"Strmi na vrt za hotelom , kjer vidi Andreasa , ki skaklja naokoli s Sarah , svojo punco .",O O O O O O O O B-PER O O O O O B-PER O O O O
+3354,"Da bi o teh skrivnostnih želvjih poteh lahko izvedeli kaj več , so znanstveniki označili tudi obe malostonski želvi , kar tudi sicer napravijo z vsemi ulovljenimi živimi primerki , ki jih nato spustijo nazaj v morje .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+3744,"Se strinjate s trditvijo , postavljeno v naslovu pesmi ?",O O O O O O O O O O
+2574,"Ali bo zmogla tudi slednje , pa je veliko vprašanje tudi zato , ker tako rekoč vsi odgovorni v vladi hkrati sami sedijo na visokošolskih stolih .",O O O O O O O O O O O O O O O O O O O O O O O O O O O
+5571,"Menil sem , da ni hotel režirati na Odru 57 , ker je bil takrat ideološko sumljiv teater .",O O O O O O O O B-ORG I-ORG O O O O O O O O O
+6768,"Peter Pengal pravi , da zaposleni na ministrstvu preprosto nimajo časa za te naloge , saj se morajo ukvarjati s številnimi proceduralnimi , organizacijskimi in drugimi podobnimi nalogami .",B-PER I-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2568,"Skrbi jih namreč izraz » nepridobitne dejavnosti « , ki so pogoj za neplačevanje dohodnine od prejemkov za stroške prevoza , nočitve , dnevnice osebam , ki sodelujejo ( med drugim ) v raznoraznih kulturnih dejavnostih .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2302,"Pričakujemo , da bo za naša srednje velika mesarska podjetja še dve ali tri leta po vstopu v Unijo veljala zakonodaja , ki ureja delovanje malih mesarskih obratov .",O O O O O O O O O O O O O O O O O O B-ORG O O O O O O O O O O
+8701,"» Oh , tisto , « je zamahnila z roko .",O O O O O O O O O O O
+5384,""" Domačije ne urejamo zaradi nagrad , temveč zaradi boljšega počutja , "" pravi Starihova , ki tudi meni , da zadnja leta na marsikateri kmečki domačiji vzorno skrbijo za urejenost , a morda ne vedo za akcijo ali pa se nanjo ne prijavijo zaradi svoje skromnosti .",O O O O O O O O O O O O O O B-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+3275,"Z Miranom sva sicer začela zelo mirno , nato pa tempo po potrebi stopnjevala .",O B-PER O O O O O O O O O O O O O
+4690,"Tvoje stanje je ' dobro ' , če te zanima . «",O O O O O O O O O O O O
+4797,"Vprašanje , na katero ste že večkrat v zadnjih dneh odgovorili .",O O O O O O O O O O O O
+999,"Pri tem sta jim v veliko pomoč , na Kokrsko sedlo iz Konca in na Kamniško z Jermance , ki pa lahko varno obratujeta le brezhibno vzdrževani , kar je velik in zahteven zalogaj , pravi predsednik Dušan Štefula , ki ve , kaj govori , saj je pri Planinski zvezi Slovenije zadolžen za nadzor nad vsemi tovornimi žičnicami v naših gorah .",O O O O O O O O O B-LOC I-LOC O B-LOC O O B-LOC O B-LOC O O O O O O O O O O O O O O O O O O O B-PER I-PER O O O O O O O O O O B-ORG I-ORG I-ORG O O O O O O O O O O O
+2852,» Vam pomagam vrečki nesti domov ? «,O O O O O O O O
+4143,"Po Školču so se včeraj Metelkove "" lotili "" tudi mestni svetniki",O B-PER O O O B-LOC O O O O O O
+184,""" Zakaj pa ne paziš , kam odlagaš & # @ % papirje , za vraga ?",O O O O O O O O O O O O O O O O O
+2654,"/ 1 Johann Gottfried Herder , Metakritik zur Kritik der reinen Vernunft ( 1799 ) , Berlin ( - Ost ) 1955 , str. 68 . / 1",O O B-PER I-PER I-PER O B-MISC I-MISC I-MISC I-MISC I-MISC I-MISC O O O O B-LOC O O O O O O O O O O O
+3433,Dvojčki vas bodo vedno presenetili .,O O O O O O
+3332,"Zavedam se možnosti , da še lahko dobim povabilo za nastop na OI , a se s tem nočem obremenjevati , saj to od mene ni več odvisno .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+8783,In končno se je spotaknil tudi na Nemčiji .,O O O O O O O B-LOC O
+5879,"Prejšnje je bilo poplavljeno , voda se še ni pričela umikati , merjasec je ranjen in ves trop je močno potreben krepilnega spanca in hrane …",O O O O O O O O O O O O O O O O O O O O O O O O O O
+5834,Preko timske organizacijske strukture je vsakdo v organizaciji od predsednika uprave do posameznika na najnižjem hierarhičnem nivoju vključen v upravljanje in izboljševanje svojega dela .,O O O O O O O O O O O O O O O O O O O O O O O O O
+3851,"David mi je bolj všeč takrat , ko je čisto tiho .",B-PER O O O O O O O O O O O
+2105,"Vsekakor je nekoliko resnejši s stališča izvirnosti kot v Latinski Ameriki in na Karibih , a so tudi tukaj pri preganjanju zlih duhov možnosti za transgresijo kot na primer v Benetkah : trangresije , ki seveda izpadejo naivne v primerjavi s tistimi iz eksotičnih dežel .",O O O O O O O O O B-LOC I-LOC O O B-LOC O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O
+3008,"Zaradi spektralnega razmika sploh ne bodo prepoznavne in poleg tega bodo vzbujale vtis nenavadne upočasnitve , kot da bi na nebesnem svodu okamenele .",O O O O O O O O O O O O O O O O O O O O O O O O
+4441,"Prošnji bosta morali prestati vrsto preizkušenj , medtem pa je že odločeno , da bodo letos popotresno obnovili stolp na Blejskem gradu in zidove gradu Katzenstein v Begunjah , v katerem domuje Psihiatrična bolnišnica .",O O O O O O O O O O O O O O O O O O O O B-LOC I-LOC O O O B-LOC O B-LOC O O O O B-ORG I-ORG O
+2984,» Zelo rad črpam iz pravih dokumentov .,O O O O O O O O
+2022,"Postapartheidske institucije pomiritve v Južni Afriki temeljijo na » dolgem spominu « in na spominjanju kot delu , ki ga opravljajo skupnosti in njihovi posamezniki .",O O O O B-LOC I-LOC O O O O O O O O O O O O O O O O O O O O
+255,"Toda razvoj še ni bil končan : leta 1960 so na agronomskem oddelku vpeljali študij živinoreje , to je danes oddelek za zootehniko .",O O O O O O O O O O O O O O O O O O O O O O O O
+4694,Nikakršnih problemov .,O O O
+7839,"V njegovem upravnem odboru jo zastopa dr. Igor Koršič , profesor za zgodovino in teorijo filma na AGRFT , sicer pa tudi dramaturg pri nekaterih slovenskih filmih ( Rdeči boogie , Umetni raj ) .",O O O O O O O B-PER I-PER O O O O O O O O B-ORG O O O O O O O O O O B-MISC I-MISC O B-MISC I-MISC O O
+4203,"LJUBLJANA , 26. - Poljski premier Jerzy Buzek je sinoči prispel na dvodnevni uradni obisk v Slovenijo .",B-LOC O O O O O B-PER I-PER O O O O O O O O B-LOC O
+8146,"Mama ni vedela , kako naj dokaže , da je bila njena hčerkica žrtev spolne zlorabe , kajti deklica sama ni znala povedati , kaj se je dogajalo .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+3377,"Prizadevni organizatorji družabnega življena v Tangu bodo v sodelovanju s plesnim centrom Dolenjske , ki ga vodita Boris in Mirjana Vovk , pripravili finale plesnega turnirja družabnega plesa za pokal Otočca .",O O O O O B-ORG O O O O B-ORG I-ORG I-ORG O O O O B-PER O B-PER I-PER O O O O O O O O O B-LOC O
+7946,BORIS SOVIČ : Hvala za besedo .,B-PER I-PER O O O O O
+8470,"Dejstvo , da vsi trije vendarle zastopajo tudi svoje etnične skupine , kljub temu ostaja nesporno .",O O O O O O O O O O O O O O O O O
+7167,Po letu in pol je plinarna že začela obratovati .,O O O O O O O O O O
+7845,Linja je malce manj kot lani .,O O O O O O O
+390,"Poč bo poleti , ko pod steno ne bo toliko snega , najbrž nedostopna .",O O O O O O O O O O O O O O O
+2186,"Council of the European Union , Presidency Conclusions .",O O O O O O O O O
+5060,"Združiti sta se morali še pred prvim svitom , drugače je bitje umrlo .",O O O O O O O O O O O O O O
+6992,"Lani sta izšli sta dve številki , ki so ju člani filatelističnih društev , včlanjenih v FZS , dobili brezplačno .",O O O O O O O O O O O O O O O O B-ORG O O O O
+4252,"Minimalizem v gibanju , nekakšna odsotnost plesa , ki je nekako v suspenzu in zahteva maksimalno domišljijo pri gledalcu ali ta pristop napeljuje na misel , da je gledalec že vse videl in je treba v njem le prebuditi spomin ?",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2472,"NAPOVED - Danes bo pretežno jasno , čez dan občasno zmerno oblačno .",O O O O O O O O O O O O O
+5942,"Pisatelj ni čutil le odtujenosti ljudem , temveč tudi odtujenost samemu sebi .",O O O O O O O O O O O O O
+7332,"V državnem zboru so v četrtek v nasprotju z vplivnim , a vendarle delom zaposlenih , ki jih šele čaka spoznanje , da bodo tudi po Čadeževem odhodu delovni pogoji še vedno v resnici katastrofalni in sovražni do ustvarjalnosti , naseljene v dobršnem delu kolektiva ( do obisti poznam radijce in verjemite , da je tako ! ) poslanci javno povedali , da je krivda za vse to še kje drugje .",O O O O O O O O O O O O O O O O O O O O O O O O O O B-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2387,"Pišem vam , ker me je obisk ljubljanskega živalskega vrta pred nekaj dnevi pošteno razjezil .",O O O O O O O O O O O O O O O O
+4643,Nato pa sva bruhnila v glasen krohot .,O O O O O O O O
+4709,Skupne podpore vladnim predlogom ni niti v koaliciji Pri večini olajšanje zaradi propada železničarskih zahtev,O O O O O O O O O O O O O O O
+9299,"Med drugim pogrešajo predstavništvo , ki bi v Albaniji zastopalo njihove interese .",O O O O O O O O B-LOC O O O O
+7761,"Izdelava sira je kompleksen proces , sestavljen iz mnogo korakov , ki jim moramo slediti točno po vnaprej predpisanem vrstnem redu .",O O O O O O O O O O O O O O O O O O O O O O
+1036,Naš državni zbor je opravil veliko delo in ni zamudil nobene zgodovinske priložnosti,O O O O O O O O O O O O O
+3167,"Če dandanes tega nihče več noče priznati , potem je to zaradi sramu , ki preprečuje , da bi govorili o neuspehu .",O O O O O O O O O O O O O O O O O O O O O O O
+4723,Ovadba sledi .,O O O
+2280,"Kaliban pa mu je hotel posiliti hči ( Mirando ) in se posmehuje tistemu svetu , ki ni njegov svet :",B-PER O O O O O O O B-PER O O O O O O O O O O O O
+5589,"Janez Pipan , ravnatelj ljubljanske Drame , mi je zaupal režijo gledališke uspešnice Art , ki jo je napisala naturalizirana Francozinja Yasmina Reza .",B-PER I-PER O O O B-ORG O O O O O O O B-MISC O O O O O O B-PER B-PER I-PER O
+930,Škatli z denarjem sta bili zapečateni .,O O O O O O O
+823,"Ministrstvu za okolje , prostor in energijo so pravzaprav poslali grozeče zahteve , opremljene z besedami o postopkih na ustavnem sodišču .",O O O O O O O O O O O O O O O O O O O O O O
+6903,"Otroci prodajajo borovnice , ovce na bližnjih pobočjih so kot majhni beli oblački .",O O O O O O O O O O O O O O
+4023,Koliko iskanja in koliko dela je šlo v nič !,O O O O O O O O O O
+1890,"Namesto dveh prostitutk , ki naj bi ju ob prihodu srečal don Kihot , ob vstopu v gostilniški atrij zagledam dekle , ki energično čisti stranišča .",O O O O O O O O O O O B-PER I-PER O O O O O O O O O O O O O O
+8712,Nenadoma se je Jasna stegnila k očetu .,O O O B-PER O O O O
+2143,Do takrat mu niso ponudili niti pijače .,O O O O O O O O
+6449,"V kilometrini so namreč zajeti vsi stroški , kot na primer tekoče , investicijsko vzdrževanje , amortizacija , registracija , zavarovanje , stroški goriva ipd.",O O O O O O O O O O O O O O O O O O O O O O O O O
+63,"Ustavno sodišče je predlog pomladnikov zavrnilo z modro obrazložitvijo , da gre v tem primeru za "" pozitivno diskriminacijo "" .",B-ORG I-ORG O O O O O O O O O O O O O O O O O O O
+8044,Nekatere deklice se že rodijo brez deviške kožice .,O O O O O O O O O
+9168,Stikalo 8285 je namenjeno manjšim omrežjem z največ 48 delovnimi mesti .,O O O O O O O O O O O O
+7129,"Kot kaznivo dejanje , na primer , bi bilo potrebno določiti možnost podkupovanja tuje uradne osebe pri nas in narobe ter razširitev podkupovanja na nekatera nova področja , na primer športa in zdravstva .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+7649,"Nekako mi je uspelo prepričati mentorja , ki smo ga klicali Ata , da področje resnično potrebuje nekaj znanstvenega premisleka , da je tema ( ne samo ) neraziskana , ampak pravi znanstveni vakuum , ki kar kliče po kritični obdelavi .",O O O O O O O O O O O B-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2495,Za vse sodelujoče so pripravili veliko lepih nagrad .,O O O O O O O O O
+3558,"In ponovno ponavljam : do 90 % oziroma do 93 , 94 % davkoplačevalcev dobi tukaj 2.800 tolarjev za prvega otroka med letom .",O O O O O O O O O O O O O O O O O O O O O O O O
+7745,Prvi je mnogo večji optimizem o poslovnih možnostih v prihodnjem ( šestmesečnem ) obdobju ( le 2 odstotka anketiranih napoveduje poslabšanje poslovnega položaja podjetja ) .,O O O O O O O O O O O O O O O O O O O O O O O O O O
+22,Za obe strani pa je najbolj zadovoljiva dvosmerna komunikacija .,O O O O O O O O O O
+8070,"Tamponi so različne velikosti , npr. mini , ki so primerni za mlade deklice , pa tudi super za dneve z močnejšo krvavitvijo .",O O O O O O O O O O O O O O O O O O O O O O O O
+3827,"V junijski reviji Moj mali svet sem zasledila , da gospa Ana Šemrov išče pasijonko .",O O O B-ORG I-ORG I-ORG O O O O O B-PER I-PER O O O
+8068,Magični in zdravilni moči menstruacijske krvi so dali negativen pomen ; imeli so jo za strupeno in škodljivo .,O O O O O O O O O O O O O O O O O O O
+6696,"V tretjem odstavku 31. člena se besede "" sprememba namembnosti , prenova , izboljšave "" črtajo .",O O O O O O O O O O O O O O O O O
+4769,"Veliko več državljanov je nanj namreč odgovorilo , da je njihov materni jezik italijanščina , kot se jih je izreklo za italijansko narodnost .",O O O O O O O O O O O O O O O O O O O O O O O O
+4850,"- K sreči niste zapisani samo šahu , saj uspešno študirate ekonomijo .",O O O O O O O O O O O O O
+4520,"Stric , kaj nam lahko poveste o dekletu ? ! «",O O O O O O O O O O O
+6015,"Ne smemo pa pozabiti , da je slika le posrednik , ki simulira njegovo prisotnost .",O O O O O O O O O O O O O O O O
+8758,"Čas je , da mit ločimo od realnosti , glorifikacijo od fakta .",O O O O O O O O O O O O O
+1404,"Njegov rojak Lewis Goldberg , ki je vpeljal pojem "" velika peterica "" , pa je ugotovil , da se vsak od nas , ko prvič sreča novega človeka , v mislih vpraša prav po teh petih osebnostnih lastnostih : "" Je zanesljiv , dobrosrčen in prijeten , ali pa morda nezanesljiv , hladen in zoprn ? """,O O B-PER I-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+5435,"V moški konkurenci je bil izid zelo tesen , saj so o športniku leta odločili glasovi enega samega člana strokovne komisije .",O O O O O O O O O O O O O O O O O O O O O O
+6487,Življenje planine je bilo najbolj živahno v času med obema svetovnima vojnama v prvi polovici 20. stoletja .,O O O O O O O O O O O O O O O O O O
+672,Pri vinih nižje kakovosti ne pride do imenovane pozitivne reakcije in se začnejo prehitro starati .,O O O O O O O O O O O O O O O O
+7096,"Zakonodajno oblast ima 90 - članski Državni zbor , ki voli Vlado Republike Slovenije .",O O O O O O B-ORG I-ORG O O O B-ORG I-ORG I-ORG O
+4299,"Pečeno meso razrežemo na rezine in ponudimo z omako , ki jo pripravimo iz pečenkinega soka , pretlačene priložene jušne zelenjave , juhe in malo moke in izboljšamo s kislo smetano",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+888,"To sem že nekje napisal , ali ne ?",O O O O O O O O O
+1171,"Nadaljnjih 7 do 14 dni opazujemo , ali se je pojavil rdeč kolobar na telesu ali na mestu pika oziroma otrdel tilnik in bruhanje znak borelioze .",O O O O O O O O O O O O O O O O O O O O O O O O O O O
+4494,"Če bi med številnimi raziskavami tržišča naredili še kakšno o tem , bi jim postalo kaj hitro jasno , da je večina klobas Poli v hladilnikih le zato , ker jih imajo radi otroci - kategorija potrošnikov , ki jo bodo v PP morali vzeti bolj resno kot doslej .",O O O O O O O O O O O O O O O O O O O O O O O B-MISC O O O O O O O O O O O O O O O O O O B-ORG O O O O O O O
+8999,"Zanima me , zakaj moški hranijo Playboye ?",O O O O O O B-ORG O
+4293,Skozi tirolske alpske doline se prek inntalske avtoceste z Nemčije na jug v Italijo dnevno prebija 8000 tovornjakov .,O O O O O O O O O B-LOC O O O B-LOC O O O O O
+8939,"Golčer , ki bo imel v konkurenci tudi nekaj bivših MTB stanovskih kolegov , ima s to dirko celo več motivacije kot ostali .",B-PER O O O O O O O O O O O O O O O O O O O O O O O
+9081,Izvoz je resnično ena najmočnejših strani programa in to dopolnjuje njegovo uporabnost .,O O O O O O O O O O O O O
+92,"Poudaril je , da je bila to , ko je pred desetimi leti postal deželni glavar , dokazano najboljša doba za narodnostne manjšine .",O O O O O O O O O O O O O O O O O O O O O O O O
+2869,"Nagrada , ki jo ponujava , ni majhna .",O O O O O O O O O
+2991,"Precej pozneje se je pojavil pri Sandiju Čolniku v njegovem Večernem gostu in opazil sem , da je to ta isti človek iz članka , ki ga že hranim v fasciklu .",O O O O O O B-PER I-PER O O B-MISC I-MISC O O O O O O O O O O O O O O O O O O O O
+1470,"Proti njej sta pričala dva delavca , ki sta živela v njeni hiši .",O O O O O O O O O O O O O O
+2096,Nova je tudi 14 - metrska bavaria 44 v dveh različicah z običajno krmo ali sredinskim kokpitom ( 44 ocean ) .,O O O O O O B-MISC I-MISC O O O O O O O O O O O O O O
+9101,"To je naša ocena , ki temelji tudi na oceni določenih postavk v londonski študiji .",O O O O O O O O O O O O O O O O
+263,Devetindvajsetletni Matevž Hribernik je v Bruslju preživel pet mesecev kot stažist na generalnem direktoratu za zaposlovanje in socialne zadeve .,O B-PER I-PER O O B-LOC O O O O O O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG O
+4260,Najmanj sto let lahko dočakaš .,O O O O O O
+8490,"Kralj , presenečen in ganjen zaradi tega nepričakovanega predloga in Veronikine velikodušne pripravljenosti , da poskusi tudi problematično poslanstvo in da se odpove lastnim apostolskim nalogam v Združenih državah in drugod , je ponudbo hvaležno sprejel .",O O O O O O O O O O B-PER O O O O O O O O O O O O O O O O B-LOC I-LOC O O O O O O O O
+809,"S svojo fuzijo reggaeja , duba , breakbeata , drumnbassa , hip - hopa se bo predstavila bristolska producentska ekipa Smith & Mighty / More Rockers ( 2200 SIT ) .",O O O O O O O O O O O O O O O O O O O O B-ORG I-ORG I-ORG O B-MISC I-MISC O O O O O
+9114,"Tudi temu je dal de Terzi na izbiro , ali bo dve leti plačeval vojaka , ki bo stražil pazinski grad , ali pa bo šel za štiri leta v ječo .",O O O O B-PER I-PER O O O O O O O O O O O O O O O O O O O O O O O O O O
+8777,"Vsekakor pa je bila ta pot drugačna , in vodila je proti skrajnim , kaj čudnim postajam .",O O O O O O O O O O O O O O O O O O
+7177,"Zrasla je , koristna je , pa še prijatelje je spoznala .",O O O O O O O O O O O O
+2878,"Žive meje med potkami so se zdaj zarasle v skoraj neprehodno goščavo , pa vendar je Renzo z gotovim korakom vodil svoja spremljevalca .",O O O O O O O O O O O O O O O O B-PER O O O O O O O
+8265,"A Giovanni pisanje grških novinarjev v celoti zavrača : To , kar pišejo , je velika laž .",O B-PER O O O O O O O O O O O O O O O O
+5363,Bilo je lepo !,O O O O
+944,"Vse to je čutila , vendar ni imela moči , da bi to preprečila , pa karkoli je že bilo .",O O O O O O O O O O O O O O O O O O O O O
+6124,"Kar malo zaskrbi me , tako sem zadovoljen sam s sabo .",O O O O O O O O O O O O
+8185,"Film je uspel ravno zato , ker pokaže , da znajo biti » prijetni « prebivalci » malega bisera « enako pokvarjene in revanšistične svinje kot deklarirano skompromitirani filmski mogotci .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+4754,"Stavko je treba obravnavati kot celoto , zaradi česar v določenem časovnem obdobju ne more biti zakonita , v drugem časovnem obdobju pa nezakonita .",O O O O O O O O O O O O O O O O O O O O O O O O O
+2068,V Jugoslaviji tedaj ni bilo nobenega drugega slovenskega trenerja .,O B-LOC O O O O O O O O
+6419,Po Brkinih smo letos že kolesarili .,O B-LOC O O O O O
+8626,Stene so bile bele .,O O O O O
+5695,Iz ene tone semen jatrophe je mogoče pridelati do 300 litrov goriva .,O O O O O O O O O O O O O
+2947,"Zato se v Orto baru vrti vsa glasba , ki nima pop prizvoka .",O O O B-ORG I-ORG O O O O O O O O O
+191,"P. P. S. : Ker se bom čez pol ure sam naslikal pri Vas , ne pretipkavajte , bom prinesel disketo .",O O O O O O O O O O O O O O O O O O O O O O
+7947,"Jaz bi vljudno predlagal , da bi glasovali o ponovitvi glasovanja , ker dopuščam možnost , da se je kdo od poslancev zmotil .",O O O O O O O O O O O O O O O O O O O O O O O O
+6482,"Enako je treba tudi spodbudo , če želimo izvleči najdragocenejše dele informacij , analizirati .",O O O O O O O O O O O O O O O
+5244,"Dosedanja pogodba se namreč izteče konec maja , v toplarni pa bi možnost njenega podaljšanja radi izkoristili zaradi morebitnih pritožb zainteresiranih dobaviteljev .",O O O O O O O O O O O O O O O O O O O O O O O
+6585,Delodajalca bi morala zaskrbeti njegova » begavost « .,O O O O O O O O O
+3746,"Hugo Friedrich je v delu Struktura moderne lirike poudarjal , da pri sodobnih pesnikih prevladuje tisti tip , ki se ponavadi imenuje genitivna metafora .",B-PER I-PER O O O B-MISC I-MISC I-MISC O O O O O O O O O O O O O O O O O
+4562,"Za že ustanovljene avtošole sicer še velja dveletni prehodni rok , v katerem morajo uskladiti svoje delovanje z novim zakonom , za tiste , ki nastajajo v teh dneh , pa je novi zakon že obvezujoč .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+5546,Odhitela sta k drugim članom tropa ter se družabno podrgnila ob njihove repe in smrčke .,O O O O O O O O O O O O O O O O
+5179,"Tilen : Škatle bi morale biti takšne , da bi šli mi notri .",B-PER O O O O O O O O O O O O O
+8553,Njegovo najbolj znano delo Sakuntala govori o ljubezni kralja Dušjanteja do nimfe Sakuntale .,O O O O B-PER O O O O B-PER O O B-PER O
+6895,Tu si med drugim ogledamo triladijsko pravoslavno cerkev sv. Spasa iz začetka 18. stoletja .,O O O O O O O B-LOC I-LOC I-LOC O O O O O
+3532,"Ministrstvo za notranje zadeve je pristojno za odločanje in ukrepanje v upravnih postopkih , ki se nanašajo na nabavo , posest in nošenje osebnega orožja .",B-ORG I-ORG I-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O O
+7591,"Prva , leta 1998 , sta ga dobila Ljubljana in Celje .",O O O O O O O O B-LOC O B-LOC O
+7896,Na primopredajo v solkanskem hotelu Sabotin pa so jih 2. julija prinesli 992 .,O O O O B-ORG I-ORG O O O O O O O O
+4062,"KOT DELO NA DOMU SE ŠTEJE OPRAVLJANJE DELA NA DOMU DELAVCA ALI V PROSTORIH PO NJEGOVI IZBIRI , VENDAR ZUNAJ DELOVNIH PROSTOROV DELODAJALCA .",O O O O O O O O O O O O O O O O O O O O O O O O
+2875,» Lahko pa ga kličete tudi signor Getz . «,O O O O O O O B-PER O O
+97,"Pomemben pogoj je stopnja gospodarske razvitosti , kar pomeni , da morajo pred polnopravnim članstvom Slovenije osebni dohodki njenih državljanov dosegati vsaj 50 ali 60 odstotkov povprečnega evropskega dohodka .",O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O
+7487,"O ti boga , sej ni , dab verjel .",O O O O O O O O O O
+2225,"Beguncem bo posredoval različna dela , za katera ne bodo potrebovali delovnega vizuma .",O O O O O O O O O O O O O O
+2922,"RJAVE jarkice , tik pred nesnostjo , jarkice so cepljene , dostava na dom , ugodno prodam .",O O O O O O O O O O O O O O O O O O
+8260,"Nekdanji igralec Barcelone , zdaj pa član grškega Olympiakosa , je namreč zelo veren človek : Ko se bom nogometno upokojil , bi želel postati duhovnik .",O O B-ORG O O O O O B-ORG O O O O O O O O O O O O O O O O O O
+7726,"Doslej je bilo izplačanih za 13,4 milijarde tolarjev neposrednih plačil , približno milijardo tolarjev pa bodo še morali razdeliti , in sicer tistim , ki so se na odločbo pritožili ( takih je bilo okoli 1300 ) , in tistim , ki so oddali vloge za klavne premije .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+8505,"Anthony , Susan Brownell ( 18201906 ) , ameriška reformatorka in sufražetka .",B-PER I-PER I-PER I-PER O O O O O O O O O
+3758,"Prozni opus pisatelja in dramatika Rudija Šeliga ( 19352005 ) obsega predvsem krajše romane ( npr. Triptih Agate Schwarzkobler , 1968 ) in novele ( zbirke Kamen , 1968 ; Poganstvo , 1973 ; Uslišani spomin , 1997 itn. ) , po letu 1985 pa tudi kratke zgodbe ( Molčanja ; Lahkotne menipeje , 2005 ) .",O O O O O B-PER I-PER O O O O O O O O O B-MISC I-MISC I-MISC O O O O O O O B-MISC O O O B-MISC O O O B-MISC I-MISC O O O O O O O O O O O O O B-MISC O B-MISC I-MISC O O O O
+8967,"Pečene banane olupite , čeznje prelijte čokoladno mešanico , dodajte sladoled in okrasite z ribano čokolado ali mrvicami .",O O O O O O O O O O O O O O O O O O O
+7871,"Špela Vozel ( 300 ) je romantična in nežna duša , zato je rada zaljubljena , ljubljena in rada ljubi .",B-PER I-PER O O O O O O O O O O O O O O O O O O O
+8042,"To je neke vrste zaščitna kožica , mehek kožni rob , ki je pri nekaterih deklicah bolj , pri drugih pa manj izrazit .",O O O O O O O O O O O O O O O O O O O O O O O O
+754,""" Davčna uprava nima naših ' fotk ' , za druge pa ni važno , ha , ha , ha , "" so se smejali , ko smo jih prestregli med treningom po Rožniku .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O
+1324,Vključevanje otrok v varčevanje se nadaljuje preko cicibanskih in šolskih hranilnic .,O O O O O O O O O O O O
+8730,"Tako sem se odločila , da bom tudi sama napisala nekaj podobnega .",O O O O O O O O O O O O O
+7231,"Predvsem brezposelnim rojakom , na katere so najbolj računali , je na dom pošiljala propagandne letake .",O O O O O O O O O O O O O O O O O
+1682,"Predvsem o tisti , ki ženskam » lajša « delo v hiši .",O O O O O O O O O O O O O
+9330,Dne 15. julija 1991 je v prostorih Slovenske matice potekal koordinacijski sestanek Odborov staršev .,O O O O O O O B-LOC I-LOC O O O O O O
+4556,"MURSKA SOBOTA , 21. - V sredo okrog 18. ure se je v naselju Ivanjševci pri Prosenjakovcih na Goričkem pripetila tragična prometna nesreča , v kateri je izgubil življenje dveletni otrok .",B-LOC I-LOC O O O O O O O O O O O O B-LOC O B-LOC O B-LOC O O O O O O O O O O O O O
+1316,"Dvaindvajset jih je imel , ko se je odpravil nazaj domov , onkraj . . .",O O O O O O O O O O O O O O O O
+8239,Po podplatih je poskakoval je gor in dol .,O O O O O O O O O
+394,Nad nama se sklanja stena s previsnimi odlomi .,O O O O O O O O O
+3002,"Nekaj ur kasneje župan na igrišču za golf opazuje svojega sina Andrewa , ki igra golf s Tigerjem Woodsom .",O O O O O O O O O O O B-PER O O O O O B-PER I-PER O
+1177,"V začetku bo morda hudo , ampak ne smeš popustiti .",O O O O O O O O O O O
+6692,"Tako bo omogočen sprejem novega zakona Unije o prevzemu , Velika Britanija pa bo lahko bolj sprejemala politiko odprtih meja Unije .",O O O O O O B-ORG O O O B-LOC I-LOC O O O O O O O O B-ORG O
+1117,"KRAJ JE RHODES POIMENOVAL "" RAZGLED NA SVET "" .",O O B-PER O O B-LOC I-LOC I-LOC O O
+8277,"Kakšnih sto ljudi namreč ni moglo v mestno hišo , ker z matičarjem vred , ki je državni uslužbenec , niso mogli odpreti vrat .",O O O O O O O O O O O O O O O O O O O O O O O O O
+9344,"Dovolite mi , da zlasti opozorim na dve , po moji sodbi bistveni značilnosti načina slovenske osamosvojitve , ki sta bili v dosedanjih podobnih osvetljevanjih premalo zaznani in ovrednoteni .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2727,"Na obzorju , sotočju neba in zemlje , so zasijali dolgi rožnati in oranžni plameni .",O O O O O O O O O O O O O O O O
+2616,"Takrat bo , kot smo slišali , o njej in o scenarijih uvedbe reforme pri nas ( leta 2005 , 2006 ali 2007 ) razpravljal tudi parlamentarni odbor za kmetijstvo , gozdarstvo in prehrano .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+6359,"Če povsod najdemo več resničnosti kot v sebi , to pomeni priznanje , da smo izbrali napačno pot in si zaslužimo propad .",O O O O O O O O O O O O O O O O O O O O O O O
+3830,"Kot mnogi , ki živijo z naravo , se tudi pri nas doma zavedamo njenih dobrin in danosti .",O O O O O O O O O O O O O O O O O O O
+2223,"Šuštar pravi , da zakon ravno zato predvideva pravico beguncev do začasnega in občasnega dela .",B-PER O O O O O O O O O O O O O O O
+8983,"Prazgodovinski strip v naših najpomembnejših dokumentih na žalost ni ravno doprinos k identiteti sodobne Slovenije , izpričuje bolj otroško dobo slovenske državnosti ( in nekaterih državnikov ) .",O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O
+8130,Kaj je narobe z najinima nosovoma ?,O O O O O O O
+9352,"Podaja kronološko shemo tistih elementov , s katerimi sta Vatikan in Katoliška cerkev v Sloveniji pripomogla k osamosvojitvi Republike Slovenije .",O O O O O O O O O B-LOC O B-ORG I-ORG I-ORG I-ORG O O O B-ORG I-ORG O
+3256,"Beckhamovi agenti so tedaj v izjavi dejali , da je igralec nad Unitedovo potezo "" presenečen in razočaran "" , že tedaj pa se je dalo med vrsticami razbrati , da ga veliko bolj kot selitev v letos skromno Barcelono zanima igranje za najbolj prestižen klub , kar jih je .",B-PER O O O O O O O O O O O B-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O B-ORG O O O O O O O O O O O
+4475,OLIVER TWIST ( VANS ) .,B-PER I-PER O B-MISC O O
+8054,Opremljevalca prostorov in notranjega arhitekta iz nosečnostnega oskrbovalnega centra čaka še veliko dela !,O O O O O O O O O O O O O O
+1,Dogodek v Ankaranu je bila dramatična nesreča .,O O B-LOC O O O O O
+4787,"Wilson in drugi vodilni pisci otroških knjig veliko časa namenijo rednemu pojavljanju , dogodkom in podpisovanju knjig .",B-PER O O O O O O O O O O O O O O O O O
+7033,Nagrade niso prenosljive in jih ni mogoče zamenjati za gotovino ali drugo blago .,O O O O O O O O O O O O O O
+7202,• Individualno izdelujejo vozila s pogonom na gumo in si med seboj pomagajo .,O O O O O O O O O O O O O O
+5465,"Pri zabavi jih kljub žalovanju ni nihče motil , na koncu pa je natakar le prišepnil Majzlju : "" Vam pa res ni lahko .",O O O O O O O O O O O O O O O O B-PER O O O O O O O O
+9417,Slednje bodo vsakič ob podobnih primerih gotovo ponovno oživele .,O O O O O O O O O O
+2264,"Ta denar nima , če lahko rečemo , samo materialnih razsežnosti .",O O O O O O O O O O O O
+6386,"Predvsem moramo ugotoviti , da je termin kontekst znotraj same znanosti o jeziku večznačen , tudi ko ga pojmujemo kot sklop konkretnih okoliščin , v katerih se odvija jezikovna dejavnost .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+949,"LJUBLJANA , 9. - Danes naj bi v Delavski knjižnici potekala okrogla miza Borze dela .",B-LOC O O O O O O O B-ORG I-ORG O O O B-MISC I-MISC O
+8878,"Zdi se , da ta razpoloženjski moment ni mogel zgrešiti niti samega diktatorja .",O O O O O O O O O O O O O O
+2901,"» Vidve ostanita pri Boju , jaz pa si grem ogledat naše obiskovalce . «",O O O O B-PER O O O O O O O O O O
+6219,"Zanimivo pa je izročilo , kakršno mi je zaupala Jožica , ki nastanek zaselka na Golčaju in posredno tudi cerkev povezuje s francoskim obdobjem .",O O O O O O O O O B-PER O O O O O B-LOC O O O O O O O O O
+8379,"Najštevilčnejši je bil prav slednji zbor , ki ga sestavlja kar 36 pevcev .",O O O O O O O O O O O O O O
+6053,"Kloramfenikol je v Sloveniji že deset let prepovedan za t. i. food animals , kar pomeni za zdravljenje živali , ki kakorkoli lahko prihajajo v prehransko verigo , bodisi preko mesa bodisi preko mleka ali jajc .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2769,"No ja , bomo pač ubogali njegov nasvet in se čimprej odpravili v Čampo .",O O O O O O O O O O O O O B-LOC O
+5192,"Če ne , se znajde na zatožni klopi - kot Ljubljančan iz naše zgodbe .",O O O O O O O O O O B-PER O O O O
+4929,"Bolj brezupno ko se počuti , boljše bo .",O O O O O O O O O
+4367,"Pravzaprav je bilo vse skupaj presenečenje , vendar še zdaleč ne negativno .",O O O O O O O O O O O O O
+9001,Tudi sam mi ne zna razložiti svoje potrebe po shranjevanju Playboyev .,O O O O O O O O O O B-ORG O
+4507,"Alergija na kravje ali sojino mleko , pa tudi neprenašanje mlečnega sladkorja , so lahko vzrok kolik .",O O O O O O O O O O O O O O O O O O
+8238,"Neučakana in temeljita , točno to sem rekel , je rekel oči .",O O O O O O O O O O O O O
+6530,"Čeprav je treba njegove napovedi vedno jemati z zadržkom , smo se lahko v kraju Radenci prepričali , da je imel tokrat prav .",O O O O O O O O O O O O O O O B-LOC O O O O O O O O
+7995,"Saj bi s svojo izobrazbo vendar lahko živel spodobno , materialno udobno življenje !",O O O O O O O O O O O O O O
+3367,"Pri vabi ni ušata prav nič izbirčna ; največkrat jo lovimo na razmočen in zgneten kruh , na krušno sredico , na testo iz moke in arome , kadar se dvigujejo na površino , damo lahko na enega od trnkov tudi košček skorjice , ki drži vabo na površini .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+8547,"Aprila 1945 je , ko je bila Nemčija porušena , naredil samomor .",O O O O O O O B-LOC O O O O O
+2810,Močno se je nagnil čez balkonsko ograjo in pljunil v temni kanal .,O O O O O O O O O O O O O
+3033,Nasmehnil se je in spil .,O O O O O O
+7736,Ti otroci se močno razlikujejo od sovrstnikov .,O O O O O O O O
+3482,"VODNAR in LEV : Na začetku se zdi njuno razmerje vznemirljivo in obetavno , sčasoma pa lahko pride do prave zmešnjave .",O O O O O O O O O O O O O O O O O O O O O O
+4156,"Pričujoče poglavje orisuje te spremembe v prizadevanju , da bi raziskalo zgodovinsko povezavo med vsebino znanosti in njenim družbenim ozadjem .",O O O O O O O O O O O O O O O O O O O O O
+8976,"Centri v določeni meri delijo usodo okolja , ni pa nujno , da je čisto tako .",O O O O O O O O O O O O O O O O O
+6623,"Ampak dokler si star , lahko še marsikaj nepostorjenega postoriš .",O O O O O O O O O O O
+5684,"Naslova svetovnega prvaka v razredu do 125 kubičnih centimetrov se je veselil Manuel Poggiali ( San Marino ) , ki mu je zadoščalo že peto mesto na sobotni dirki za "" Veliko nagrado Brazilije "" v Riu de Janeiru .",O O O O O O O O O O O O B-PER I-PER O B-LOC I-LOC O O O O O O O O O O O O O O B-MISC I-MISC I-MISC O O B-LOC I-LOC I-LOC O
+2090,Nova televizija pa ima velike ambicije .,O O O O O O O
+9033,"Tobačnina služba za stike z javnostmi nam v podjetje ni dovolila , češ da so že vse povedali na tiskovki , kjer pa delavcev iz proizvodnje seveda ni bilo .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+9449,"» Glede na to , da bomo z obnovo in postopno revitalizacijo gradu Šrajbarski turn kmalu začeli , bi bile dodatne nastanitve v gradu povsem neprimerne , « se je glasil odgovor občini , ki je želela od uprave dobiti soglasje za nastanitev omenjenih dveh oseb .",O O O O O O O O O O O O O B-LOC I-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+4647,Namesto tega bere preveč knjig . «,O O O O O O O
+4918,"V kaj so se vtaknili : v naše samospoštovanje , našo varnost , našo častihlepnost , naša osebna ali spolna razmerja ?",O O O O O O O O O O O O O O O O O O O O O O
+2675,"Velikost nosilne pole z natisnjenim besedilom Arte del merletto in petnajstimi znamkami je 202 x 325 mm , prebodi s posamezno znamko so veliki 48 x 40 mm , tekstilni odrezki oz. znamke pa 42 x 34 mm ; prodajna cena pole petnajstih znamk je 42 evrov .",O O O O O O B-MISC I-MISC I-MISC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+9102,Toda metode ocenjevanja so lahko različne .,O O O O O O O
+1320,Zmajarja našli mrtva med vasema Rova in Kolovec - Mladoletnik zbil petletno deklico,O O O O O B-LOC O B-LOC O O O O O
+8638,"Postelja je bila hladna , vendar se je hitro ogrela .",O O O O O O O O O O O
+5174,"Takoj je vzpostavil očesni stik z menoj in tudi odgovarjal na moja vprašanja ( ime , starost , kje je doma … ) .",O O O O O O O O O O O O O O O O O O O O O O O O
+6800,Ima tudi čebelarsko knjigo iz leta 1907 .,O O O O O O O O
+3731,"Kazalo je , da ga navdaja neka misel , za katero se ne more takoj odločiti .",O O O O O O O O O O O O O O O O O
+7353,"Na Uradu za makroekonomske analize in razvoj sem namreč pripravljal Poročilo o človekovem razvoju , bil sem njegov urednik .",O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG O O O B-MISC I-MISC I-MISC I-MISC O O O O O O
+1777,"Velika tragedija v življenju gospe Goodman je bilo to , da ni nikoli nikogar umorila .",O O O O O B-PER O O O O O O O O O O
+4054,RAZPOREJANJE DELAVCEV UREJA TUDI 24 .,O O O O O O
+2927,"Hkrati se kot Palestinci počutijo potomci prvotnih prebivalcev teritorija , s katerega so jih v davni preteklosti pregnali Hebrejci .",O O O B-PER O O O O O O O O O O O O O O B-PER O
+3738,Potem se poročite s Francozom ali z Italijanom .,O O O O B-PER O O B-PER O
+3699,"Prav dramaturgija nas namreč opozarja , da sta dramska in gledališka umetnina soodvisni in ju je treba spoznavati kot soodvisni in s posebnimi didaktično - metodičnimi postopki .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1843,Pisatelji bodo na vlaku preživeli le dve noči .,O O O O O O O O O
+2485,Nogometaši lendavske Nafte so v prijateljski nogometni tekmi v Lendavi v sredo klonili proti ciprskemu moštvu Ethnikos z 0:2 ( 0:2 ) .,O O B-ORG O O O O O O B-LOC O O O O O O B-ORG O O O O O O
+5599,"Težav , ki so nedvomno povezane s kajenjem , tudi pri tako imenovanih pasivnih kadilcih , pa nočemo glasno in jasno povezati s tobakom .",O O O O O O O O O O O O O O O O O O O O O O O O O
+5233,"Devetindvajset stopinj Celzija so pokazali termometri v Montpellieru ob sredozemski obali , kjer je bilo doslej 9. marca najtopleje leta 1978 - 23 stopinj Celzija .",O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O
+1696,Zdrava hrana naj bi krepila imunski sistem in ohranjala zdravo kožo .,O O O O O O O O O O O O
+4727,"Tat , ki je vdrl v gostišče v Ilirski Bistrici , je pobral vse cigarete , kolikor jih je bilo za pultom , in ker ga je očitno zeblo , dodal še dve steklenici žganega .",O O O O O O O O B-LOC I-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O
+2625,"Sprva so jih imeli zaprte v kletkah , ki so merile 2,4 x 2,4 metra , ko so bili zgrajeni zapori Delta , pa so jih premestili v še manjše celice ( 2,03 x 2,44 metra ) .",O O O O O O O O O O O O O O O O O O O O B-ORG I-ORG O O O O O O O O O O O O O O O O
+7458,S tem pa so bila vrata latinski literaturi in omiki v deželi široko odprta .,O O O O O O O O O O O O O O O
+6215,"Romana Gregorka , kot že rečeno , je predsednica .",B-PER I-PER O O O O O O O O
+8101,Jaz sem enkrat poskusil .,O O O O O
+1920,Ali bo Duplica sedem let po pripojitvi h Kamniku spet samostojno naselje ?,O O B-LOC O O O O O B-LOC O O O O
+883,"S tem ribo utrujamo , dokler je ne potegnemo k sebi na doseg roke .",O O O O O O O O O O O O O O O
+9221,Potem jih v rahlo osoljeni vodi skuhamo do mehkega ( 10 do 15 minut ) .,O O O O O O O O O O O O O O O O
+8994,"Kljub temu je njihov menedžer na vprašanje , ali obstaja možnost , da bi čeden Slovenec lahko postal Chippendale , odgovoril , da možnosti vedno obstajajo . . .",O O O O O O O O O O O O O O O B-PER O O O O O O O O O O O O O
+5168,"Priprava opisnega poročila je vzgojitelju v pomoč pri presoji , ali je proces učenja načrtoval , spremljal in izvajal tako , da ima dovolj dokazil o napredku posameznega otroka na pomembnih področjih razvoja , ki so v skladu z referenčnim okvirom .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+4211,"Kaže , da si vsi želimo svoje merice uspeha .",O O O O O O O O O O
+927,"Zakaj je torej Adam hotel po vsej sili kupiti to parcelo , se je vprašala .",O O O B-PER O O O O O O O O O O O O
+2847,» Čudno ! «,O O O O
+3109,"Tudi njeno zavzemanje za higienske zadeve našega gospodinjstva je začela z besedami "" Saj zares ne zahtevam preveč . . . "" ali "" Saj zares ne zahtevam nič nemogočega , vendar . . . """,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+621,Na pobočnici ima 60 - 80 lusk .,O O O O O O O O
+2900,"» Ne , jaz bom , « je odvrnil Victor in Boja previdno odložil v naslanjač ob vhodnih vratih .",O O O O O O O O O B-PER O B-PER O O O O O O O O
+3615,Prav tako je predlagatelj gospa Metka Karner - Lukač .,O O O O O B-PER I-PER I-PER I-PER O
+7628,"Nekatere slike so visele same zase , druge so bile združene v skupine ali pa so bile obešene ena nad drugo .",O O O O O O O O O O O O O O O O O O O O O O
+7682,Kdaj bom šla lahko v pokoj ?,O O O O O O O
+8114,Na pol pota po rokavu navzgor smo izstopili in pokosili ; in med tem kosilom sva z Georgeom doživela precejšen šok .,O O O O O O O O O O O O O O O O O B-PER O O O O
+5453,"Slab zvok , primitivna režija , igralci se pretvarjajo .",O O O O O O O O O O
+64,Slovenska pravna znanost je s tem obogatena za nov pojem .,O O O O O O O O O O O
+5225,""" Nato je odšla z odra v spremstvu mladega direktorja Perle Borisa Tomažiča , ki mu je bilo vidno nerodno , tako da je z nogami bolj krilil kot hodil .",O O O O O O O O O O B-ORG B-PER I-PER O O O O O O O O O O O O O O O O O O
+8031,"Če takega posebnega izraza nimate , poskusite pojasniti , da se očka in mamica "" ljubita "" .",O O O O O O O O O O O O O O O O O O
+4825,"» Lucija dovolj dobro razume angleško , da ji lahko razložite , kdo ste , « je nadaljevala Megan .",O B-PER O O O O O O O O O O O O O O O O B-PER O
+5767,"Knjižnice nevarnosti in pomanjkljivosti vsebujejo zapise o virusih , zadnjih nadgradnjah operacijskega sistema , opozorila storitve BugTraq , CVE . . .",O O O O O O O O O O O O O O O O O O O O O O
+5190,"Tako voznike , ki so odpeljali , ne da bi plačali bencin , povabijo na pogovor , jim predlagajo , da dolg poravnajo in izpolnijo z zakonom določene naloge , s katerimi zmanjšajo škodljive posledice kaznivega dejanja ; največkrat predlagajo , da nakažejo določen znesek v korist kake javne ustanove ali dobrodelne organizacije .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+3924,"Če se bo uresničila napoved o koncertu , bo gotovo zapel tudi za ljudi v jugovzhodni Aziji .",O O O O O O O O O O O O O O O O B-LOC O
+4568,"Namesto da jemljete vitamine v tabletah , si privoščite več naravnih sadežev .",O O O O O O O O O O O O O
+3006,In še ti prvi posnetki zore sveta bodo povsem iznakaženi zaradi relativističnih učinkov kozmičnega širjenja .,O O O O O O O O O O O O O O O O
+4853,"Hilda Bregar in Angelca Ribič iz Šmartnega pod Šmarno goro sta preživeli noč v Clintonovi postelji ( v apartmaju hotela Union , v katerem je spal bivši ameriški predsednik ) , zgodbo sta sami tako zapletli , da smo jo komaj odpletli .",B-PER I-PER O B-PER I-PER O B-LOC I-LOC I-LOC I-LOC O O O O B-PER O O O O B-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O O
+5617,"S približno temi besedami nam je Jernej Zajec , direktor projektov iz podjetja Hosting ( poleg Petra Vesenjaka , direktorja Hostinga , je glavni pobudnik akcije o » stranskih poteh « ) , pojasnil , kaj v resnici pomeni to ime .",O O O O O O B-PER I-PER O O O O O B-ORG O O B-PER I-PER O O B-ORG O O O O O O O O O O O O O O O O O O O O O
+5121,Za razliko od prejšnje priznava obstoj islamskih sil in uveljavljanje islamskih gibanj v javnem življenju .,O O O O O O O O O O O O O O O O
+978,Sicer pa gre pri reševanju privatizacijskega primanjkljaja za evidentno javnofinančno in makroekonomsko vprašanje .,O O O O O O O O O O O O O O
+2138,"Ob malo večjem povpraševanju pa se bo območje trgovanja takoj pomaknilo na 21.000 tolarjev , kjer ponudbe ni veliko .",O O O O O O O O O O O O O O O O O O O O
+4357,"Poroda se ne boji , zato se nanj posebej tudi ne pripravlja .",O O O O O O O O O O O O O
+2627,"Za osebno higieno imajo na voljo 15 minut dnevno ( brez tuširanja ) , za razgibavanje pa jim je odmerjenih dvakrat po 15 minut na teden .",O O O O O O O O O O O O O O O O O O O O O O O O O O O
+9105,"Aktuarsko znanje je namreč bistveno za vrednotenje premoženja in tudi vrednosti kapitala , ki pomeni ostanek po poplačilu obveznosti zavarovalnice .",O O O O O O O O O O O O O O O O O O O O O
+4191,Povsem drugačnega mnenja pa so v ZŠD Ilirija .,O O O O O O B-ORG I-ORG O
+1759,"Misliš , da jaz nič videti , kaj ? """,O O O O O O O O O O
+4328,"Na seznamu italijanskih mest , ki jih duši brezposelnost , je na prvem mestu Enna na Siciliji , kjer so uradno našteli 35,4 odstotka ljudi brez dela .",O O O O O O O O O O O O O O B-LOC O B-LOC O O O O O O O O O O O
+7858,V teh okvirih se ZLSD zavzema za strpen in argumentiran nastop Slovenije v pogovorih s sosedami o odprtih vprašanjih .,O O O O B-ORG O O O O O O B-LOC O O O O O O O O
+7498,"Nazadne se obrne k Tommyju pa mu ful prjatlsk reče , kakšna fejst kurba stara da je .",O O O O B-PER O O O O O O O O O O O O O
+651,Palico držimo iztegnjeno pred sabo .,O O O O O O
+2890,"Takrat se mi je posvetilo , zakaj so Vallaressovi iz tega delali tako skrivnost .",O O O O O O O O B-PER O O O O O O
+6263,Bomo videli .,O O O
+95,"Glede vključitve Slovenije v EU je sogovornik dejal , da si to želijo , saj si zaradi trenutnih dogajanj na Balkanu morajo prizadevati , da bi mirovna skupnost Evrope vključevala tudi države , ki so se šele pred nekaj leti osvobodile komunizma .",O O B-LOC O B-ORG O O O O O O O O O O O O O O O B-LOC O O O O O O O B-LOC O O O O O O O O O O O O O O
+937,"Ne da bi ji odgovoril , je šel Lang k steni in pritisnil na gumb .",O O O O O O O O B-PER O O O O O O O
+501,"» Ko podjetje postane tarča prevzema , lahko menedžment zelo hitro vpliva na zaposlene , prav ta podpora je nujna , saj je integracija podjetja kasneje veliko uspešnejša .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+5214,"Na morje je mogoče samo v kratkih hlačah in z denarnico , v hribe nikakor .",O O O O O O O O O O O O O O O O
+1057,Knjige so razstavljene v galeriji Krke na Šmarješki cesti 6 .,O O O O O B-LOC O B-LOC I-LOC I-LOC O
+3995,Po njegovem mnenju gre pri vojaščini za bistvene kršitve ustavnih pravic državljanov moškega spola .,O O O O O O O O O O O O O O O
+71,"Vohkal sem njen topli , najverjetneje še tudi od hitre hoje razgreti dih , in se prepuščal občutku lepega .",O O O O O O O O O O O O O O O O O O O O
+3925,"Tole gotovo ni darilce , kakršnega bi si človek želel ob začetku novega leta : Anna Nicole Smith , slačipunca , kvazimanekenka in igralka , očitno le ne bo bajno bogata vdova !",O O O O O O O O O O O O O O O B-PER I-PER I-PER O O O O O O O O O O O O O O O
+1492,"Omenimo , da te cerkve še danes jih lahko vidimo takrat še niso bile zgrajene in da je don Bosku bil neznan tudi kraj , kjer bodo stale .",O O O O O O O O O O O O O O O O O O B-PER I-PER O O O O O O O O O
+8870,"H. je smatral za verjetno , da mu bodo dopustili vdor na Češkoslovaško , kakor so mu pol leta prej vdor v Avstrijo , in je pri tem vzel rizik velike vojne v zakup .",B-PER O O O O O O O O O O O B-LOC O O O O O O O O O B-LOC O O O O O O O O O O O O
+5069,» Ker ni več denarja .,O O O O O O
+6806,Zopet izvira iz zgodovine .,O O O O O
+5798,"Da , pravijo prijatelji .",O O O O O
+6126,"Trajalo je kakih deset minut , da so nas odkrili .",O O O O O O O O O O O
+9303,"Linije so nerentabilne predvsem v popoldanskem in večernem času , ob sobotah in nedeljah ter izven konic .",O O O O O O O O O O O O O O O O O O
+5044,"Poleg tega so policisti vedeli , da ima blondinka poškodovano ramo , imeli so krvne sledi iz notranjosti vozila , predvsem pa je bil tu še krvav odtis dlani z jasnimi papilarnimi linijami , ki je ostal na sprednjem delu avtomobila .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1999,"Eden je upor discipliniranega , preračunanega umika , kakršen je , denimo , zavračanje klobukov , kar je neverjetno težko storiti , če si sam , in je znamenje izjemno močne volje .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+8875,"Obsedenost tega človeka se je prikazala v ostri luči ; bil je pripravljen sprožiti vojno , ne iz kakega stvarnega razloga , temveč zaradi malenkostnih podrobnosti neke v temelju že odločene zadeve .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+3628,Hvala lepa .,O O O
+3404,"Namesto Rodeta si tako privoščim novega slovenskega Freuda , Vic in njegov odnos do nezavednega , pravkar izšlo v zbirki Analecta .",O B-PER O O O O O B-PER O B-MISC I-MISC I-MISC I-MISC I-MISC I-MISC O O O O O B-MISC O
+9384,"Če odgovorimo samo s tem , da bomo ostali demokracija , potem v luči hitrih sprememb , zahtev po večjem nadzoru življenja , resnično nismo rekli veliko .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+8024,"Brazilec s portugalskim potnim listom , ki je tekmo začel namesto Ruija Coste , je poskrbel za podajo , Maniche pa je z natančnim strelom poskrbel za pravi delirij v portugalski prestolnici .",B-PER O O O O O O O O O O B-PER I-PER O O O O O O B-PER O O O O O O O O O O O O O
+606,"Hrbtna plavut ima 20 - 25 mehkih plavutnic , predrepna pa 13 - 17 .",O O O O O O O O O O O O O O O
+1872,"Nekatere vrste imajo pozimi obdobja počitka , ko se ne prehranjujejo .",O O O O O O O O O O O O
+6928,"Brskalniki prvega rodu so delovali skoraj tako , kakor smo navedli v zgornjem zgledu .",O O O O O O O O O O O O O O O
+6708,"Drugačnega števila vozlišč ni mogoče razporediti tako , da bi imel vsak oče natanko dva sinova .",O O O O O O O O O O O O O O O O O
+6464,"V nadaljevanju bomo navedli glavne metode razvoja novih izdelkov , ki temeljijo na domnevi , da so trgi nespremenljivi .",O O O O O O O O O O O O O O O O O O O O
+5883,Ampak starec pri tem sploh ni odprl ust .,O O O O O O O O O
+8623,Jasna je ubogljivo stopila iz sobe in me peljala po stopnicah v lepo z lesom obloženo predsobo .,B-PER O O O O O O O O O O O O O O O O O
+202,"Vsebina Večpredstavnega albuma je pričakovana ; sličice , videi , zvoki ( igre in programi ) ter informacije o prostem spominu , ki ga je v tem strojčku za nekaj kB manj kot 2 MB .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+3153,In zakaj človeštvo zaradi tega ni izumrlo ?,O O O O O O O O
+4177,"Rade bi mislile , da so naši pozivi k realnim svetovom več kot le obupan odmik od cinizma in dejanje vere , podobno kakšnemu drugemu kultu , ne glede na to , koliko prostora radodarno namenimo bogatim in vedno zgodovinsko specifičnim posredovanjem , s katerimi moramo me in vsi drugi spoznavati svet .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+3812,"» Sama stara druščina , « se je namrgodil lord .",O O O O O O O O O O O
+2605,( sg ),O O O
+8062,"Včasih malce zaboli tudi takrat , ko se jajčece odloči za skok veliki pustolovščini naproti .",O O O O O O O O O O O O O O O O
+7856,"Spet drugi so , ko so si ga pritisnili na prsi , začutili spokojnost in mir .",O O O O O O O O O O O O O O O O O
+2538,Helen Exley živi v Watfordu v Veliki Britaniji .,B-PER I-PER O O B-LOC O B-LOC I-LOC O
+5297,"Najbrž odtod izhaja šega , da otrokom ponoči prinaša darove v nastavljene posode , odtod tudi tri jabolka , ki jih na podobah nosi s seboj in so pravzaprav tri kepe zlata , le da jih je ljudska domišljija spremenila po svoje ; rdeča jabolka sodijo zato z orehi vred med obvezne darove , ki jih dobri svetnik prinaša pridnim otrokom v noči od 5. na 6. december .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+9394,"Nadzor nad delovanjem novinarjev , pa četudi pod pretvezo iskanja njihovih virov , spada v čas , ko je oblast sistematsko omejevala svobodo tiska .",O O O O O O O O O O O O O O O O O O O O O O O O O
+9032,Kaj pa ob vsem tem čutijo zaposleni v proizvodnji ?,O O O O O O O O O O
+9059,"Z izboljšavami urejevalnika in novimi pripomočki za predelavo kode so JBX izpilili v izdelek , ki bo lahko še nekaj časa ohranjal primat na trgu .",O O O O O O O O O O B-MISC O O O O O O O O O O O O O O O
+8649,Najine oči so se srečale .,O O O O O O
+7694,"Grad v Žužemberku , ki je bil med vojno močno poškodovan so začeli obnavljati v sedemdesetih letih , vendar je obnova kmalu zastala .",O O B-LOC O O O O O O O O O O O O O O O O O O O O O
+8869,"Tako je menil tudi Heinrich Brüning , od nedavna predsednik sredinske parlamentarne frakcije , in njega je Hindenburg , ne brez Schleicherjevega vpliva , postavil za kanclerja , s pripombo , naj njegov kabinet ne bo "" sestavljen na koalicijski način "" .",O O O O B-PER I-PER O O O O O O O O O O O B-PER O O O B-PER O O O O O O O O O O O O O O O O O O O O O
+4654,Kate je nekaj zaslišala .,B-PER O O O O
+2046,"Obračuna in plačila DDV bi bile oproščene tudi finančne storitve ( bančne , zavarovalniške in poseben segment iger na srečo ) , saj je pri teh dejavnostih težko določiti , kaj je dodana vrednost .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+5814,"Univerza v Rostocku mu je podelila doktorski naslov po samo štirih dneh proučevanja njegovega "" znanstvenega "" dela .",B-ORG I-ORG I-ORG O O O O O O O O O O O O O O O O
+9272,"DUBLIN Irsko predsedstvo Evropske unije je sporočilo , da bo evropska povezava za generalnega direktorja Mednarodnega denarnega sklada predlagala nekdanjega španskega ministra za gospodarstvo Rodriga Rata .",B-LOC O O B-ORG I-ORG O O O O O O O O O O B-ORG I-ORG I-ORG O O O O O O B-PER I-PER O
+9115,Tudi ta zločin je bil vreden smrtne kazni .,O O O O O O O O O
+9367,Intenzivnost žalovanja z leti raste .,O O O O O O
+9413,"Prava dilema je seveda , ali si bo Janša jeseni upal slediti Damijanovim idejam , kar bi najverjetneje pomenilo resno ogroziti možnost zmage na prihodnjih volitvah .",O O O O O O O O B-PER O O O B-PER O O O O O O O O O O O O O O
+5995,"Zmajal je z glavo , se vrnil v dnevno sobo in si na Nutromacu naročil prigrizek .",O O O O O O O O O O O O O B-MISC O O O
+584,"Prehranjuje se s školjkami , polži , raki , ki jih s prilagojenimi goltnimi zobmi zdrobi .",O O O O O O O O O O O O O O O O O
+5986,"Ta videoposnetek bi namreč po izjavah državnega tožilstva lahko dokazal , da je reaktivno letalo letelo prehitro in prenizko .",O O O O O O O O O O O O O O O O O O O O
+5987,"Le ena stvar nas lahko reši pred prihajajočo neumnostjo v obliki novele zakona : da bodo slovenski poslanci vse skupaj poslali tja , kamor spada - v koš za smeti .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2993,"Telefoniral sem mu , se dobil z njim in tako je nastal ta film .",O O O O O O O O O O O O O O O
+8191,"Umetniki so se vrnili k sliki , v Italiji je vzniknila transavantgarda , nastal je novi realizem v Franciji , Nemčiji . . .",O O O O O O O O B-LOC O O O O O O O O O B-LOC O B-LOC O O O
+2189,"Literarno - glasbeni maraton za srednješolce , ki ustvarjajo glasbo hip - hop in rap , bo 23. aprila 2003 v okviru Slovenskih dnevov knjige v Mariboru : Ko te napiše knjiga 2003 na Grajskem trgu v Mariboru .",O O O O O O O O O O O O O O O O O O O O O O B-MISC I-MISC I-MISC O B-LOC O B-MISC I-MISC I-MISC I-MISC I-MISC O B-LOC I-LOC O B-LOC O
+6705,Kaj se zgodi po dodajanju ?,O O O O O O
+3970,"Vsekakor pa so pripravljeni pomagati s strokovnimi nasveti in , če bi se pokazalo za dobro , imeti skupno promocijo .",O O O O O O O O O O O O O O O O O O O O O
+2703,Marca je takšen pristop k stvari močno presenetil .,B-PER O O O O O O O O
+3872,Oče mi je podaril kamero super osem .,O O O O O O O O
+2055,Pristojni organi seveda potem to obravnavajo .,O O O O O O O
+3363,"Jan , ki je že nekaj časa razmišljal o tem , da bi bilo mogoče dobro skrajšati jadra , je sicer zasikal nekaj kot vse je pod kontrolo , vendar je že trenutek pozneje na glas oznanil : » Pripravite se za krajšavo genove ! «",B-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2948,"To pomeni , da nekdanji novorokerski program Štirke sedaj lahko najdemo v Orto klubu .",O O O O O O O B-MISC O O O O B-ORG I-ORG O
+3604,"Ugotavljam , da je zbor gospoda Jožeta Perka imenoval za namestnika javnega tožilca Temeljnega javnega tožilstva v Novem mestu .",O O O O O O B-PER I-PER O O O O O B-ORG I-ORG I-ORG O B-LOC I-LOC O
+7229,"Desni stranki DVU je namreč uspelo zbrati 5,4 odstotka glasov , s čimer je prehitela vse tekmice iz svojega tabora .",O O B-ORG O O O O O O O O O O O O O O O O O O
+5277,"Tu so psihološke ovire , saj je vsak potnik posameznik in se tako tudi odzove .",O O O O O O O O O O O O O O O O
+9392,"Kakorkoli , obstaja utemeljeni sum , da je policija zlorabila pooblastila , kar je naredila na posreden poziv politike .",O O O O O O O O O O O O O O O O O O O O
+6028,"Realna obrestna mera je negativna , torej se je tvoja kupna moč zmanjšala .",O O O O O O O O O O O O O O
+1315,"Še preden se mu je zasvetlikalo na ramenih ali prsih kako priznanje , ga je pokosil sovražnikov meč .",O O O O O O O O O O O O O O O O O O O
+5056,"Ne tako davnega leta 1992 je mesto Manila zajela panika , ki jo je povzročilo verjetno najbolj čudno leteče bitje na svetu .",O O O O O O O B-LOC O O O O O O O O O O O O O O O
+6946,"Za tako opremljen računalnik je treba odšteti 3500 dolarjev , vodilni pri Packard Bellu pa računajo , da bodo z izdelkom privabili predvsem uporabnike , ki se hočejo z enim nakupom rešiti vseh težav z dograjevanjem in namestitvijo raznih dodatnih programov .",O O O O O O O O O O O O B-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2313,"Srce je središče življenja in dejavnosti , jedro človekove osebnosti ter sedež njegove ljubezni .",O O O O O O O O O O O O O O O
+952,"Podobna matineja bo na sporedu danes , ko bodo srečanju z likovno umetnostjo dve šolski uri namenili člani likovnih krožkov osnovnih šol iz Brežic in Senovega .",O O O O O O O O O O O O O O O O O O O O O O O B-LOC O B-LOC O
+3121,"Moje življenje ima tako malo ugank in nerazumljivosti , da mi je skoraj nerodno .",O O O O O O O O O O O O O O O
+128,"Od njenega odhoda je samo še bolščal v temo , grizel ustnice , prisluškoval tišini , dihanju spečega predmestnega stanovanjskega bloka …",O O O O O O O O O O O O O O O O O O O O O O
+3803,Pozneje zvečer se sumljivi individuum vrne .,O O O O O O O
+3329,"Mitja se zdaj seveda dobro zaveda , da so možnosti olimpijskega nastopa v Atenah zgolj minimalne , saj ga tja lahko popelje le še povabilo FIG . """,B-PER O O O O O O O O O O O O B-LOC O O O O O O O O O O O B-ORG O O
+7267,"Ustavil ga je , pokazal , kam naj pelje in fant je ubogal .",O O O O O O O O O O O O O O
+2247,Novih ženskih skupin pa ne zanima le samozaščita .,O O O O O O O O O
+6517,"Pionirske raziskave na področju merjenja lipidov v krvi so začeli na univerzi Berkeley , v laboratoriju Lawrence Berkeley National Laboratory in njeni podružnici Berkeley Heartlab .",O O O O O O O O O O O B-ORG I-ORG O O O B-ORG I-ORG I-ORG I-ORG O O O B-ORG I-ORG O
+3238,""" En sam napad smo predolgo vztrajali na conski obrambi .",O O O O O O O O O O O
+2882,"Vrtiljaka ni nihče omenjal in veljal je za veliko skrivnost , ampak midva sva vseeno vedela zanj .",O O O O O O O O O O O O O O O O O O
+2026,"Za srčne operacije že uporabljajo umetne mišične strukture in v uporabi so že "" čitalci "" očesne roženice , ki ni enaka niti pri dveh osebah in jih uporabljajo kot PIN kodo",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+8854,"Torej so se socialdemokrati odločili vladati kar se da rutinsko , pri tem pa morda "" izvleči "" kaj tudi za delavstvo .",O O O O O O O O O O O O O O O O O O O O O O O
+5417,"Z BESEDO , GLASBO IN SLIKO - V večnamenski dvorani Kulturnega centra Janeza Trdine v Novem mestu je Literarni klub Dragotina Ketteja v petek , 18. decembra , zvečer pripravil zanimiv in pester literarni večer , na katerem se je s svojimi deli predstavilo kar enajst besednih ustvarjalcev : Franc Umek , Klavdija Kotar , Mihail Gričar Skelendžija , Sebastijan Podobnik , Ana Černe Dražumerič , Mitja Bukovec , Blaž Simič , Damijan Knafelc ( na sliki od leve proti desni ) ter Samo Dražumerič , Jadranka Matić Zupančič in Katja Plut .",O O O O O O O O O O B-ORG I-ORG I-ORG I-ORG O B-LOC I-LOC O B-MISC I-MISC I-MISC I-MISC O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PER I-PER O B-PER I-PER O B-PER I-PER I-PER O B-PER I-PER O B-PER I-PER I-PER O B-PER I-PER O B-PER I-PER O B-PER I-PER O O O O O O O O O B-PER I-PER O B-PER I-PER I-PER O B-PER I-PER O
+5081,"Stara stanovanja , ki bi stala v Ljubljani okoli 2 tisočaka , dosežejo v Mariboru 1200 do 1400 mark .",O O O O O O O B-LOC O O O O O O B-LOC O O O O O
+7331,"Kar pa seveda ni res ; podobno kot tudi ne , da je najpomembneje , da to ni Janez Čadež .",O O O O O O O O O O O O O O O O O O B-PER I-PER O
+2532,KAHLIL GIBRAN : Prerok .,B-PER I-PER O B-MISC O
+4631,To sem mu zavidal .,O O O O O
+3145,Moja starša sta kavsala .,O O O O O
+7164,"Ali pa je izpitna tajnost tudi ob takšni praksi , ki po neustavljivih govoricah ni umanjkala ne lani ne letos , že optimalno zagotovljena ?",O O O O O O O O O O O O O O O O O O O O O O O O O
+4668,"Poskušal sem se tudi zbrati za primer , če bi našla kaj nepričakovanega .",O O O O O O O O O O O O O O
+4847,"Pričakovanja Šahovske zveze Slovenije so na načelni ravni zelo velika , vendar pa mladi igralci od nje nimamo pravih spodbud .",O B-ORG I-ORG I-ORG O O O O O O O O O O O O O O O O O
+5413,""" Ja , sem .",O O O O O
+1120,"EXOTIC EUROPEAN TRAVEL WRITING , 400 - 1600 .",B-MISC I-MISC I-MISC I-MISC O O O O O
+9314,"Petrolovo poslovno poročilo , ki je osnova letnega poročila , zajema podatke iz vseh organizacijskih enot družbe , obdelala jih je analitska služba , ki je del finančno - računovodske divizije .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+8925,Skoraj deset let prošenj financerju in ustanovitelju še ni rodilo sadov .,O O O O O O O O O O O O
+5405,"REŠEVANJE VOJAKA RYANA , vojna drama ( Saving Private Ryan , 1998 , ZDA , 170 minut , režija : Steven Spielberg )",B-MISC I-MISC I-MISC O O O O B-MISC I-MISC I-MISC O O O B-LOC O O O O O O B-PER I-PER O
+5371,"Kmalu pa so druga področja v sosedstvu z ugodnejšim zemljepisnim , prometnim , gospodarskim in tržnim položajem pridobivala pomen in Kostanjevica je postopoma kot mesto drsela ter končno zdrsnila v večstoletno mrtvilo .",O O O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O
+2753,"» Kitajski uporniki skrbijo za to , da Bajanovi sli ne pridejo na cilj . «",O O O O O O O O B-PER O O O O O O O
+5787,"Na slikah smo videvali Luciana Pavarottija , za katerega se je zdelo , da ne bo zdržal udarcev usode Zdaj pa se zdi , da je veliki Pavarotti le prebrodil dolino solz in se na jesen svojega življenja nadeja nove sreče .",O O O O B-PER I-PER O O O O O O O O O O O O O O O O O O O O O B-PER O O O O O O O O O O O O O O
+3798,"Hodiš po vinogradih , obkrožen s kupom vnukov , ki so bili tvoje edino bogastvo .",O O O O O O O O O O O O O O O O
+7258,Prodaja plošče je bila povprečna in njihove glasbe radijske postaje niso hotele predvajati .,O O O O O O O O O O O O O O
+4779,"V določenih primerih povsem logično : če so tvoji predniki pripadniki dveh , treh in morda več narodnosti , je res težko izbrati pravo .",O O O O O O O O O O O O O O O O O O O O O O O O O
+6727,Pri drugih opravilih razlike praktično ne opazimo .,O O O O O O O O
+5049,"Tako je na primer tudi dejala : » Kar pojdi in jim povej , kar moraš in kar hočejo vedeti .",O O O O O O O O O O O O O O O O O O O O O
+2192,"Kontrola pri zdravniku , ki bo pokazala kakšen učinek je dosežen .",O O O O O O O O O O O O
+4602,Anno je opazoval že skoraj dva tedna .,B-PER O O O O O O O
+8307,"Vendar je zaenkrat zasedeno le eno od teh stanovanj , zato bodo ponovili razpis za oddajo ostalih štirih .",O O O O O O O O O O O O O O O O O O O
+7709,Ko se je nepridiprav popoldan s kolesom peljal po Kidričevi ulici v Novi Gorici je iz rok 27 - letne T. S. iz Šempetra iztrgal torbico in nato z njo izginil neznani kam .,O O O O O O O O O B-LOC I-LOC O B-LOC I-LOC O O O O O O B-PER I-PER O B-LOC O O O O O O O O O O
+1190,"» Dovolj bo za začetek , « je rekel inšpektor .",O O O O O O O O O O O
+4186,"Takoj je bilo jasno , da gre za mamila , zato so mladoletnico privedli na piransko policijsko postajo , kjer so opravili preliminarni test , ki je pokazal , da je G. M. skrivala 19 tablet ecstasyja , 4,5 grama amfetamina in nekaj marihuane .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PER I-PER O O O O O O O O O O O O
+2347,""" V eni leži ob meni v postelji , pokrit z odejo .",O O O O O O O O O O O O O
+6269,"A zdi se , da naraščajočemu nasilju mladostnikov niso kos starši , še manj učitelji , čeprav tako eni kot drugi poznajo domala vse njegove oblike .",O O O O O O O O O O O O O O O O O O O O O O O O O O O
+9338,"Ne energija "" biti vse ali nič "" , ampak preprosto energija biti .",O O O O O O O O O O O O O O
+6724,Kazalec se premika gladko in razmeroma natančno .,O O O O O O O O
+3860,Odprl sem vrata stranišča .,O O O O O
+1717,Morda bi morali tekmovalce razdeliti v razreda A in B .,O O O O O O O O O O O
+706,Kmalu pa se obeta še ena organizacijska sprememba .,O O O O O O O O O
+8838,"Bil je veliko bolj divji , bolj nezmeren , iz njegovega notranjega vrenja in razkrajanja pa so rasle kalne sile , nasproti katerim se je zdelo nemško ustavno življenje pravcato zdravje .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+7385,"Večina misli , da se lahko pojavi poporodna depresija le v prvih nekaj tednih po porodu , vendar ni vedno tako .",O O O O O O O O O O O O O O O O O O O O O O
+9044,""" Neka druga gospa v srednjih letih , ki je po končani izmeni na parkirišču čakala na prevoz , je bila videti bolj mirna .",O O O O O O O O O O O O O O O O O O O O O O O O O
+9000,"Moj mož shrani vsako številko , čeprav je potem skoraj nikoli več ne pogleda .",O O O O O O O O O O O O O O O
+2819,"» Kvečjemu razočaran bo , da ne lovi njega .",O O O O O O O O O O
+5866,"Dobili pa smo tudi očitke , da smo si sami izmislili teroriste IT in da želimo le povečati prodajo .",O O O O O O O O O O O O O O O O O O O O
+5115,"Lani so uspešno izvedli 25 takšnih ekskurzij za domače in tuje skupine , vodniki pa so bili naši ugledni parkovni strokovnjaki : direktor Janez Bizjak , dr. Marija Markeš , Tea Lukan - Klavžer , Martin Šolar in Jože Mihelič .",O O O O O O O O O O O O O O O O O O O O O O O B-PER I-PER O O B-PER I-PER O B-PER I-PER I-PER I-PER O B-PER I-PER O B-PER I-PER O
+6683,Prav tako kot so v ZDA smetarji črnci .,O O O O O B-LOC O O O
+1764,"Nimam časa . """,O O O O
+1795,""" Madame ne mangera pas de marrons glacés ? "" se je zarežal le petit .",O O O O O O O O O O O O O O O O
+2652,"S tem pa še ni nič odločeno glede tehtnosti dolgoročnih pogojev , ki se ohranjajo iz preteklosti in ki so na prvi pogled padli v pozabo .",O O O O O O O O O O O O O O O O O O O O O O O O O O O
+5231,"TEHNIK - EKONOMSKI ( splošni ) ; Ž ; mariborska ; ; MARIBOR ; 1987 ; Agencija RS za plačilni promet ; ; računovodstvo , plačilni promet , sposobnost vodenja in javnega nastopanja , delo z ljudmi , terensko delo , poznavanje dela na računalniku ; ; banka , pisarniško delo kjerkoli ; ; programirano , kreativno ; administrativno , strokovno ; neposredni izvajalec , nižji vodja , srednji vodja ; 31292",O O O O O O O O O O O O B-LOC O O O B-ORG I-ORG I-ORG I-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+8723,Starša sta mi dala ime Nejka .,O O O O O B-PER O
+1124,"V : BEHAR , R. , GORDON , D. A. ( UR ) .",O O B-PER I-PER I-PER O B-PER I-PER I-PER I-PER O O O O
+5284,Te primere je treba reševati in rešiti .,O O O O O O O O
+4717,Gozdarsko kmetijska zadruga Srednja vas je že dalj časa v težavah Večja sprememba v klavnici - Usmeritev na trajne izdelke,B-ORG I-ORG I-ORG I-ORG I-ORG O O O O O O O O O O O O O O O
+1210,"Radi boste z ljudmi , ki bodo veseli , razigrani in vas bodo spravljali v smeh .",O O O O O O O O O O O O O O O O O
+6165,"Največje prijetno presenečenje v črni sredi velikih zvezdnikov pa je pripravil mladi Nemec Nils Schumann , ki je v teku na 800 m presenetil Kipketerja .",O O O O O O O O O O O O B-PER B-PER I-PER O O O O O O O O O B-PER O
+7094,Težavi pa sta določitev meje s Hrvaško in ureditev nasledstva nekdanje Jugoslavije .,O O O O O O B-LOC O O O O B-LOC O
+7855,"Tisti , ki ga je vzel v roke , je pod prsti začutil utripanje strasti , kot bi kamnito srce zares živelo .",O O O O O O O O O O O O O O O O O O O O O O O
+9316,"Poslovni sistem Mercator , ki je oblikovanje poročila zaupal Studiu A4 iz Ljubljane , se je prvega letnega poročila lotil leta 1995 .",B-ORG I-ORG I-ORG O O O O O O B-ORG I-ORG O B-LOC O O O O O O O O O O
+5341,"Na mostu je tudi samodejna vremenska postaja , ki voznike prek prikazovalnikov opozarja na močan veter ali poledico .",O O O O O O O O O O O O O O O O O O O
+7422,"- Se vam zdi , da pri smučariji ni diskriminacije ?",O O O O O O O O O O O
+4729,Objavljen razpis je prvi stik med organizacijo in kandidatom in vpliva na oblikovanje ugodnega ali neugodnega vtisa o podjetju .,O O O O O O O O O O O O O O O O O O O O
+6338,"Odvratne so mu bile objektivne resnice , mučna utemeljevanja in pretehtana umovanja .",O O O O O O O O O O O O O
+8166,"Senilnost slovenske univerze je neposredni rezultat mesta , ki ga ima po zakonu o univerzi - tega je zdajšnja koalicija sprejela še v španoviji z Janšo in Pučnikom - in po lani sprejetem statutu univerze na njej naglušna skupina , ki sliši na starorimsko ime - senat .",O O O O O O O O O O O O O O O O O O O O O O O O O B-PER O B-PER O O O O O O O O O O O O O O O O O O O O
+8037,"Prehlade se lahko uspešno zdravi z naravnimi zeliščnimi sredstvi , s kopelmi in z obkladki .",O O O O O O O O O O O O O O O O
+172,Niti svoje prevelike kape ni snela .,O O O O O O O
+3897,"Da bi zgradil takšnega monstruma , si moral biti ali totalno pritegnjen ali pa imeti otroško dušo .",O O O O O O O O O O O O O O O O O O
+6400,"Velik del pragmatičnih pravil v javnem komuniciranju je zasnovan na navadi , kateri daje eksplicitno dimenzijo kolektivna ali individualna avtoriteta , ki izhaja iz posameznih "" uglednih "" vlog in statusev v socialni strukturi in kateri svoje norme komunikacijskega obnašanja vsiljujejo šibkejšim udeležencem komunikacijskih dejanj .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+7175,"Ponavadi pri zdravniku dobijo le nasvet , naj se več gibljejo in manj jedo .",O O O O O O O O O O O O O O O
+3635,( 64 prisotnih . ),O O O O O
+2116,"Radi bi , da bi vsi imeli dovolj za življenje in da bi se lahko šolali .",O O O O O O O O O O O O O O O O O
+3451,Očarali ga boste tudi s srebrnimi figuricami .,O O O O O O O O
+420,"Rodney je malce razdraženo pribil : » Dragi moj otrok , le za kakšnega me imaš . «",B-PER O O O O O O O O O O O O O O O O O
+354,Veter je izdolbel pravo teraso okoli skalne tvorbe .,O O O O O O O O O
+1644,"Te modele je treba potem le malenkostno prilagoditi posameznim sistemom , trdijo pri IBM .",O O O O O O O O O O O O O B-ORG O
+3649,"Zato bi vas prosila , da to podprete ; torej v korist tistim podjetjem , ki so sama , ne glede na to , da bi jih kdo prisiljeval , že začela investicije in so vložila precejšnja sredstva za odstranjevanje lastnih odpadkov , ki jih najbolje poznajo .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1905,"Pri tradicionalnih oblikah vzgoje novih sort se med seboj križajo le živali ali rastline , ki so v razmeroma tesnem sorodu .",O O O O O O O O O O O O O O O O O O O O O O
+1745,"O drugih zdravilnih lastnosti te zabele je slovenska poznavalka Meta Krese napisala knjigo Oljka in njeno olje ( MK ) , ki je te dni že na voljo na tržišču .",O O O O O O O O O B-PER I-PER O O B-MISC I-MISC I-MISC I-MISC O B-ORG O O O O O O O O O O O O
+3199,""" Hotela je odgrniti odejo , vendar sem jo trdno držal .",O O O O O O O O O O O O
+1372,"Ko sem v sedemdesetih letih svojim italijanskim znancem v Rimu povedal , da se nameravam preseliti v Jugoslavijo , so me pogledali s takšnim sočutjem , kot da odhajam v deželo dinozavrov , saj se ve , da se za prenekatere današnje Rimljane svet začenja in konča na okoliških gričih .",O O O O O O O O O B-LOC O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O B-PER O O O O O O O O
+3204,"In mislilo je , če kdo od nas v prvi vrsti , iz oči v oči z graničarji , brez smrtnega strahu tvega bojni krik , potem ga moramo podpreti .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+6327,Kern pr .,B-PER O O
+3729,» Počakajte ! «,O O O O
+6555,"V ponvici raztopite maslo , primešajte sesekljan česen in timijan ter mešanico potresite čez krompirjeve rezine .",O O O O O O O O O O O O O O O O O
+9189,Udeležila se ga je in se kot najboljša Slovenka uvrstila na deveto mesto .,O O O O O O O O B-PER O O O O O
+1412,Njena sestava bo odraz etnične strukture kosovskega prebivalstva .,O O O O O O O O O
+7891,Prav žalostno .,O O O
+3850,"Če bi kdo želel čez 70 let objaviti vstopno stran v našo spletno predstavitev kot del svoje oglaševalske akcije ali svojega medija , bi to lahko storil brez pravnih posledic .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2206,Ogledali si bomo retrospektive starih .,O O O O O O
+5310,Tretja stopnja vojak ( MILES ) je pod zaščito planeta Marsa .,O O O O O O O O O O B-LOC O
+4450,"Nekaterim od njih država obljublja nadomestno gradnjo na zemljišču , ki naj bi si ga sami izbrali , hkrati pa jih pri tem tudi ovira .",O O O O O O O O O O O O O O O O O O O O O O O O O O
+8021,"Dnevnikove barve so zastopali ( z leve ) kolumist Miha Kovač , odgovorni urednik Miran Lesjak in član uprave Branko Bergant .",O O O O O O O O O B-PER I-PER O O O B-PER I-PER O O O B-PER I-PER O
+4258,"Cestna prodajalka zdravil v Abidžanu , glavnem mestu Slonokoščene obale : tudi če bi bila zdravila prava , bi njihovo učinkovitost gotovo uničila vročina med vsakodnevnim uličnim prodajanjem .",O O O O B-LOC O O O B-LOC I-LOC O O O O O O O O O O O O O O O O O O O
+7284,"Zelo veliko se ukvarjamo s tem , da so rezultati razvojnega dela tudi merljivi .",O O O O O O O O O O O O O O O
+4871,"Tudi če bo zakon o zaščiti jezika na začetku novega tisočletja sprejet , se bojim , da ga pa ne bomo izvajali .",O O O O O O O O O O O O O O O O O O O O O O O
+2842,Kaj takega pa še ne .,O O O O O O
+133,Tudi eden mojih prvih spominov …,O O O O O O
+2788,"» Le stopite bliže , boste videli , da so še kako iz mesa in krvi . «",O O O O O O O O O O O O O O O O O O
+2159,"Pričakujemo , da bodo univerze odgovorile takoj in pozitivno ter dejavno pripomogle , da bodo naša prizadevanja uspešna . «",O O O O O O O O O O O O O O O O O O O O
+2576,"» Ah , končno sem dočakala te presnete točke , « je malce po prihodu v cilj dejala tekmovalka , ki se je k slovenski biatlonski reprezentanci preselila iz vrst hrvaških nordijcev pred sezono 2000 / 01 .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1910,"To je ne le neetično , temveč tudi kaznivo .",O O O O O O O O O O
+6968,"PREVALJE Župan dr. Matic Tasič in direktor zdravstvenega doma Ravne mag. Stanislav Pušnik , dr. med. , sta včeraj v Farni vasi na Prevaljah slovesno odprla prenovljeno zdravstveno postajo .",B-LOC O O B-PER I-PER O O B-ORG I-ORG I-ORG O B-PER I-PER O O O O O O O B-LOC I-LOC O B-LOC O O O O O O
+195,"Pri Fujifilmu so objavili , da letos pričakujejo več kot tri milijarde natisnjenih digitalnih fotografij , kar je približno za pol več kot lani .",O B-ORG O O O O O O O O O O O O O O O O O O O O O O O
+32,"Dolgoročno gledano ne bo noben analgetik odpravil vozličkov , zaprtja in blokade tega območja .",O O O O O O O O O O O O O O O
+8492,"V svojem žepnem notesu je zapisal misel dneva , ki jo je povzel iz vstopne pesmi , berila ali evangelija in jo včasih po telefonu sporočil svojim najbližjim .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+728,"Podobno kot velja za ostale cvetoče okrasne rastline , so tudi med okrasnimi travami takšne , ki nase opozorijo že spomladi ( med prvimi so razni šaši in ločje , ki z novimi listi vnesejo svežino na vrt ) , večina trav pa doživi svoj višek poleti ali celo na začetku jeseni .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+4254,Striparji pa se spet potikajo po tujini ( naš Marko Kociper je sicer le na dopustu ) .,O O O O O O O O O B-PER I-PER O O O O O O O
+5797,Ali mu bo Nicoletta lahko uresničila to željo ?,O O O B-PER O O O O O
+5266,"Bolj odprto okolje , bolj ustvarjalno ozračje in večjo elastičnost želijo ustvariti s protibirokratskim programom .",O O O O O O O O O O O O O O O O
+7949,Za povečanje moči pri obeh motorjih z nespremenjeno prostornino sta zaslužna drugačen dovod zraka in prenovljen motorni menedžment .,O O O O O O O O O O O O O O O O O O O
+2620,Izvajalcem bodo sofinancirali do 50 odstotkov celotne investicije .,O O O O O O O O O
+3384,"Tak človek skuša vselej in za vsako ceno strogo ločevati zasebno življenje od službenega , delo postavlja na prvo mesto , materialne dobrine mu zelo veliko pomenijo .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+7743,"Z njim sta se veselila Zdenka Logar Povšič , prva Mojca , in Martin Mele , drugi Kekec .",O O O O O B-PER I-PER I-PER O O B-PER O O B-PER I-PER O O B-PER O
+2612,Pravilni odgovor se glasi : knjiga je v ovitku škatli od kasete .,O O O O O O O O O O O O O
+6908,"Sledil bo nastop folklornih skupin iz Črnomlja , Metlike , Vinice in Predgrada , Jaza ter gostujočih folklornih skupin iz Kopra in Vipave .",O O O O O O B-LOC O B-LOC O B-LOC O B-LOC O O O O O O O B-LOC O B-LOC O
+5345,"Enosmerna vozovnica za odrasle stane okrog 2100 tolarjev , za kolo pa boste morali dodati še polovico .",O O O O O O O O O O O O O O O O O O
+7893,In so vnovič odprli brivnico .,O O O O O O
+8441,"Poudariti pa bi tudi morala , da 14 sodnikov na njenem sodišču , med katerimi sta tudi Zambijec in Kitajec , ni gruča Natovih lakajev .",O O O O O O O O O O O O O O O O O B-PER O B-PER O O O O O O
+9084,"Zaznavo so še okrepili s prepoznavo oznak ( bullets ) , posameznim znakom lahko sami določimo , kaj predstavljajo ( Train Character ) , način prepoznave je lahko počasnejši in temeljitejši ali pa hitrejši in bolj površen .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+61,Vojislav Bercko,B-PER I-PER
+6022,Na katerem trgu srečuješ popolno oziroma svobodno konkurenco ?,O O O O O O O O O
+2273,"Pa vendar se vsi dogodki združujejo v enotno kompozicijo , ki obravnava konflikt med ljubeznijo in sovraštvom na različnih ravneh , z različnimi osvetlitvami in poudarki : Razmerje Shylock - Antonio je razmerje ( vzajemnega ) sovraštva .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PER O B-PER O O O O O O O
+5648,"Natakarji in barmani jo sovražijo , ker je prava mala nagnusna zver , po drugi strani pa se lahko vsaj dobro zabavajo na njen račun , ko Lindsay zapusti lokal , je pripovedoval eden od rednih gostov v tej restavraciji .",O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PER O O O O O O O O O O O O O
+2256,"Podobno kot Kraljevske kronike tudi Shakespearove komedije niso enota , ki živi povsem sama zase .",O O B-MISC I-MISC O B-PER O O O O O O O O O O
+1834,"Medtem je perujska volilna komisija razglasila Fujimorija za zmagovalca in objavila , da je na volitvah , na katerih je nastopil sam , "" zmagal "" z 51,20 odstotka glasov vseh volilnih upravičencev .",O O O O O O B-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O
+6616,"Okolje v katerem je odraščal je tudi usmerjalo njegovo zanimanje za socialno , čustveno , duhovno , novinarsko in kulturno področje .",O O O O O O O O O O O O O O O O O O O O O O
+4031,"Ljudje so razumeli , da se morajo imeti radi med seboj in da morajo bolj čuvati vero , ki so jo prejeli .",O O O O O O O O O O O O O O O O O O O O O O O
+9112,"Avstrija je v prvem obdobju svoje vladavine ( 1797 - 1805 ) sicer v duhu poenotenja in racionalizacije upravno - političnega sistema izvedla nekaj reform na upravnem in sodnem področju ter oblikovala združeni tržaško - istrski gubernij , vendar je šele z uveljavitvijo francoske zakonodaje leta 1806 oziroma vključitvijo Istre v Italijansko kraljestvo , z letom 1809 pa v Ilirske province , prišlo do temeljitih političnih , upravnih in družbenih sprememb .",B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O B-LOC I-LOC O O O O O O B-LOC I-LOC O O O O O O O O O O O
+7467,Zgledal je kar obetavn .,O O O O O
+4131,"Naravno količino ozona v stratosferi in njeno spreminjanje med letom uravnavata predvsem dva sklopa dogajanj : v enega spadajo fotokemične reakcije z absorpcijo sevanja , v drugega pa vse , kar je povezano z gibanjem zraka in s tem povezanim prenašanjem toplote in snovi , tudi ozona , iz kraja v kraj .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2754,"Nekaj trenutkov sta si ogledovala veliki karirani pravokotnik , dokler nista približno , kakih sto lijev gor ali dol , ugotovila svoj trenutni položaj .",O O O O O O O O O O O O O O O O O O O O O O O O O
+5514,"Najpogosteje je vir okužbe jagnjeta njegova mati , ki pa lahko okuži tudi druge živali v tropu .",O O O O O O O O O O O O O O O O O O
+6463,"Če se v veleblagovnici ustavimo na oddelku žitnih kosmičev za zajtrk , bomo naleteli na navadne kosmiče , kosmiče s sladkorjem ali brez , pražene , s čokolado , z otrobi , z vlakninami , z lešniki , v manjši embalaži , družinsko pakirane in še mnoge druge vrste .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+482,"V sindikatu , kot nam je povedal njegov predsednik Roman Molan , sicer še vedno upajo , da jim bo do konca leta le uspelo prepričati ljudi v ministrstvu za gospodarstvo in za okolje , da je proizvodnja celuloze pomembna ne le za Krško , ampak tudi za celo papirno - predelovalno industrijo , slovenske gozdove in državo sploh .",O O O O O O O O O B-PER I-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O
+348,"To je izpostavljena škrbina v grebenu , ki jo zapira previsen in skrajno krušljiv stolp .",O O O O O O O O O O O O O O O O
+5536,"Slovesi so bili v obojih primerih težki , toda Ali še ni srečala čarodejke , ki se ne bi hotela rešiti .",O O O O O O O O O B-PER O O O O O O O O O O O O
+5833,"TQM zagovarja načelo , da so timi in z njimi povezane organizacijske spremembe , pomemben ključ za odpiranje vrat k boljši kakovosti dela ter večji učinkovitosti in uspešnosti poslovanja organizacije .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+7374,Pri grafiki to ni tako zelo neposredno .,O O O O O O O O
+7300,Selilska oblika zlatovčice se drsti na prodnatem rečnem dnu .,O O O O O O O O O O
+411,Izgovorila je póda .,O O O O
+870,Jaka je še bolj jezen .,B-PER O O O O O
+2257,"Niso brez povezave in niso brez sorodstva s tistimi , recimo , osrednjimi njegovimi stvaritvami / tragedijami , ki so pri nas doživele največ pozornosti .",O O O O O O O O O O O O O O O O O O O O O O O O O O
+1460,V posebej trdovratnih primerih so uporabljali natezalnico s škripcem .,O O O O O O O O O O
+2282,Prekinitev s tradicijo pa seveda ni bila enoznačno “ revolucionarna ” .,O O O O O O O O O O O O
+4178,"V okviru neke vrste tehnološkega holizma so bili prvi teoretični pristopi k biološkemu telesu z vidika kibernetičnih komunikacijskih sistemov od poznih štiridesetih pa vse do konca šestdesetih nagnjeni h koordinaciji pod vplivom "" krožno - kavzalnih mehanizmov povratne informacije "" .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+5661,"Justin pripelje Janet v zanemarjen stanovanjski blok , kjer živi Les , ki izdeluje maske .",B-PER O B-PER O O O O O O O B-PER O O O O O
+716,"Kajn pa to je , a ne le zato , ker je želel vedeti , kaj božja zavrnitev njegovega daru pomeni , marveč tudi in še prej zato , ker si je že tedaj , ko je prinašal svoj dar , nemara že mrmral : Kaj pa , če me bog ne usliši ?",B-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+6364,"Resnici na ljubo se istovetim z nostalgijo , ki mi jo navdihuje .",O O O O O O O O O O O O O
+3695,- Kakšno vlogo imata v doživljanju ljubezni naravno in človeško okolje ?,O O O O O O O O O O O O
+5733,"Ko sta v strahu že najavili , da mora takoj priti veterinar , je bil v sekundi spet na nogah in je seveda dosegel , da je šel na sprehod v naravo , kjer je veselo izvedel vse figure in šel brez težave v vseh hodih .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1342,"Za tovrstne projekte je Slovenija namenila 80 milijonov tolarjev , kar seveda ni veliko , vendar je denar namenjen za majhne projekte , ki bodo zagotavljali gospodarsko oživitev v demografsko ogroženih področjih .",O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2114,"Smo gverilci in uporabljamo orožje , toda le zato , ker ne vemo , kako bi drugače dosegli spremembe .",O O O O O O O O O O O O O O O O O O O O
+7406,"Če pa ostane odrasel otrok doma , se starši le težko sprijaznijo s tem , da je "" velik "" , otrok pa ima ves čas občutek , da se njegovi starši po nepotrebnem vtikajo v njegovo življenje .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+3815,"Njeno zgodbo mu je povedala madame Bertin , stara čarovnica , ki je kljub vojni znala čez Kanal pretihotapiti obleke po najnovejši modi .",O O O O O O B-PER O O O O O O O O O O B-LOC O O O O O O
+4399,"Sicer se je dirka odvijala v lepem , sončnem vremenu in na suhi progi .",O O O O O O O O O O O O O O O
+9366,Pri večini otrok intenzivna žalost ni pogosta .,O O O O O O O O
+44,"Osrednji prostor , namenjen kegljanju , za malo denarja ponuja sproščeno zabavo za vso družino , ljubiteljem te igre pravo možnost za rekreacijo , zaradi velikosti najsodobnejše opremljenega računalniško vodenega 16 - steznega igrišča pa tudi vadbo in vrhunska tekmovanja za profesionalce .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1653,"Nejc Novak ( ŽTK Maribor ) je vse do odločilnega dvoboja igral uspešno , toda v finalu je deloval nezanesljivo ter zasluženo izgubil proti Hrvatu Filipu Kovačiću .",B-PER I-PER O B-ORG I-ORG O O O O O O O O O O O O O O O O O O O B-PER B-PER I-PER O
+824,"Župane je zmotila Natura 2000 , evropsko omrežje posebnih varstvenih območij , ki jih je pet minut pred 1. majem začrtala tudi Slovenija .",O O O B-MISC I-MISC O O O O O O O O O O O O O O O O O B-LOC O
+7018,"» Dajte pohiteti , da dobite tistih 50 slik , preden me pokopljejo , potem najbrž ne bo nič , « je na svoj način dr. Dolenc izzval Rečičane .",O O O O O O O O O O O O O O O O O O O O O O O O O O B-PER O B-PER O
+2166,Sklepi in priporočila s tega seminarja Prim. v Dodatku B .,O O O O O O O O O O O
+1457,"Šele ko ga je grofica Matilda prepričala , da bo Henrik umrl , če ga pusti pred zidovjem samo še minuto , se je Gregor odločil , da ga sprejme .",O O O O O B-PER O O O O B-PER O O O O O O O O O O O O O B-PER O O O O O O
+5950,Cankarjevo navidezno razočaranje nad ljudmi je najbrž treba razumeti v tem smislu .,B-PER O O O O O O O O O O O O
+7380,Boste že še prišli na vrsto - takrat ko bodo vaša čustva malce bolj uravnovešena .,O O O O O O O O O O O O O O O O
+7952,"To je bil model 150 E , njegove zasnove pa so se lotili tako , da so kupili v tistem času najbolj popularne modele drugih proizvajalcev , jih razstavili in ugotavljali , kaj na njih bi se dalo izboljšati in predvsem , kaj na njih ni dobrega .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+7360,"Zase upam , da bodo reakcije ljudi na moje delo dobre in da bodo nekaj povedale o moji uspešnosti .",O O O O O O O O O O O O O O O O O O O O
+9182,"Ko je pozdravila svoja soigralca v filmu , Johna Cusacka in Billyja Crystala , je objela tudi prelepo Catherine Zeta - Jones .",O O O O O O O O B-PER I-PER O B-PER I-PER O O O O O B-PER I-PER I-PER I-PER O
+7613,"Kaj čaka Lesno in oktet Lesna : sanacija , revitalizacija ali stečaj ?",O O B-ORG O B-ORG I-ORG O O O O O O O
+5201,Posnetek puščave v Savdski Arabiji iz kapsule NASA iz višine 400 kilometrov : vetrovi v peščenih sipinah nenehno ustvarjajo osupljive vzorce .,O O O B-LOC I-LOC O O B-ORG O O O O O O O O O O O O O O
+28,"Telo sprejme "" dražljaj "" in pride v resonanco s terapevtskim nihanjem .",O O O O O O O O O O O O O
+1657,"Z malo sreče bi lahko celo zmagali , igralci mi pravijo , da nas je sodnik prikrajšal za enajstmetrovko .",O O O O O O O O O O O O O O O O O O O O
+5619,"Preden je pričel padati sneg , se je ohladilo ( z drugimi besedami , padla je temperatura zraka ) , približala se nam je vremenska fronta , ki je povezana s ciklonom , torej območjem nižjega zračnega tlaka .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+7719,"Vendar so obmejni policisti pregledali njegov avto in na sprednjem sedežu odkrili lovski pas s šestnajstimi naboji , kalibra 12x12 .",O O O O O O O O O O O O O O O O O O O O O
+837,A pomanjkanje komunikacije ni niti edini niti najmanjši greh Kopačevega ministrstva .,O O O O O O O O O B-PER O O
+9385,"Dva tedna po štirih eksplozijah , v katerih je umrlo 56 ljudi , je bila pregovorna odločenost Londončanov , da bodo kljub grožnjam že nekako , spet na preizkušnji .",O O O O O O O O O O O O O O O O O B-PER O O O O O O O O O O O O
+180,Harrison je vzel hipoteko na hišo in postal filmski producent .,B-PER O O O O O O O O O O
+108,Je njeno izginotje povezano z vajinimi odnosi ?,O O O O O O O O
+1369,"Imeli so jih v deželnem dvorcu , v Metternichovem stanovanju v Zoisovi hiši na Bregu in drugod .",O O O O O O O O B-PER O O B-PER O O B-LOC O O O
+3771,Kot vsi ostali moški iz vasi vstaja zgodaj .,O O O O O O O O O

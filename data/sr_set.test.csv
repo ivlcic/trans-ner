@@ -1,0 +1,391 @@
+index,sentence,ner
+2355,"Organizatori su planirali tihu komemoraciju za žrtve srebreničkog masakra , posle čega je trebalo da usledi emitovanje pesme Eni Lenoks "" Danas sam spasila svet ( I Saved the World Today ) i deklaracija .",O O O O O O O O O O O O O O O O O O B-PER I-PER O B-MISC I-MISC I-MISC I-MISC O B-MISC I-MISC I-MISC I-MISC I-MISC O O O O
+1675,"Veruje se da su Lukić , Pavković i Lazarević dostupni srpskim vlastima .",O O O O B-PER O B-PER O B-PER O O O O
+3328,"Guverner kaže da izvoznici , ako žele da povećaju izvoz , moraju da razviju proizvodnju , poboljšaju kvalitet svojih proizvoda i proizvodnu efikasnost i ne treba da baziraju svoje nade na kursnim razlikama .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2984,Pre nekoliko godina Vijetnamski zoološki vrt poslao je mladog mužjaka nilskog konja u Plavnicu da postane njen partner .,O O O B-ORG I-ORG I-ORG O O O O O O O B-LOC O O O O O
+2979,"Dok je njeno travnato stanište bilo potopljeno , Nikica je uživala u ugodnom plivanju i dugim šetnjama .",O O O O O O O O B-PER O O O O O O O O O
+3324,"Božidar Đelić , potpredsednik srpske vlade , ne vidi potrebu za promenom monetarne politike .",B-PER I-PER O O O O O O O O O O O O O
+37,"Krivična presuda i zatvorska kazna medijskom mogulu Veliji Ramkovskom , koji je često kritikovao makedonsku vladu , mogla bi da zaplaši medije , kažu novinari u toj maloj balkanskoj državi .",O O O O O O O B-PER I-PER O O O O O O O O O O O O O O O O O O O O O O
+1238,IAAF Svetskom prvenstvu u Valensiji .,B-MISC I-MISC I-MISC O B-LOC O
+1477,"Grupu koja je radila na tom dokumentu vodio je univerzitetski profesor Kimet Fetahu , član makedonske manjine u Albaniji , koji je takođe organizovao okrugle stolove sa predstavnicima raznih manjina .",O O O O O O O O O O O B-PER I-PER O O O O O B-LOC O O O O O O O O O O O O
+382,Organizatori protesta su zahvaljujući toj zabrani imali osiguranu zaštitu od hapšenja .,O O O O O O O O O O O O
+1982,"Luković , takođe poznat pod nadimkom Legija , smatra se vođom zavere protiv Đinđića , a veruje se da je atentat organizovao zajedno sa drugim liderima kriminalne bande zemunski klan .",B-PER O O O O O B-PER O O O O O O B-PER O O O O O O O O O O O O O O B-ORG I-ORG O
+1111,""" Nadam se da će sudije , koje prvi put vrše pravo izbora članova Saveta , izabrati najbolje kandidate .",O O O O O O O O O O O O O O B-ORG O O O O O
+2762,"Otpad iz šest priobalnih zemalja , kao i država u odvodnom basenu , ulazi u more uglavnom preko reka , a ponekad se jednostavno baca u vodu .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+477,"Poslednja međunarodna nastojanja za ujedinjenje Kipra propala su u aprilu prošle godine , kada su kiparski Grci u velikom broju odbacili UN-ov plan rešenja .",O O O O O B-LOC O O O O O O O O O O B-PER O O O O B-ORG O O O
+146,To ima dodatnu težinu ako se ima u vidu proglašenje nezavisnosti Kosova i rizike koji iz toga proističu .,O O O O O O O O O O O B-LOC O O O O O O O
+1792,"Drucas je takođe rekao da bi , uprkos trenutnim finansijskim problemima , EU trebalo da pronađe potrebna sredstva za pomoć zemljama kandidatima u njihovim reformskim poduhvatima .",B-PER O O O O O O O O O O O B-ORG O O O O O O O O O O O O O O
+665,"Treći poraz zabeležili su rvači u grčko-rimskom stilu Seref Erogul i Seref Tutenk , koji su izgubili u kategoriji do 66 , odnosno 74 kg , a bokser Bahram Muzafer nije uspeo u meču u kategoriji do 81 kg .",O O O O O O O O B-PER I-PER O B-PER I-PER O O O O O O O O O O O O O O O B-PER I-PER O O O O O O O O O O
+539,"U nedavnim iskopavanjima otkrivene su dve ukrašene kapije , ulice sa neverovatno čistim mermernim kamenom , prodavnice , kuće sa perfektno zaštićenim mozaicima , veliki trgovi , javne fontane i insule -- mesta za odmor posle kupanja .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+3075,Region predviđen za bušenje je poznat kao žitnica Bugarske i verovatno je najplodnija oblast u zemlji .,O O O O O O O O B-LOC O O O O O O O O
+1784,Turska koja štiti verske slobode svih svojih građana i poštuju prava svih manjina koje žive unutar njenih granica .,B-LOC O O O O O O O O O O O O O O O O O O
+101,"Zastoj proističe iz činjenice da Alijansi za evropsku integraciju -- koja ima većinu glasova u parlamentu -- nedostaju dva glasa , dok su predstavnici Komunističke partije odbili da glasaju za kandidata Alijanse .",O O O O O B-ORG I-ORG I-ORG I-ORG O O O O O O O O O O O O O O O B-ORG I-ORG O O O O O B-ORG O
+1975,"U saopštenju objavljenom u četvrtak ( 21. avgusta ) , kancelarija specijalnog tužioca označila je Milorada Lukovića kao glavnog osumnjičenog u zaveri protiv Đinđića .",O O O O O O O O O O B-ORG I-ORG I-ORG O O B-PER I-PER O O O O O O B-PER O
+2691,Rezolucija UN-a 1244 i status proglašavanja nezavisnosti po međunarodnom pravu bila su neka od pravnih pitanja koja su izneta u Hagu ove nedelje .,O B-ORG O O O O O O O O O O O O O O O O O O B-LOC O O O
+527,"Panevropska federacija za nasleđe -- neprofitna organizacija koja okuplja više od 200 nevladinih organizacija -- pridružila se Evropskom savetu i UNESKO-u i uputila pismo turskom ministru inostranih poslova Abdulahu Gulu , tražeći pomoć u spasavanju Alianoia i njegovih rimskih kupatila .",B-ORG I-ORG I-ORG I-ORG O O O O O O O O O O O O O B-ORG I-ORG O B-ORG O O O O O O O B-PER I-PER O O O O O B-LOC O O O O O
+2212,"Arapovićeva , koja živi i radi u Nemačkoj , najavila je da sledeće godine planira putujuću izložbu po Bosni i Hercegovini .",B-PER O O O O O O B-LOC O O O O O O O O O O B-LOC I-LOC I-LOC O
+2478,Albanski premijer Sali Beriša rekao je da su otpuštanja deo izbornog obećanja o smanjenju obima vlade .,O O B-PER I-PER O O O O O O O O O O O O O
+1948,Specijalni izaslanik UN-a Marti Ahtisari rekao je u sredu u Parlamentarnoj skupštini Saveta Evrope da je glavni cilj njegovog plana za Kosovo da se osigura miroljubiva koegzistencija svih etničkih zajednica .,O O B-ORG B-PER I-PER O O O O O B-ORG I-ORG I-ORG I-ORG O O O O O O O B-LOC O O O O O O O O O
+3397,""" Srbija nije spremna za toliko imigranata "" , rekla je predstavnica Državnog sekretarijata za izbeglice Jelena Marić za SETimes .",O B-LOC O O O O O O O O O O B-ORG I-ORG I-ORG I-ORG B-PER I-PER O B-ORG O
+3306,Postoji osećaj da su žrtvovali sve zarad statusa Kosova .,O O O O O O O O B-LOC O
+2344,Bio je to peti zvanični festival EXIT .,O O O O O O B-MISC O
+1892,Pozitivna situacija navodno proizlazi iz veće političke stabilnosti i demokratizacije koja je usledila posle prvobitnog haotičnog raspada Jugoslavije .,O O O O O O O O O O O O O O O O O B-LOC O
+1084,To bi bila prva takva koalicija u Hrvatskoj .,O O O O O O O B-LOC O
+3315,"U međuvremenu , obični građani bi želeli da dinar poraste , jer bi im to pomoglo da otplate zajmove vezane za evro .",O O O O O O O O O O O O O O O O O O O O O O O
+890,"Tipsarević je u finalu pobedio Britanca Aleksa Bogdanovića 6-4 , 1-6 , 6-2.",B-PER O O O O B-PER B-PER I-PER O O O O O
+2494,Svakog dana na televiziji gledamo liste kompanija i građana koje se objavljuju .,O O O O O O O O O O O O O
+2504,"Srbi za mnoge proizvode plaćaju veće cene nego građani drugih zemalja jugoistočne Evrope , a ne očekuje se da će inflacija uskoro biti obuzdana .",B-PER O O O O O O O O O O O B-LOC O O O O O O O O O O O O
+1795,Majkrosoft nudi verziju operativnog sistema Windows XP na makedonskom jeziku .,B-ORG O O O O B-MISC I-MISC O O O O
+338,Analitičari vide ovaj događaj kao još jedan dokaz bliskijih bilateralnih odnosa .,O O O O O O O O O O O O
+107,"Ljudi bi trebalo da shvate da je EU prostor vrednosti i blagostanja i oni zaslužuju da budu deo njega -- ali i mi moramo da uložimo određene napore "" , rekao je Timofti tokom izbora .",O O O O O O O B-ORG O O O O O O O O O O O O O O O O O O O O O O O O B-PER O O O
+2659,Albanski predsednik Bamir Topi sastao se u sredu ( 17. decembar ) sa američkim ambasadorom u Tirani Džonom Vitersom sa kojim je razgovarao o pravosudnim i izbornim reformama .,B-LOC O B-PER I-PER O O O O O O O O O O O O B-LOC B-PER I-PER O O O O O O O O O O
+3365,"Dve nedelje nakon terorističkog napada na ambasadu SAD u Sarajevu , ključni zvaničnici Islamske zajednice BiH ( IZ ) nastavljaju žestoko da kritikuju taj čin i izražavaju nadu da će kriminalističke službe uskoro razotkriti motive i okolnosti koje stoje iza napada .",O O O O O O O B-LOC O B-LOC O O O B-ORG I-ORG I-ORG O B-ORG O O O O O O O O O O O O O O O O O O O O O O O O
+2997,Policajci i vojnici dobijaju oko 300 evra .,O O O O O O O O
+1719,Kancelarija UN-a dodelila je nagrade u sklopu obeležavanja Dana UN .,O B-ORG O O O O O O B-MISC I-MISC O
+443,"Koordinator EU protiv terorizma izrazio je zabrinutost da je trenutni bezbednosni vakuum u Libiji možda omogućio članovima severnoafričkog ogranka Al Kaide da povećaju svoj arsenal oružja pljačkanjem , uključujući rakete zemlja-vazduh , čime se potencijalno dovodi u opasnost putovanje avionima .",O B-ORG O O O O O O O O O O O B-LOC O O O O O B-ORG I-ORG O O O O O O O O O O O O O O O O O O O O
+653,"U grčko-rimskom rvanju , Teodoros Tunusides izgubio je od Gruzijca Ramaza Nozadzea u kategoriji do 96 kg .",O O O O B-PER I-PER O O O B-PER I-PER I-PER O O O O O O
+3519,"Uz to , ključna zemlja u NATO-u -- Sjedinjene Države -- moraju da uravnoteže svoje ogromne tehnološke , vojne i ekonomske resurse da bi izbegle rizik od prenategnutosti .",O O O O O O B-ORG O B-LOC I-LOC O O O O O O O O O O O O O O O O O O O
+3623,Galeb bi trebalo da ostane ukotvljen u riječkoj luci i postane turistička atrakcija .,B-MISC O O O O O O O O O O O O O
+2888,Dominik Habsburg ( u sredini ) sada je vlasnik dvorca Bran .,B-PER I-PER O O O O O O O O B-LOC O
+1570,"Ako se prihvati ponuda Rusije , ukazao je on , kredit će biti plaćen kroz profit -- ako ga bude bilo -- iz Belena .",O O O O B-LOC O O O O O O O O O O O O O O O O O O B-LOC O
+221,"Prema njegovim rečima , ovog meseca će verovatno biti otvorena dva nova poglavlja , a zatim još nekoliko kada Francuska preuzme predsedavanje Predsedništvom EU 1. jula .",O O O O O O O O O O O O O O O O O O O B-LOC O O B-ORG I-ORG O O O
+3575,"Dokument je potencijalno vrlo koristan , rekao je on .",O O O O O O O O O O
+3743,"U svakoj drugoj zemlji to bi bio veliki medijski skandal , ali ne i u Moldaviji "" , kaže on .",O O O O O O O O O O O O O O O B-LOC O O O O O
+3122,"Demonstranti su se suprotstavili tome , jer bi to , kako kažu , dovelo do većih troškova .",O O O O O O O O O O O O O O O O O O
+3451,Predsednik Republike Srpske Rajko Kuzmanović dobio je 7. marta potvrdu o članstvu u Evropskoj akademiji nauka i umetnosti .,O B-LOC I-LOC B-PER I-PER O O O O O O O O B-ORG I-ORG I-ORG I-ORG I-ORG O
+1036,Albanski pisac Ismail Kadare dobio je u četvrtak ( 11. jun ) nagradu za najbolju knjigu na dodeli albanskih nagrada KULT iz oblasti kulture .,O O B-PER I-PER O O O O O O O O O O O O O O O O B-MISC O O O O
+2765,""" Umesto da bacaju mulj 25-30 km prema pučini , šlepovi ga bacaju ovde , blizu obale "" , rekao je dopisniku SETimes-a krajem septembra Angel Kišev , 80-godišnji ribar iz grada Černomorec .",O O O O O O O O O O O O O O O O O O O O O O B-ORG O O B-PER I-PER O O O O O B-LOC O
+1063,"Pasi je pozvao na "" praktične robusne mere "" u obračunu sa terorističkim pretnjama .",B-PER O O O O O O O O O O O O O O
+1211,Voz Priština-Skoplje simbol promene,O B-MISC O O
+2154,"Čak i danas ostaju institucionalni problemi i svake godine mnogi "" glasaju svojim nogama "" emigrirajući u druge zemlje .",O O O O O O O O O O O O O O O O O O O O
+2642,""" I poslovna zajednica i vlada treba da rade na poboljšanju zakona "" , zaključio je on .",O O O O O O O O O O O O O O O O O O
+3688,Državna železnička kompanija pretrpela je gubitak od oko 78 miliona evra .,O O O O O O O O O O O O
+2807,"Ukupan obim kredita još uvek nije odlučen , dodao je Zakau .",O O O O O O O O O O B-PER O
+2690,Pred MSP-om predstavljeni argumenti u slučaju Kosova,O B-ORG O O O O B-LOC
+1857,"Država i njeni građani suočavaju se sa ogromnim dugovima , a kraj tome se baš i ne vidi .",O O O O O O O O O O O O O O O O O O O
+2260,Moskva je zapretila da će blokirati svaku rezoluciju koja je neprihvatljiva za Srbiju .,B-LOC O O O O O O O O O O O B-LOC O
+2284,"U pismu , komesar EU za zdravstvo Andrula Vasiliju zatražio je pomoć zemlje u ubrzavanju nastojanja EU da se pronađe delotvorna vakcina .",O O O O B-ORG O O B-PER I-PER O O O O O O O B-ORG O O O O O O
+3638,"Ekonomisti upozoravaju da bi turska ekonomija mogla da nastavi da se "" grči "" i procenjuju da bi u 2009. deflacija mogla da bude 5,1 odsto .",O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2216,U sklopu festivala takođe se održavaju tri umetničke izložbe .,O O O O O O O O O O
+2999,"Pored toga , neki radnici mesecima nisu dobili plate .",O O O O O O O O O O
+1240,Vlašić je prošle godine osvojila zlatnu medalju na svetskom prvenstvu u skoku u vis na otvorenom koje je održano u Osaki .,B-PER O O O O O O O O O O O O O O O O O O O B-LOC O
+1802,"Softver na makedonskom jeziku deo je strateškog sporazuma koji je kompanija potpisala sa makedonskom vladom , a koji ima za cilj povećanje upotrebe Majkrosoftovih proizvoda u zemlji , kao i zaustavljanje širenja piratskih softvera .",O O O O O O O O O O O O O O O O O O O O O O O B-ORG O O O O O O O O O O O
+1525,"Prema podacima MŽB , žene u BiH uglavnom se bave poljoprivredom , a potom proizvodnjom i trgovinom i uslugama .",O O B-ORG O O O B-LOC O O O O O O O O O O O O O
+666,Kultura i sport : Božić u Atini,O O O O B-MISC O B-LOC
+2056,Ministar ekonomije i finansija Ahmet Šalja kaže da je vlada odvojila na stranu 200 miliona evra kao meru predostrožnosti u svetlu tekuće krize .,O O O O B-PER I-PER O O O O O O O O O O O O O O O O O O
+2234,""" Veliko oslanjanje na reklamu od strane vladinih institucija , narastajući broj slučajeva klevete , ili pretnje te vrste , i postupci kao što je zatvaranje skupštine za novinare tokom glasanja , samo doprinose zabrinutosti kancelarije [ OEBS-a ] , koja će sa pažnjom nastaviti da prati ovo pitanje "" .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-ORG O O O O O O O O O O O O O
+1022,Grčka se nada da će moći da počne nove pregovore sa Velikom Britanijom .,B-LOC O O O O O O O O O O B-LOC I-LOC O
+3885,"Na primer , najveća hrvatska farmaceutska kompanija , Pliva , prodala je svoju dansku filijalu Pliva Pharma Nordic kompaniji United Nordic Pharma , u vlasništvu islandske grupe Pharmaco .",O O O O O O O O B-ORG O O O O O O B-ORG I-ORG I-ORG O B-ORG I-ORG I-ORG O O O O O B-ORG O
+3380,""" Ljudi koji počine tako gnusne činove i rugaju se čestitim islamskim učenjima iskrivljuju veru "" , rekao je Fazlović .",O O O O O O O O O O O O O O O O O O O B-PER O
+690,"On je takođe objasnio da je "" veoma ozbiljna bezbednosna situacija "" u gradu na severu Kosova razlog za odluku UNMIK-a da povuče svoju policiju iz tog regiona .",O O O O O O O O O O O O O O O O B-LOC O O O B-ORG O O O O O O O O
+3305,""" Građani Kosova imaju pravo da vrše pritisak na svoje institucije .",O O B-LOC O O O O O O O O O
+1885,Izveštaj UN : Balkan među najbezbednijim regionima u Evropi,O B-ORG O B-LOC O O O O B-LOC
+2933,Želja Turske da postane regionalna sila pogodila je neke u Bosni i Hercegovini .,O B-LOC O O O O O O O O B-LOC I-LOC I-LOC O
+3577,""" Zar ne možemo samo da prihvatimo to da je Kosovo država i krenemo dalje ? """,O O O O O O O O O O B-LOC O O O O O O
+3258,Carinska služba zemlje zabeležila je prihod od 70 miliona evra u prvih deset meseci ove godine .,O O O O O O O O O O O O O O O O O
+2131,"Još jedno istaknuto mesto u komisiji otići će Dačijanu Kiolosu iz Rumunije , koji je imenovan za sledećeg komesara poljoprivrede i ruralnog razvoja , dok će bugarska ministarka inostranih poslova Rumijana Želeva biti zadužena za međunarodne odnose i humanitarnu pomoć .",O O O O O O O O B-PER I-PER O B-LOC O O O O O O O O O O O O O O O O O O B-PER I-PER O O O O O O O O O
+1661,"Saks-Koburg , bivši bugarski kralj , proveo je više godina u egzilu u Španiji , pre nego što se pre nekoliko godina vratio u Sofiju .",B-PER O O O O O O O O O O O O B-LOC O O O O O O O O O O B-LOC O
+831,"Ne želimo da šetamo oko nekog travnjaka u blizini reke ; to ne bi bila Parada ponosa "" , rekla je članica organizacionog odbora Majda Puača .",O O O O O O O O O O O O O O O B-MISC I-MISC O O O O O O O B-PER I-PER O
+1058,Podsticanje obrazovanja i proširenje saradnje sa drugim međunarodnim organizacijama takođe se nalaze na listi bugarskih prioriteta .,O O O O O O O O O O O O O O O O O
+1117,Takav izborni sistem predstavlja drastičnu promenu u odnosu na dosadašnju praksu .,O O O O O O O O O O O O
+2584,""" Dvadeset godina kasnije ista stranka je na vlasti , uprkos činjenici da su građani živeli u četiri različite države "" , rekao je on .",O O O O O O O O O O O O O O O O O O O O O O O O O O
+3476,To je prvi put od sukoba u BiH da je oficir VRS javno ispunio direktno naređenje bošnjačkog zvaničnika .,O O O O O O O B-LOC O O O B-ORG O O O O O O O
+593,"Rusija je napala velikom snagom i bombardovala čal i samu Gruziju , mnogo dublje od granica same Južne Osetije .",B-LOC O O O O O O O O O B-LOC O O O O O O B-LOC I-LOC O
+2911,Optužbe su usledile posle nedelje oštrih napada na lični integritet i kompetentnost Želeve .,O O O O O O O O O O O O B-PER O
+900,Lete cipele u srpskom parlamentu,O O O O O
+1012,"Organizacija unutar galerije je istovetna kao u Partenonu pre više vekova , tako da posetilac ima osećaj kao da je unutar hrama .",O O O O O O O B-LOC O O O O O O O O O O O O O O O
+840,To je najveće nasilje koje se dogodilo u Mađarskoj od pada komunizma 1989. godine .,O O O O O O O O B-LOC O O O O O O
+2667,Takođe je obavljena istraga 12 kvalifikacionih utakmica za Evropsku ligu Evropske fudbalske federacije ( UEFA ) i tri za Ligu šampiona UEFA .,O O O O O O O O B-MISC I-MISC B-ORG I-ORG I-ORG O B-ORG O O O O B-MISC I-MISC I-MISC O
+2551,""" Tačno je da niko ne postavlja članstvo u NATO-u kao uslov za članstvo Srbije u EU , ali je takođe tačno da ako želimo da uspostavimo sistem evropskih vrednosti u Srbiji , moramo da uključimo evroatlantski bezbednosni sistem "" , rekao je Šutanovac beogradskom dnevniku Pres , dodajući da ne vidi negativne posledice po Srbiju ako bi se pridružila NATO-u .",O O O O O O O O O B-ORG O O O O B-LOC O B-ORG O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O B-PER O O B-ORG O O O O O O O O B-LOC O O O O B-ORG O
+2942,Davutoglu je na tim sastancima čvrsto podržao BiH kao suverenu zemlju na putu ka članstvu u EU i NATO .,B-PER O O O O O O B-LOC O O O O O O O O B-ORG O B-ORG O
+1350,"Oko 70.000 naučnika i studenata deo su grčke dijaspore , izvestio je u utorak ( 17. jun ) grčki list Kerdos .",O O O O O O O O O O O O O O O O O O O O B-ORG O
+2176,""" Napraviti pravi izbor znači da lideri ove zemlje moraju da prestanu da slede uske etničke i političke interese "" , rekao je Bajden .",O O O O O O O O O O O O O O O O O O O O O O O B-PER O
+1032,Kultura i društvo : Kadare dobio književnu nagradu,O O O O B-PER O O O
+2339,"Najvećem muzičkom festivalu u jugoistočnoj Evropi , održanom od 7. do 10. jula na austrougarskoj Petrovaradinskoj tvrđavi u Novom Sadu , prisustvovalo je više od 150.000 posetilaca , nekoliko stotina izvođača i više od 1.500 akreditovanih novinara iz čitavog sveta , među kojima i izveštači velikih kuća poput BBC-a i MTV-a .",O O O O O B-LOC O O O O O O O O O B-LOC I-LOC O B-LOC I-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-ORG O B-ORG O
+148,Setimes : Da li je spor između Grčke i Makedonije oko imena prepreka za prijem Makedonije u NATO ?,B-ORG O O O O O O B-LOC O B-LOC O O O O O B-LOC O B-ORG O
+326,On će ostati u pritvoru do ročišta u četvrtak .,O O O O O O O O O O
+1560,""" [ Celokupna ] EU se fokusira na alternativne energetske izvore , samo naša vlada gradi drugu nuklearnu elektranu "" , rekao je Dimitrov prošle nedelje pozivajući na hitnu obustavu projekta Belene .",O O O O B-ORG O O O O O O O O O O O O O O O O O O B-PER O O O O O O O B-LOC O
+201,Ova klauzula odnosila se na zaplenu štamparija .,O O O O O O O O
+1647,"Međutim , Brisel je upozorio Bugarsku da se mora usredsrediti na efektivnu implementaciju neophodnih reformi , uključujući one u pravosudnom i sektoru javne administracije , kako bi osigurala da prijem u Uniju ne bude odložen .",O O B-LOC O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O B-ORG O O O O
+2019,Fehmiju je sarađivao sa svim poznatim režiserima bivše Jugoslaivje i dobio je brojne glumačke nagrade .,B-PER O O O O O O O B-LOC O O O O O O O
+3479,Četa je rezultat mnogih kompromisa .,O O O O O O
+3289,""" Ako se takav predlog izloži u bilo kom trenutku , mi ćemo preispitati svoj stav i svoje učešće u ovom procesu .",O O O O O O O O O O O O O O O O O O O O O O O
+1225,Voz polazi iz Skoplja u 9.40 pre podne i 4.10 popodne .,O O O B-LOC O O O O O O O O
+2975,"Nekoliko stanovnika okolnih sela žalilo se da je Nikica "" opasna zver "" .",O O O O O O O O B-PER O O O O O
+2198,""" Verujem da je ova odluka takođe bila proaktivan korak koji služi drugoj svrsi : vlada AKP pokušava da redefiniše ' tursko državljanstvo ' u liberalnijem , civilnijem i modernijem smislu -- što neki pogrešno tumače kao neootomanizam "" , kaže Čakir .",O O O O O O O O O O O O O O O O B-ORG O O O O O O O O O O O O O O O O O O O O O O O O B-PER O
+3227,Predlog za nacionalnu himnu je povučen .,O O O O O O O
+2280,"Istanbul , u Turskoj , biće 13. i 14. juna domaćin četvrtog Međunarodnog kongresa o UFO i Novom dobu , izvestila je u sredu ( 3. jun ) novinska agencija Anadolu .",B-LOC O O B-LOC O O O O O O O B-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC O O O O O O O O O O O B-ORG O
+669,"Dete razgovara sa Deda Mrazom i vilenjakom u radionici Deda Mraza priređenoj za decu u centru Atine , u četvrtak ( 21. decembra ) .",O O O B-PER I-PER O O O O B-PER I-PER O O O O O B-LOC O O O O O O O O
+568,"U situaciji u kojoj Gruzija insistira na svom "" teritorijalnom integritetu , a Rusija šalje vojsku da štiti od navodnih zločina , Beograd rizikuje da se otuđi od ključnog saveznika , ili da dovede u pitanje svoj stav o Kosovu .",O O O O B-LOC O O O O O O O O B-LOC O O O O O O O O B-LOC O O O O O O O O O O O O O O O O B-LOC O
+1091,"Međutim , stranku su naljutile tvrdnje da je kandidat SDP Ljubo Jurčić prvobitno ponudio svoju podršku HDZ-u u zamenu za mesto u parlamentu .",O O O O O O O O O B-ORG B-PER I-PER O O O O B-ORG O O O O O O O
+2658,""" Albanija postiže znatan napredak u reformama "" , rekao je on .",O B-LOC O O O O O O O O O O O
+3836,"Ministar inostranih poslova je posle sastanka otišao u Bosnu i Hercegovinu ( BiH ) , gde se sastao sa srpskim i hrvatskim liderima .",O O O O O O O O B-LOC I-LOC I-LOC O B-LOC O O O O O O O O O O O
+3422,Gradonačelnik Mitrovice Krstomir Pantić osudio je situaciju i izrazio svoje nezadovoljstvo KFOR-om .,O B-LOC B-PER I-PER O O O O O O O B-ORG O
+694,"Mnogi demonstranti su , kako se navodi , bivši službenici suda koji su izgubili radna mesta nakon što je Kosovo došlo pod upravu UN posle okončanja sukoba 1998-1999.",O O O O O O O O O O O O O O O O O O O B-LOC O O O B-ORG O O O O
+1103,""" Nadam se da će sudije , koje prvi put vrše pravo izbora članova Saveta , izabrati najbolje kandidate , rekao je ministar pravde Mihajlo Manevski .",O O O O O O O O O O O O O O B-ORG O O O O O O O O O B-PER I-PER O
+1340,"Prema televiziji IN , UEFA je potpisala ekskluzivan ugovor dajući IN-u prava prenosa , koja su lokalni kablovski operateri narušili time što nisu skremblovali emitovanje utakmica .",O O B-ORG O B-ORG O O O O O B-ORG O O O O O O O O O O O O O O O O
+994,Svakog dana se prenosi najviše četiri sanduka .,O O O O O O O O
+46,"Tužioci su izveli 25 svedoka , koji su rekli da je Ramkovski izbegao da plati 4,5 miliona evra poreza i da je stekao 17,5 miliona evra kroz prevaru -- kao što je izdavanje računa sa lažnim sadržajem .",O O O O O O O O O O O B-PER O O O O O O O O O O O O O O O O O O O O O O O O O O
+181,"Kakvo je vaše mišljenje o saradnji zemalja Balkana i koliko je ona , po vama , važna ?",O O O O O O O B-LOC O O O O O O O O O O
+3770,"Bil Gejts je boravio u Atini povodom otvaranja novog "" inovativnog centra "" tog softverskog giganta .",B-PER I-PER O O O B-LOC O O O O O O O O O O O
+3608,"Od prošlog meseca , međutim , takvo se stanje promenilo , kada je brod kupio grad Rijeka .",O O O O O O O O O O O O O O O O B-LOC O
+1903,"Kosta je upozorio da je korupcija "" javni neprijatelj broj jedan "" na Balkanu .",B-PER O O O O O O O O O O O O B-LOC O
+119,Da li će predsednik rešiti taj problem ?,O O O O O O O O
+1592,"Međutim treba da vidimo veću posvećenost tim pitanjima "" , rekao je on .",O O O O O O O O O O O O O O
+3687,Pričinjena šteta samo na infrastrukturi iznosi oko 175 miliona evra .,O O O O O O O O O O O
+1811,"Tri istraživačko-dokumentaciona centra iz Srbije i Crne Gore , Bosne i Hercegovine ( BiH ) i Hrvatske planiraju da osnuju trajnu regionalnu letnju školu .",O O O O B-LOC I-LOC I-LOC I-LOC O B-LOC I-LOC I-LOC O B-LOC O O B-LOC O O O O O O O O
+3573,"Ovo je ne EULEKS-u , a ne EU "" , naveli su oni u zajedničkom saopštenju .",O O O B-ORG O O O B-ORG O O O O O O O O O
+1259,Bugarski ministar za evropska pitanja Meglena Kuneva .,O O O O O B-PER I-PER O
+3301,"Kosovski Albanci koji čine 90 odsto od ukupno 2 miliona stanovnika pokrajine prihvatili su plan , iako ne bi dobili potpunu nezavisnost od Srbije koju su tražili .",O B-PER O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O
+354,""" Evropska i demokratska Hrvatska je nacionalni cilj od naše nezavisnosti "" , rekla je Kosor na prijemu za članove diplomatskog kora .",O O O O B-LOC O O O O O O O O O O B-PER O O O O O O O
+3625,Da li Turska može sama ?,O O B-LOC O O O
+779,Niko nije odmah preuzeo odgovornost .,O O O O O O
+725,"Jani Makraduli , potpredsednik najveće opozicione partije -- Socijaldemokratskog saveza Makedonije ( SDSM ) -- izjavio je da će kao odgovorna stranka SDSM podržati vladu do aprila .",B-PER I-PER O O O O O O B-ORG I-ORG I-ORG O B-ORG O O O O O O O O O B-ORG O O O O O
+3626,"Premijer Redžep Tajip Erdogan kaže da je Turska u stanju da prebrodi ekonomsku krizu bez pomoći MMF , ali analitičari u to sumnjaju .",O B-PER I-PER I-PER O O O B-LOC O O O O O O O O B-ORG O O O O O O O
+2020,"On se pojavljivao u filmovima i u drugim evropskim zemljama , posebno u Italiji , gde je postao poznat po TV seriji "" Uliks "" .",O O O O O O O O O O O O O B-LOC O O O O O O O O O B-MISC O O
+553,"Iako je tendencija silazna , do potpunog nestanka takvih slučajeva je dug put , "" kaže Anica Tomić Stojkovska iz Koalicije svi za poštena suđenja .",O O O O O O O O O O O O O O O O B-PER I-PER I-PER O B-ORG I-ORG I-ORG I-ORG I-ORG O
+3387,Ilegalni imigranti u zatvorskom objektu Padinska Skela u Beogradu .,O O O O O B-ORG I-ORG I-ORG I-ORG O
+3855,Da li je proces privatizacije još uvek jedan od najvažnijih elemenata ekonomskih reformi u zemljama Jugoistočne Evrope ( JIE ) ?,O O O O O O O O O O O O O O O B-LOC I-LOC O B-LOC O O
+3391,""" Možete da ih sretnete svuda , na ulicama su i danju i noću i ne znamo ko su ti ljudi "" , rekla je za SETimes stanovnica tog grada Verica Dokmanović .",O O O O O O O O O O O O O O O O O O O O O O O O O O B-ORG O O O B-PER I-PER O
+2390,"Premijer Srbije Vojislav Koštunica , govoreći na sednici odbora guvernera EBRD , rekao je da je odluka da ta institucija održi svoju skupštinu u Beogradu "" jasna poruka da svet od Srbije i Crne Gore očekuje da napreduje na putu evropskih integracija .",O B-LOC B-PER I-PER O O O O O O B-ORG O O O O O O O O O O O O O B-LOC O O O O O O B-LOC I-LOC I-LOC I-LOC O O O O O O O O
+1910,To je prva Kostelićeva pobeda u Svetskom kupu od 2003. godine .,O O O B-PER O O B-MISC I-MISC O O O O
+3652,Bosna i Hercegovina uvodi PDV,B-LOC I-LOC I-LOC O O
+3785,Sa fondom pomoći od 500 milijardi evra rešavaće se problemi dužničkih kriza .,O O O O O O O O O O O O O
+1923,"Ove godine na festivalu učestvuju četiri lokalne amaterske trupe -- Romani bah iz Velesa , Romano thagar iz Delčava , Bela Kula iz Kičeva i Romano ilo iz Skoplja .",O O O O O O O O O O B-ORG I-ORG O B-LOC O B-PER I-PER O B-LOC O B-ORG I-ORG O B-LOC O B-PER I-PER O B-LOC O
+2330,"Srbija bi možda mogla da završi godinu sa budžetskim suficitom , umesto deficitom kao što je projektovano , zbog sporijeg sprovođenja Nacionalnog investicionog plana , izjavio je u ponedeljak ( 29. oktobar ) ministar finansija Mirko Cvetković .",B-LOC O O O O O O O O O O O O O O O O O O O O B-MISC I-MISC I-MISC O O O O O O O O O O O B-PER I-PER O
+1907,"( Sa leva ) Pjerik Burže iz Francuske ( treće mesto ) , Ivica Kostelić iz Hrvatske ( prvo mesto ) i Romed Bauman iz Austrije ( drugo mesto ) dobijaju medalje posle trke u super kombinaciji FIS Svetskog skijaškog kupa , koja je vožena u nedelju u Rajteralmu , u Austriji .",O O O O B-PER I-PER O B-LOC O O O O O B-PER I-PER O B-LOC O O O O O B-PER I-PER O B-LOC O O O O O O O O O O O B-MISC I-MISC I-MISC I-MISC O O O O O O O B-LOC O O B-LOC O
+3659,Do uvođenja poreza dolazi posle energične javne debate tokom koje su opozicione stranke i radnički sindikati osporavali ideju o jedinstvenoj poreskoj stopi .,O O O O O O O O O O O O O O O O O O O O O O O
+1222,Železnička kompanija saopštila je da će doneti odluku na osnovu nivoa interesovanja .,O O O O O O O O O O O O O
+796,"Istaknuti portugalski trener Fernando Santos verovatno će , kako se misli , biti kandidat za naslednika 72-godišnjeg Rehagela .",O O O B-PER I-PER O O O O O O O O O O O O B-PER O
+3497,""" U 2006. godini planiramo prodaju 300 kompanija na aukciji , raspisivanje 30 tendera i prodaju 250 paketa deonica iz portfolija Akcijskog fonda "" , rekao je Đorđević .",O O O O O O O O O O O O O O O O O O O O O B-MISC I-MISC O O O O B-PER O
+629,Zajednički projekat istraživanja basena Drave pokrenut je 2006. godine .,O O O O B-LOC O O O O O
+2881,""" Naprotiv , tim pregovorima Srbija želi da bude formirana srpska republika na Kosovu , poput Republike Srpske .",O O O O O B-LOC O O O O O O O B-LOC O O B-LOC I-LOC O
+2342,"Posetioci iz čitavog regiona , ali i iz Velike Britanije , Mađarske , Irske i drugih zemalja EU doputovali su u Novi Sad da bi slušali raznovrsnu muzičku ponudu spid metal , rokenrol , džez , bluz , svetsku muziku , tehno , kantri i klasičnu muziku .",O O O O O O O O B-LOC I-LOC O B-LOC O B-LOC O O O B-ORG O O O B-LOC I-LOC O O O O O O O O O O O O O O O O O O O O O O O O O
+3535,Članstvo u NATO-u ili EU ne treba posmatrati kao zamenu za pametno i konzistentno vođenje lokalne politike .,O O B-ORG O B-ORG O O O O O O O O O O O O O
+3197,"Potvrđujući da niko nije povređen u "" vrlo ozbiljnom napadu "" u petak ujutru , američki ambasador u Grčkoj Čarls Ris rekao je da ne može da postoji "" opravdanje za takav bezuman čin nasilja "" .",O O O O O O O O O O O O O O O O O O B-LOC B-PER I-PER O O O O O O O O O O O O O O O O
+884,"Drevno tračansko blago otkriveno u Bugarskoj krenuće 14. oktobra na turneju po inostranstvu , uzastopnim izložbama u Francuskoj , Švajcarskoj i Japanu .",O O O O O B-LOC O O O O O O O O O O O B-LOC O B-LOC O B-LOC O
+2579,To se nije dogodilo .,O O O O O
+810,Sami Neza razmatra te izglede .,B-PER I-PER O O O O
+3396,Od početka godine kroz centar za azilante prošlo je 2.500 izbeglica .,O O O O O O O O O O O O
+1187,Tri godine od kada je atentator ubio prvog premijera Srbije nakon Miloševićeve ere mnoga pitanja o zaveri za ubistvo i dalje su bez odgovora .,O O O O O O O O O B-LOC O B-PER O O O O O O O O O O O O O
+1603,"Najpoznatiji makedonski režiser Milčo Mančevski počeo je da radi na svom trećem igranom filmu "" Kosti "" .",O O O B-PER I-PER O O O O O O O O O O B-MISC O O
+1622,To ministarstvo zaduženo je u Srbiji za rad Agencije za privredne registre koja je odbila da registruje povećanje deoničarskog kapitala Divčeve kompanije u beogradskom dnevniku Večernje novosti .,O O O O O B-LOC O O B-ORG I-ORG I-ORG I-ORG O O O O O O O O B-PER O O O O B-ORG I-ORG O
+2420,"Koštunica je u sličnom tonu rekao da je sastanak EBRD "" jasna poruka da svet računa na Srbiju i Crnu Goru na daljem putu evropskih integracija .",B-PER O O O O O O O O B-ORG O O O O O O O B-LOC I-LOC I-LOC I-LOC O O O O O O
+2721,"Prema izveštaju , unapređivanje zaštite svedoka na Kosovu zahtevaće novi zakon kojim se pruža statutarna osnova za sveobuhvatni program zaštite svedoka -- uključujući , ako je neophodno , preseljenje svedoka i njihovih rođaka .",O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O
+1562,Lider UDF -- predsednik ekonomskog odbora parlamenta -- istakao je da Bugarska pokriva oko 60 odsto svojih energetskih potreba sa sadašnjom proizvodnjom struje .,O B-ORG O O O O O O O O O B-LOC O O O O O O O O O O O O
+2285,Rumunski Institut Kantacuzino zadužen je da potvrđuje slučajeve virusa H1N1 za pacijente iz devet država u regionu .,O O B-ORG O O O O O O O O O O O O O O O
+2430,Zemlja je naučila da živi sa neodlučnim međunarodnim prisustvom i čestim pozivima -- uglavnom motivisanim političkim ili finansijskim razlozima -- za manjim mešanjem međunarodne zajednice .,O O O O O O O O O O O O O O O O O O O O O O O O O O
+1785,"On je , međutim , takođe rekao da se Ankara ne može nadati ulasku u EU sve dok bude držala hiljade turskih vojnika stacioniranih na severu Kipra , kao i da kiparski Grci mogu da nastave da blokiraju proces pridruživanja Turske .",O O O O O O O O O B-LOC O O O O O B-ORG O O O O O O O O O O B-LOC O O O O O B-PER O O O O O O O B-LOC O
+965,"Među prisutnima su bili hrvatski predsednik Stipe Mesić , predsednik Srbije Boris Tadić i bugarski predsednik Georgi Prvanov .",O O O O O O B-PER I-PER O O B-LOC B-PER I-PER O O O B-PER I-PER O
+174,"Crvenkovski : Republika Makedonija poseduje kako institucionalni , tako i demokratski kapacitet i , što je još važnije , snažnu odlučnost da do kraja 2008. dobije datum o početku pregovora .",B-PER O B-LOC I-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O
+756,Mišljenja u turskim medijima su pomešana .,O O O O O O O
+227,On je u intervjuu u utorak međutim priznao da to neće biti lako i da će zahtevati velike napore .,O O O O O O O O O O O O O O O O O O O O
+522,"Ako ne bude pronađeno drugo rešenje , Turska bi mogla da izgubi značajnu istorijsku lokaciju .",O O O O O O O B-LOC O O O O O O O O
+1375,"SETimes : Predstojeći pregovori između Kosova i Srbije u Briselu privremeno su prekinuti ; kako će to , po vašem mišljenju , protumačiti strane u pregovorima ?",B-ORG O O O O B-LOC O B-LOC O B-LOC O O O O O O O O O O O O O O O O O
+3572,""" Zajedno ćemo reći ne narušavanju suvereniteta Kosova .",O O O O O O O B-LOC O
+1630,"Prema podacima jedne nezavisne revizorske kompanije , vrednost Večernjih novosti procenjena je na 30 miliona evra .",O O O O O O O O B-ORG I-ORG O O O O O O O
+651,"Drugi duo , Eftalija Kutrumanidiju i Marija Ciarciani , takođe je izgubio .",O O O B-PER I-PER O B-PER I-PER O O O O O
+1348,Ti materijali su važan dodatak hrani svuda u svetu .,O O O O O O O O O O
+69,Mnogi članovi stranke misle da je Lagumdžijina odluka da uđe u koaliciju sa Strankom demokratske akcije ( SDA ) bila autokratska -- i posmatrana je kao potpuna izdaja od strane većine stranačkih krugova i građana koji su podržali SPD na izborima .,O O O O O O B-PER O O O O O O B-ORG I-ORG I-ORG O B-ORG O O O O O O O O O O O O O O O O O O O O B-ORG O O O
+465,"Ne postoji ništa nekompatibilno između demokratskih vrednosti i visokih standarda pristojnosti "" , rekao je Buš .",O O O O O O O O O O O O O O O B-PER O
+49,Taseva kaže da je Transparensi podneo zahtev Ustavnom sudu Makedonije da preispita zakonitost zaplene .,B-PER O O O B-ORG O O B-ORG I-ORG I-ORG O O O O O
+2894,"Na festivalu će nastupiti svetski poznati muzičari poput En-Sofi Muter , sir Andre Previna , Lin Harel , Rolanda Vilazona , En Halenberg , Elizabet Vots , trija Žaka Lusijea , Danijela Barenboima i italijanskog filharmonijskog orkestra La Skala .",O O O O O O O O B-PER I-PER O B-PER I-PER I-PER O B-PER I-PER O B-PER I-PER O B-PER I-PER O B-PER I-PER O O B-PER I-PER O B-PER I-PER O O O O B-ORG I-ORG O
+919,Drugi krug predsedničkih izbora u Rumuniji u senci niskih udaraca u predizbornoj kampanji,O O O O O B-LOC O O O O O O O
+879,"S obzirom na nesaradnju Beograda sa Haškim tribunalom , "" neprikladno "" je uopšte raspravljati o ovom pitanju , rekla je Aleksandra Milenov .",O O O O B-LOC O B-ORG I-ORG O O O O O O O O O O O O O B-PER I-PER O
+2583,"Prema Mihailu Jovoviću , uredniku dnevnika Vijesti , mnogi Crnogorci jednostavno osećaju da još uvek nemaju dovoljno uloga u ekonomiji i političkom životu zemlje .",O B-PER I-PER O O O B-ORG O O B-PER O O O O O O O O O O O O O O O
+1316,"S obzirom da su poslodavci u jačoj poziciji , neki kažu da je zlostavljanje na radnom mestu -- uključujući zastrašivanje i grupno psihološko nasrtanje -- postalo učestalije .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+3658,Očekuje se da će uvođenje poreza doneti državnom budžetu dodatnih 75 miliona evra i smanjiti ilegalnu trgovinu .,O O O O O O O O O O O O O O O O O O
+2711,"U utorak , Hrvatska je postala jedina zemlja bivše Jugoslavije koja je iznela svoj stav tokom usmenog dela procesa .",O O O B-LOC O O O O O B-LOC O O O O O O O O O O
+2455,"Povlačenje u ovoj fazi institucionalnog razvoja svakako bi predstavljalo kockanje sa svim što je postignuto do sada i , kao što je rekao visoki predstavnik Pedi Ešdaun , kockanje sa budućnošću regiona .",O O O O O O O O O O O O O O O O O O O O O O O O O B-PER I-PER O O O O O O
+1343,Iseljenici mogu da registruju svoju imovinu u Grčkoj do 30. decembra .,O O O O O O O B-LOC O O O O
+2209,"Jedan od osnivača Građanske alijanse , jedne od prvih grupa koja se zalagala za demokratiju posle 1989. godine , Paleologu je kraće vreme bio rumunski ambasador u Francuskoj .",O O O B-ORG I-ORG O O O O O O O O O O O O O O B-PER O O O O O O O B-LOC O
+2832,Sirijski predsednik Bašar Al Asad pružio je u nedelju ( 11. novembra ) uveravanja ministarki inostranih poslova Kipra Erato Kozaku-Markulis da će spor oko morskih puteva između Latakije u Siriji i luke Famagusta na severnom Kipru biti rešen u bliskoj budućnosti .,O O B-PER I-PER I-PER O O O O O O O O O O O O B-LOC B-PER I-PER O O O O O O O B-LOC O B-LOC O O B-LOC O O B-LOC O O O O O O
+1352,Prve novine za slepe i osobe sa poremećenim vidom u Srbiji dostigle su u petak ( 20. jun ) u Novom Sadu prvi tiraž od 200 čitalaca .,O O O O O O O O O O B-LOC O O O O O O O O O B-LOC I-LOC O O O O O O
+979,"Zahtev Crne Gore za članstvo zvanično je odobren na 119. zasedanju generalne skupštine MOK-a u Gvatemala Sitiju , nakon što je Crna Gora proglasila nezavisnost prošle godine .",O B-LOC I-LOC O O O O O O O O O O B-ORG O B-LOC I-LOC O O O O B-LOC I-LOC O O O O O
+3388,"Građani Banje Koviljače , malog grada 173 km zapadno od Beograda , na granici sa Bosnom i Hercegovinom , održali su prošle nedelje protest zahtevajući da tražioci azila napuste njihov grad .",O B-LOC I-LOC O O O O O O O B-LOC O O O O B-LOC I-LOC I-LOC O O O O O O O O O O O O O O
+3351,Oko 10.000 učesnika ovog programa dolazi iz prestonice ; dok ostali dolaze iz različitih mesta širom Makedonije .,O O O O O O O O O O O O O O O O B-LOC O
+3820,Analitičari u Beogradu kažu da će unutrašnji sukob ugroziti reforme i nove strane investicije .,O O B-LOC O O O O O O O O O O O O
+1848,Reformama je predviđena država četiri entiteta sa tri nivoa vlasti .,O O O O O O O O O O O
+2831,"Tokom posete Sarajevu on se sastao sa predsedavajućim Predsedništva BiH Željkom Komšićem , svojim bosanskim kolegom Svenom Alkalajem i predsednikom Predstavničkog doma Miloradom Živkovićem .",O O B-LOC O O O O O B-ORG I-ORG B-PER I-PER O O O O B-PER I-PER O O B-ORG I-ORG B-PER I-PER O
+2611,"Više od polovine tih ljudi živi u Kini , koja takođe pripada ovoj grupi .",O O O O O O O B-LOC O O O O O O O
+776,"Vidno uznemiren i potresen Vasilakisovom smrću , on je obećao da će se oni koji stoje iza napada suočiti sa pravdom .",O O O O B-PER O O O O O O O O O O O O O O O O O
+572,""" Podrška Južnoj Osetiji i Rusiji bi , međutim , "" oslabila argumente Beograda protiv nezavisnosti Kosova , "" napisao je B92 .",O O B-LOC I-LOC O B-LOC O O O O O O O B-LOC O O B-LOC O O O O B-ORG O
+7,Esat Beriša je jedan takav primer .,B-PER I-PER O O O O O
+1648,Zvaničnici EU takođe su pozvali Sofiju da preduzme odlučnu akciju u smanjivanju nivoa korupcije i kriminala u zemlji .,O B-ORG O O O B-LOC O O O O O O O O O O O O O
+1780,""" Što je evropski proces življi , to će Turska biti demokratičnija , "" kaže Drucas .",O O O O O O O O O B-LOC O O O O O B-PER O
+66,"U suprotnom ćemo biti neozbiljni političari bez zajedničkog stava "" , rekao je Lagumdžija novinarima u Beogradu posle sastanka sa Jeremićem 14. marta .",O O O O O O O O O O O O O B-PER O O B-LOC O O O B-PER O O O
+117,"Zemlja ne može da se razvija bez predsednika ; niko ne veruje u budućnost "" , kaže za SETimes Veronika Popesku , nastavnica iz Kalarasija .",O O O O O O O O O O O O O O O O O O B-ORG B-PER I-PER O O O B-LOC O
+2386,Predsednik Skupštine Republike Srpske ( RS ) Igor Radojičić i njegov srpski kolega Oliver Dulić potpisali su u sredu ( 9. januara ) sporazum o parlamentarnoj saradnji .,O B-ORG I-ORG I-ORG O B-LOC O B-PER I-PER O O O O B-PER I-PER O O O O O O O O O O O O O
+1722,Druga rumunska gimnastičarka Sandra Raluka Izbasa osvojila je srebrnu medalju u vežbi na gredi i bronzanu u takmičenju u višeboju .,O O O B-PER I-PER I-PER O O O O O O O O O O O O O O O
+537,"Osnovan u helensko doba , grad je stekao ugled u 2. veku pod vladavinom rimskog imperatora Hadrijana .",O O O O O O O O O O O O O O O O B-PER O
+222,""" Sve u svemu , pregovori o pristupu sa Hrvatskom idu dobro "" , rekao je Ren i izrazio nadu da će Zagreb preduzeti neophodne korake tako da razgovori o nekim od najtežih poglavlja budu započeti u junu .",O O O O O O O O O B-LOC O O O O O O B-PER O O O O O B-LOC O O O O O O O O O O O O O O O O
+948,"Cilj Albanije i Srbije je da grade strateški energetski savez , izjavio je u ponedeljak ( 31. maja ) ministar energetike i ekonomije Dritan Prifti , posle razgovora sa srpskim kolegom Petrom Škundrićem u Tirani .",O B-LOC O B-LOC O O O O O O O O O O O O O O O O O O O B-PER I-PER O O O O O O B-PER I-PER O B-LOC O
+3166,"Profesor Fuat Kejman , direktor Istanbulskog centra za politiku , slaže se da je Burkajev povratak usledio u izuzetno važnom trenutku .",O B-PER I-PER O O B-ORG I-ORG I-ORG I-ORG O O O O O B-PER O O O O O O O
+323,"Nova misija pokušavala je da obeleži prošlogodišnju kobnu misiju Flotila slobode . Aktivisti protestuju zbog zabrane grčkih vlasti brodovima na putu za Gazu , u subotu ( 2. jula ) na ostrvu Krf .",O O O O O O O O O B-MISC I-MISC O O O O O O O O O O O B-LOC O O O O O O O O O B-LOC O
+377,"Njegova ideja je podržana u aprilu 2002. godine , na sastanku visokih zvaničnika UNESKO-a posvećenom jačanju regionalne saradnje u jugoistočnoj Evropi .",O O O O O O O O O O O O O B-ORG O O O O O O B-LOC O
+1593,"Roanova poseta dolazi uoči konsultacija specijalnog izaslanika UN-a Martija Ahtisarija sa Savetom bezbednosti sredinom jula , kada će on , kako se očekuje , pozvati delegacije kosovskih Albanaca i Srbije da razmotre budući status Kosova kasnije ovog meseca .",B-PER O O O O O O B-ORG B-PER I-PER O B-ORG I-ORG O O O O O O O O O O O O O O B-PER O B-LOC O O O O B-LOC O O O O
+1454,""" Koridor 10 je ključna regionalna transportna veza i EBRD je pomagao njegovu modernizaciju investicijama kako u železnički , tako i u drumski saobraćaj u Mađarskoj , Hrvatskoj , Srbiji i Makedoniji , u vrednosti od ukupno 854 miliona evra "" , rekla je direktorka za transport EBRD Sju Baret .",O B-LOC I-LOC O O O O O O B-ORG O O O O O O O O O O O O O O O B-LOC O B-LOC O B-LOC O B-LOC O O O O O O O O O O O O O O O B-ORG B-PER I-PER O
+736,"Njegova izjava očigledno odstupa od prethodnog stava Makedonije , prema kojem je svaka modifikacija imena zemlje bila isključena .",O O O O O O O B-LOC O O O O O O O O O O O
+258,"Policija je pretražila još dve lokacije u sarajevskim kvartovima Sedrenik i Barice , gde su pronašli materijal za proizvodnju eksploziva .",O O O O O O O O O B-LOC O B-LOC O O O O O O O O O
+1859,Porodica Mrdak živi u stanu u Beogradu u kojem je većina stvari kupljena zahvaljujući bankovnim kreditima i zajmovima .,O B-PER O O O O B-LOC O O O O O O O O O O O O
+1812,Cilj ovog jedinstvenog projekta je da se olakša proces suočavanja sa nasleđem sukoba na Balkanu iz devedesetih godina .,O O O O O O O O O O O O O O B-LOC O O O O
+1082,"U naredne tri nedelje kandidati će obilaziti Hrvatsku , održavati skupove i pozivati birače da učestvuju .",O O O O O O O B-LOC O O O O O O O O O
+1734,Građani tri balkanske zemlje danas mogu da slobodno putuju sa biometrijskim ličnim kartama .,O O O O O O O O O O O O O O
+1278,Otprilike 50 odsto te demografske grupe stanovništva ne izlazi na izbore .,O O O O O O O O O O O O
+1676,Đorđević je pobegao iz Srbije odmah nakon promene vlasti u oktobru 2000. godine i srpske vlasti nisu sigurne gde se on u ovom trenutku nalazi .,B-PER O O O B-LOC O O O O O O O O O O O O O O O O O O O O O
+2590,"Kosovo se pomerilo sa "" neslobodne "" na "" delimično slobodnu "" zemlju u ovogodišnjem izveštaju .",B-LOC O O O O O O O O O O O O O O O O
+383,"Demonstranti marširaju bulevarom u centru Atine 1. septembra , protestujući zbog nedavno ratifikovanog zakona o reformi višeg obrazovanja na grčkim univerzitetima i u školama trećeg stepena stručne spreme .",O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O
+1974,"Srbija je podigla optužnice protiv 44 osobe u vezi sa atentatom na premijera Zorana Đinđića , uključujući i 15 osoba koje su navodno direktno povezane sa ubistvom .",B-LOC O O O O O O O O O O O O B-PER I-PER O O O O O O O O O O O O O
+2195,""" Pre svega , vlada je donela ovu odluku pre predstojećih rasprava o novom ustavu , što znači da ne želi da ostavi da se ovo delikatno pitanje rešava unutar ustavne strukture "" , objasnio je on .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+3728,"Prema istraživanjima Instituta za javnu politiku , više od 20 odsto stanovništva već je odlučilo da u nedelju ne izlazi na glasanje .",O O B-ORG I-ORG I-ORG I-ORG O O O O O O O O O O O O O O O O O
+1962,"Iako će buduće međunarodno angažovanje imati kritičnu ulogu u sprovođenju rešenja , glavna odgovornost za to biće na kosovskim vlastima , istakao je Ahtisari .",O O O O O O O O O O O O O O O O O O O O O O O B-PER O
+473,Podsekretar UN-a za politička pitanja Kieran Prendergast ( levo ) rukuje se sa liderom kiparskih Turaka Mehmetom Alijem Talatom tokom posete podeljenom ostrvu .,O B-ORG O O O B-PER I-PER O O O O O O O O B-PER B-PER I-PER I-PER O O O O O
+3042,"Vladajuće i opozicione stranke su , kako se izveštava , pozdravile Taričeanuovu odluku da ne podnosi ostavku .",O O O O O O O O O O O B-PER O O O O O O
+346,Balkanska zemlja je spremna da postane sledeća članica EU u julu 2013. godine .,O O O O O O O O B-ORG O O O O O
+89,Timofti preuzima funkciju nakon tesnog glasanja prošle nedelje .,B-PER O O O O O O O O
+2606,"Kao i u prošlogodišnjem istraživanju , broj zemalja koje su ocenjene kao slobodne iznosi 89 , što je 46 odsto globalnog stanovništva .",O O O O O O O O O O O O O O O O O O O O O O O
+2270,""" Ostvarićemo taj cilj na jedan ili drugi način "" .",O O O O O O O O O O O
+45,""" Ovo je beskompromisna borba protiv kriminala i korupcije , koji postoje u svim zemljama , ali čije sankcionisanje zavisi uglavnom od političke volje relevantnih faktora i sposobnosti institucija da nezavisno obavljaju svoj rad "" , rekao je poslanik vladajuće VMRO Antonio Milososki za SETimes .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-ORG B-PER I-PER O B-ORG O
+3562,"To će biti korisno za sve ljude na Kosovu . """,O O O O O O O O B-LOC O O
+2923,"Posle povlačenja Želeve u utorak , predsednik EP Jerži Buzek rekao je da će glasanje o novoj EK biti pomereno sa 26. januara na 9. februar .",O O B-PER O O O O B-ORG B-PER I-PER O O O O O O O B-ORG O O O O O O O O O
+2538,Srbi debatuju o članstvu u NATO-u,B-PER O O O O B-ORG
+2577,Reformisti predvođeni Antom Markovićem videli su ulazak u EU kao rešenje .,O O B-PER I-PER O O O O B-ORG O O O
+1942,Albanski predsednik Alfred Mojsiju uputio je političkim strankama nacrt Kodeksa ponašanja vezan za kampanju .,O O B-PER I-PER O O O O O B-MISC I-MISC O O O O
+3133,""" Marihuana , prostitucija ... legitimna ili ne , takvi zahtevi su beskorisni u trenutnom kontekstu .",O O O O O O O O O O O O O O O O O
+1226,"Zaustavlja se u stanicama Skoplje Sever , Gorce Petrov , Volkovo , Jankovik , Uroševac i Kosovo Polje , završavajući svoj put u Prištini .",O O O O B-LOC I-LOC O B-LOC I-LOC O B-LOC O B-LOC O B-LOC O B-LOC I-LOC O O O O O B-LOC O
+1895,"Prema UNODC-u , stanovnici regiona sada su bezbedni kao , ili čak i bezbedniji , od onih koji žive na skoro bilo kom drugom mestu .",O B-ORG O O O O O O O O O O O O O O O O O O O O O O O O
+54,Neki ... su dobili novčanu podršku iz inostranstva i otvorili sopstvene medije ; drugi su zaposleni u domaćim medijima .,O O O O O O O O O O O O O O O O O O O O
+3507,"Tržišna ekonomija koja dobro funkcioniše obezbeđuje dobre ekonomske rezultate , što je neophodno za podršku vojnoj infrastrukturi i ispunjavanje potreba alijanse .",O O O O O O O O O O O O O O O O O O O O O O
+279,"Huruglica : Ne postoji veliki problem , osim činjenice da u nekim slučajevima carinska uprava Republike Albanije ne prihvata deklarisanu vrednost kosovskih izvoznika i da je povećala vrednost izvoza , primoravajući albanske uvozne kompanije da plate više za PDV .",B-PER O O O O O O O O O O O O O O B-LOC I-LOC O O O O O O O O O O O O O O O O O O O O O O O
+3346,Prva faza programa za sada je privukla 22.534 ljudi različitih starosnih grupa i profesija .,O O O O O O O O O O O O O O O
+1730,"Druga je bila Ruskinja Olga Peretjatko , a treća Tae-Jong Jang iz Južne Koreje .",O O O B-PER B-PER I-PER O O O B-PER I-PER O B-LOC I-LOC O
+617,"Ta linija će funkcionisati četiri puta nedeljno , a očekuje se da će opslužiti do 20.000 putnika do kraja oktobra .",O O O O O O O O O O O O O O O O O O O O O
+3499,Šta članstvo u NATO-u znači za ekonomski razvoj,O O O B-ORG O O O O
+2810,"Banka Tokio-Micubiši , Bajeriše Landesbank , BNP Paribas , Sitibank , Privredna Banka Zagreb i Sosijet Ženeral glavne su finansijske institucije koje su obezbedile kredit , čiji je rok otplate pet godina , uz opciju dva produženja otplate na po godinu dana .",B-ORG I-ORG O B-ORG I-ORG O B-ORG I-ORG O B-ORG O B-ORG I-ORG I-ORG O B-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O
+2669,Sumnja se da je ta grupa zaradila do 10 miliona evra na prevarama .,O O O O O O O O O O O O O O
+1970,"Posle ovog perioda angažovanja nameravam da završim moj izveštaj i predam ga Savetu bezbednosti UN-a , gde u stvari počinje prava završnica ovog procesa . """,O O O O O O O O O O O O B-ORG I-ORG I-ORG O O O O O O O O O O O
+849,U sredu ujutru na ulicama Budimpešte izbili su novi sukobi policije i demonstranata .,O O O O O B-LOC O O O O O O O O
+3237,"Među njima su jačanje vladavine zakona , reforma pravosuđa i izbornog sistema i hvatanje u koštac sa organizovanim kriminalom i korupcijom .",O O O O O O O O O O O O O O O O O O O O O O
+1148,"Međutim , Turci od tada odbijaju da dozvole brodovima i avionima kiparskih Grka da koriste njihove luke i aerodrome ; Ankara insistira da EU prvo ispuni svoje obećanje iz 2004. godine da će ukinuti ekonomsku izolaciju kiparskih Turaka .",O O B-PER O O O O O O O O O B-PER O O O O O O O B-LOC O O B-ORG O O O O O O O O O O O O O B-PER O
+693,Tri dana ranije oko 300 lokalnih srpskih demonstranata ju je silom zauzelo .,O O O O O O O O O O O O O
+935,""" Prljavi predizborni napadi dostigli su do sada nezabeleženi nivo .",O O O O O O O O O O O
+2397,Na tom izuzetno važnom događaju okupilo se gotovo tri hiljade učesnika među kojima 59 državnih delegacija i predstavnika vodećih svetskih banaka i multinacionalnih kompanija .,O O O O O O O O O O O O O O O O O O O O O O O O O
+1818,"Glavne aktivnosti predviđene sporazumom uključuju stvaranje usklađenih baza podataka o ratnim zločinima , praćenje suđenja za ratne zločine koja se vode u regionu , obezbeđivanje dokumentacije tužiocima i pravnu podršku žrtvama i svedocima ratnih zločina .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+785,Vlasti koje istražuju bombaški napad rade na tome da ustanove da li je bomba ministarstvu bila isporučena lično ili poštom .,O O O O O O O O O O O O O O O O O O O O O
+1001,Projektni crtež prikazuje jednu od galerija novog muzeja .,O O O O O O O O O
+1125,"U cilju zaštite privatnosti , vlasti nisu obelodanile njeno ime .",O O O O O O O O O O O
+2083,"Moda širom Jugoistočne Evrope donosi inovacije , uspešnu industriju najmodernijeg stila i mogućnosti za saradnju preko nacionalnih granica .",O O B-LOC I-LOC O O O O O O O O O O O O O O O
+1888,""" Koliko god iznenađujuće to bilo , balkanski region je jedan od najbezbednijih u Evropi "" , napisao je u izveštaju izvršni direktor UNODC-a Antonio Maria Kosta .",O O O O O O O O O O O O O O B-LOC O O O O O O O O B-ORG B-PER I-PER I-PER O
+1368,Jasno je da je to neprihvatljivo .,O O O O O O O
+3196,Ova grupa postala je najozbiljnija unutrašnja pretnja za Grčku posle sada raspuštene terorističke organizacije 17.,O O O O O O O O B-LOC O O O O O B-ORG
+2464,Evropska narodna partija ( EPP ) pozvala je u petak ( 31. marta ) na obnavljanje napora UN za pronalaženje rešenja pitanja Kipra i na snažniju ulogu EU u tom procesu .,B-ORG I-ORG I-ORG O B-ORG O O O O O O O O O O O O B-ORG O O O O B-LOC O O O O B-ORG O O O O
+3495,"Dogovorene investicije doneće još 118,2 miliona evra .",O O O O O O O O
+1145,""" Ukoliko ne bude sporazuma i Turska ne ispuni svoje obaveze , EU će morati da razmotri implikacije po proces pridruživanja .",O O O O O O B-LOC O O O O O B-ORG O O O O O O O O O
+1165,"Bugarska , Grčka i Rusija postigle su dogovor o izgradnji novog trans-balkanskog naftovoda za koji se očekuje da će , kada postane operativan 2008. godine , smanjiti pritisak na Bosfor .",B-LOC O B-LOC O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O
+2651,Španija je postala 12. članica koja je ratifikovala protokol .,B-LOC O O O O O O O O O
+1815,Hvatanje u koštac sa nasleđem sukoba koji su se odigrali devedesetih godina zajednički je imenitelj tri nevladine organizacije .,O O O O O O O O O O O O O O O O O O O
+2929,"Posle sastanka izvršnog odbora GERB-a u utorak uveče , Borisov je promenio svoju prvobitnu odluku da odbaci ostavku Želeve na mesto ministra inostranih poslova .",O O O O B-ORG O O O O B-PER O O O O O O O O B-PER O O O O O O
+878,Koordinator MKSJ za Srbiju i Crnu Goru u četvrtak je odbacila izveštaje medija u kojima se pominje potencijalni dogovor između tribunala i Beograda da se četvorici srpskih generala dozvoli suđenje pred domaćim sudom .,O B-ORG O B-LOC I-LOC I-LOC I-LOC O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O
+467,""" Turskoj je kao evropskoj sili mesto u Uniji "" , rekao je Buš .",O B-LOC O O O O O O B-ORG O O O O B-PER O
+431,"Teroristički napadi slični onima u Sjeidnjenim Državama pre jedne decenije danas su malo verovatni , rekao je koordinator EU za borbu protiv terorizma Žil de Keršov u ponedlejak ( 5. septembra ) .",O O O O O B-LOC I-LOC O O O O O O O O O O O B-ORG O O O O B-PER I-PER I-PER O O O O O O O
+20,"Seb Bitići , izvršni direktor Instituta za balkansku politiku , slaže se sa tim .",B-PER I-PER O O O B-ORG I-ORG I-ORG I-ORG O O O O O O
+2353,"Posetioci iz čitavog regiona , kao i iz Velike Britanije , Irske , Mađarske i drugih zemalja EU prisustvovali su festivalu .",O O O O O O O O B-LOC I-LOC O B-LOC O B-LOC O O O B-ORG O O O O
+2640,""" Moramo da budemo realni u pogledu rešavanja izazova "" , rekao je Maćastena , dodajući da je borba protiv organizovanog kriminala poremećena nedostatkom kontrole nad severnim Kosovom .",O O O O O O O O O O O O O B-PER O O O O O O O O O O O O O B-LOC O
+1763,"Prošle godine , za vreme predsedavanja Regionalnom inicijativom o migracijama , azilu i izbeglicama , Albanija je iznela ideju o stvaranju zone slobodnog kretanja između država članica , takozvanu "" Balkansku šengen zonu "" , po uzoru na pozitivno iskustvo sa korišćenjem ličnih karti kao putnih isprava za putovanje na Kosovo .",O O O O O O B-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC O B-LOC O O O O O O O O O O O O O O B-MISC I-MISC I-MISC O O O O O O O O O O O O O O O O O B-LOC O
+2376,"Italija nema politiku proterivanja nelegalnih imigranata ili imigranata osumnjičenih za kriminalne aktivnosti , izjavio je u sredu ( 9. januara ) italijanski ministar inostranih poslova Masimo Dalema , tokom sastanka sa rumunskim kolegom Adrijanom Čorojanuom u Bukureštu .",B-LOC O O O O O O O O O O O O O O O O O O O O O O O O B-PER I-PER O O O O O O B-PER I-PER O B-LOC O
+1251,"Festival , koji se zatvara u nedelju ( 16. marta ) , fokusiran je na balkansku kinematografiju .",O O O O O O O O O O O O O O O O O O
+980,Grčka otvorila novi Muzej Akropolja,B-LOC O O B-ORG I-ORG
+171,"Žalim što ih , zbog sopstvenih slabosti , nismo ispunili prošle godine .",O O O O O O O O O O O O O
+3128,"Pored toga , izolovane grupe ljudi otkrile su da im mere štednje ne donose ništa dobro , godinu i po dana nakon što su usvojene "" , rekao je Marcos .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PER O
+1070,"Pozdravljajući način na koji su održani prevremeni predsednički izbori u Gruziji , Pasi je obećao dalju podršku OEBS-a toj zemlji u izgradnji demokratskih institucija i sprovođenju tržišnih reformi .",O O O O O O O O O O B-LOC O B-PER O O O O B-ORG O O O O O O O O O O O
+765,""" Izvršna vlast ne treba da se meša u rad suda , dok pravni sistem ne bi trebalo da se meša u demokratsku politiku . """,O O O O O O O O O O O O O O O O O O O O O O O O O O
+79,""" On nikada nije isticao jedan narod , nego se borio za zemlju , za BiH .",O O O O O O O O O O O O O O O B-LOC O
+391,"Na primer , "" inauguralna "" mobilizacija u četvrtak ( 1. septembra ) privukla je oko 5.000 mladih demonstranata koji su marširali centrom Atine .",O O O O O O O O O O O O O O O O O O O O O O O B-LOC O
+3270,Kosovo je politički problem i tako sa njim treba postupati .,B-LOC O O O O O O O O O O
+3777,Vorld Vižn Internešnal saopštio je u utorak ( 29. januar ) da je poklonio 21 novi kompjuter i 25 novih monitora osnovnim i srednjim školama u srpskim selima Rtari i Kotraža .,B-ORG I-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O B-LOC O
+208,"Po zakonu , za usvajanje ustavnih amandmana neophodna je dvotrećinska većina u parlamentu .",O O O O O O O O O O O O O O
+888,"Srpski teniser Novak Đoković osvojio je svoj drugi ATP trofej ove godine , pobedivši Austrijanca Jirgena Melcera 4-6 , 6-3 , 6-2 u finalu turnira Open de Mosel koji je igran u Mecu , u Francuskoj .",O O B-PER I-PER O O O O B-MISC O O O O O B-PER B-PER I-PER O O O O O O O O B-MISC I-MISC I-MISC O O O O B-LOC O O B-LOC O
+444,""" Oni su imali mogućnost da dođu do oružja , uključujući malo oružje i puškomitraljeze ili određene rakete zemlja-vazduh , koje su izuzetno opasne "" , rekao je de Keršov .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PER I-PER O
+1069,"On je dodao da će obrazovanje biti još jedan od njegovih glavnih prioriteta kao predsedavajućeg , ističući značaj obrazovanja za uspostavljanje demokratskih institucija , unapređivanje tolerancije i stvaranje uslova za uspešnu tržišnu ekonomiju .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1438,"I stvarno , BT Invest je bio jedini preostali kandidat u završnoj fazi konkursa .",O O O B-ORG I-ORG O O O O O O O O O O
+1684,""" Dvosmerna saradnja je model koji bi definitivno doprineo efikasnijem ispunjavanju međunarodnih obaveza "" , rekao je Koštunica .",O O O O O O O O O O O O O O O O O B-PER O
+364,""" To je problem svih umešanih političkih strana .",O O O O O O O O O
+434,""" Da li to znači da smo potpuno van opasnosti ?",O O O O O O O O O O O
+1133,Liberalizacija režima azila jedan je od kriterijuma koji se moraju ispuniti radi usklađivanja sa EU standardima .,O O O O O O O O O O O O O O B-ORG O O
+1924,"Rumunski grad Sibiu biće , zajedno sa Luksemburgom , Evropska prestonica kulture u 2007. godini , u skladu sa odlukom koju je Savet EU doneo ranije ove godine .",O O B-LOC O O O O B-LOC O B-MISC I-MISC I-MISC O O O O O O O O O O B-ORG I-ORG O O O O O
+1688,"Hrvatska , koja još uvek nije dobila status kandidata , nada se pridruživanju EU do 2007. godine .",B-LOC O O O O O O O O O O O O B-ORG O O O O
+3110,"Radi se o jednoj od najpoznatijih zgrada u Albaniji "" , kaže arhitekta Vladimir Bregu .",O O O O O O O O B-LOC O O O O B-PER I-PER O
+2754,"Geografski posmatrano , Crno more je jedno od najizolovanijih zatvorenih mora .",O O O B-LOC I-LOC O O O O O O O
+3340,Malo je onih koji žele da se taj scenario ponovi .,O O O O O O O O O O O
+626,Oni su se složili da nastave da razvijaju bilateralne ekonomske odnose .,O O O O O O O O O O O O
+325,"Džon Klasmir je priveden na osnovu optužbi da je nameravao da napusti luku Pirej bez dozvole i da dovede u opasnost živote 36 putnika , četiri člana posade i deset novinara .",B-PER I-PER O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O
+2532,"U optužnici je podsticanje i nezakonito posredovanje promenjeno u zloupotrebu položaja , za koje je propisana zatvorska kazna u trajanju dve do 12 godina zatvora .",O O O O O O O O O O O O O O O O O O O O O O O O O O
+2132,Dve druge zemlje jugoistočne Evrope predstavljaće žene u novoj EK.,O O O O B-LOC O O O O B-ORG
+2828,"Govoreći na konferenciji za novinare u Ankari sa turskim kolegom Abdulahom Gulom održanoj u ponedeljak ( 12. novembra ) , izraelski predsednik Šimon Peres rekao je da veruje da će njegova zemlja biti u stanju da postigne mir sa Palestincima , ali je dodao da je za mir potrebno vreme .",O O O O O O B-LOC O O O B-PER I-PER O O O O O O O O O O B-PER I-PER O O O O O O O O O O O O O O O B-PER O O O O O O O O O O O
+1883,"A , čak će i te dugove biti teško otplatiti .",O O O O O O O O O O O
+270,Kosovo i Albanija rešavaju carinski nesporazum,B-LOC O B-LOC O O O
+1291,""" Nema ideala , samo čist pragmatizam "" , rekao je on .",O O O O O O O O O O O O O
+2654,"Bilo je "" nepravedno "" to što zemlja nije dobila poziv za članstvo u NATO-u zbog grčkog veta , dodao je on .",O O O O O O O O O O O O O O B-ORG O O O O O O O O
+3589,""" Razgovaramo o razvoju dobrosusedskih odnosa , međusobnom informisanju i poštovanju , kao i otvorenom dijalogu i jačanju međusobnog poverenja "" , rekao je Konjanovski .",O O O O O O O O O O O O O O O O O O O O O O O O B-PER O
+2399,Pored toga je održano i 27 nacionalnih prezentacija .,O O O O O O O O O
+1229,Zbog toga je došlo do odlaganja početka redovnog saobraćaja .,O O O O O O O O O O
+2994,"Prema crnogorskom ministarstvu finansija , BDP zemlje opao je za 5,3 odsto u 2009. godini , ali je prema proceni MMF-a pad iznosio 7 odsto .",O O O O O O O O O O O O O O O O O O O O B-ORG O O O O O
+2483,"Međutim , isti fenomen dogodio se 1997. kada je DP bila primorana da ode sa vlasti .",O O O O O O O O O B-ORG O O O O O O O
+2140,Studentski protesti počeli su u Tirani u decembru 1990. godine i brzo su dobili podršku drugih ljudi u albanskoj prestonici .,O O O O O B-LOC O O O O O O O O O O O O O O O
+1140,"Turska mora da otvori svoje luke i aerodrome za saobraćaj sa Kipra pre 6. decembra ili se suoči sa mogućom suspenzijom pregovora o pridruživanju , saopštila je EU u ponedeljak .",B-LOC O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O B-ORG O O O
+2031,"Mladi profesionalci takođe žude da ostvare uspeh u svojim karijerama , što je još jedan razlog zbog kojeg odlažu da imaju decu , kaže Derviši .",O O O O O O O O O O O O O O O O O O O O O O O O B-PER O
+3537,"Energija koja pokreće reforme , dakle , mora da dolazi iznutra .",O O O O O O O O O O O O
+3553,"To će unaprediti regionalnu stabilnost i poslužiti kao model za celokupni zapadni Balkan "" .",O O O O O O O O O O O O B-LOC O O
+3707,"Ta otkrića dovela su do spekulacija u lokalnim medijima da je svrha tog , kako ga Petkov opisuje , "" radnog sastanka "" , bila da se dvojica mafijaša ubede da prestanu da ubijaju pripadnike protivničkog ganga pred ulazak Bugarske u EU u januaru 2007.",O O O O O O O O O O O O O O O O B-PER O O O O O O O O O O O O O O O O O O O O O O B-LOC O B-ORG O O O
+2812,"Zvaničnici Nacionalnog statističkog instituta pripisuju taj porast povećanju uvoza iz EU , što je rezultat prijema Rumunije u Uniju .",O B-ORG I-ORG I-ORG O O O O O O B-ORG O O O O O B-LOC O B-ORG O
+3878,Široka lepeza metoda korišćena je u zemljama regiona .,O O O O O O O O O
+2277,Četvrti kongres o UFO i Novom dobu biće održan u Istanbulu .,B-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC O O O B-LOC O
+2396,"Godišnja skupština Evropske banke za obnovu i razvoj ( EBRD ) , održana od 21. do 23. maja u Beogradu , bila je najvažniji međunarodni događaj koji je održan u Srbiji i Crnoj Gori u poslednje tri decenije .",O O B-ORG I-ORG O O O O O B-ORG O O O O O O O O O B-LOC O O O O O O O O O O B-LOC I-LOC I-LOC I-LOC O O O O O
+1212,Putnički železnički saobraćaj između Prištine i Skoplja ponovo je uspostavljen posle šestogodišnjeg prekida uzrokovanog krizom u regionu .,O O O O B-LOC O B-LOC O O O O O O O O O O O
+3063,"Savet za nacionalnu bezbednost naredio je policiji da ponovo uspostavi zakon i red u Kondovu , a vlasti ističu da se većina seljana protivi Krasnićiju i njegovoj naoružanoj grupi .",O O O O O O O O O O O O O O B-LOC O O O O O O O O O B-PER O O O O O
+2348,"Prvi organizovani EXIT održan je 2001. godine na Petrovaradinskoj tvrđavi , u prisustvu više od 200.000 posetilaca .",O O B-MISC O O O O O B-LOC I-LOC O O O O O O O O
+3843,""" Ekonomske veze , očuvanje raznih razlika i bezbednost za sve "" su diplomatski ciljevi Ankare na Balkanu , rekao je Gurkan Zengin , autor knjige HOCA [ Učitelj ] , oko uticaja Davutoglua na tursku spoljnu politiku .",O O O O O O O O O O O O O O O B-LOC O B-LOC O O O B-PER I-PER O O O B-MISC O B-MISC O O O O B-PER O O O O O
+2465,"U rezoluciji koju je usvojila na svom dvodnevnom kongresu u Rimu , EPP je pozvala generalnog sekretara UN-a Kofija Anana da "" nastavi svoju inicijativu za postizanje rešenja prihvatljivog za sve zajednice na Kipru "" .",O O O O O O O O O O B-LOC O B-ORG O O O O B-ORG B-PER I-PER O O O O O O O O O O O O O B-LOC O O
+1423,Radnici strahuju da prodaja znači da će izgubiti radna mesta .,O O O O O O O O O O O
+3392,Centar za azil postoji nekoliko decenija i u njemu je bilo smešteno na hiljade ljudi tokom ratova u bivšoj Jugoslaviji .,O O O O O O O O O O O O O O O O O O O B-LOC O
+2556,Generalni sekretar NATO-a Anders Fog Rasmusen rekao je u oktobru 2009. godine da Alijansa želi da Srbija postane član .,O O B-ORG B-PER I-PER I-PER O O O O O O O B-ORG O O B-LOC O O O
+277,"Direktor Carinske službe Kosova Naim Huruglica govorio je za SETimes o problemu između dve vlade , potvrđujući da je rešenje na dohvat ruke i da statistika pokazuje povećanje bilateralne trgovine .",O B-ORG I-ORG I-ORG B-PER I-PER O O O B-ORG O O O O O O O O O O O O O O O O O O O O O
+3863,"Iako je u svojoj početnoj fazi , privatizacija verovatno pogoršala situaciju u vezi sa nezaposlenošću -- izazvavši otpuštanja iz kadrovima prezasićenih državnih preduzeća dugoročne koristi bile su značajne , sa povećanom stopom udela privatnog sektora u BDP , kao što to pokazuju podaci EBRD u tabeli ispod .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-ORG O O O O
+2649,""" Irska je bila među prvim zemljama koje su priznale nezavisnost Kosova , jer verujemo da je njegova budućnost u EU "" , rekao je Kauen dodajući da je Irska spremna da podeli iskustvo iz svog dugotrajnog mirovnog procesa .",O B-LOC O O O O O O O O O B-LOC O O O O O O O O B-ORG O O O O B-PER O O O B-LOC O O O O O O O O O O
+3320,"Suočene sa potencijalno ogromnim gubicima , neke menjačnice su obustavile prodaju evra dok se situacija ne stabilizuje .",O O O O O O O O O O O O O O O O O O
+1364,SETimes : Da li možete da prokomentarišete napade na KFOR na severu Kosova ?,B-ORG O O O O O O O O B-ORG O O B-LOC O
+3809,Politički sukob u srpskoj vladajućoj koaliciji mogao bi da znači vanredne izbore .,O O O O O O O O O O O O O
+3112,"Aktivista pokreta Mjaft Aldo Merkoci kaže za SETimes da je piramida bila javno mesto na kome su građani , a posebno omladina , negovali svoje interesovanje za umetnost , kulturu i muziku .",O O B-PER I-PER I-PER O O B-ORG O O O O O O O O O O O O O O O O O O O O O O O O O
+3644,"Izvoznici , na drugoj strani , strahuju od posledica tog "" izvlačenja "" .",O O O O O O O O O O O O O O
+2398,"Sednica se sastojala od jednog poslovnog foruma , dvodnevne sesije guvernera centralnih banaka država članica , i panel diskusije predsednika vlada zemalja regiona .",O O O O O O O O O O O O O O O O O O O O O O O O
+3195,"Veruje se da Revolucionarna borba stoji i iza niza drugih napada , uključujući pokušaj ubistva grčkog ministra kulture Jorgosa Vulgarakisa prošlog maja i bombu u ministarstvu ekonomije krajem 2005. godine .",O O O B-ORG I-ORG O O O O O O O O O O O O O B-PER I-PER O O O O O O O O O O O
+1599,"Milčo Mančevski pokušava da napravi "" pravi evropski film """,B-PER I-PER O O O O O O O O
+3686,"Prema neposrednoj zdravstvenoj proceni koju je prošlog meseca izvršila Svetska zdravstvena organizacija ( SZO ) , katastrofa je uzrokovala smrt najmanje 20 osoba i materijalnu štetu u iznosu oko 515 miliona evra .",O O O O O O O O O B-ORG I-ORG I-ORG O B-ORG O O O O O O O O O O O O O O O O O O O
+1178,"Ta količina bi trebalo da se poveća na 24 miliona tona u drugoj godini i 35 miliona tona u trećoj , sa opcijom dodatnog povećanja do 50 miliona tona sirove nafte godišnje .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+3511,"Glavni ideološki neprijatelj , Sovjetski komunizam , više ne postoji .",O O O O B-MISC I-MISC O O O O O
+2948,"Samo je Silajdžić potvrdio da će doći rekavši da je program posete kulturni , a ne politički .",O O B-PER O O O O O O O O O O O O O O O
+1338,Takođe u vestima : Grčka pokrenula Helenski nacionalni katastar .,O O O O B-LOC O B-MISC I-MISC I-MISC O
+586,Traktor sa izbeglicama prolazi ispred položaja gruzijske vojske 45 minuta od Tbilisija u sredu ( 13. avgusta ) .,O O O O O O O O O O O B-LOC O O O O O O O
+2069,MKSJ je osudio bivšeg kosovskog ministra kulture Astrita Haračiju ( levo ) i njegovog savetnika Bajruša Morinu za pokušaj zastrašivanja svedoka .,B-ORG O O O O O O B-PER I-PER O O O O O O B-PER I-PER O O O O O
+1914,Puninski je završio na šestom mestu u trci na 100 metara slobodnim stilom .,B-PER O O O O O O O O O O O O O
+3179,"Ona je najavila da će krajem juna biti održan sastanak hrvatske vlade i Veća ministara BiH , opisujući to kao priliku da se razgovara o otvorenim pitanjima i da se pokuša da se neka od njih reše .",O O O O O O O O O O O O O B-ORG I-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O O
+1060,""" Implementacija strategija mora početi odmah i to će biti glavni prioritet našeg predsedavanja u 2004. godini "" , istakao je novi predsedavajući OEBS-a .",O O O O O O O O O O O O O O O O O O O O O O O B-ORG O
+3611,"Napravljen da bude brod jugoslovenske mornarice u Đenovi 1938 , 117 metara dugi Galeb zaplenili su Nemci 1943.",O O O O O O O B-LOC O O O O O B-MISC O O B-PER O
+2725,""" Bez efektivnih sredstava za zaštitu svedoka , bez obzira da li su oni žrtve ili optuženici koji sarađuju , Kosovo se ne može nadati bilo kakvom značajnom napretku u krivičnom gonjenju organizovanog kriminala ili drugih teških krivičnih dela "" , rekao je Guldiman novinarima .",O O O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O B-PER O O
+1382,SETimes : Srbija je pozvala na dijalog o situaciji na graničnim prelazima na severu .,B-ORG O B-LOC O O O O O O O O O O O O
+521,"Grad , koji se nalazi u samom centru planiranog akumulacionog jezera , biće prekriven sa oko 17 metara vode .",O O O O O O O O O O O O O O O O O O O O
+3025,""" Kada bih danas podneo ostavku to bi bio znak slabosti "" .",O O O O O O O O O O O O O
+1339,"Crnogorski TV kanal IN , zvanični emiter Evropskog fudbalskog prvenstva Euro 2008 u Crnoj Gori , namerava da tuži lokalne kablovske operatere zbog prenošenja utakmica .",O O O B-ORG O O O B-MISC I-MISC I-MISC I-MISC I-MISC O B-LOC I-LOC O O O O O O O O O O O
+2877,Ta stranka smatra da su u ovom trenutku važnija socijalna i ekonomska pitanja .,O O O O O O O O O O O O O O
+2910,""" Upoznata sam sa oblastima hvatanja u koštac sa katastrofama i međunarodne saradnje i uverena sam da mogu dobro da obavljam funkciju komesara EU "" , izjavila je Georgijeva u utorak .",O O O O O O O O O O O O O O O O O O O O O O O B-ORG O O O O B-PER O O O
+1952,Ahtisari je rekao da njegov predlog pruža odgovore na nerešena pitanja .,B-PER O O O O O O O O O O O
+2163,""" Danas smo zabrinuti u pogledu smera kojim idu vaša zemlja , vaša budućnost i budućnost vaše dece "" , rekao je on u obraćanju etnički mešovitom parlamentu BiH .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O
+1295,"Naslutivši da bi apatija mogla ozbiljno da našteti izlaznosti i rezultatima , stranke koriste sva moguća sredstva da dopru do birača , uključujući popularnu društvenu internet mrežu Fejsbuk .",O O O O O O O O O O O O O O O O O O O O O O O O O O O B-ORG O
+3803,""" Nisam siguran da je francusko-nemački predlog najbolji način . """,O O O O O O O O O O O
+3536,"Kada se sve sabere , dugoročni ekonomski napredak , kao i sposobnost da se ispune uslovi za evroatlantske integracije , zavisi od samih država .",O O O O O O O O O O O O O O O O O O O O O O O O O
+3579,"BUKUREŠT , Rumunija -- Upravni odbor MMF-a odobrio je u petak ( 25. mart ) sedmu i poslednju reviziju stend-baj aranžmana sa Rumunijom .",B-LOC O B-LOC O B-ORG I-ORG I-ORG O O O O O O O O O O O O O O O B-LOC O
+1158,""" Nije nam potreban još jedan samit sa Turskom kao 2004. i 2005. godine , rekao je Ren na konferenciji za novinare u ponedeljak .",O O O O O O O O B-LOC O O O O O O O O B-PER O O O O O O O
+1121,UN se nadaju da će taj događaj pokrenuti svojevrsni trend u regionu .,B-ORG O O O O O O O O O O O O
+3125,"Pristalice rumunske opozicije su se potom pridružile okupljenima i iznele niz drugih pitanja -- legalizaciju marihuane , promene na aerodromima , poreze na automobile -- i oslabile originalnu poruku protesta .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1618,"Zvezda NBA Vlade Divac "" zakucao "" srpsku vladu",O B-ORG B-PER I-PER O O O O O
+3858,"Koristi od pokretanja dinamičnog procesa privatizacije itekako su dobro dokumentovane u ekonomskoj literaturi , a potvrđene su u iskustvima zemalja u razvoju širom sveta .",O O O O O O O O O O O O O O O O O O O O O O O O O
