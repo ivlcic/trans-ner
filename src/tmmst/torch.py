@@ -9,7 +9,8 @@ import evaluate
 from typing import List
 from tmmst.const import ner_tags as const_ner_tags
 from tokenizers.tokenizers import Encoding
-from transformers import AutoTokenizer, AutoModelForTokenClassification, BatchEncoding
+from transformers import AutoTokenizer, AutoModelForTokenClassification, BatchEncoding, \
+    PreTrainedModel, PreTrainedTokenizer
 from torch.utils.data import DataLoader
 
 logger = logging.getLogger('train')
@@ -22,8 +23,8 @@ class ModelContainer(torch.nn.Module):
         super(ModelContainer, self).__init__()
         if remove_ner_tags is None:
             remove_ner_tags = []
-        self.model = None
-        self.tokenizer = None
+        self.model: PreTrainedModel = None
+        self.tokenizer: PreTrainedTokenizer = None
         self.remove_ner_tags = remove_ner_tags
         label_id_map = {k: v for v, k in enumerate(const_ner_tags) if k not in self.remove_ner_tags}
         self.label_id_map = label_id_map
