@@ -40,7 +40,8 @@ if __name__ == "__main__":
 
     if args.limit_cuda_device is not None:
         logger.info("Will run on specified cuda [%s] device only!", args.limit_cuda_device)
-
+    logger.info("Loading model from [%s] with disabled NER tags [s]",
+                tmmst.args.get_pretrained_model_path(args), tmmst.args.get_tags_to_remove(args))
     mc = TrainedModelContainer(
         tmmst.args.get_pretrained_model_path(args), tmmst.args.get_tags_to_remove(args)
     )
