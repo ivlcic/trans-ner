@@ -1,0 +1,1882 @@
+index,sentence,ner
+9858,PREUSMJERI Acer Inc .,O B-ORG I-ORG I-ORG
+10028,Gustoća naseljenosti u Bosiljevu je 12 stanovnika / km2 .,O O O B-LOC O O O O O O
+13832,"Nelson Piquet , Jr .",B-PER I-PER I-PER I-PER I-PER
+6594,"Senad Lulić , nogometaš",B-PER I-PER O O
+13349,Italija kao trećeplasirana ekipa grupe se također kvalificirala u osminufinala .,B-ORG O O O O O O O O O O
+10648,"PREUSMJERI Marija Terezija , kraljica Ugarske",O B-PER I-PER I-PER I-PER I-PER
+273,Nico Rosberg,B-PER I-PER
+6647,Nico Rosberg,B-PER I-PER
+2301,Od 1857. do 1981. sadrži dio podataka općine Čepin .,O O O O O O O O B-LOC O
+13177,"godine , od kada se računa postojanje grada Splita .",O O O O O O O O B-LOC O
+4924,"Grude , Ljubuški , Posušje , Široki Brijeg",B-LOC O B-LOC O B-LOC O B-LOC I-LOC
+17762,preusmjeri Paola Ruffo di Calabria,O B-PER I-PER I-PER I-PER
+16637,Robert Kubica,B-PER I-PER
+8902,granice]] s Arkansasom Mississippi Alabama Georgia Južna Karolina,O O B-LOC B-LOC B-LOC B-LOC B-LOC I-LOC
+11963,PREUSMJERI Svita ( serija ),O B-PER I-PER I-PER I-PER
+9592,Ekvatorijalna Gvineja je sveukupnim rezultatom 3-1 imala obezbjeđen prolazak u drugi krug kvalifikacija .,B-ORG I-ORG O O O O O O O O O O O O
+13820,Preusmjeri Alpsko skijanje na Zimskim olimpijskim igrama 2014 - superveleslalom ( muškarci ),O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+8049,VfL Wolfsburg,B-ORG I-ORG
+14861,"Hadrijan , 117 .",B-PER O O O
+10946,Smallville ( sezona 7 ),B-ORG I-ORG I-ORG I-ORG I-ORG
+1128,Michael Schumacher Rubens Barrichello,B-PER I-PER B-PER I-PER
+1218,"1910-11. pokušao je naći svoje mjesto u Parizu , ali bez uspjeha .",O O O O O O O B-LOC O O O O O
+13412,"Honduras ( 7,267,000 )",B-LOC O O O
+15800,Član Football League postaje 1921. godine .,O B-ORG I-ORG O O O O
+4716,Turska,B-LOC
+1360,Real Betis,B-ORG I-ORG
+13747,"Graniči sa Kinom na sjeveru , Laosom na sjeverozapadu , Kambodžom na jugozapadu .",O O B-LOC O O O B-LOC O O O B-LOC O O O
+4056,Preusmjeri Svjetsko prvenstvo u nogometu 1954 .,O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+4349,Kvalifikacije za Evropsko prvenstvo 1964 .,B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+6286,"Zaljut je naseljeno mjesto u sastavu općine Tomislavgrad , FBiH , Bosna i Hercegovina .",O O O O O O O B-LOC O B-LOC O B-LOC I-LOC I-LOC O
+3749,Soll das wirklich alles sein ?,B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+7104,Romain Grosjean,B-PER I-PER
+5933,Popis stanovništva u Bosni i Hercegovini 1953 .,B-LOC I-LOC I-LOC I-LOC I-LOC I-LOC I-LOC I-LOC
+5033,"u Nikšiću , gdje je i završio srednju školu .",O B-LOC O O O O O O O O
+18707,"Preusmjeri Edvard I , kralj Engleske",O B-PER I-PER I-PER I-PER I-PER
+13385,Lewis Hamilton,B-PER I-PER
+10829,"preusmjeri Vilim III , kralj Engleske",O B-PER I-PER I-PER I-PER I-PER
+3043,Athletic Bilbao,B-ORG I-ORG
+12392,U Prištini sahranjen predsjednik Kosova Ibrahim Rugova,O B-LOC O O B-LOC B-PER I-PER
+7331,Isti slučaj se desio sa osnivanjem AMD jer su njegovi osnivači upravo radili u Fairchild-u .,O O O O O O B-ORG O O O O O O O O O
+13351,Péter Lékó ( isti broj bodova kao i Vladimir Kramnik ; Pobjeda zbog boljeg međusobnog odnosabut ),B-PER I-PER O O O O O O B-PER I-PER O O O O O O O
+675,Španija 1964 .,B-ORG I-ORG I-ORG
+18425,=== Grupa C ( Berlin ) ===,O O O O B-LOC O O
+4042,PREUSMJERI Trenton ( New Jersey ),O B-LOC I-LOC I-LOC I-LOC I-LOC
+8137,"godine ) je američka R & B pjevačica , tekstopisac , producent i glumica .",O O O B-LOC O O O O O O O O O O O
+13518,preusmjeri Doncaster Rovers FC,O B-ORG I-ORG I-ORG
+7178,"PREUSMJERI Carl XVI Gustaf , kralj Švedske",O B-PER I-PER I-PER I-PER I-PER I-PER
+2863,Uskoro je započeo i ukrašavanje svoda Sikstinske kapele .,O O O O O O B-ORG I-ORG O
+11819,Felipe Massa,B-PER I-PER
+12962,Dugo Polje ( čvor ),B-LOC I-LOC I-LOC I-LOC I-LOC
+5692,"C – Ben Wallace , Detroit Pistons",O O B-PER I-PER O B-ORG I-ORG
+5483,Svjetsko prvenstvo u nogometu 1970 .,B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+5556,godine radio i Nikola Tesla na usavršavanju dinamo-stroja .,O O O B-PER I-PER O O O O
+17721,Španija ( Kanarska ostrva ),B-LOC O B-LOC I-LOC O
+18327,To je predsjednik Warren G. Harding iskoristio kako bi Taftu ispunio davnu želju te ga je imenovao predsjednikom Vrhovnog suda .,O O O B-PER I-PER I-PER O O O O O O O O O O O O O O O
+7134,"Donji Vidovec , naselje i općina u Međimurskoj županiji",B-LOC I-LOC O O O O O B-LOC I-LOC
+8425,Travnik,B-LOC
+3538,Većina stanovnika živi na rubu Ferganske doline uz granicu s Uzbekistanom .,O O O O O O O O O O B-LOC O
+15652,Preusmjeri Četvrti krstaški rat,O B-ORG I-ORG I-ORG
+10117,10 ekipa iz Južne Amerike,O O O B-ORG I-ORG
+4556,|width= 25 % Savez nezavisnih socijaldemokrata,O O O B-ORG I-ORG I-ORG
+15209,Sva vremena su po moskovskom vremenu .,O O O O B-LOC I-LOC O
+10,"Alessandro Volta , 1745–1827",B-PER I-PER O O
+12037,Juan Pablo Montoya,B-PER I-PER I-PER
+16748,Kemal Monteno – Postoji li mjesto,B-PER I-PER O O O O
+5025,"Timo Glock , Kamui Kobayashi - no.10",B-PER I-PER O B-PER I-PER O O
+14202,PREUSMJERI Madison ( Wisconsin ),O B-LOC I-LOC I-LOC I-LOC
+6139,Željeli su jednu od Lujevih kćeri udati za Katarininog najstarijeg sina Henrika .,O O O O O O O O O O O B-PER O
+16697,Mađarska,B-LOC
+911,Bugarska ( 29 ),B-ORG O O O
+6794,"George Bernard Shaw , Velika Britanija",B-PER I-PER I-PER O B-LOC I-LOC
+8416,20px]] Čehoslovačka,O B-LOC
+11853,"Palacio Municipal de Deportes San Pablo , Sevilla",B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG O B-LOC
+13749,Spisak općina u Hrvatskoj,B-LOC I-LOC I-LOC I-LOC
+9442,"godine Poređe ) je naseljeno mjesto u sastavu općine Hum na Sutli , Krapinsko-zagorska županija , Republika Hrvatska .",O O O O O O O O O B-LOC I-LOC I-LOC O B-LOC I-LOC O B-LOC I-LOC O
+11220,Zajedno sa berlinskim Olimpijskim stadiononm ugostio je sve utakmice grupe A u prvoj fazi .,O O B-LOC I-LOC I-LOC O O O O O O O O O O
+7173,"godine u Tuzli , Bosna i Hercegovina .",O O B-LOC O B-LOC I-LOC I-LOC O
+6481,Izgubljeni ( serija ),B-ORG I-ORG I-ORG I-ORG
+6174,"Iz tog razloga i dan danas u Izraelu su zabranjena izvođenja njegovih djela , iako se s vremena na vrijeme javljaju glasovi koji žele ukloniti tu zabranu .",O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O
+9033,"preusmjeri Ludovik I , kralj Ugarske",O B-PER I-PER I-PER I-PER I-PER
+2998,"Ranije su naseljavale plitke vode Beringovog prolaza i Kamčatke , te juga Japana .",O O O O O B-LOC I-LOC O B-LOC O O O B-LOC O
+14562,"Živi i radi u Sarajevu , BiH ; Lovrečici , Hrvatska i Ljubljani , Slovenija .",O O O O B-LOC O B-LOC O O O B-LOC O B-LOC O B-LOC O
+9628,Ronnie O'Sullivan,B-PER I-PER
+7806,da je viši od Ojos del Salada .,O O O O B-LOC I-LOC I-LOC O
+10526,zajedno s Erwinom Schrödingerom .,O O B-PER I-PER O
+1856,Sebastian Vettel,B-PER I-PER
+10909,Njen je uspjeh otvorio vrata uspjeha i drugim afroameričkim pjevačicama .,O O O O O O O O B-ORG O O
+16715,Spisak općina u Hrvatskoj,B-LOC I-LOC I-LOC I-LOC
+1239,PREUSMJERI Svjetsko prvenstvo u nogometu 2010 - grupa A,O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+15187,Daniel Ricciardo,B-PER I-PER
+1888,Najvećim dijelom teče kroz općinu Ugljevik .,O O O O O B-LOC O
+15883,"Prva nogometna liga Litvanije ( A Lyga ) ,",B-ORG I-ORG I-ORG I-ORG O O O O O
+1006,"preusmjeri Jakov II , kralj Engleske",O B-PER I-PER I-PER I-PER I-PER
+8220,PREUSMJERI Zvjezdane staze : Duboki svemir 9,O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+14450,Jenson Button,B-PER I-PER
+11449,"U naredne dvije godine je nastupao na stadionu Priestfield , koji je dijelo sa ekipom Gillingham .",O O O O O O O O O O O O O O O B-ORG O
+3812,Nakon jednogodišnje prakse na izgradnji pruge Budimpešta - Beč vratio se u zemlju .,O O O O O O B-LOC O B-LOC O O O O O
+17537,"Kupinovac ( Bjelovar ) , naselje grada Bjelovara , Bjelovarsko-bilogorska županija",B-LOC I-LOC I-LOC I-LOC O O O B-LOC O B-LOC I-LOC
+13943,bio je oženjen glumicom Jennifer Aniston .,O O O O B-PER I-PER O
+829,"Udaljena je 13,3 sg od Sunca .",O O O B-ORG O B-LOC O
+18654,"950-1003 ) , istražio i kolonizirao Grenland",O O O O O O B-LOC
+11170,Preusmjeri Evropski put E762,O B-ORG I-ORG I-ORG
+4943,"Silvije Strahimir Kranjčević , književnik ;",B-PER I-PER I-PER O O O
+16709,Slična opažanja obavio je i Charles-Augustin de Coulomb .,O O O O O B-PER I-PER I-PER O
+9112,Dragan Jović ( 2007–2010 ),B-PER I-PER O O O
+14380,"godine , naselje je ukinuto i pripojeno naselju Grižane-Belgrad .",O O O O O O O O B-LOC O
+612,Joseph Goebbels - ministar propagande,B-PER I-PER O O O
+16905,Trenutno je trener Real Madrida .,O O O B-ORG I-ORG O
+17905,preusmjeri FC Steaua Bukurešt,O B-ORG I-ORG I-ORG
+5694,Dvije škole pod jednim krovom,B-ORG I-ORG I-ORG I-ORG I-ORG
+2067,PREUSMJERI Ratno zrakoplovstvo i protivzračna odbrana Hrvatske,O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+18445,godine - Publije Elije Hadrijan postaje imperator,O O B-PER I-PER I-PER O O
+13622,Srednju školu svršio je s odličnim uspjehom u Mostaru gdje mu je bio učitelj poznati pjesnik Jovan Dučić .,O O O O O O O O B-LOC O O O O O O O B-PER I-PER O
+17026,"Za ubistvo Henrya optužena je njegova udovica i njen budući suprug , James Hepburn .",O O O O O O O O O O O O B-PER I-PER O
+5212,110p]] Franz von Papen,O B-PER I-PER I-PER
+7048,Aragorn stupa na presto Gondora.Prsten i Sauron uništeni .,B-PER O O O O O B-PER O O
+16764,Renoviran je 1989. godine za potrebe svjetskog prvenstva u nogometu 1990. godine .,O O O O O O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG O
+6495,Trenutno živi u Bruxellesu i radi kao sudski prevodilac .,O O O B-LOC O O O O O O
+3174,Njegova porodica prihvatila je ponudu Shaquillea O'Neala da plati troškove sahrane .,O O O O O B-PER I-PER O O O O O
+12982,"Dražen Petrović , igrač",B-PER I-PER O O
+2747,Lewis Hamilton,B-PER I-PER
+13530,Najznačajniji autori su Francesco Petrarca .,O O O B-PER I-PER O
+15692,"Bjelorusija i Kalinjingrad , Rusija",B-LOC O B-LOC O B-LOC
+13500,"CSI : Miami ( sezona 8 , epizoda 7 )",B-ORG I-ORG I-ORG O O O O O O O
+3439,IFK Norrköping ( 11 ),B-ORG I-ORG O O O
+9584,za potrebe svjetskog nogometnog prvenstva 2014 . godine .,O O B-ORG I-ORG I-ORG I-ORG I-ORG O O
+17841,"PREUSMJERI Luj August , vojvoda od Maine",O B-PER I-PER I-PER I-PER I-PER I-PER
+5108,"Hong Kong , Kina",B-LOC I-LOC O B-LOC
+959,Alec Guinness - Professor Godbole,B-PER I-PER O O O
+7407,Preusmjeri J. R. R. Tolkien,O B-PER I-PER I-PER I-PER
+12293,Nico Hülkenberg,B-PER I-PER
+14943,Detroit Pistons ( 1 ),B-ORG I-ORG O O O
+14447,PREUSMJERI Nogometna reprezentacija Estonije,O B-ORG I-ORG I-ORG
+17617,Nikola Zrinski ( 1661-1664 ),B-PER I-PER O O O
+7321,"Trenutno nastupa u League One , trećem rangu engleskog nogometa .",O O O B-ORG I-ORG O O O B-ORG I-ORG O
+1881,Preusmjeri Ciudad de México,O B-LOC I-LOC I-LOC
+5355,O njemu je pisao i Feriduddin Attar u djelu Spomenica dobrih .,O O O O O B-PER I-PER O O O O O
+8797,Houston Rockets ( 7 ),B-ORG I-ORG O O O
+8386,"U Dublinu je učio za trgovačkog pomoćnika , a 1876. seli se u London .",O B-LOC O O O O O O O O O O O B-LOC O
+12237,Alapaiwahine — Kćerka Kalaninuiamamaoa .,B-PER O O O O
+4277,Svjetsko prvenstvo u nogometu 1970 .,B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+8433,Centralna Anadolija ( Iç Anadolu Bölgesi ),B-LOC I-LOC O O O O O
+11660,Od 1278. je hanzeatski grad .,O O O B-LOC I-LOC O
+6704,Belgija,B-LOC
+5138,Preusmjeri Sankt Veit an der Glan ( okrug ),O B-LOC I-LOC I-LOC I-LOC I-LOC I-LOC I-LOC I-LOC
+3690,Kimi Räikkönen,B-PER I-PER
+15086,"Glavni i najveći grad je Tokio u kojem živi 9,1 milion stanovnika .",O O O O O B-LOC O O O O O O O
+7020,"Gornja Obrijež , naselje grada Pakraca , Požeško-slavonska županija",B-LOC I-LOC O O O B-LOC O B-LOC I-LOC
+16930,Evropsko prvenstvo u nogometu 2008 .,B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+8051,"preusmjeri Karlo XI , kralj Švedske",O B-PER I-PER I-PER I-PER I-PER
+1309,"On se graniči sa New Jerseyem i Pennsylvanijom na jugu , te Connecticutom , Massachusettsom i Vermontom na istoku .",O O O O B-LOC I-LOC O B-LOC O O O O B-LOC O B-LOC O B-LOC O O O
+506,Michael Schumacher,B-PER I-PER
+6814,"Njemačka je dva puta odustala od nastupa , prvi put 1997. godine nakon pobjede na Evropskom prvenstvu 1996 .",B-ORG O O O O O O O O O O O O O O B-ORG I-ORG I-ORG O
+16926,"Ferid Džanić , vođa pobune u Villefranche-de-Rourgue ;",B-PER I-PER O O O O O O
+11268,Kamui Kobayashi,B-PER I-PER
+7179,"Huludao , Kina",O O B-LOC
+14746,Marij El ( Республика Марий Эл ),B-LOC I-LOC O O O O O
+3145,=== Svjetsko prvenstvo u nogometu 1938 . ===,O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG O
+6725,"godine Bičine ) su naseljeno mjesto u sastavu grada Skradina , Šibensko-kninska županija , Republika Hrvatska .",O O O O O O O O O B-LOC O B-LOC I-LOC O B-LOC I-LOC O
+8700,PREUSMJERI Metta World Peace,O B-PER I-PER I-PER
+4524,Jedino veće naseljeno mjesto je Gacko .,O O O O O B-LOC O
+13271,PREUSMJERI Univerzitet u Banjoj Luci,O B-ORG I-ORG I-ORG I-ORG
+784,Predstavnički dom Bosne i Hercegovine,B-ORG I-ORG I-ORG I-ORG I-ORG
+9627,Los Angeles Lakers Š,B-ORG I-ORG I-ORG O
+9298,"Cerici , Banja Luka",B-LOC O B-LOC I-LOC
+1655,godine seli u Travnik gdje i danas živi .,O O O B-LOC O O O O O
+10226,"Često je uspoređuju , ponekad negativno , s Allison Cameron , njenom prethodnicom u timu .",O O O O O O O O B-PER I-PER O O O O O O
+14086,Spisak općina u Hrvatskoj,B-LOC I-LOC I-LOC I-LOC
+9553,"K - Kevin Garnett , Minnesota Timberwolves",O O B-PER I-PER O B-ORG I-ORG
+18048,"U 1857. , 1869. , 1921. i 1931. dio podataka sadržan je u naselju Rogoznica , a dio podataka u istom razdoblju i u 1948. sadržan je u naselju Primošten ( općina Primošten ) .",O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O B-LOC O O B-LOC O O
+10377,"iz Like su u Arapušu doselili Sedići , Vilići i Subašići .",O B-LOC O O O O O O O O O O
+3468,"Veliko Vukovje , naselje grada Garešnice , Bjelovarsko-bilogorska županija",B-LOC I-LOC O O O B-LOC O B-LOC I-LOC
+1704,Dogovorio je brakove sve svoje djece s djecom svog brata Ferdinanda .,O O O O O O O O O O B-PER O
+2650,PREUSMJERI Stéphanie od Monaka,O B-PER I-PER I-PER
+13625,Preusmjeri Los Angeles Lakers,O B-ORG I-ORG I-ORG
+12816,"Tin Ujević , „Notturno”",B-PER I-PER O O
+58,i prešao u Banja Luku .,O O O B-LOC I-LOC O
+7181,"Hajrudin Varešanović , pjevač ;",B-PER I-PER O O O
+6972,Gustoća naseljenosti u Kršanu je 23 stanovnika / km2 .,O O O B-LOC O O O O O O
+10239,Ronnie O'Sullivan,B-PER I-PER
+3211,"Stratinska , Banja Luka",B-LOC O B-LOC I-LOC
+14989,I u kvalifikacijama za Evropsko prvenstvo 1968 .,O O O O B-ORG I-ORG I-ORG O
+5960,"Francuska ( 2,100,000 )",B-LOC O O O
+2696,"Imali su samo jedno dijete , kćerku Keakealaniwahine .",O O O O O O O B-PER O
+5502,Meksikanci ( Meksiko ),B-ORG O B-LOC O
+2121,"U 1857. , 1869. , 1921. , 1981. i 1991. podaci su sadžani u naselju Pula ( grad Pula ) .",O O O O O O O O O O O O O O O B-LOC O O B-LOC O O
+10464,Оtiče rijekom Bojanom u Jadransko more .,O O B-LOC O B-LOC I-LOC O
+18509,"Na svu sreću , Gandalf je obaviješten o Denetorovom ludilu .",O O O O B-PER O O O O O O
+14130,Formiranjem Vojske Federacije Bosne i Hercegovine postaje član njene komande .,O B-ORG I-ORG I-ORG I-ORG I-ORG O O O O O
+10046,Timbuktu postaje dio Republike Mali koja dobija samostalnost .,O O O O B-LOC O O O O
+16000,PREUSMJERI Nordijska kombinacija na Zimskim olimpijskim igrama 2014 .,O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+14343,Pobjednik ove sezone je bio Chelsea .,O O O O O B-ORG O
+8765,Nenečki autonomni okrug ( Ненецкий автономный округ ),B-LOC I-LOC I-LOC O O O O O
+10595,"Nijemci ( Hrvatska ) , naselje i općina u Vukovarsko-srijemskoj županiji",B-LOC I-LOC I-LOC I-LOC O O O O O B-LOC I-LOC
+2068,"PREUSMJERI Izabela I , kraljica Kastilje",O B-PER I-PER I-PER I-PER I-PER
+18288,Sebastian Vettel,B-PER I-PER
+1929,"PREUSMJERI Marija , kraljica Ugarske",O B-PER I-PER I-PER I-PER
+9659,"PREUSMJERI Luj XIII , kralj Francuske",O B-PER I-PER I-PER I-PER I-PER
+1656,Preusmjeri Franjo Ferdinand Austrijski,O B-PER I-PER I-PER
+11062,Michael Schumacher,B-PER I-PER
+3347,Sebastian Vettel,B-PER I-PER
+11692,"Preusmjeri Kristijan X , kralj Danske",O B-PER I-PER I-PER I-PER I-PER
+18377,Trinidad i Tobago,B-ORG I-ORG I-ORG
+515,Ukrajina ( 76 % ),B-LOC O O O O
+1094,godine je Dalaj Lama napustio zemlju .,O O B-PER I-PER O O O
+12055,Sartorius vođa i osnivač,B-PER O O O
+8674,Gera ( Tiringija ),B-LOC O O O
+5249,godine je uhapšen zbog optužbi da je državnim novcem sagradio vikendicu na Palama .,O O O O O O O O O O O O B-LOC O
+665,"Graniči na sjeveru sa Mađarskom , Na istoku sa Rumunijom i Bugarskom , a na jugu sa Makedonijom i Kosovom , na jugozapadu sa Crnom Gorom , a na zapadu sa Bosnom i Hercegovinom i Hrvatskom .",O O O O B-LOC O O O O B-LOC O B-LOC O O O O O B-LOC O B-LOC O O O O B-LOC I-LOC O O O O O B-LOC I-LOC I-LOC O B-LOC O
+6257,"Mostar , Bosna i Hercegovina",B-LOC O B-LOC I-LOC I-LOC
+14881,Gustoća naseljenosti u Perušiću je 7 stanovnika / km2 .,O O O B-LOC O O O O O O
+8238,Mladost Gacko,B-ORG B-LOC
+17836,preusmjeri Olympique de Marseille,O B-ORG I-ORG I-ORG
+12627,"u Varešu , BiH .",O B-LOC O B-LOC O
+15808,"PREUSMJERI Karlo IV , kralj Navare",O B-PER I-PER I-PER I-PER I-PER
+5784,PREUSMJERI Mike Miller ( košarkaš ),O B-PER I-PER I-PER I-PER I-PER
+10064,Fernando Torres je dobitnik Zlatne kopačke .,B-PER I-PER O O O O O
+6414,Jaime Alguersuari,B-PER I-PER
+11424,New York ( država ),B-LOC I-LOC I-LOC I-LOC I-LOC
+14111,Mostar - Široki Brijeg - Privalj - Grude - Posušje,B-LOC O B-LOC I-LOC O B-LOC O B-LOC O B-LOC
+9638,Nick Heidfeld,B-PER I-PER
+4543,"Bills , Bills , Bills",B-ORG I-ORG B-ORG I-ORG B-ORG
+16350,Preusmjeri Prhinje ( Trebinje ),O B-LOC I-LOC I-LOC I-LOC
+8606,Björn Borg,B-PER I-PER
+18752,Urugvaj je deveti put u svojoj historiji osvojio šampionsku titulu .,B-ORG O O O O O O O O O O
+15260,Glavni grad je Port Louis .,O O O B-LOC I-LOC O
+544,Jenson Button,B-PER I-PER
+11391,Hotch je otkrio Rossiju da je zadržao interes za ovaj slučaj tokom 10 godina koliko je prošlo otkako je radio na njemu .,O O O B-PER O O O O O O O O O O O O O O O O O O O
+53,Gustoća naseljenosti u Svetom Filipu i Jakovu je - stanovnika / km2 .,O O O B-LOC I-LOC I-LOC I-LOC O O O O O O
+798,"godine , naselje je ukinuto i pripojeno naselju Ivanić-Grad .",O O O O O O O O B-LOC O
+5160,PREUSMJERI Hrvatsko narodno pozorište u Zagrebu,O B-ORG I-ORG I-ORG I-ORG I-ORG
+18205,Iste godine počinje svoje prvo takmičenje u Semberiji .,O O O O O O O B-LOC O
+11578,Abraham ( prorok ),B-PER I-PER I-PER I-PER
+8478,Dodao je 2 pogotka i nakon 2 sezone i 49 nastupa odlazi u Almeríju .,O O O O O O O O O O O O O B-ORG O
+2412,Borussia Dortmund,B-ORG I-ORG
+17311,Preusmjeri Svemirski teleskop James Webb,O B-ORG I-ORG I-ORG I-ORG
+9685,"Petrovina , naselje grada Jastrebarskog , Zagrebačka županija",B-LOC O O O B-LOC O B-LOC I-LOC
+3521,"Pobjednici četvrtfinala se suočavaju sa Evropskim i Južnoameričkim šampionima koji se takmiče od polufinala , za mjesto u finalu .",O O O O O B-LOC O B-LOC O O O O O O O O O O O O
+3413,Robert Kranjec – 2 ( 4 ),B-PER I-PER O O O O O
+4882,"preusmjeri Vilim III , kralj Engleske",O B-PER I-PER I-PER I-PER I-PER
+12144,Valtteri Bottas - vozač za testiranje,B-PER I-PER O O O O
+12202,Romain Grosjean,B-PER I-PER
+134,"godine konačno je rodila dijete , i to sina Franju .",O O O O O O O O O B-PER O
+18241,Andre Agassi – 17 ( 1990–2004 ),B-PER I-PER O O O O O
+18126,"Fenpaed ( Irska i Velika Britanija ) ,",O O B-LOC O B-LOC I-LOC O O
+5942,U 1981. i 1991. podaci su sadržani u naselju Dubrovnik .,O O O O O O O O O B-LOC O
+3265,PREUSMJERI Chandrasekhara Venkata Raman,O B-PER I-PER I-PER
+7369,"Ivo Andrić , „Jadni nemir”",B-PER I-PER O O O
+3091,Član Football League postaje 1950. godine .,O B-ORG I-ORG O O O O
+7933,Sa porodicom živi i radi u Beogradu .,O O O O O O B-LOC O
+13455,PREUSMJERI Krunske zemlje Commonwealtha,O B-ORG I-ORG I-ORG
+17358,"Michael Jackson , Dino Merlin",B-PER I-PER O B-PER I-PER
+17490,Real Sociedad,B-ORG I-ORG
+17066,Usain Bolt9.87 =SB,B-PER I-PER O
+16949,Luca Badoer vozač za testiranje,B-PER I-PER O O O
+11384,Također je bio u raznim Tupakovim pjesmama .,O O O O O B-PER O O
+4683,Higginsov maksimalni brejk ( YouTube ),O O O O B-ORG O
+13513,Bosanskohercegovački pastirski tornjak,B-ORG I-ORG I-ORG
+9894,Roger Federer,B-PER I-PER
+8028,"Kmećani , Banja Luka",B-LOC O B-LOC I-LOC
+6592,Mađarska]] Mađarska,O B-LOC
+1652,Preusmjeri Alpsko skijanje na Zimskim olimpijskim igrama 2014 .,O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+8134,Preusmjeri Real Madrid CF,O B-ORG I-ORG I-ORG
+9696,Kvalifikacije za Evropsko prvenstvo 1964 .,B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+6350,Nacionalni park Phong Nha Ke Bang,B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+8798,Svjetsko prvenstvo u nogometu 1950 .,B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+3784,"Gostović ( Vrbovec ) , naselje grada Vrbovca , Zagrebačka županija",B-LOC I-LOC I-LOC I-LOC O O O B-LOC O B-LOC I-LOC
+10915,Drugo mjesto je osvojio Mali a treće Kamerun .,O O O O B-ORG O O B-ORG O
+3032,bio je na mjestu predsjednika Evropskog vijeća .,O O O O O B-ORG I-ORG O
+8008,Sve pjesme je napisao i komponovao Dino Merlin .,O O O O O O B-PER I-PER O
+754,"PREUSMJERI Henrik II , kralj Francuske",O B-PER I-PER I-PER I-PER I-PER
+718,Urugvaj je peti put u svojoj historiji osvojio šampionsku titulu .,B-ORG O O O O O O O O O O
+1597,"PREUSMJERI Đorđe I , kralj Velike Britanije",O B-PER I-PER I-PER I-PER I-PER I-PER
+2713,Stephen Hendry,B-PER I-PER
+6805,Grafit ( jedna od najmekših supstanci ) ima lisnatu strukturu .,B-ORG O O O O O O O O O O
+1796,K Dirk Nowitzki - Dallas Mavericks,O B-PER I-PER O B-ORG I-ORG
+17067,Prvi put javnosti se predstavio igravši u pulskoj Istri tokom sezone 1994. / 95 .,O O O O O O O O B-ORG O O O O O O
+12190,You Do n't Fool Me ( Editovano ) – 3:56,B-ORG I-ORG I-ORG I-ORG I-ORG O O O O O
+8935,Lewis Hamilton,B-PER I-PER
+4295,"Virje , naselje i općina u Koprivničko-križevačkoj županiji",B-LOC O O O O O B-LOC I-LOC
+18483,Ženska nogometna reprezentacija Bosne i Hercegovine,B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+10886,PREUSMJERI NBA 1981 / 1982 .,O B-ORG I-ORG I-ORG I-ORG I-ORG
+5878,Jenson Button,B-PER I-PER
+8792,Lewis Hamilton,B-PER I-PER
+7152,"Zoë Heller , Notes on a Scandal",B-PER I-PER O O O O O
+5723,Sjedište Yukosa je bilo u Moskvi,O O O O O B-LOC
+14433,godine zaručila za Daniela Westlinga .,O O O B-PER I-PER O
+17422,"140 , 137 , 132 , 130 , 113 , 108 , 103 , 102 , 101 , 100 Neil Robertson",O O O O O O O O O O O O O O O O O O O B-PER I-PER
+13831,Trezor Bosne i Hercegovine zvanično počeo funkcionirati .,O B-LOC I-LOC I-LOC O O O O
+383,Orden narodnog heroja,B-ORG I-ORG I-ORG
+10096,grad postaje dio Austro-Ugarske monarhije .,O O O B-LOC I-LOC O
+11039,Spisak općina u Hrvatskoj,B-LOC I-LOC I-LOC I-LOC
+15928,Prvo otkriće je napravio Edward Emerson Barnard .,O O O O B-PER I-PER I-PER O
+188,"25 – Gail Goodrich , bek ( 1965–68 , 1970–76 )",O O B-PER I-PER O O O O O O O
+17046,od strane Kristofora Kolumba .,O O B-PER I-PER O
+3573,Preusmjeri Skijaško trčanje na Zimskim olimpijskim igrama 1984 - 50 km,O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+16097,"Protivnik je bio domaćin , Italija .",O O O O O B-ORG O
+17722,Grapska Gornja ( 2.297 stanovnika ),B-LOC I-LOC O O O O
+6382,Chicago Bulls Š,B-ORG I-ORG O
+14908,Fernando Alonso,B-PER I-PER
+12964,Takmiči se u Superligi Albanije .,O O O B-ORG I-ORG O
+18802,Pjesma Briana Maya koja se direktno naslanja na uvodni instrumental najžešća je i najprogresivnija pjesma na prvoj bijeloj strani albuma .,O B-PER I-PER O O O O O O O O O O O O O O O O O O
+13259,Smatra se jednom od najžešćih Queenovih pjesama .,O O O O O B-ORG O O
+16324,"Palacio Municipal de Deportes San Pablo , Sevilla",B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG O B-LOC
+15126,Preusmjeri Mihail Sergejevič Gorbačov,O B-PER I-PER I-PER
+15773,"Duško Trifunović ( 1933-2006 ) - „Zlatni kuršum“ , izd .",B-PER I-PER O O O O O O O O O
+12343,"Uz pomoć kralja nije osuđen na smrtnu kaznu , nego je poslan u Jerusalem .",O O O O O O O O O O O O O B-LOC O
+9541,Danas je rasprostranjena na širem području Sredozemlja .,O O O O O O B-LOC O
+11972,Bribirski ( Šubići ),B-ORG I-ORG I-ORG I-ORG
+9559,"Neron , 54 .",B-PER O O O
+18054,Prvo otkriće je napravio Edward Emerson Barnard .,O O O O B-PER I-PER I-PER O
+4693,U desetoj godini porodica joj se preselila u Kaliforniju .,O O O O O O O O B-LOC O
+2106,Max Verstappen,B-PER I-PER
+8474,"Afroamerikanci ( 52,1 )",B-ORG O O O
+10869,"Ludovik I , kralj Ugarske",B-PER I-PER I-PER I-PER I-PER
+5742,Svemirski teleskop James Webb će imati 18 heksagonalnih sekcija načinjenih od berilija za svoja ogledala .,B-ORG I-ORG I-ORG I-ORG O O O O O O O O O O O O
+6602,Tuzla - Sarajevo - Foča,B-LOC O B-LOC O B-LOC
+3068,u slomu Nikole Altomanovića .,O O B-PER I-PER O
+4426,Udaljena je 59 sg .,O O O B-ORG O
+10821,"Bills , Bills , Bills - 1:32",B-ORG I-ORG B-ORG I-ORG B-ORG O O
+709,Njegov rođak Luca Signorelli ga je preporučio Guglielmu Marsigliji .,O O B-PER I-PER O O O O O O
+17237,Heinz-Harald Frentzen - no.20,B-PER I-PER O O
+16993,Rihanna,B-PER
+3415,Bosanski sabor je 1911. god .,B-ORG I-ORG O O O O
+4231,Boston Celtics,B-ORG I-ORG
+13936,godine u izdanju diskografske kuće Jugoton .,O O O O O B-ORG O
+4085,Najveći rival kluba je B36 Tórshavn .,O O O O B-ORG I-ORG O
+6650,"Trenutno nastupa u League One , trećem rangu engleskog nogometa .",O O O B-ORG I-ORG O O O B-ORG I-ORG O
+12728,Spisak općina u Hrvatskoj,B-LOC I-LOC I-LOC I-LOC
+8007,"Pobijeđena je Latvija , Holandija i Njemačka .",O O B-ORG O B-ORG O B-ORG O
+254,Preusmjeri Pridnjestrovska Moldavska Republika,O B-LOC I-LOC I-LOC
+2427,Poznati stanovnici grada su bili Richard Wagner i Immanuel Kant .,O O O O O B-PER I-PER O B-PER I-PER O
+13178,San Antonio Spurs ( 1997– ),B-ORG I-ORG I-ORG O O O
+12910,U zauzetoj i slobodnoj Francuskoj će registracija i evakuacije vjerovatno proći bez teškoća .,O O O O B-LOC O O O O O O O O O
+3574,Prosvjetiteljstvo,B-ORG
+7554,Gustoća naseljenosti u Privlaci je 55 stanovnika / km2 .,O O O B-LOC O O O O O O
+13507,Robert Kubica,B-PER I-PER
+15164,Preusmjeri Aiša bint Ebu-Bekr,O B-PER I-PER I-PER
+15214,Zijah Sokolović ( privatna produkcija ),B-PER I-PER O O O O
+2659,Spisak općina u Hrvatskoj,B-LOC I-LOC I-LOC I-LOC
+7449,"Aleksandar I , car Rusije",B-PER I-PER I-PER I-PER I-PER
+2647,"Rattus annandalei – Indonezija , Malezija , Singapur",O O O B-LOC O B-LOC O B-LOC
+14366,Serie A 2014 / 2015 .,B-LOC I-LOC I-LOC I-LOC I-LOC I-LOC
+1991,"Činim pravu stvar , Gibonni",O O O O B-PER
+3053,"Calvino je rođen na Kubi , u predgrađu Havane , 1923. godine .",O O O O B-LOC O O O B-LOC O O O O
+8787,Član FIFA-e je od 1929. a UEFA-e od 1994. godine .,O B-ORG O O O O B-ORG O O O O
+13525,Spisak općina u Hrvatskoj,B-LOC I-LOC I-LOC I-LOC
+15296,PREUSMJERI Denver Nuggets ( 1948–50 ),O B-ORG I-ORG I-ORG I-ORG I-ORG
+11057,"Supetarska Draga , naselje grada Raba , Primorsko-goranska županija",B-LOC I-LOC O O O B-LOC O B-LOC I-LOC
+17313,"preusmjeri Luj XIV , kralj Francuske",O B-PER I-PER I-PER I-PER I-PER
+16031,IFK Göteborg ( 2 .,B-ORG I-ORG O O O
+11230,"Papua Nova Gvineja , Indonezija",B-LOC I-LOC I-LOC O B-LOC
+16690,Južnoameričko prvenstvo 1959. ( Argentina ),B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+6014,PREUSMJERI Njemačka demokratska republika,O B-LOC I-LOC I-LOC
+17197,Zvjezdane staze : Duboki svemir 9,B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+4282,Džamija u Logu pod Mangartom,B-ORG I-ORG I-ORG I-ORG I-ORG
+15641,Preusmjeri Jezero ( općina ),O B-LOC I-LOC I-LOC I-LOC
+6983,Preusmjeri Anatomski moderni čovjek,O B-ORG I-ORG I-ORG
+14575,Bruno Senna,B-PER I-PER
+6906,Lewis Hamilton,B-PER I-PER
+6749,Michael Schumacher Rubens Barrichello,B-PER I-PER B-PER I-PER
+18237,Preusmjeri Fleetwood Town FC,O B-ORG I-ORG I-ORG
+14774,VfL Wolfsburg,B-ORG I-ORG
+13712,The Miracle - 5:02,B-ORG I-ORG O O
+6583,Bootylicious - 1:05,B-ORG O O
+8052,"Pjotr Svidler ( 5,5 )",B-PER I-PER O O O
+12757,Kanada ( Britanska Kolumbija ),B-LOC O B-LOC I-LOC O
+16443,Jenson Button,B-PER I-PER
+9580,Grb Bosne i Hercegovine,B-ORG I-ORG I-ORG I-ORG
+4879,"preusmjeri Filip I , kralj Kastilje",O B-PER I-PER I-PER I-PER I-PER
+16586,Preusmjeri Eferding ( okrug ),O B-LOC I-LOC I-LOC I-LOC
+13206,"Jacques Chirac , ehemaliger französischer Staatspräsident",B-PER I-PER O O O O
+335,Elche CF,B-ORG I-ORG
+4777,PREUSMJERI Berzovni krah Južnomorske kompanije,O B-ORG I-ORG I-ORG I-ORG
+14251,Nove enciklopedije se ne osvrću na tradicije .,O O O O O O B-ORG O
+15352,"Mnogo gaža i tezgi se otvorilo po Slavoniji , Vojvodini , Dalmaciji , Istri , Makedoniji i Bosni .",O O O O O O O B-LOC O B-LOC O B-LOC O B-LOC O B-LOC O B-LOC O
+4514,godine kada su vojne snage opozicije i bivših vojnika bili na ulazu u glavni grad Port-au-Prince .,O O O O O O O O O O O O O O O B-LOC O
+6343,"Galen ( 129-210 p , ne .",B-PER O O O O O O
+10381,"Velika Pisanica , naselje i općina u Bjelovarsko-bilogorskoj županiji",B-LOC I-LOC O O O O O B-LOC I-LOC
+8759,=== Rio Grande do Norte ===,O B-LOC I-LOC I-LOC I-LOC O
+8527,Strijeljanje civila je počinila zloglasna jedinica Srpska dobrovoljačka garda pod komandom Željka Ražnatovića - Arkana .,O O O O O O B-ORG I-ORG I-ORG O O B-ORG I-ORG I-ORG I-ORG O
+13777,Udaljena je 143 sg od Sunca .,O O O B-ORG O B-LOC O
+677,Smještena je u Širokom Brijegu,O O O B-LOC I-LOC
+9548,Camp Nou — Barcelona ( Španija ),B-ORG I-ORG O B-LOC O B-LOC O
+1593,Preusmjeri Apurimac ( rijeka ),O B-LOC I-LOC I-LOC I-LOC
+7303,Unakazio je Melkorovo lice svojim kandžama .,O O B-PER O O O O
+3365,U četvrtfinalu protivnik im je bio Čile .,O O O O O O B-ORG O
+3694,Spisak općina u Hrvatskoj,B-LOC I-LOC I-LOC I-LOC
+8830,"preusmjeri Henrik VIII , kralj Engleske",O B-PER I-PER I-PER I-PER I-PER
+17008,Spisak općina u Hrvatskoj,B-LOC I-LOC I-LOC I-LOC
+16594,Već u prvih pola sata Španjolci su bili obezbjedili pobjedu .,O O O O O B-ORG O O O O O
+15935,Neke firme iz oblasti namjenske industrije su ga konvertovale u kalibar 155 mm po NATO standardu .,O O O O O O O O O O O O O O B-ORG O O
+1033,PREUSMJERI FC Steaua Bukurešt,O B-ORG I-ORG I-ORG
+15927,Igralo se s 9 igrača na terenu duplo kraćem od današnjeg NBA-terena .,O O O O O O O O O O O B-ORG O
+5989,Preusmjeri Niccolò Fontana Tartaglia,O B-PER I-PER I-PER
+18270,"PREUSMJERI Alfons XIII , kralj Španije",O B-PER I-PER I-PER I-PER I-PER
+7452,*Budi ona prava - Ivan Mikulić,O O O O B-PER I-PER
+10738,Oscar Wilde mu se divio smatravši ga kraljem .,B-PER I-PER O O O O O O O
+3591,Nico Rosberg,B-PER I-PER
+990,"Preusmjeri Tvrtko II , kralj Bosne",O B-PER I-PER I-PER I-PER I-PER
+10208,Sparta Prag pobjednik sveukupnim rezultatom 4–0 .,B-ORG I-ORG O O O O O
+18797,Dagestan ( Республика Дагестан ),B-LOC O O O O
+5994,Sa željom da izvodi vlastitu muziku okupio je nekoliko mladih muzičara .,O O O O O B-LOC O O O O O O
+15449,Varaždin Sportska dvorana Varaždin ( kapacitet 5.200 ),B-LOC B-ORG I-ORG I-ORG O O O O
+8109,I sjevernjaci i južnjaci su bili pod uticajem ideja Thomasa Jeffersona .,O O O O O O O O O B-PER I-PER O
+2431,"Ciudad de México , Meksiko",B-LOC I-LOC I-LOC O B-LOC
+13485,"Kao igrač , osvojio je SP 1990 . i EP 1996 . u Engleskoj .",O O O O O B-ORG I-ORG I-ORG O B-ORG I-ORG I-ORG O B-LOC O
+17577,Građanska demokratska stranka Bosne i Hercegovine,B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+3248,Psihijatrijska bolnica Royal Park,B-ORG I-ORG I-ORG I-ORG
+8627,"Putopisac , brat poznatijeg Ivana , pisca Smrti Smail-age Čengića .",O O O O B-PER O O O O O O
+9794,Dallas Mavericks ( 7 ),B-ORG I-ORG O O O
+456,Judd Trump,B-PER I-PER
+196,Zvjezdane staze : Sljedeća generacija,B-ORG I-ORG I-ORG I-ORG I-ORG
+13018,"Primorski Dolac , naselje i općina u Splitsko-dalmatinskoj županiji",B-LOC I-LOC O O O O O B-LOC I-LOC
+14492,"Po slobodnim procjenama , u Australiji živi oko 50 miliona kengura .",O O O O O B-LOC O O O O O O
+6891,UE Sant Julià,B-ORG I-ORG I-ORG
+3830,Nalazi se na obali Perzijskog zaliva .,O O O O B-LOC I-LOC O
+2642,"Aviokompanija obično koristi sekundarne aerodrome koji služe mnoge gradove širom Evrope , i Egipta , Izraela , Turske i Ujedinjenih Arapskih Emirata .",O O O O O O O O O O B-LOC O O B-LOC O B-LOC O B-LOC O B-LOC I-LOC I-LOC O
+17752,"IBU-Ratiopharm ( Njemačka ) ,",O O B-LOC O O
+13549,Milutin Milanković ( 1879–1958 ),B-PER I-PER O O O
+2323,Miles Millar - Izvršni producent,B-PER I-PER O O O
+6882,Kavadh I .,B-PER I-PER O
+16099,"Alex English , igrač",B-PER I-PER O O
+3786,Fernando Alonso,B-PER I-PER
+14612,godine bio proglašen za Evropski glavni grad kulture .,O O O O B-ORG I-ORG I-ORG I-ORG O
+10207,"Rude su naseljeno mjesto u sastavu grada Samobora , Zagrebačka županija , Republika Hrvatska .",O O O O O O O B-LOC O B-LOC I-LOC O B-LOC I-LOC O
+10521,Ronnie O'Sullivan,B-PER I-PER
+4551,"Mogu se pronaći i na teritoriji Nigera , Burkine Faso , Toga , Malija i Benina .",O O O O O O B-LOC O B-LOC I-LOC O B-LOC O B-LOC O B-LOC O
+4578,"Tuzla , Lukavac , Živinice",B-LOC O B-LOC O B-LOC
+12362,"2007. godine izbacuju svoj drugi studijski album pod nazivom Probaj me , a iste godine nastupaju i kao predgrupa bendu Deep Purple .",O O O O O O O O O O O O O O O O O O O O B-ORG I-ORG O
+2378,"Ipren ( Danska i Švedska ) ,",O O B-LOC O B-LOC O O
+3735,Who Wants to Live Forever,B-ORG I-ORG I-ORG I-ORG I-ORG
+16604,"Satnica Đakovačka , naselje i općina u Osječko-baranjskoj županiji",B-LOC I-LOC O O O O O B-LOC I-LOC
+8180,Nico Rosberg,B-PER I-PER
+15318,muzičar iz Trinidada i Tobaga,O O B-ORG I-ORG I-ORG
+17378,U Football League je proveo tri sezone .,O B-ORG I-ORG O O O O O
+5681,Album The Game je bio njihov najprodavaniji album .,O B-ORG I-ORG O O O O O O
+8855,"godine , naselje je ukinuto i pripojeno naselju Bribir .",O O O O O O O O B-LOC O
+17487,Sofokle obrađuje istu priču u svojoj tragediji „Epigoni” .,B-PER O O O O O O O O
+3034,Smješten je na obali Crnog mora .,O O O O B-LOC I-LOC O
+13884,Preusmjeri Dido ( čvor ),O B-ORG I-ORG I-ORG I-ORG
+7320,Udaljena je 179 sg od Sunca .,O O O B-ORG O B-LOC O
+11583,PREUSMJERI Centralna obavještajna agencija,O B-ORG I-ORG I-ORG
+9728,Preusmjeri Republikanska stranka ( SAD ),O B-ORG I-ORG I-ORG I-ORG I-ORG
+8039,Kimi Räikkönen,B-PER I-PER
+13735,"Zamišljao je mnogo moderniji lik , puno većeg boema , koji se odijeva kao slikar ili pjesnik , u ovom slučaju kao Henri de Toulouse-Lautrec .",O O O O O O O O O O O O O O O O O O O O O O B-PER I-PER I-PER O
+4401,Ostrvo Heard i arhipelag McDonald,B-LOC I-LOC I-LOC I-LOC I-LOC
+15066,Kimi Räikkönen,B-PER I-PER
+4066,Preusmjeri Košarkaška reprezentacija Bosne i Hercegovine,O B-ORG I-ORG I-ORG I-ORG I-ORG
+4982,"Antonije Isaković , Tren ;",B-PER I-PER O O O
+12666,Igrao je za HNK Šibenik i HŠK Zrinjski .,O O O B-ORG I-ORG O B-ORG I-ORG O
+11421,Preusmjeri Brother Where You Bound,O B-ORG I-ORG I-ORG I-ORG
+15934,"Venecuela ( 26,021,000 )",B-LOC O O O
+13415,"Postojali su Banovići selo , od koga je kasnije izgrađen grad Banovići .",O O B-LOC I-LOC O O O O O O O B-LOC O
+9473,Melkor nije bio zadovoljan Glaurungom jer je htio da ga pusti tek kada bude u punoj snazi .,B-PER O O O O O O O O O O O O O O O O O
+8560,Nakon toga prelazi u NK Zagreb u kojem je proveo 3 godine .,O O O O B-ORG I-ORG O O O O O O O
+18739,Popis stanovništva u Bosni i Hercegovini 1879 .,B-LOC I-LOC I-LOC I-LOC I-LOC I-LOC I-LOC I-LOC
+16006,Sergio Pérez,B-PER I-PER
+14542,Helena Bonham Carter - najbolja sporedna glumica,B-PER I-PER I-PER O O O O
+5670,Mark Webber,B-PER I-PER
+2743,"Brežuljci su rezultat marinsko-jezerskih sedimenata , za razliku od Majevice koja je flisni Dinarid .",O O O O O O O O O B-LOC O O O O O
+3307,"Za 1869. podaci su sadržani u naselju Feričanci ( općina Feričanci , Osječko-baranjska županija ) .",O O O O O O O B-LOC O O B-LOC O B-LOC I-LOC O O
+14213,Papa Siksto III ( 432-440 ),B-PER I-PER I-PER O O O
+11741,Spisak općina u Hrvatskoj,B-LOC I-LOC I-LOC I-LOC
+15875,Na albumu gost je bio Eric Clapton .,O O O O O B-PER I-PER O
+10318,Paul di Resta,B-PER I-PER I-PER
+7397,na Novoj TV kao Kućanice,O B-ORG I-ORG O O
+14016,Lucerna ) je grad u Švicarskoj i glavni grad kantona Lucern .,O O O O O B-LOC O O O B-LOC I-LOC O
+14134,"preusmjeri Lotar , kralj Zapadne Franačke",O B-PER I-PER I-PER I-PER I-PER
+15997,U Evropi je taj postotak još i veći i kreće se oko 50 % .,O B-LOC O O O O O O O O O O O O O
+10666,"Blato na Cetini , naselje grada Omiša , Splitsko-dalmatinska županija",B-LOC I-LOC I-LOC O O O B-LOC O B-LOC I-LOC
+3601,"*1995-96 - Phil Jackson , Chicago Bulls",O O B-PER I-PER O B-ORG I-ORG
+6565,Pastor Maldonado kažnjen s pet mjesta gorim startom nakon sudara na subotnjemu kvalifikacijskom treningu sjednici s Lewisom Hamiltonom .,B-PER I-PER O O O O O O O O O O O O O O B-PER I-PER O
+562,"Brijesnica Velika , Doboj",B-LOC I-LOC O B-LOC
+11246,Carlos Moyá,B-PER I-PER
+10641,Sud je u ovoj presudi prvi put ustanovio kršenje čl .,B-ORG O O O O O O O O O O
+781,PREUSMJERI Dirichletov granični uvjet,O B-ORG I-ORG I-ORG
+17995,Planirao je ubiti Harry Pottera kako bi vratio svoje tijelo .,O O O B-PER I-PER O O O O O O
+13297,Preusmjeri Muhamed Reza Pahlavi,O B-PER I-PER I-PER
+7783,Na Evropskom prvenstvu 1996 . u Engleskoj prvi protivnik je bio domaćin .,O B-ORG I-ORG I-ORG I-ORG O B-LOC O O O O O O
+7188,Treći trofej u trajno vlasništvo je osvojio Egipat nakon što su postali tri puta u nizu prvaci 2010. godine .,O O O O O O O B-ORG O O O O O O O O O O O O
+8208,Donošenje odluke o izboru veće količine jedne robe automatski implicira donošenje odluke o izboru manje količine druge robe .,O O O O O O O B-ORG O O O O O O O O O B-ORG O
+6170,Operativna komanda ( Sarajevo ),O O O B-LOC O
+2030,Preusmjeri Sulejman ( islam ),O B-PER I-PER I-PER I-PER
+18681,Brazil,B-LOC
+2568,"76207 - Gornji Rahić , BH Pošta",O O B-LOC I-LOC O O O
+2302,Spisak općina u Hrvatskoj,B-LOC I-LOC I-LOC I-LOC
+5481,Daniel Ricciardo,B-PER I-PER
+11044,Takmiči se u Premijer ligi Malte .,O O O B-ORG I-ORG I-ORG O
+184,Athletic Bilbao - Real Betis,B-ORG I-ORG O B-ORG I-ORG
+3332,"Vučinići ( Vrbovsko ) , naselje grada Vrbovskog , Primorsko-goranska županija",B-LOC I-LOC I-LOC I-LOC O O O B-LOC O B-LOC I-LOC
+5834,PREUSMJERI Juventus FC - sezona 2009 / 2010 .,O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+12043,Pete Sampras,B-PER I-PER
+4441,"Edsger Dijkstra , holandski kompjuterski naučnik ;",B-PER I-PER O B-LOC O O O
+2984,PREUSMJERI Senat Sjedinjenih Američkih Država,O B-ORG I-ORG I-ORG I-ORG
+10214,"U potrazi za poslom radio je u Ljubljani , Zagrebu , Beču kao i Češkoj .",O O O O O O O B-LOC O B-LOC O B-LOC O O B-LOC O
+255,"Danska , Norveška i Švedska u Kalmarsku uniju .",B-LOC O B-LOC O B-LOC O B-LOC I-LOC O
+12886,"U takmičenju je učestvovalo 20 timova , 17 iz sezone 2011-12. i 3 tima promovisana iz Serije B .",O O O O O O O O O O O O O O O O B-ORG I-ORG O
+3377,"PREUSMJERI Luj V , kralj Zapadne Franačke",O B-PER I-PER I-PER I-PER I-PER I-PER
+13537,Brazil je uspješno odbranio svoju titulu pobjedom 3:0 nad Španijom u finalu .,B-ORG O O O O O O O O B-ORG O O O
+16774,Gustoća naseljenosti u Oroslavju je 236 stanovnika / km2 .,O O O B-LOC O O O O O O
+2186,Pastor Maldonado,B-PER I-PER
+5060,Propituje službenu verziju događaja 11. septembra 2001 .,O O O O B-ORG I-ORG I-ORG O
+10664,Jarno Trulli - no.16,B-PER I-PER O O
+12901,"PREUSMJERI Luj III , kralj Zapadne Franačke",O B-PER I-PER I-PER I-PER I-PER I-PER
+15230,HI Havaji,O B-LOC
+7761,"Concerto , kao i većina muzičkih formi uostalom , stvoren je u Italiji .",O O O O O O O O O O O O B-LOC O
+18600,Nakon toga je pohađao Univerzitet Princeton uz vojnu stipendiju .,O O O O B-ORG I-ORG O O O O
+4723,Adrian Sutil,B-PER I-PER
+5589,Naslijedio ga je brat Edgar .,O O O O B-PER O
+9015,Gustoća naseljenosti u Bariloviću je 17stanovnika / km2 .,O O O B-LOC O O O O O
+6903,ME Maine,O B-LOC
+12215,Počela gradnja Eiffelovog tornja .,O O B-ORG I-ORG O
+10082,FC Zürich,B-ORG I-ORG
+2143,"Nastavila je tražiti rješenje vjerskih problema , te je čak pregovarala s navarskom vladaricom , protestantkinjom Ivanom III ( koju je poslije nazivala najbesramnijom ženom na svijetu ) .",O O O O O O O O O O O O O O O O B-PER I-PER O O O O O O O O O O O
+8044,Ronnie O'Sullivan,B-PER I-PER
+15321,Egipat 73.746.000 ( 90 % ),B-LOC O O O O O
+15841,Kafić Uzdravlje,B-ORG I-ORG
+2495,u svojoj kući u Brooklynu .,O O O O B-LOC O
+16406,Nico Rosberg,B-PER I-PER
+12019,U tom smislu A. Smith je istakao svoja četiri kanona u kojim je ukazao na taj problem kao i mogućnost rješavanja te problematike .,O O O B-PER I-PER O O O O O O O O O O O O O O O O O O O
+6696,preusmjeri Stadion Maracaná,O B-LOC I-LOC
+4769,Superliga,B-ORG
+4850,Felipe Massa,B-PER I-PER
+6015,"To su do tada samo postigli Elvis Presley i Beatlesi , prvi kojima je to uspjelo u 30 godina .",O O O O O O B-PER I-PER O B-ORG O O O O O O O O O O
+9835,"PREUSMJERI Husein , kralj Jordana",O B-PER I-PER I-PER I-PER
+14679,"Drugo mjesto zauzeo je njegov timski kolega Lewis Hamilton , dok se na trećem stepeniku pobjedničkog postolja našao vozač Williamsa Valtteri Bottas .",O O O O O O O B-PER I-PER O O O O O O O O O O B-ORG B-PER I-PER O
+672,Andre Agassi,B-PER I-PER
+7096,Las Palmas de Gran Canaria,B-LOC I-LOC I-LOC I-LOC I-LOC
+12491,Udaljena je samo oko 28.4 sg od Sunca .,O O O O O B-ORG O B-LOC O
+12686,Hannover 96,B-ORG I-ORG
+11867,Johnny Cash kao kartaš čije vrijeme na ekranu nije duže od 5 sekundi .,B-PER I-PER O O O O O O O O O O O O
+12485,preusmjeri Marija Terezija od Francuske,O B-PER I-PER I-PER I-PER
+11335,Takmiči se u Prvoj nogometnoj ligi Federacije Bosne i Hercegovine .,O O O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG O
+18431,La Paz ( Bolivija ),B-LOC I-LOC O B-LOC O
+2991,Celta de Vigo,B-ORG I-ORG I-ORG
+9662,Ohio,B-LOC
+2096,"PREUSMJERI Đorđe II , kralj Velike Britanije",O B-PER I-PER I-PER I-PER I-PER I-PER
+8455,U prvom kolu kvalifikacija su igrali protiv Santa Colome iz Andore .,O O O O O O O B-ORG I-ORG O B-LOC O
+4260,"Vode su naseljeno mjesto u sastavu grada Čabra , Primorsko-goranska županija , Republika Hrvatska .",O O O O O O O B-LOC O B-LOC I-LOC O B-LOC I-LOC O
+13728,koje je stanovništvo Balkanskog poluostrva za vrijeme Osmanlijskog carstva davalo državi .,O O O B-LOC I-LOC O O B-LOC I-LOC O O O
+9761,"preusmjeri Henrik V , kralj Engleske",O B-PER I-PER I-PER I-PER I-PER
+15369,Novi Grad ( Sarajevo ),B-LOC I-LOC I-LOC I-LOC I-LOC
+2878,Preusmjeri SV Werder Bremen,O B-ORG I-ORG I-ORG
+944,Felipe Massa,B-PER I-PER
+6124,Lewis Hamilton,B-PER I-PER
+8170,godine izabran je za ministra odbrane tadašnje Državne zajednice Srbija i Crne Gora .,O O O O O O O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG O
+11139,Smallville ( sezona 3 ),B-ORG I-ORG I-ORG I-ORG I-ORG
+191,Engleska pobjednik sveukupnim rezultatom 3–1 .,B-ORG O O O O O
+7947,Jenson Button,B-PER I-PER
+18340,Boston Celtics,B-ORG I-ORG
+6585,Preusmjeri Bosanskohercegovačka patriotska stranka - Sefer Halilović,O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+11938,Preusmjeri Svjetsko prvenstvo u krosu 1974 .,O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+4562,"505.000 imigranata ( 61 % ) dolaze iz drugih dijelova svijeta ( Maroko , Irak , Somalija , Pakistan , Iran ) .",O O O O O O O O O O O O B-LOC O B-LOC O B-LOC O B-LOC O B-LOC O O
+5546,Indija od Velike Britanije,B-LOC O B-LOC I-LOC
+10782,"Marcus Camby , Denver Nuggets",B-PER I-PER O B-ORG I-ORG
+15087,Paul di Resta,B-PER I-PER I-PER
+7591,Adrian Sutil,B-PER I-PER
+12254,PREUSMJERI Empire State Building,O B-ORG I-ORG I-ORG
+8289,U četvrfinalu bolji od njega je bio Novak Đoković sa 7-6 ( 7:2 ) 6-1 6-2 .,O O O O O O O B-PER I-PER O O O O O O O O
+15918,Iste godine se pojavljuje u humorističnoj seriji Viza za budućnost gdje igra jednu od sporednih uloga .,O O O O O O O B-ORG I-ORG I-ORG O O O O O O O
+9534,PREUSMJERI Spisak jerusalemskih kraljeva,O B-ORG I-ORG I-ORG
+11950,"Vrbovečki Pavlovec , naselje grada Vrbovca , Zagrebačka županija",B-LOC I-LOC O O O B-LOC O B-LOC I-LOC
+18308,Na turniru su učestvovale sve članice CONMEBOL-a Na kraju šampionata Brazil je četvrti put u svojoj historiji osvojio šampionsku titulu .,O O O O O O B-ORG O O O B-ORG O O O O O O O O O O
+17138,Fenerbahçe pobjednik sveukupnim rezultatom 3–1 .,B-ORG O O O O O
+18079,Domaće utakmice igra na stadionu Pirota .,O O O O O B-ORG O
+7231,godine pogledati pod Rakovica .,O O O B-LOC O
+12748,Spisak općina u Hrvatskoj,B-LOC I-LOC I-LOC I-LOC
+1316,"Bar , Crna Gora",B-LOC O B-LOC I-LOC
+16778,"Rogoznica , naselje i općina u Šibensko-kninskoj županiji",B-LOC O O O O O B-LOC I-LOC
+1177,"3 – Dražen Petrović , B ( 1990-93 )",O O B-PER I-PER O O O O O
+14884,Spisak općina u Hrvatskoj,B-LOC I-LOC I-LOC I-LOC
+18135,"Najveći broj nalazi se u Hrvatskoj , Austriji , Njemačkoj i Švicarskoj .",O O O O O B-LOC O B-LOC O B-LOC O B-LOC O
+14551,Državna bolnica u Ostinu,B-ORG I-ORG I-ORG I-ORG
+2223,"godine , kada je prokopan Sueski kanal .",O O O O O B-LOC I-LOC O
+8130,Paul di Resta,B-PER I-PER I-PER
+1138,Gustoća naseljenosti u Tkon je 51 stanovnika / km2 .,O O O B-LOC O O O O O O
+11448,"Blinjski Kut , naselje grada Siska , Sisačko-moslavačka županija",B-LOC I-LOC O O O B-LOC O B-LOC I-LOC
+12667,Armija Republike Bosne i Hercegovine,B-ORG I-ORG I-ORG I-ORG I-ORG
+8193,"Lud , zbunjen , normalan ( 2007-2014 )",B-ORG I-ORG I-ORG I-ORG I-ORG O O O
+12979,*1974 Kad bi bio bijelo dugme,O B-ORG I-ORG I-ORG I-ORG I-ORG
+9560,PREUSMJERI XIII olimpijske igre - London 1944 .,O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+14578,"definitivno odlazi u Francusku Polineziju , gdje je umro u patnjama i gorčini .",O O O B-LOC I-LOC O O O O O O O O O
+9141,Pobjednik Serie A,O B-ORG I-ORG
+2901,Орёл ) je grad u Rusiji .,O O O O O B-LOC O
+6053,sa stanicom ( Bastille ) .,O O O B-ORG O O
+2769,Napadi 11. septembra 2001 . godine su stvorili probleme za kompaniju .,B-ORG I-ORG I-ORG I-ORG I-ORG O O O O O O O
+13121,"Istočna Slavonija , Baranja i Zapadni Srijem",B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+12559,Perzej je tražio Gorgone .,B-PER O O O O
+2755,"Montevideo , glavni grad Urugvaja",B-LOC O O O B-LOC
+4507,"Dok je bio na stepenicama , urotnici su mu prišli i izboli ga 23 puta , no povjesničar Svetonije tvrdi da je samo jedan ubod , i to u prsa , bio smrtonosan .",O O O O O O O O O O O O O O O O O O B-PER O O O O O O O O O O O O O O O
+14722,"preusmjeri Elizabeta I , kraljica Engleske",O B-PER I-PER I-PER I-PER I-PER
+3033,Imali su svoje poglavare i bili su saveznici Noldora .,O O O O O O O O B-ORG O
+10555,Preusmjeri Vaterpolo na Olimpijskim igrama 1912 .,O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+15299,Felipe Massa,B-PER I-PER
+7736,Preusmjeri Lisica ( čvor ),O B-LOC I-LOC I-LOC I-LOC
+14849,"Kunovec Breg , naselje grada Koprivnice , Koprivničko-križevačka županija",B-LOC I-LOC O O O B-LOC O B-LOC I-LOC
+3482,"U aristotelovskim smislu , također je i imanentna pošto svrhe promatra kao sastavnice samih stvari .",O B-PER O O O O O O O O O O O O O O
+15568,"Gornja Drenova , naselje grada Svetog Ivana Zeline , Zagrebačka županija",B-LOC I-LOC O O O B-LOC I-LOC I-LOC O B-LOC I-LOC
+9318,"Glasalo se za 83 predstavnika Narodne skupštine Republike Srpske , čiji mandat traje četiri godine .",O O O O O B-ORG I-ORG I-ORG I-ORG O O O O O O O
+2090,Vokal — Nele Karajlić,O O B-PER I-PER
+10632,Kineska nacionalna svemirska agencija,B-ORG I-ORG I-ORG I-ORG
+15120,francuski književnik američkog porijekla,B-LOC O B-LOC O
+8804,"Chris Bosh , Toronto Raptors",B-PER I-PER O B-ORG I-ORG
+4918,"Ivana Španović6,87 m SB",B-PER I-PER O O
+12730,Zajdeno sa njim objavljuje studiju o uticaju Sigmund Freuda na modernu kulturu .,O O O O O O O B-PER I-PER O O O O
+10834,PREUSMJERI Sporedni profesori u Hogwartsu,O B-PER I-PER I-PER I-PER
+18449,Michael Schumacher,B-PER I-PER
+1320,"Nakon godine dana napustio je fakultet i počeo putovati po južnoj Americi , sjevernoj Africi , Meksiku , i Evropi .",O O O O O O O O O O B-LOC I-LOC O B-LOC I-LOC O B-LOC O O B-LOC O
+17981,Poduzimali su diplomatske napore preko Dubrovnika da se oni pokušaju spasiti .,O O O O O B-LOC O O O O O O
+8288,Spisak distrikta u Mozambiku,B-LOC I-LOC I-LOC I-LOC
+5174,Igrao je za timove kao što su Borussia Mönchengladbach i FC Barcelona .,O O O O O O O B-ORG I-ORG O B-ORG I-ORG O
+8670,Wielka Krokiew HS 134 ( noćni ),B-ORG I-ORG O O O O O
+3731,Naslijedio ga je sin Filip III,O O O O B-PER I-PER
+7353,"PREUSMJERI Ivan II , vojvoda Akvitanije",O B-ORG I-ORG I-ORG I-ORG I-ORG
+1777,Preusmjeri Atlas ( mitologija ),O B-PER I-PER I-PER I-PER
+4054,My Ummah,B-ORG I-ORG
+13073,Široki Brijeg ( 2 .,B-ORG I-ORG O O O
+12840,Sve pjesme je napisao Milić Vukašinović .,O O O O B-PER I-PER O
+9196,"Graniči sa Crnom Gorom i Kosovom na sjeveru , Makedonijom na istoku i Grčkom na jugu .",O O B-LOC I-LOC O B-LOC O O O B-LOC O O O B-LOC O O O
+11377,Say My Name,B-ORG I-ORG I-ORG
+12151,Kotorsko ( 3.295 stanovnika ),B-LOC O O O O
+4727,Gustoća naseljenosti u Klisu je 27 stanovnika / km2 .,O O O B-LOC O O O O O O
+6215,U nekoliko epizoda se na meti našao ekološki aktivizam .,O O O O O O O B-LOC O O
+8101,Red Bull Salzburg ( Pobjednik u grupi G ),B-ORG I-ORG I-ORG O O O O O O
+1920,"Donje Orešje , naselje grada Svetog Ivana Zeline , Zagrebačka županija",B-LOC I-LOC O O O B-LOC I-LOC I-LOC O B-LOC I-LOC
+883,"Donji Tkalec , naselje grada Vrbovca , Zagrebačka županija",B-LOC I-LOC O O O B-LOC O B-LOC I-LOC
+4073,"Član je reprezentacije BiH , a igra na poziciji desnog krila .",O O B-ORG I-ORG O O O O O O O O
+15148,Sveta Helena ( uključuje Ascension i Tristan da Cunha ),B-LOC I-LOC O O B-LOC O B-LOC I-LOC I-LOC O
+927,Rafael Nadal,B-PER I-PER
+3109,André Lotterer vozač za testiranje,B-PER I-PER O O O
+17005,Sjeverna Koreja,B-LOC I-LOC
+9888,Felipe Massa,B-PER I-PER
+11838,"Rodila mu je kćerku , Kekuiapoiwu I .",O O O O O B-PER I-PER O
+15218,Preusmjeri XXIII zimske olimpijske igre - Pyeongchang 2018 .,O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+3615,Postao je glavnim administrativnim centrom tokom vladavine Turaka i Velike Britanije .,O O O O O O O B-LOC O B-LOC I-LOC O
+9244,"Nova Bukovica , naselje i općina u Virovitičko-podravskoj županiji",B-LOC I-LOC O O O O O B-LOC I-LOC
+11737,"Politiku je napustio zbog sukoba sa Slobodanom Miloševićem , a koji je opisao u knjizi Zelena kutija .",O O O O O O B-PER I-PER O O O O O O O O O O
+8114,Alfred Gough - Izvršni producent,B-PER I-PER O O O
+9732,Fernando Alonso,B-PER I-PER
+11081,Felipe Massa,B-PER I-PER
+16448,Preusmjeri Ried im Innkreis ( okrug ),O B-LOC I-LOC I-LOC I-LOC I-LOC I-LOC
+10670,Steve McQueen,B-PER I-PER
+4825,Gustoća naseljenosti u Slavonskom Šamcu je 96 stanovnika / km2 .,O O O B-LOC I-LOC O O O O O O
+12368,"preusmjeri Ludovik , kralj Španije",O B-PER I-PER I-PER I-PER
+10281,U Japanu je izdana druga verzija albuma sa 3 bonus pjesme .,O B-LOC O O O O O O O O O O
+5767,STR2B to će se voziti po Sébastien Bourdais i Sebastian Vettel .,O O O O O O B-PER I-PER O B-PER I-PER O
+5190,Single Ladies ( Put a Ring on It ) ( Redtop Radio Edit ),B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG O O O O O
+3924,"Prijevor ( Dubrovnik ) , naselje grada Dubrovnika , Dubrovačko-neretvanska županija",B-LOC I-LOC I-LOC I-LOC O O O B-LOC O B-LOC I-LOC
+4568,Drugo mjesto je osvojio Brazil a treće Urugvaj .,O O O O B-ORG O O B-ORG O
+3006,"132 , 127 , 111 , 105 , 101 , 100 Neil Robertson",O O O O O O O O O O O B-PER I-PER
+11226,Kimi Räikkönen,B-PER I-PER
+4853,Gustoća naseljenosti u Novigradu Podravskom je 44 stanovnika / km2 .,O O O B-LOC I-LOC O O O O O O
+9562,Spisak općina u Hrvatskoj,B-LOC I-LOC I-LOC I-LOC
+9293,KS Kansas,O B-LOC
+5121,"preusmjeri Ivan I , veliki knez Moskve",O B-PER I-PER I-PER I-PER I-PER I-PER
+14478,Real Sociedad,B-ORG I-ORG
+14719,Njega je naslijedio njegov unuk Luj XVI 1774. godine .,O O O O O B-PER I-PER O O O
+17362,"godine , kada je album Breakfast in America izašao .",O O O O O B-ORG I-ORG I-ORG O O
+8405,Narain Karthikeyan vozač za testiranje,B-PER I-PER O O O
+2138,Pastor Maldonado,B-PER I-PER
+4357,U trećem kolu je poražena od Zambije sa 3-0 .,O O O O O O B-ORG O O O
+15254,Urugvaj je bio bolji u utakmici četvrtfinala .,B-ORG O O O O O O O
+2627,Tada je grad pod Seanšanskom okupacijom .,O O O O B-LOC O O
+13431,"Severin ( Hrvatska ) , općina u Bjelovarsko-bilogorskoj županiji",B-LOC I-LOC I-LOC I-LOC O O O B-LOC I-LOC
+15706,Valtteri Bottas,B-PER I-PER
+4191,godine dok je pisac živio na Floridi .,O O O O O O B-LOC O
+9747,godine pogledati pod Sisak .,O O O B-LOC O
+11923,Općina je osnovana nakon referenduma 1992. godine na kome su se građani opredijelili da se odvoje od općine Ugljevik .,O O O O O O O O O O O O O O O O O O B-LOC O
+15726,Preusmjeri Palestinska oslobodilačka organizacija,O B-ORG I-ORG I-ORG
+1759,"godine , a posljednja Georgia 1733. godine .",O O O O B-LOC O O O
+4328,Općina Istočni Drvar je jedna od najmlađih i najmalobrojnijih bosanskohercegovačkih općina .,O B-LOC I-LOC O O O O O O B-LOC O O
+7498,"Nije dovoljna samo vjera , kako je tvrdio Luther .",O O O O O O O O B-PER O
+651,PREUSMJERI Druz Julije Cezar,O B-PER I-PER I-PER
+14934,Socijalistička republika Srbija,B-LOC I-LOC I-LOC
+12247,godine na Mercuryjevom samostalnom albumu Mr. Bad Guy .,O O O O O B-ORG I-ORG I-ORG O
+9351,"Turtonovo udvajanje može se dovesti u kontrast sa drugim oblikom udvajanja , Zeplerovim udvajanjem .",O O O O O O O O O O O O B-ORG I-ORG O
+6263,Nico Hülkenberg,B-PER I-PER
+18096,"Trojanski konj ( računarstvo ) , pojam iz informatike",B-LOC I-LOC I-LOC I-LOC I-LOC O O O O
+95,"Prema savremenim istraživanjima , muškarci dominiraju društvima širom Melanezije ( mada poneki vjeruju da vračare imaju posebnu moć ) .",O O O O O O O O B-LOC O O O O O O O O O O O
+17321,"Bosanski Novi ( 32 km ) , Trst ( 412 km )",B-LOC I-LOC O O O O O B-LOC O O O O
+15720,"Kuba ( 11,285,000 )",B-LOC O O O
+11385,"Najviše se uzgaja na Novom Zelandu , Čileu i u Kaliforniji .",O O O O B-LOC I-LOC O B-LOC O O B-LOC O
+16885,Abhazija,B-LOC
+5214,"Ibuprom ( Poljska ) ,",O O B-LOC O O
+17441,Borussia Mönchengladbach ( 195 ) Hannover 96 ( 25 ),B-ORG I-ORG O O O B-ORG I-ORG O O O
+13373,Lewis Hamilton,B-PER I-PER
+3995,"Šestanovac , naseljeno mjesto i općina u Splitsko-dalmatinskoj županiji",B-LOC O O O O O O B-LOC I-LOC
+16455,Marija Bursać ( 1920-43 .,B-PER I-PER O O O
+3925,"Kozarac ( 13 km ) , Omarska ( 20 km ) , Beograd ( 336 km )",B-LOC O O O O O B-LOC O O O O O B-LOC O O O O
+5069,Jarno Trulli,B-PER I-PER
+6806,"Liu Xin ( Kina , fl .",B-PER I-PER O B-LOC O O O
+17720,preusmjeri FK Željezničar Sarajevo,O B-ORG I-ORG I-ORG
+12104,VT Vermont,O B-LOC
+15474,"Mate Dragičević 53 , 82",B-PER I-PER O O O
+18035,Nico Hülkenberg,B-PER I-PER
+11648,PREUSMJERI Banska Bistrica ( regija ),O B-LOC I-LOC I-LOC I-LOC I-LOC
+12602,Preusmjeri Fürstenfeld ( okrug ),O B-LOC I-LOC I-LOC I-LOC
+5044,Oslobođen je nakon što je položio zakletvu na vjernost Ferdinandu i Izabeli .,O O O O O O O O O B-PER O B-PER O
+1999,PREUSMJERI Leksikografski zavod Miroslav Krleža,O B-ORG I-ORG I-ORG I-ORG
+11140,Takmiči se u prvoj nogometnoj ligi Estonije .,O O O B-ORG I-ORG I-ORG I-ORG O
+12753,Pete Sampras bio je trostruki uzastopni pobjednik .,B-PER I-PER O O O O O O
+12047,Krščanski korsari su bili pripadnici viteškkog reda sa sjedištem na Malti .,O O O O O O O O O O B-LOC O
+3628,"Hercegovac , naselje i općina u Bjelovarsko-bilogorskoj županiji",B-LOC O O O O O B-LOC I-LOC
+11080,Preusmjeri 4. arondisman ( Pariz ),O B-LOC I-LOC I-LOC I-LOC I-LOC
+3404,Romain Grosjean,B-PER I-PER
+15186,Orlando Magic ( 8 ),B-ORG I-ORG O O O
+8162,"U 1857. , 1869. , 1921. i 1931. podaci su sadržani u naselju Tisno .",O O O O O O O O O O O O O B-LOC O
+8024,Michael Schumacher,B-PER I-PER
+16990,Nico Hülkenberg,B-PER I-PER
+8533,Francuska se automatski kvalificirala kao domaćin .,B-ORG O O O O O O
+6928,"Pored ovoga , bitan je njegov rad na nadgrobnim spomenicima u blizini Drine , u kojem iznosi prva zapažanja o njihovim tipovima i utjecaju Panonije na te spomenike .",O O O O O O O O O O O O B-LOC O O O O O O O O O O O B-ORG O O O O
+6708,"godine Gušćerovec ) je naseljeno mjesto u sastavu općine Sveti Petar Orehovec , Koprivničko-križevačka županija , Republika Hrvatska .",O O O O O O O O O B-LOC I-LOC I-LOC O B-LOC I-LOC O B-LOC I-LOC O
+6464,Sara Takanashi,B-PER I-PER
+202,Preusmjeri Evropsko prvenstvo u košarci,O B-ORG I-ORG I-ORG I-ORG
+14652,"Ante Prkačin , političar",B-PER I-PER O O
+17936,Felipe Massa,B-PER I-PER
+9361,Pomena - Polače - Sobra - Saplunara,B-LOC O B-LOC O B-LOC O B-LOC
+2605,Malezija 17.139.000 ( 61.4 % ),B-LOC O O O O O
+8062,Lewis Hamilton,B-PER I-PER
+7856,"U sezoni 1969 / 70 . Knicksi idu do svog rekordnog omjera , 60-22 .",O O B-ORG I-ORG I-ORG I-ORG O O O O O O O O O
+14072,Roger Federer,B-PER I-PER
+18723,"Dok je bila mlađa , bila je zaljubljena u Harry Pottera , te bi u njegovoj prisutnosti uvijek zanijemila i pocrvenila .",O O O O O O O O O B-PER I-PER O O O O O O O O O O O
+18366,Toronto Raptors ( 6 ),B-ORG I-ORG O O O
+5067,"PREUSMJERI Izabela II , kraljica Španije",O B-ORG I-ORG I-ORG I-ORG I-ORG
+7694,51 ekipa iz Afrike,O O O B-ORG
+8605,Fred Astaire,B-PER I-PER
+5814,"U 1857. , 1869. , 1921. , 1953. i 1961. podaci su sadržani u naselju Lokvičići .",O O O O O O O O O O O O O O O B-LOC O
+18602,Sjedište mu je u Lisabonu Izvršni sekretar ima mandat od 2 godine .,O O O O B-LOC O O O O O O O O
+16956,Prvo otkriće je napravio Edward Emerson Barnard .,O O O O B-PER I-PER I-PER O
+5031,Preusmjeri Rukometna reprezentacija Češke,O B-ORG I-ORG I-ORG
+16968,Juan Martín del Potro,B-PER I-PER I-PER I-PER
+15564,"PREUSMJERI Ivan I , veliki knez Moskve",O B-PER I-PER I-PER I-PER I-PER I-PER
+13403,U literaturi se takav slučaj spominje u Ujedinjenim Arapskim Emiratima i Omanu u pograničnom dijelu .,O O O O O O O B-LOC I-LOC I-LOC O B-LOC O O O O
+5986,PREUSMJERI Centar Georges Pompidou,O B-ORG I-ORG I-ORG
+9614,Divergirali su su preko Laurazije ( tj .,O O O O B-LOC O O O
+12803,Na kraju je slučajno otvorila rupu u zatvoru Mračnog .,O O O O O O O O B-PER O
+2189,"NK Sloga Bosanska Otoka , Bosanska Otoka",B-ORG I-ORG I-ORG I-ORG O B-LOC I-LOC
+14904,godine odlazi u London .,O O O B-LOC O
+6705,2006. proveo je 8 sedmica kao gostujući umjetnik na Univerzitetu Columbia .,O O O O O O O O O B-ORG I-ORG O
+3970,900. utrka za Ferrari .,O O O B-ORG O
+2703,Takmiči se u prvoj nogometnoj ligi Moldavije .,O O O B-ORG I-ORG I-ORG I-ORG O
+3363,Klub je bio član Premijer lige u njenoj prvoj sezoni .,O O O O B-ORG I-ORG O O O O O
+3604,Premijer liga,B-ORG I-ORG
+7229,"Preusmjeri Victoria , krunska princeza od Švedske",O B-PER I-PER I-PER I-PER I-PER I-PER
+13504,SV Werder Bremen,B-ORG I-ORG I-ORG
+13381,Španija ( bez Kanarskih ostrva ),B-LOC O O B-LOC I-LOC O
+3973,U fizici se s periodičnim pojavama susrećemo vrlo često .,O B-LOC O O O O O O O O
+6028,Karijeru revolucionara započeo je kao propagandist među željezničarskim radnicima u Tbilisiju .,O O O O O O O O O O B-LOC O
+15031,Klek ( Slivno ),B-LOC I-LOC I-LOC I-LOC
+9177,"*2005-06 - Chris Paul , New Orleans Hornets",O O B-PER I-PER O B-ORG I-ORG I-ORG
+1315,Borussia Dortmund,B-ORG I-ORG
+5056,Lewis Hamilton 98 Bodova,B-PER I-PER O O
+6946,"Model koji koristi 11,6x90 streljivo prvenstveno je razvijen za tržišta na kojima je kalibar 12,7x99 zabranjen , kao primjerice u Australiji i Kaliforniji .",O O O O O O O O O O O O O O O O O O O O B-LOC O B-LOC O
+2313,"Ravna Gora ( Hrvatska ) , naselje i općina u Primorsko-goranskoj županiji",B-LOC I-LOC I-LOC I-LOC I-LOC O O O O O B-LOC I-LOC
+952,u većini evropskih zemalja ;,O O B-LOC O O
+3121,PREUSMJERI NBA 1998 / 1999 .,O B-ORG I-ORG I-ORG I-ORG I-ORG
+10194,"Baška Voda , naselje i općina u Splitsko-dalmatinskoj županiji",B-LOC I-LOC O O O O O B-LOC I-LOC
+128,Sreće se u vrijeme Johanna Sebastiana Bacha kao komad veselog karaktera .,O O O O B-PER I-PER I-PER O O O O O
+11947,UEFA Intertoto kup 1996 .,B-LOC I-LOC I-LOC I-LOC I-LOC
+15783,Eparhijsko sjedište je u Mostaru .,O O O O B-LOC O
+3803,Gustoća naseljenosti u Kneževim Vinogradima je 25 stanovnika / km2 .,O O O B-LOC I-LOC O O O O O O
+3329,Borussia Dortmund ( 228 ) Eintracht Frankfurt ( 115 ) FC Schalke 04 ( 86 ),B-ORG I-ORG O O O B-ORG I-ORG O O O B-ORG I-ORG I-ORG O O O
+18176,"Istog dana , bivši predsjednik Sjedinjenih Američkih Država Bill Clinton naziva crteže sramnim .",O O O O O B-LOC I-LOC I-LOC B-PER I-PER O O O O
+6517,Od ovog područja formirana je općina Istočni Drvar .,O O O O O O B-LOC I-LOC O
+3238,Pape nadimak fudbalera Safeta Sušića .,O O O B-PER I-PER O
+15919,Ova situacija podsjeća na vrijeme kada je Capablanca izgubio mogućnost obavezujućeg revanša protiv Aljehina .,O O O O O O O B-PER O O O O O B-PER O
+2882,Berzelius je 1811. godine umjesto sodium predložio današnji naziv natrium .,B-PER O O O O O O O O O O
+8384,Podebljani timovi su i dalje aktivini u takmičenju Formule 1,O O O O O O O O B-ORG I-ORG
+11794,Bez obzira na ta dešavanja susret je odigran i Juventus FC je pobijedio s 1-0 .,O O O O O O O O O B-ORG I-ORG O O O O O
+18207,Hamburger SV ( 273 ) SC Freiburg ( 180 ),B-ORG I-ORG O O O B-ORG I-ORG O O O
+9743,"Slijedile su je Južnoafrička Republika sa 40 % udjela , Kanada sa 6 % i Sjedinjene Američke Države sa 5 % .",O O O B-LOC I-LOC O O O O O B-LOC O O O O B-LOC I-LOC I-LOC O O O O
+11169,u kojem je glumio mladog ustašu .,O O O O O B-ORG O
+5081,2. Bundesliga,B-ORG I-ORG
+10120,PREUSMJERI Ratno zrakoplovstvo i protivzračna odbrana Hrvatske,O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+4631,Pete Sampras ( 3 / 5 ),B-PER I-PER O O O O O
+9960,Marc Gené vozač za testiranje,B-PER I-PER O O O
+12857,"Bogomolje je naseljeno mjesto u sastavu općine Sućuraj , na ostrvu Hvaru , Splitsko-dalmatinska županija , Republika Hrvatska .",O O O O O O O B-LOC O O O B-LOC O B-LOC I-LOC O B-LOC I-LOC O
+7164,Lewis Hamilton,B-PER I-PER
+12907,Adi Lukovac & Ornamenti ),B-ORG I-ORG O O O
+14725,Martin Koch – 3 ( 5 ),B-PER I-PER O O O O O
+4668,Magnus Carlsen ( 5 ),B-PER I-PER O O O
+17504,"Na izborima za članove Predstavničkog doma , Parlamenta Bosne i Hercegovine birano je 42 zastupnika , sa trajanjem mandata od 4 godine .",O O O O B-ORG I-ORG O B-ORG I-ORG I-ORG I-ORG O O O O O O O O O O O O
+16347,"U 1857. , 1869. , 1921. i 1931. podaci su sadržani u naselju Kaštelir .",O O O O O O O O O O O O O B-ORG O
+13683,Nalazi se na suprotnoj strani Gibraltara i često ga nazivaju vratima Afrike .,O O O O O B-LOC O O O O O B-LOC O
+5371,"19. maj - Jedna osoba se utopila u poplavama u Orašju , Bosna i Hercegovina .",B-LOC I-LOC O O O O O O O O B-LOC O B-LOC I-LOC I-LOC O
+9720,Hrvatska stranka prava Bosne i Hercegovine,B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+14136,Gustoća naseljenosti u Trnavi je 19 stanovnika / km2 .,O O O B-LOC O O O O O O
+15355,Glavni grad bio je Beč .,B-LOC I-LOC O O B-LOC O
+18732,Honolulu,B-LOC
+12065,Grad polako gubi na značenju nakon ujedinjenja Litvanije i Poljske .,O O O O O O O B-LOC O B-LOC O
+16166,bila je serija vojnih intervencija u svrhu okupacije Iraka od koalicije od 48 zemalja koju je predvodila SAD .,O O O O O O O O B-LOC O O O O O O O O B-LOC O
+10808,SV Werder Bremen,B-ORG I-ORG I-ORG
+2753,"U 1869. podaci su sadržani u naselju Bobovišća , a u 1921. u naselju Milna .",O O O O O O O B-LOC O O O O O O B-LOC O
+5787,"Željko Ivanković , bosanskohercegovčaki književnik i novinar",B-PER I-PER O O O O O
+3798,Nasuglasice sa Hitlerom dovode do pada jednog od najsposobnijih taktičara tog vremena .,O O B-PER O O O O O O O O O O
+7258,"1994. godine odlazi u Španiju , te potpisuje za Espanyol .",O O O O B-LOC O O O O B-ORG O
+6727,Potočna pastrmka,B-ORG I-ORG
+9840,Novak Đoković - sezona ! !,B-PER I-PER O O O O
+15609,Los Angeles Lakers,B-ORG I-ORG I-ORG
+4602,"Bez ijednog mjesta na koje bi mogla otić , Mathilda se vraća u staru školu u New Jerseyu gdje upraviteljici govori šta joj se desilo .",O O O O O O O O O O O O O O O O B-LOC I-LOC O O O O O O O O
+8307,"Kasnije prelazi u Grčku , a najviše se zadržava u Sparti .",O O O B-LOC O O O O O O B-LOC O
+7709,Šipovo je naselje i središte istoimene općine u Bosni i Hercegovini .,B-LOC O O O O O O O B-LOC I-LOC I-LOC O
+1190,*.pm - Sveti Petar i Mikelon,O O B-LOC I-LOC I-LOC I-LOC
+2347,PREUSMJERI Zajednica nezavisnih država,O B-ORG I-ORG I-ORG
+6269,"Purcellova majka je Irkinja , a otac Norvežanin .",O O O B-LOC O O O B-LOC O
+11503,"73208 - Ilovača , BH Pošta",O O B-LOC O O O
+3860,Fairuz Fauzy vozač za testiranje,B-PER I-PER O O O
+9431,Bio je i član poznate grupe Riblja čorba .,O O O O O O B-ORG I-ORG O
+9278,Preusmjeri Američki filmski institut,O B-ORG I-ORG I-ORG
+8904,Star Wars : Knights of the Old Republic II : The Sith Lords,B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+17090,PREUSMJERI Svjetsko prvenstvo u nogometu 2014 .,O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+18381,Istočna Ilidža je naselje i općina u Bosni i Hercegovini .,B-LOC I-LOC O O O O O B-LOC I-LOC I-LOC O
+8472,Detroit Pistons ( 1970–1980 ) Milwaukee Bucks ( 1980–1984 ),B-ORG I-ORG O O O B-ORG I-ORG O O O
+14294,Bug a Boo,B-ORG I-ORG I-ORG
+6683,Među stranicama Geografije nalazi se i mapa Evrope ( slika dolje ) .,O O O O O O O B-LOC O O O O O
+9902,Ima sjedište u Luksemburgu .,O O O B-LOC O
+1795,"Robert Boyle , 1627–1691",B-PER I-PER O O
+2652,Say My Name - 4:31,B-ORG I-ORG I-ORG O O
+425,Udaljena je 130 sg od Sunca .,O O O B-ORG O B-LOC O
+17508,Okean ( mitologija ),B-PER I-PER I-PER I-PER
+10171,Ova katastrofa dovela je do osnivanja Međunarodnog fonda za poljoprivredni razvoj .,O O O O O O B-ORG I-ORG I-ORG I-ORG I-ORG O
+4717,U terorističkom napadu u Madridu poginulo 200 ljudi .,O O O O B-LOC O O O O
+9838,Autor svih numera je bio Milić Vukašinović - Mića .,O O O O O B-PER I-PER I-PER I-PER O
+17594,godine u Sarajevu na sceni narodnog pozorišta .,O O B-LOC O O B-ORG I-ORG O
+6165,Usvojenu muzičku podlogu komponovao je Dušan Šestić .,O O O O O B-PER I-PER O
+9656,"PREUSMJERI Fridrik III , car Svetog rimskog carstva",O B-PER I-PER I-PER I-PER I-PER I-PER I-PER
+11349,"Granice su naseljeno mjesto u sastavu grada Našica , Osječko-baranjska županija , Republika Hrvatska .",O O O O O O O B-LOC O B-LOC I-LOC O B-LOC I-LOC O
+18648,Adrian Sutil,B-PER I-PER
+11383,Kamui Kobayashi,B-PER I-PER
+7422,Preusmjeri Nacionalni stadion ( Peking ),O B-ORG I-ORG I-ORG I-ORG I-ORG
+4729,"Glavni i najveći grad u državi je Prag s preko 1,2 miliona stanovnika .",B-LOC O O O O O O B-LOC O O O O O O
+8037,Takmiči se u Prva nogometnoj ligi Litvanije .,O O O B-ORG I-ORG I-ORG I-ORG O
+16064,PREUSMJERI Druga nogometna liga Federacije Bosne i Hercegovine,O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+16556,Preusmjeri Lancaster ( dinastija ),O B-ORG I-ORG I-ORG I-ORG
+9698,godine sudjeluje kao građevinski radnik u vojnom pohodu na Egipat .,O O O O O O O O O B-LOC O
+3897,U Grčkoj je to Dionis .,O B-LOC O O B-PER O
+3635,Australazija ( Australija i Novi Zeland ),B-LOC O B-LOC O B-LOC I-LOC O
+12646,Sébastien Buemi,B-PER I-PER
+10255,PREUSMJERI Drugi nikejski sabor,O B-ORG I-ORG I-ORG
+3451,Philadelphia 76ers ( 1984.–1992 .,B-ORG I-ORG O O O
+16804,6 ekipe iz Sjeverne i Srednje Amerike,O O O B-ORG I-ORG I-ORG I-ORG
+354,Fernando Alonso,B-PER I-PER
+17823,"Razljućene i potaknute revolucionarskim idejama , rulja od 6,000 gladnih žena sa tržnice odlučila je napasti Versailles ( Versaj ) .",O O O O O O O O O O O O O O O O B-LOC O O O O
+3649,Nogometna reprezentacija Bosne i Hercegovine U-19,B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+17756,PREUSMJERI Stadion Germán Becker,O B-ORG I-ORG I-ORG
+15319,Athletic Bilbao pobjednik sveukupnim rezultatom 2–1 .,B-ORG I-ORG O O O O O
+10250,"Spoj sadrži vezu Xe-Xe , najdužu poznatu vezu između dva elementa ( iznosi 308,71 pm = 3,0871 Å ) .",O O O O O O O O O O O O O O O O O B-ORG O O
+11588,Na Evropskom prvenstvu 2000 .,O B-ORG I-ORG I-ORG O
+6327,1 – Woody Allen ( 7 ),O O B-PER I-PER O O O
+3729,Zeus je izbjegao sudbinu svoje braće i sestara tako što ga je majka sakrila od oca .,B-PER O O O O O O O O O O O O O O O O
+1412,To je razljutilo Kraljevinu Srbiju i njenog pokrovitelja Rusko carstvo .,O O O B-LOC I-LOC O O O B-LOC I-LOC O
+18454,PREUSMJERI Bretton Woods ( New Hampshire ),O B-LOC I-LOC I-LOC I-LOC I-LOC I-LOC
+7891,Sam lokalitet izvora se naziva Vrelo Bosne i poznato je sarajevsko izletište .,O O O O O B-LOC I-LOC O O O B-LOC O O
+3850,Za 1931. podaci su sadržani u naselju Viškovci ( općina Viškovci ) .,O O O O O O O B-LOC O O B-LOC O O
+2206,"preusmjeri Akihito , car Japana",O B-PER I-PER I-PER I-PER
+12609,Sebastian Vettel,B-PER I-PER
+4450,"godine , naselje je ukinuto i pripojeno naselju Kastav .",O O O O O O O O B-LOC O
+8021,Ostaci pretkolumbijske kulture Tiahuanaca,O O O B-LOC
+14442,Premijer liga Bosne i Hercegovine,B-ORG I-ORG I-ORG I-ORG I-ORG
+7284,"Treći bataljon Brigade , koji se tada nalazio dijelom u Kotor-Varoši a dijelom na terenu prema selu Zabrđu , bio je potpuno iznenađen .",O O O O O O O O O O B-LOC O O O O O O B-LOC O O O O O O
+9426,"Branko Ćopić , pisac",B-PER I-PER O O
+15894,Ronnie O'Sullivan,B-PER I-PER
+4871,"Borgina i Burkesa je u Harry Potteru i Princu miješane krvi ponovno posjetio Draco Malfoy i raspitivao se o ormaru za nestajanje , te je želio da predmet ostane u trgovini ( moguće je da se radi ili o ormaru ili o ogrlici od opala ) .",O O O O O B-LOC I-LOC I-LOC I-LOC I-LOC I-LOC O O B-PER I-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2842,Drugo mjesto je osvojila Južnoafrička Republika a treće Demokratska Republika Kongo .,O O O O B-ORG I-ORG O O B-ORG I-ORG I-ORG O
+16074,*sa Montserrat Caballé,O B-PER I-PER
+133,Jugoslavenski partizani koristili su nekoliko verzija .,B-PER I-PER O O O O O
+2159,Mercedes GP,B-ORG I-ORG
+14616,Prvo otkriće je napravio Edward Emerson Barnard .,O O O O B-PER I-PER I-PER O
+2576,Enis Bešlagić - Sekanin muž,B-PER I-PER O O O
+15936,PREUSMJERI Stadion Mané Garrincha,O B-LOC I-LOC I-LOC
+14096,PREUSMJERI Ludwig van Beethoven,O B-PER I-PER I-PER
+6968,Papa Siksto II ( 257-258 ),B-PER I-PER I-PER O O O
+16579,Prva liga FBiH,B-ORG I-ORG I-ORG
+16416,FC Basel,B-ORG I-ORG
+7374,"Jovan Sundečić , pjesnik",B-PER I-PER O O
+13327,Björn Borg,B-PER I-PER
+16151,Takmiči se u Premijer ligi Kazahstana .,O O O B-ORG I-ORG I-ORG O
+11560,Nico Rosberg,B-PER I-PER
+17112,20px]] Norveška,O B-LOC
+4254,"Gerovski Kraj , naselje grada Čabra , Primorsko-goranska županija",B-LOC I-LOC O O O B-LOC O B-LOC I-LOC
+12791,Hrvatska demokratska zajednica Bosne i Hercegovine,B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+5797,Tu je dobio muzičko obrazovanje od Josepha Haydna i drugih učitelja .,O O O O O O B-PER I-PER O O O O
+7949,"1994 / 95 , 1996 / 97 , 2000 / 01 , 2002 / 03 , 2006 / 07 , 2007 / 08 .",B-LOC I-LOC I-LOC O B-LOC I-LOC I-LOC O B-LOC I-LOC I-LOC O B-LOC I-LOC I-LOC O B-LOC I-LOC I-LOC O B-LOC I-LOC I-LOC I-LOC
+2620,Spisak općina u Hrvatskoj,B-LOC I-LOC I-LOC I-LOC
+15572,Ermenija 21 dan ( e-viza prije puta ),B-LOC O O O O O O O
+3384,"godine , te je posljednji singl sa albuma The Reason .",O O O O O O O O B-ORG I-ORG O
+7893,Španija ( 3 ),B-ORG O O O
+8441,PREUSMJERI Brzo klizanje na Zimskim olimpijskim igrama 2014 .,O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+13070,"Bivši predsjednik Gerald Ford rođen je u Nebraskoj , ali su se njegovi roditelji odselili nedugo nakon njegovog rođenja .",O O B-PER I-PER O O O O O O O O O O O O O O O O
+8555,Kevin Magnussen,B-PER I-PER
+16445,Sergio Pérez,B-PER I-PER
+6022,"Niklaus Wirth , C. A. R. Hoare",B-PER I-PER O B-PER I-PER I-PER I-PER
+14538,PREUSMJERI Krk ( ostrvo ),O B-LOC I-LOC I-LOC I-LOC
+18370,Serie A,B-ORG I-ORG
+2273,The Beyoncé Experience Live,B-ORG I-ORG I-ORG I-ORG
+10655,Prva je kazala da je napravila jednu jaku građevinu koju je nazvala jednostavno Grad ili Gradačac .,O O O O O O O O O O O O O O O B-LOC O
+13512,Smještena je na 12 km od središta općine u Bosanskoj Krupi .,O O O O O O O O O B-LOC I-LOC O
+2256,Solar ( Miles Davis ),O O B-PER I-PER O
+10807,"preusmjeri Henrik VII , kralj Engleske",O B-PER I-PER I-PER I-PER I-PER
+6616,Rusija i Tunis su svoje takmičenje na SP 2002 završili u grupnoj fazi .,B-ORG O B-ORG O O O O B-ORG I-ORG O O O O O
+13097,"Kasnije stiže u Beograd da upozna Dositeja , svog voljenog prosvjetitelja .",O O O B-LOC O O B-PER O O O O O
+2471,FC Bayern München,B-ORG I-ORG I-ORG
+7467,godine na albumu News of the World,O O O B-ORG I-ORG I-ORG I-ORG
+4131,"Karlo II , kralj Kastilje",B-PER I-PER I-PER I-PER I-PER
+8886,Gustoća naseljenosti u Lastovu je - stanovnika / km2 .,O O O B-LOC O O O O O O
+11215,u tipičnom italijanskom stilu .,O O B-LOC O O
+482,godine godine primljena u zagrebački HNP .,O O O O B-ORG I-ORG O
+16732,"Rezultat njegova naučnog rada su tri knjige dokumenata iz Državnog arhiva u Dubrovniku , koje je Besim-ef .",O O O O O O O O O O O O B-LOC O O O O O
+15561,"Plutarh donosi da pollon = mnogo , a prema tome je Apollon negacija mnoštva .",B-PER O O O O O O O O O O O O O O
+12914,"Ostali su izabrani za drugu diviziju , izuzev ekipe Birmingham St George 's koja je ugašena .",O O O O O O O O O B-ORG I-ORG I-ORG I-ORG O O O O
+5536,"Liguri su , također , uključivali narode Korzike .",O O O O O O O B-LOC O
+9771,Pierre Carlet de Marivaux,B-PER I-PER I-PER I-PER
+12585,Andy Murray,B-PER I-PER
+7300,Učestvovao je u mnogim borbama te je bio i zarobljen i odveden u Alžir .,O O O O O O O O O O O O O B-LOC O
+411,"godine , naselje je ukinuto i pripojeno naselju Crikvenica .",O O O O O O O O B-LOC O
+870,"Bills , Bills , Bills”",B-ORG I-ORG B-ORG I-ORG I-ORG
+2257,Do sada se sedam puta plasirala na Svjetsko rukometno prvenstvo .,O O O O O O O B-ORG I-ORG I-ORG O
+16280,"Uspenski , Demjanovič , Pjotr",I-PER I-PER I-PER I-PER I-PER
+11437,"Davor Šuker , nogometaš",B-PER I-PER O O
+12520,Odiseja ( Homer ),B-LOC O B-PER O
+1460,PREUSMJERI Novi stadion Malabo,O B-ORG I-ORG I-ORG
+13835,Damon Hill Jacques Villeneuve,B-PER I-PER B-PER I-PER
+4178,"Nastupali su na mnogim festivalima , te uz mnoge poznate grupe kao što su Slayer , Metallica , Megadeth , Children of Bodom i drugima .",O O O O O O O O O O O O O O B-ORG O B-ORG O B-ORG O B-ORG I-ORG I-ORG O O O
+5661,Sacramento Kings ( 4 ),B-ORG I-ORG O O O
+17100,Slijedeći protivnik je bio Feyenoord .,O O O O B-ORG O
+6364,Olympique de Marseille ( Francuska ),B-ORG I-ORG I-ORG O B-LOC O
+9423,PREUSMJERI Bogdašić ( Tomislavgrad ),O B-LOC I-LOC I-LOC I-LOC
+13221,Udaljena je 111 sg od Sunca .,O O O B-ORG O B-LOC O
+3695,"godine , naselje je ukinuto i pripojeno naselju Bribir .",O O O O O O O O B-LOC O
+17726,"PREUSMJERI Ivan II , vojvoda Akvitanije",O B-ORG I-ORG I-ORG I-ORG I-ORG
+14670,Fernando Alonso 133 Bodovi,B-PER I-PER O O
+3815,"PREUSMJERI Edvard III , kralj Engleske",O B-PER I-PER I-PER I-PER I-PER
+16115,"poliperspektiva ( Pablo Picasso , Henri Matisse itd .",O O B-PER I-PER O B-PER I-PER O O
+11046,Najveći uspjeh na Evropskim prvenstvima Čehoslovačka ostvaruje 1976 .,O O O B-LOC I-LOC B-LOC O B-ORG O
+11333,"Tu je u finalu savladao Nadala 7-67 , 4-6 , 7-63 , 2-6 , 6-2 i tako izjednačio rekord Björna Borga od 5 uzastopnih vimbldonskih titula .",O O O O O O O O O O O O O O O O O O O B-PER I-PER O O O O O O
+18703,Slovenija,B-LOC
+44,"Metković , grad u Dubrovačko-neretvanskoj županiji",B-LOC O O O B-LOC I-LOC
+1653,PREUSMJERI Prva nogometna liga Jugoslavije 1971 / 1972 .,O B-LOC I-LOC I-LOC I-LOC I-LOC I-LOC I-LOC I-LOC
+17208,1466. godine je naslijedio od oca Stjepana Vukčića Kosače posjede i titulu hercega .,O O O O O O B-PER I-PER I-PER O O O O O
+11756,"Preusmjeri Jakov II , kralj Engleske",O B-PER I-PER I-PER I-PER I-PER
+2166,Preusmjeri Savezne države Brazila,O B-LOC I-LOC I-LOC
+1457,U-19 reprezentaciju protiv Slovenije .,B-ORG I-ORG O B-LOC O
+14886,Gustoća naseljenosti u Vladislavcima je 51 stanovnika / km2 .,O O O B-LOC O O O O O O
+14270,Pjotr Svidler ( 6 ),B-PER I-PER O O O
+7380,Dostava oružja i opreme bila je otežana zbog obruča koji se postupeno stezao oko grada pa se nakon pada Marinaca i Bogdanovaca potpuno zatvorio .,O O O O O O O O O O O O O O O O O O O B-LOC O B-LOC O O O
+14081,*6 klubova iz prve lige Republike Srpske,O O O B-ORG I-ORG I-ORG I-ORG
+7952,Lewis Hamilton,B-PER I-PER
+9589,Gustoća naseljenosti u Petrijancu je - stanovnika / km2 .,O O O B-LOC O O O O O O
+1598,Preusmjeri Wilhelm Conrad Röntgen,O B-PER I-PER I-PER
+9496,Sebastian Vettel,B-PER I-PER
+7613,Zajedno sa susjednim morima obuhvata površinu od oko 106.450.000 km2 ; a bez njih 82.362.000 km2 .,O O O O O O O O O B-ORG O O O O O O O
+15154,Gustoća naseljenosti u Vojniću je 20 stanovnika / km2 .,O O O B-LOC O O O O O O
+16307,Belgija ( 27 ),B-ORG O O O
+16412,Pripada crnomorskom slivu i nije plovna .,O B-LOC O O O O O
+5619,"PREUSMJERI Đorđe IV , kralj Ujedinjenog Kraljevstva",O B-PER I-PER I-PER I-PER I-PER I-PER
+14721,"Glavni grad je Riga , Evropski glavni grad kulture iz 2014. godine .",O O O B-LOC O B-ORG I-ORG I-ORG I-ORG O O O O
+9797,PREUSMJERI Goranci ( Mostar ),O B-LOC I-LOC I-LOC I-LOC
+17221,"Malinska , naselje i sjedište općine Malinska-Dubašnica , Primorsko-goranska županija",B-LOC O O O O O B-LOC O B-LOC I-LOC
+16564,Od 1897. domaće utakmice igra na stadionu Villa Park .,O O O O O O O B-ORG I-ORG O
+108,Hamburg ( Drugoplasirani u grupi C ),B-ORG O O O O O O
+17753,Kalmarska unija - 3 miliona km2,B-LOC I-LOC O O O O
+3771,Karipsko more i Meksički zaliv,B-LOC I-LOC O B-LOC I-LOC
+5058,Preusmjeri Natalija Kirilovna Nariškina,O B-PER I-PER I-PER
+11599,Fernando Alonso,B-PER I-PER
+7620,Samuel Finley Breese Morse,B-PER I-PER I-PER I-PER
+450,Pojavljivala se i u drugim Diznijevim serijama .,O O O O O B-PER O O
+7907,Sergio Pérez,B-PER I-PER
+12731,*1983 Uspavanka za Radmilu M .,O B-ORG I-ORG I-ORG I-ORG I-ORG
+13012,PREUSMJERI Evropsko prvenstvo u nogometu 2008 .,O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+6208,"Gustoća naseljenosti u Sukošanu je 84,3 stanovnika / km2 .",O O O B-LOC O O O O O O
+16092,Gustoća naseljenosti u Pribislavcu je 279 stanovnika / km2 .,O O O B-LOC O O O O O O
+15889,"Duško Trifunović , pjesnik ;",B-PER I-PER O O O
+16680,"PREUSMJERI Dimitrije I , veliki knez Moskve",O B-PER I-PER I-PER I-PER I-PER I-PER
+628,"Prva nogometna liga Finske ( Veikkausliiga ) ,",B-ORG I-ORG I-ORG I-ORG O O O O
+2688,PREUSMJERI Karling na Zimskim olimpijskim igrama 2014 .,O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+11443,Yohan Blake9.95 PB,B-PER I-PER O
+9802,"Od 1857. do 1948. , u 1981. i 1991. podaci su sadržani u naselju Grohote .",O O O O O O O O O O O O O O B-LOC O
+14467,Preusmjeri Veliki hadronski sudarač,O B-ORG I-ORG I-ORG
+3420,Olivier Panis - no.17,B-PER I-PER O O
+3059,Tim načinom je stvorio nered oko naslijeđivanja koji će platiti Luj XVI .,O O O O O O O O O O B-PER I-PER O
+14920,Nakođer se nalazila na B strani singla Livin on a Prayer .,O O O O O O O B-ORG I-ORG I-ORG I-ORG O
+3545,Sophia Loren,B-PER I-PER
+14692,PREUSMJERI Umjetničko klizanje na Zimskim olimpijskim igrama 2014 - muškarci,O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+6270,830.Počinje doba moćnih flota Gondora .,O O O O B-ORG O
+5563,Kolumbija,B-LOC
+17980,U 1869. podaci su sadržani u naselju Hvar .,O O O O O O O B-LOC O
+16746,"Nova Rača , naselje i općina u Bjelovarsko-bilogorskoj županiji",B-LOC I-LOC O O O O O B-LOC I-LOC
+5129,godine pogledati pod Zaton Doli .,O O O B-LOC I-LOC O
+1437,Gustoća naseljenosti u Petlovcu je 26 stanovnika / km2 .,O O O B-LOC O O O O O O
+11380,Naslijeđen je od dugo čekanog sina Filipa II .,O O O O O O B-PER I-PER O
+11106,godine pristupila je i Evropskoj uniji .,O O O O B-ORG I-ORG O
+5812,preusmjeri Nea Salamis Famagusta FC,O B-ORG I-ORG I-ORG I-ORG
+12358,Preusmjeri Statističke regije u Sloveniji,O B-LOC I-LOC I-LOC I-LOC
+3632,Kazimir Maljevič ( 1878.-1935 .,B-PER I-PER O O O
+7272,Sjedinjene Američke Države su trenutno privredno najjača zemlja u svijetu .,B-LOC I-LOC I-LOC O O O O O O O O
+17117,Vozili su ga Marcus Ericsson i Felipe Nasr .,O O O B-PER I-PER O B-PER I-PER O
+6069,"Doduše , njegovi su Attack , Defense i HP ispod prosjeka , što ga čini manje poželjnim od sličnog , ali snažnijeg Arcaninea .",O O O O O O O O O O O O O O O O O O O O O O B-PER O
+11248,Popis stanovništva u Bosni i Hercegovini 1931 .,B-LOC I-LOC I-LOC I-LOC I-LOC I-LOC I-LOC I-LOC
+3831,"Jacobus Henricus van 't Hoff , Holandija",B-PER I-PER I-PER I-PER I-PER O B-LOC
+14124,U glavnoj ulozi je Peter O'Toole .,O O O O B-PER I-PER O
+9402,PREUSMJERI Druz Julije Cezar,O B-PER I-PER I-PER
+11736,PREUSMJERI Radiotelevizija Unsko-sanskog kantona,O B-ORG I-ORG I-ORG
+15606,Sebastian Vettel,B-PER I-PER
+18182,Nakon 2 poraza od Nadala ovog puta bolji je bio Stanislas Wawrinka .,O O O O O O O O O O B-PER I-PER O
+17468,Preusmjeri Wolfsberg ( okrug ),O B-LOC I-LOC I-LOC I-LOC
+696,Fernando Alonso,B-PER I-PER
+12346,Jenson Button,B-PER I-PER
+4317,Nelson Piquet,B-PER I-PER
+168,"33 ekipe iz Evrope ,",O O O B-ORG O
+10315,Svetoslav Suronja ( 997-1000 ),B-PER I-PER O O O
+13413,"Široke su naseljeno mjesto u sastavu općine Primošten , Šibensko-kninska županija , Republika Hrvatska .",O O O O O O O B-LOC O B-LOC I-LOC O B-LOC I-LOC O
+18246,Bribirski ( Šubići ),B-ORG I-ORG I-ORG I-ORG
+7211,"Većina kompozicija posuđena je s njegovog prethodnog albuma , Free .",O O O O O O O O O B-ORG O
+16337,Sjedište općine je u naselju Dalj .,O O O O O B-LOC O
+16431,"2004. godine , povećan je kapacitet stadiona kako bi zadovoljio uslove za Prvu Ligu FBiH .",O O O O O O O O O O O O B-ORG I-ORG I-ORG O
+13715,Kurska oblast ( Курская область ),B-LOC I-LOC O O O O
+9139,"Škotska , Turska i Južna Koreja su bili debitanti na turniru .",B-ORG O B-ORG O B-ORG I-ORG O O O O O O
+4245,=== Papua Nova Gvineja ===,O B-LOC I-LOC I-LOC O
+11287,Nakon borbe Sholto ubija Morstana vraća se u Englesku ne ispunivši svoje obećanje Smallu da će mu pomoći oko bijega .,O O O O O O O O B-LOC O O O O O O O O O O O O
+158,"Njena sestra je bila Irena Paleolog , carica Bugarske .",O O O O B-PER I-PER I-PER I-PER I-PER O
+17903,; DVD,O B-ORG
+12815,PREUSMJERI Turks i Caicos,O B-LOC I-LOC I-LOC
+3369,"Haakon , krunski princ od Norveške",B-PER I-PER I-PER I-PER I-PER I-PER
+7014,stupio u dominikanski red .,O O B-ORG I-ORG O
+8693,Fernando Alonso 134 Bodovi,B-PER I-PER O O
+8776,Robert Doornbos Franck Montagny Nicolas Kiesa Sakon Yamamoto,B-PER I-PER B-PER I-PER B-PER I-PER B-PER I-PER
+8873,Indianapolis Jets ( 1948-1949 ),B-ORG I-ORG O O O
+16435,Od osnivanja pa sve do danas bend je prodao preko 35 miliona nosača zvuka samo u Americi i oko 70 miliona širom svijeta .,O O O O O O O O O O O O O O O O B-LOC O O O O O O O
+8566,Nakon regularnog dijela utakmice odigranog bez golova boljim izvođenjem penala pobijedio je Brazil .,O O O O O O O O O O O O B-ORG O
+4976,godine u Slavonskom Brodu .,O O B-LOC I-LOC O
+11702,Preusmjeri Narodna skupština Republike Srpske,O B-ORG I-ORG I-ORG I-ORG
+1870,"Sveta Nedelja ( Zagrebačka županija ) , grad u Zagrebačkoj županiji , Hrvatska",B-LOC I-LOC I-LOC I-LOC I-LOC I-LOC O O O B-LOC I-LOC O B-LOC
+1083,Bizantijsko carstvo -,B-LOC I-LOC O
+1715,Udaljena je 6000 sg od Sunca .,O O O B-ORG O B-LOC O
+6730,Republikanska stranka ( SAD ),B-ORG I-ORG I-ORG I-ORG I-ORG
+116,Na Evropskom prvenstvu 2008 .,O B-ORG I-ORG I-ORG O
+1137,Takmičenje u grupi 3 se odigralo u Andori .,O O O O O O O B-LOC O
+2019,Kimi Räikkönen,B-PER I-PER
+17039,"Blanka Vlašić 1,94 m MR",B-PER I-PER O O O
+7729,"Preusmjeri Olaf V , kralj Norveške",O B-PER I-PER I-PER I-PER I-PER
+17364,Denzel Washington - Malcolm X,B-PER I-PER O B-PER I-PER
+9062,Sve utakmice su bile igrane po lokalnom vremenu Meksika ( UTC−6 ),O O O O O O O O B-LOC O O O
+36,"Ralf Schumacher , - Ricardo Zonta - no.17",B-PER I-PER O O B-PER I-PER O O
+12516,PREUSMJERI Aleksandar Karađorđević ( princ ),O B-PER I-PER I-PER I-PER I-PER
+8760,Matildina majka je bila Eleonora Akvitanska .,O O O O B-PER I-PER O
+13824,Navijač je Boce Juniors u Argentini i Juventusa u Italiji .,O O B-ORG I-ORG O B-LOC O B-ORG O B-LOC O
+14827,David Goffin,B-PER I-PER
+2195,Ipak u finalu su ih savladali Mikanovi Minneapolis Lakersi omjerom 4-2 .,O O O O O O B-PER B-ORG I-ORG O O O
+9313,Max Verstappen,B-PER I-PER
+14502,Čile ( domaćin ),B-ORG O O O
+3507,Grasshopper pobjednik sveukupnim rezultatom 2–1 .,B-ORG O O O O O
+4696,Domaćin Južnoafrička Republika je eliminisana u četvrtini finala od strane Malija nakon izvođenja jedanaesteraca .,O B-ORG I-ORG O O O O O O O B-ORG O O O O
+6662,"Najviše je sužena između Maglaja i Doboja Obale su joj visoke od 1,5 do 6m , a djelomično su obrasle šumom i žbunjem .",O O O O B-LOC O B-LOC O O O O O O O O O O O O O O O O O
+5525,"Paragvaj ( 4,737,000 )",B-LOC O O O
+15432,"PREUSMJERI Franjo II , car Svetog rimskog carstva",O B-PER I-PER I-PER I-PER I-PER I-PER I-PER
+3730,"K - Tracy McGrady , Houston Rockets",O O B-PER I-PER O B-ORG I-ORG
+2509,Za Cabota to je bila Engleska .,O O O O O B-LOC O
+4564,Lewis Hamilton,B-PER I-PER
+12349,"PREUSMJERI Vilim II , kralj Engleske",O B-PER I-PER I-PER I-PER I-PER
+10626,Univerzitet u Istočnom Sarajevu,B-ORG I-ORG I-ORG I-ORG
+7776,godine u Južnoafričku Republiku .,O O B-LOC I-LOC O
+14288,Spisak općina u Hrvatskoj,B-LOC I-LOC I-LOC I-LOC
+12557,Daniel Ricciardo,B-PER I-PER
+18419,"Dva australijska rudara , koji su proveli 14 dana pod zemljom nakon kolapsa rudnika u Beaconsfieldu na Tasmaniji , su spašeni i u dobrom su stanju .",O B-LOC O O O O O O O O O O O O O O O B-LOC O O O O O O O O O
+17872,"Galileo , Descartes , Robert Hooke i Christiaan Huygens",B-PER O B-PER O B-PER I-PER O B-PER I-PER
+1681,Preusmjeri Predsjedništvo Bosne i Hercegovine,O B-ORG I-ORG I-ORG I-ORG
+5243,Prva nogometna liga Federacije Bosne i Hercegovine,B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+18226,"Njegovo zdravlje je već tada bilo jako krhko , i umro je četiri godine poslije u Parizu .",O O O O O O O O O O O O O O O O B-LOC O
+2636,Sjedište komune bilo je u Nerežišćima .,O O O O O B-LOC O
+11182,Sergio Pérez,B-PER I-PER
+5968,Halid Bešlić - pjevač,B-PER I-PER O O
+1183,Oktavijan August,B-PER I-PER
+12271,Niena Naricaljka - gospodarica mrtvih,B-PER O O O O
+11320,Borussia Dortmund ( 5 .,B-ORG I-ORG O O O
+4335,Postoji također i Trnovo u Sarajevskom kantonu .,O O O B-LOC O B-LOC I-LOC O
+6613,"Paul Ben-Haim , kompozitor",B-PER I-PER O O
+10181,Druga kolona prikazuje tiles ( odnosno pločice ) iz sistema Windows 8 .,O O O O O O O O O O B-LOC I-LOC O
+5988,PREUSMJERI Svjetsko prvenstvo u nogometu 2010 - grupa C,O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+14814,Preusmjeri Teodozije I Veliki,O B-PER I-PER I-PER
+6581,Nogometna reprezentacija Bosne i Hercegovine,B-ORG I-ORG I-ORG I-ORG I-ORG
+14332,Elizabeth Taylor,B-PER I-PER
+16174,Preusmjeri Bosna i Hercegovina,O B-LOC I-LOC I-LOC
+17907,I 'm Going Slightly Mad – 4:25,B-ORG I-ORG I-ORG I-ORG I-ORG O O
+13508,U polufinalu gube od Brazila a u utakmici za treće mjesto pobjeđuju domaćina Južnu Koreju .,O O O O B-ORG O O O O O O O O B-ORG I-ORG O
+3252,Aktuelni prvak je Real Madrid koji je u finalnoj utakmici nakon boljeg izvođenja jedanaesteraca bio uspješniji od gradskog rivala Atlético Madrida .,O O O B-ORG I-ORG O O O O O O O O O O O O O O B-ORG I-ORG O
+8875,PREUSMJERI Oranjestad ( Sint Eustatius ),O B-LOC I-LOC I-LOC I-LOC I-LOC
+14600,"godine Katharinom von Bora , bivšom časnom sestrom .",O B-PER I-PER I-PER O O O O O
+1937,Sovjetski savez pobjednik sveukupnim rezultatom 3–2 .,B-ORG I-ORG O O O O O
+13856,Smallville ( sezona 1 ),B-ORG I-ORG I-ORG I-ORG I-ORG
+4325,"Sveti Juraj na Bregu , općina u Međimurskoj županiji",B-LOC I-LOC I-LOC I-LOC O O O B-LOC I-LOC
+11547,Drugo mjesto je osvojila Argentina a treće Čile .,O O O O B-ORG O O B-ORG O
+15315,Srce ( samo od preminule osobe ),B-ORG O O O O O O
+15081,Jenson Button,B-PER I-PER
+5004,"Graniči sa Rumunijom na sjeveru , Srbijom i Makedonijom na zapadu , Grčkom i Turskom na jugu i izlazi na Crno more na istoku .",O O B-LOC O O O B-LOC O B-LOC O O O B-LOC O B-LOC O O O O O B-LOC I-LOC O O O
+3454,Matija Bećković ;,B-PER I-PER O
+12075,godine je se Kreta pobunila i dobila grčku pomoć .,O O O B-LOC O O O B-LOC O O
+397,Preusmjeri Skijaško trčanje na Zimskim olimpijskim igrama 1984 - 10 km,O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+14591,preusmjeri Dugo Polje ( čvor ),O B-LOC I-LOC I-LOC I-LOC I-LOC
+4783,UEFA Superkup 2014 .,B-ORG I-ORG I-ORG I-ORG
+10603,je bio bizantijski car od 1118. do 1143. godine .,O O B-ORG I-ORG O O O O O O
+17176,Anderleht je grad u Belgiji .,O O O O B-LOC O
+1463,macdonaldi ( Fidži i [[Vanuatu] ),O O B-LOC O O O
+11281,Mark Webber,B-PER I-PER
+863,"Sveti Petar Orehovec , naselje i općina u Koprivničko-križevačkoj županiji",B-LOC I-LOC I-LOC O O O O O B-LOC I-LOC
+8745,Preusmjeri James Clark Ross,O B-PER I-PER I-PER
+15785,"PREUSMJERI Jakov I , kralj Engleske",O B-PER I-PER I-PER I-PER I-PER
+8970,Na kraju je s političke scene uklonjen Hamdija Pozderac .,O O O O O O O B-PER I-PER O
+2705,PREUSMJERI Elizabeta od Bavarske ( carica ),O B-PER I-PER I-PER I-PER I-PER I-PER
+17911,Federacija Bosne i Hercegovine,B-LOC I-LOC I-LOC I-LOC
+18456,"Tokom poslednjih 15 godina , Azerbejdžan se pripremio za moguću vojnu akciju protiv jermenskih snaga u Nagorni Karabahu .",O O O O O B-LOC O O O O O O O O O O B-LOC I-LOC O
+17559,Elizabeth Taylor Julie Andrews,B-PER I-PER B-PER I-PER
+3481,PREUSMJERI XXXII olimpijske igre - Tokyo 2020 .,O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+16039,Felipe Massa vozač za testiranje,B-PER I-PER O O O
+3982,PREUSMJERI Nogometna reprezentacija Luksemburga,O B-LOC I-LOC I-LOC
+15526,"Član FIFA-e je od 1923. godine , dok je u članstvo UEFA-e primljen 1954. godine .",O B-ORG O O O O O O O O O B-ORG O O O O
+1923,godine u Zenici ) je bosanskohercegovački muzički umjetnik .,O O B-LOC O O B-LOC O O O
+12960,Kimi Räikkönen,B-PER I-PER
+4338,"godine u BBC-jevoj adaptaciji Maria Stuarda , kompozitora Geatana Donizettia ;",O O B-ORG O O O O O B-PER I-PER O
+850,godine živi u Danskoj .,O O O B-LOC O
+13502,"Victor Grignard , Francuska",B-PER I-PER O B-LOC
+18808,PREUSMJERI Rukometna reprezentacija Rumunije,O B-ORG I-ORG I-ORG
+4104,"Na turniru u Dubaiju pobijedio je Federera drugi put u svojoj karijeri ( 6-7 , 6-3 , 6-4 ) .",O O O B-LOC O O O O O O O O O O O O O O O O
+9634,2 Akvitanija,O B-LOC
+981,godine pogledati pod Lovrečica .,O O O B-LOC O
+15895,PREUSMJERI Svjetsko prvenstvo u nogometu 2006 - grupa D,O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+2740,1960. godine prelazi u St. Johnstone za koji je igrao u naredne četiri godine .,O O O O B-ORG I-ORG O O O O O O O O O
+13572,Philadelphia 76ers ( 1965–1976 ),B-ORG I-ORG O O O
+13371,PREUSMJERI Marija Henrika od Engleske,O B-PER I-PER I-PER I-PER
+10598,"44 – Jerry West , bek ( 1960–74 ) ; trener ( 1976–79 ) ; generalni menadžer ( 1981–2002 )",O O B-PER I-PER O O O O O O O O O O O O O O O O
+12494,PREUSMJERI Džin ( islam ),O B-PER I-PER I-PER I-PER
+17103,PREUSMJERI Antoni van Leeuwenhoek,O B-PER I-PER I-PER
+10327,Srbija,B-LOC
+14200,FC Zürich,B-ORG I-ORG
+14076,Pjotr Svidler ( 3 ),B-PER I-PER O O O
+4088,Irak 31.108.000 ( 98.9 % ),B-LOC O O O O O
+10983,Diplomirao i magistrirao na Univerzitetu u Beogradu .,O O O O B-ORG I-ORG I-ORG O
+3503,Lewis Hamilton,B-PER I-PER
+3291,Preusmjeri Hamza ibn Abdul-Muttalib,O B-PER I-PER I-PER
+4255,PREUSMJERI Svjetsko prvenstvo u nogometu 1994 - nokaut faza,O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+16771,"godine , kojeg proizvodi General Motors .",O O O O B-ORG I-ORG O
+9422,Harry Potter ( vođa ),B-PER I-PER O O O
+16809,Preusmjeri Skijaško trčanje na Zimskim olimpijskim igrama 1984 - 20 km,O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+3660,Maroko ( 28 ),B-ORG O O O
+15545,Carlos Moyá,B-PER I-PER
+6829,Atlético Madrid ( Pobjednik u grupi I ),B-ORG I-ORG O O O O O O
+12528,Meduza ( mitologija ),B-PER I-PER I-PER I-PER
+17186,Real Betis,B-ORG I-ORG
+4492,hard disku ) ili eksternom ( npr .,B-ORG I-ORG O O O O O O
+4870,"Ribnica ( Velika Gorica ) , naselje grada Velike Gorice , Zagrebačka županija",B-LOC I-LOC I-LOC I-LOC I-LOC O O O B-LOC I-LOC O B-LOC I-LOC
+17094,"Trenutno nastupa u La Ligi , nakon što je osvojio Segunda División u sezoni 2014-15 .",O O O B-ORG I-ORG O O O O O B-ORG I-ORG O O O O
+18726,Karijeru je počeo sa 18 godina u omladinskom pogonu NK Zagreba .,O O O O O O O O O B-ORG I-ORG O
+17316,"I prije toga se špekuliralo da Sevič koristi opijate , pa se činilo da je ovaj događaj emitiran uživo pred milionima gledatelja širom Amerike , potvrdio sumnje .",O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O
+9224,"Glavni predstavnici ovog pravca su Arthur Schopenhauer , Friedrich Nietzsche i Henri Bergson .",O O O O O B-PER I-PER O B-PER I-PER O B-PER I-PER O
+16497,"Ralf Schumacher , - Marc Gené , - Antônio Pizzonia - no.4",B-PER I-PER O O B-PER I-PER O O B-PER I-PER O O
+610,PREUSMJERI FK Rudar Kakanj,O B-ORG I-ORG I-ORG
+6989,RCD Espanyol,B-ORG I-ORG
+5317,Preusmjeri Franklin Delano Roosevelt,O B-PER I-PER I-PER
+4877,"Nakon osvajanja Troje , osvojio je i Kasandru , Prijamovu kćer , koja je prorekla njegovu smrt .",O O B-LOC O O O O B-PER O B-PER O O O O O O O O
+15094,Superiorna igra domaćina donosi pobjedu protiv Italije rezultatom 4:1 .,O O O O O O B-ORG O O O
+8972,"Epizode 137-140 su se pojavile na interaktivnom video portalu Nove TV - OYO.hr , prije premijernog emitiranja na Federalnoj televiziji , ali datumi ovih epizoda su uneseni u skladu sa emitiranjem na Federalnoj televiziji .",O O O O O O O O O B-ORG I-ORG O O O O O O O B-ORG I-ORG O O O O O O O O O O O O B-ORG I-ORG O
+18249,Ono što je najpopularnije u Lloretu je noćni život koji privlači desetine hiljada mladih od 18 do 30 godina iz cijele Evrope .,O O O O O O O O O O O O O O O O O O O O O B-LOC O
+5311,U 1921. i 1931. podaci su sadržani u naselju Baderna ( grad Poreč ) .,O O O O O O O O O B-LOC O O B-LOC O O
+11155,"preusmjeri Karlo I , kralj Napulja",O B-PER I-PER I-PER I-PER I-PER
+15508,Eddie Irvine,B-PER I-PER
+15968,PREUSMJERI Republika Benin ( 1967 ),O B-LOC I-LOC I-LOC I-LOC I-LOC
+5091,"Franjo I , kralj Francuske",B-PER I-PER I-PER I-PER I-PER
+14787,Školovao se u Tuzli i Sarajevu .,O O O B-LOC O B-LOC O
+4268,"preusmjeri Henrik VII , kralj Engleske",O B-PER I-PER I-PER I-PER I-PER
+17569,Sergio Pérez,B-PER I-PER
+14325,"Zatim slijede , Švedska ( 40,5 % ) , Norveška ( 40,3 % ) , Danska ( 38,7 % ) , Slovenija ( 38,2 ) , Hrvatska ( 38,1 ) , Njemačka ( 37,5 % ) itd..",O O O B-LOC O O O O O B-LOC O O O O O B-LOC O O O O O B-LOC O O O O B-LOC O O O O B-LOC O O O O O
+1939,Lewis Hamilton,B-PER I-PER
+1452,Osnovna baza čomskijevske psiholingvistike je ocjena gramatičnosti .,O O B-PER O O O O O
+16914,godine pogledati pod Dubrovnik .,O O O B-LOC O
+8436,U 1961. naselje se ne iskazuje ( uključeno u naselje Crikvenica ) pa je taj podatak uzet iz dokumentacije za taj popis .,O O O O O O O O O O B-LOC O O O O O O O O O O O O
+12883,Grčka ( IFPI Greece ),B-LOC O O O O
+7198,Vladimir Kramnik ( 8 ),B-PER I-PER O O O
+18027,Žive uglavnom u Evropi .,O O O B-LOC O
+230,u venecijanskoj operi ( La Favorite od Gaetano Donizetti ) .,O O O O O O O B-PER I-PER O O
+6629,Spisak općina u Hrvatskoj,B-LOC I-LOC I-LOC I-LOC
+9945,Valtteri Bottas,B-PER I-PER
+10195,"Ukupno je napravljeno 285 medalja u kovnici u Majdanpeku , a dodijeljene su 222 .",O O O O O O O O B-LOC O O O O O O
+4815,Lewis Hamilton,B-PER I-PER
+16958,Gustoća naseljenosti u Vodnjanu je 61 stanovnika / km2 .,O O O B-LOC O O O O O O
+18414,Južnoameričko prvenstvo 1957 .,B-ORG I-ORG I-ORG I-ORG
+8110,godine nakon smrti rođaka Abdul Hamida I .,O O O O B-PER I-PER I-PER O
+1362,Spisak općina u Hrvatskoj,B-LOC I-LOC I-LOC I-LOC
+4946,"Rikard I , kralj Engleske",B-PER I-PER I-PER I-PER I-PER
+1272,Usain Bolt 9.88 SB,B-PER I-PER O O
+3095,U ljeto 2012. priključuje se Hajduku .,O O O O O B-ORG O
+18067,Antônio Pizzonia vozač za testiranje,B-PER I-PER O O O
+9319,Evlija Čelebija piše i o većem broju .,B-PER I-PER O O O O O O
+5340,Hrvatska je ušla u Evropsku uniju 2013. godine .,B-LOC O O O B-ORG I-ORG O O O
+5387,Sa ovom grupom je nastupio i kao predgrupa na osječkom nastupu Bryana Adamsa .,O O O O O O O O O O O B-PER I-PER O
+6534,Preusmjeri J. R. R. Tolkien,O B-PER I-PER I-PER I-PER
+17020,"Takmičenje se održava od 1961. godine , a najuspješniji klub je Liverpool sa osam titula .",O O O O O O O O O O O B-ORG O O O O
+9082,Dijelom pripada nacionalnom parku Sutjeska .,O O B-ORG I-ORG I-ORG O
+15113,"preusmjeri Luj V , kralj Zapadne Franačke",O B-PER I-PER I-PER I-PER I-PER I-PER
+3861,Castro ( Čile ),B-LOC I-LOC I-LOC I-LOC
+7786,"U polufinalu je igrala protiv Republike Kongo , te je pobijedila sa 4-2 .",O O O O O B-ORG I-ORG O O O O O O O
+14441,Kasnije prelazi u FK Dilu .,O O O B-ORG I-ORG O
+17426,"Drenovci ( Hrvatska ) , naselje i općina u Vukovarsko-srijemskoj županiji",B-LOC I-LOC I-LOC I-LOC O O O O O B-LOC I-LOC
+17161,"Istočna Slavonija , Baranja i Zapadni Srijem",B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+9478,Pete Sampras ( pobjednik ),B-PER I-PER O O O
+7341,Interkontinentalni kup 1998 .,B-ORG I-ORG I-ORG I-ORG
+1351,Premijer liga Bosne i Hercegovine,B-ORG I-ORG I-ORG I-ORG I-ORG
+17616,PREUSMJERI Konferencija u Wannseeu,O B-ORG I-ORG I-ORG
+7471,Sébastien Bourdais,B-PER I-PER
+5597,Spisak općina u Hrvatskoj,B-LOC I-LOC I-LOC I-LOC
+963,Stephen Hendry,B-PER I-PER
+13035,Od 1857. do 1971. te u 1981. i 1991. dio podataka sadržan je u gradu Rijeka .,O O O O O O O O O O O O O O O B-LOC O
+16396,"Papa Klement VII bio je zarobljen , a kasnije vraćen na prijesto .",B-LOC B-PER I-PER O O O O O O O O O O
+7030,U pozadini se ocrtava silueta grada Jajca .,O O O O O O B-LOC O
+13676,"godine , od prijašnjih 80 , ostala jedino Bajrakli džamija .",O O O O O O O O B-ORG I-ORG O
+13263,Atlético Madrid,B-ORG I-ORG
+6584,Preusmjeri Jelena Branković ( Mara ),O B-PER I-PER I-PER I-PER I-PER
+6477,Sebastian Vettel,B-PER I-PER
+13516,"Rubensa , Tiziana , Velázqueza , Rembrandta .",B-PER O B-PER O B-PER O B-PER O
+15418,Turska 74.660.000 ( 98.6 % ),B-LOC O O O O O
+3405,Timo Glock,B-PER I-PER
+4705,Preusmjeri Ulysses Simpson Grant,O B-PER I-PER I-PER
+869,Kamui Kobayashi,B-PER I-PER
+10862,"PREUSMJERI Sigismund , car Svetog rimskog carstva",O B-PER I-PER I-PER I-PER I-PER I-PER
+17229,Peter Prevc ( 5 x 20 ),B-PER I-PER O O O O O
+17744,PREUSMJERI Teritorija Jervis Bay,O B-LOC I-LOC I-LOC
+6288,Romain Grosjean vozač za testiranje,B-PER I-PER O O O
+15591,Olivier Panis vozač za testiranje,B-PER I-PER O O O
+14372,Takmiči se u prvoj ligi Federacije Bosne i Hercegovine .,O O O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG O
+7068,Debitanti turnira su bili Portugal i Sjeverna Koreja .,O O O O B-ORG O B-ORG I-ORG O
+8450,Po završetku sezone prelazi u redove Dinamo Zagreba .,O O O O O O B-ORG I-ORG O
+9750,British Airways ( London ),B-ORG I-ORG O B-LOC O
+5288,Acinonyx jubatus velox – nastanjuje istočnu Afriku,O O O O O B-LOC I-LOC
+12159,godine u Vidošima kraj Livna .,O O B-LOC O B-LOC O
+9756,PREUSMJERI Masačusetski institut za tehnologiju,O B-ORG I-ORG I-ORG I-ORG
+18663,Vels,B-LOC
+10376,PREUSMJERI Stadion Juventus,O B-ORG I-ORG
+17763,PREUSMJERI Habsburg ( dinastija ),O B-ORG I-ORG I-ORG I-ORG
+15685,"Tesla , Nikola , naučnik",B-PER I-PER I-PER O O
+18569,Jenson Button,B-PER I-PER
+15185,Josip Broz - Tito † -,B-PER I-PER I-PER I-PER O O
+9757,"PREUSMJERI No Pads , No Helmets ... Just Balls ( Simple Plan )",O B-ORG I-ORG I-ORG B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+15921,Sebastian Vettel,B-PER I-PER
+10430,Sekst Empirik ( Sextus Empiricus ),B-PER I-PER I-PER I-PER I-PER I-PER
+8476,Podaci za 1857. sadržani su u naselju Novo Selo ( grad Požega ) .,O O O O O O O B-LOC I-LOC O O B-LOC O O
+16569,"Strmica ( Knin ) , naselje grada Knina , Šibensko-kninska županija",B-LOC I-LOC I-LOC I-LOC O O O B-LOC O B-LOC I-LOC
+5738,"Rođen je u Sjevernoj Karolini , ali je uglavnom živio u Tennesseeju .",O O O B-LOC I-LOC O O O O O O B-LOC O
+7084,Milwaukee Bucks ( 1969–1975 ) Los Angeles Lakers ( 1975–1989 ),B-ORG I-ORG O O O B-ORG I-ORG I-ORG O O O
+13573,pojačao je redove Zrinjskog .,O O O B-ORG O
+9594,"Velika Gomila – 95,7 MHz",B-LOC I-LOC O O O
+10469,Lionel Messi,B-PER I-PER
+16089,Energija ionizacije ( kJ / mol ),B-ORG I-ORG O O O O O
+17205,Bio je najpoznatiji pripadnik Crkve bosanske .,O O O O B-ORG I-ORG O
+15456,s Bruceom Willisom u glavnoj ulozi .,O B-PER I-PER O O O O
+6080,"Privezali su je za stijenu na obali , a Perzej je , pošto je odsjekao Meduzinu glavu , rekao da će je spasiti ako je potom dobije za ženu .",O O O O O O O O O B-PER O O O O O B-PER O O O O O O O O O O O O O O
+8018,IAU je kasnije skratila taj naziv .,B-ORG O O O O O O
+183,PREUSMJERI Karanovac ( Bosansko Petrovo Selo ),O B-LOC I-LOC I-LOC I-LOC I-LOC I-LOC
+16225,Tim trenutno igra u La Ligi .,O O O O B-ORG I-ORG O
+2704,Felipe Massa,B-PER I-PER
+7701,"godine , naselje je ukinuto i pripojeno naselju Grižane-Belgrad .",O O O O O O O O B-LOC O
+2135,"Reka ( Koprivnica ) , naselje grada Koprivnice , Koprivničko-križevačka županija .",B-LOC I-LOC I-LOC I-LOC O O O B-LOC O B-LOC I-LOC O
+12892,UEFA Intertoto kup 1996 .,B-LOC I-LOC I-LOC I-LOC I-LOC
+2160,Rubens Barrichello je izdana kazna od pet mjesta mrežu za mjenjač promjenu .,B-PER I-PER O O O O O O O O O O O
+6195,Brazil ( 14 ),B-ORG O O O
+18289,Preusmjeri Hasan Kafi Pruščak,O B-PER I-PER I-PER
+1504,"Marin Držić , književnik",B-PER I-PER O O
+15599,Kastav,B-LOC
+14701,"S druge strane , Richard Strauss prihvatio je vagnerovske ideje , ali na potpuno nove načine .",O O O O B-PER I-PER O O O O O O O O O O O
+16114,Preusmjeri Univerzitet u Sarajevu,O B-ORG I-ORG I-ORG
+4437,"U video spotu se Mercury po prvi put pojavljuje s brkovima , što će s vremenom postati njegov prepoznatljivi izgled .",O O O O B-PER O O O O O O O O O O O O O O O O
+458,Predstavnički dom Bosne i Hercegovine,B-ORG I-ORG I-ORG I-ORG I-ORG
+17522,Twin Peaks,B-ORG I-ORG
+2618,Putnim komunikacijama grad je povezan sa Zapadnom i Južnom Evropom .,O O O O O O O O O B-LOC O
+1064,Pskovska oblast ( Псковская область ),B-LOC I-LOC O O O O
+11344,Založio se za uljepšavanje Praga svjetovnim i crkvenim građevinama .,O O O O B-LOC O O O O O
+13146,"PREUSMJERI Filip II , vojvoda Orléansa",O B-PER I-PER I-PER I-PER I-PER
+11887,Kako sam upoznao vašu majku,B-ORG I-ORG I-ORG I-ORG I-ORG
+17856,"Bečke konvencije o zakonu međunarodnih ugovora , članak 1 Konvencije o sprečavanju i kažnjavanju zločina protiv međunarodno zaštićene osobe , uključujući diplomatske agente i protokol Ujedinjenih nacija .",O O O O O O O O O O O O O O O O O O O O O O O O O B-ORG I-ORG O
+4360,"godine po prvi put postaje trener FK Sarajeva , kojeg je do sada trenirao u tri navrata .",O O O O O O B-ORG I-ORG O O O O O O O O O O
+16853,Sebastian Vettel,B-PER I-PER
+17663,*1983 Uspavanka za Radmilu M .,O B-ORG I-ORG I-ORG I-ORG I-ORG
+11158,Inspiracija za djelo je bila kratka priča Jorge Luis Borges pod nazivom Priča o dva sanjara .,O O O O O O O B-PER I-PER I-PER O O O O O O O
+11195,Spisak općina u Hrvatskoj,B-LOC I-LOC I-LOC I-LOC
+18765,Andre Agassi,B-PER I-PER
+9472,Stargate SG-1 ( sezona 5 ) ! !,B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG O O
+6587,"U potrazi za novim izazovom , odlazi u Aziju , ovaj put u Brunej .",O O O O O O O O B-LOC O O O O B-LOC O
+15701,PREUSMJERI Španski superkup 2008 .,O B-ORG I-ORG I-ORG I-ORG
+15987,Preusmjeri Asija bint Muzahim,O B-ORG I-ORG I-ORG
+4374,Utočište za ludake Kew,B-ORG I-ORG I-ORG I-ORG
+3210,Alan Ford ( strip ),B-PER I-PER I-PER I-PER I-PER
+6842,BBC ( 16 .,B-ORG O O O
+6822,godine on je bio naslijedio njegovu titulu postavši tako nasljednik svoga djeda kralja Luja-Filipa .,O O O O O O O O O O O O O B-PER O
+16470,"Rattus losea – Kina , Laos , Tajvan , Tajland i Vijetnam",O O O B-LOC O B-LOC O B-LOC O B-LOC O B-LOC
+2613,Njemačka]] Njemačka,O B-LOC
+5980,Adrian Sutil vozač za testiranje,B-PER I-PER O O O
+1267,Univerzitet u Istočnom Sarajevu,B-ORG I-ORG I-ORG I-ORG
+16805,Udaljena je 370 sg od Sunca .,O O O B-ORG O B-LOC O
+6813,PREUSMJERI SK Rapid Beč,O B-ORG I-ORG I-ORG
+10996,"PREUSMJERI Filip IV , kralj Kastilje",O B-PER I-PER I-PER I-PER I-PER
+2668,Jedno neidentificirano pleme sa apeninskog poluostrva prvo je dobilo ime Aborigines .,O O O O B-LOC I-LOC O O O O O O
+13548,Valtteri Bottas,B-PER I-PER
+3001,Daniel Ricciardo,B-PER I-PER
+14916,"NK Široki Brijeg , Široki Brijeg",B-ORG I-ORG I-ORG O B-LOC I-LOC
+2156,Hrvatska demokratska zajednica Bosne i Hercegovine,B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+6061,protiv Laskera daje potvrdu za to .,O B-PER O O O O O
+8836,Njemačka i Irska su se kvalificirali u osminufinala .,B-ORG O B-ORG O O O O O O
+5593,Mehmed-paša Sokolović ili Gazi Husrev-beg ) .,B-PER I-PER O B-PER I-PER O O
+6668,"Ralph Firman , - Zsolt Baumgartner - no.12",B-PER I-PER O O B-PER I-PER O O
+17970,Sergio Pérez,B-PER I-PER
+13626,U doigravanju su već u prvom krugu u šest utakmica izgubili od Miami Heata s 4-2 .,O O O O O O O O O O O O B-ORG I-ORG O O O
+11534,Nacionalno prijelazno vijeće ( Libija ),B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+2888,"Tirana , Albanija .",B-LOC O B-LOC O
+16765,PREUSMJERI Premijer liga Bosne i Hercegovine 2000 / 2001 .,O B-LOC I-LOC I-LOC I-LOC I-LOC I-LOC I-LOC I-LOC I-LOC
+11782,Južnoafrička Republika ( zakonodavni ),B-LOC I-LOC O O O
+454,"Nakon njegove smrti 1018. godine , naslijedio ga je brat Knut Veliki .",O O O O O O O O O O B-PER I-PER O
+10277,"Sjedište UPU-a se nalazi u Bernu , u Švicarskoj .",O O O O O B-LOC O O B-LOC O
+15204,U 1948. sadrži dio podataka za naselje Medinci .,O O O O O O O B-LOC O
+16359,Njegov sin Amar Osim također je trener i trenutno vodi FK Željezničar .,O O B-PER I-PER O O O O O O B-ORG I-ORG O
+17701,Afrički kup nacija 2015 . koje se održalo u Ekvatorijalnoj Gvineji osvojila je Obala Slonovače .,B-ORG I-ORG I-ORG I-ORG I-ORG O O O O B-LOC I-LOC O O B-ORG I-ORG O
+13201,"Do 1961. dio podataka sadržan je u gradu Lipiku ( Požeško-slavonska županija ) , a od 1857. do 1880. u gradu Kutini ( Sisačko-moslavačka županija ) .",O O O O O O O O B-LOC O B-LOC I-LOC O O O O O O O O O B-LOC O B-LOC I-LOC O O
+14563,U osminafinalu susreli su se sa Ganom .,O O O O O O B-ORG O
+2420,PREUSMJERI Velika nagrada Italije 2010 .,O B-ORG I-ORG I-ORG I-ORG I-ORG
+5200,Pjotr Svidler ( 4 ),B-PER I-PER O O O
+5383,Iz Slovenije nije mogao niko da stigne .,O B-LOC O O O O O O
+14459,PREUSMJERI NBA 1979 / 1980 .,O B-ORG I-ORG I-ORG I-ORG I-ORG
+11638,In Only Seven Days – 2:31,B-ORG I-ORG I-ORG I-ORG O O
+1133,Daniel Ricciardo,B-PER I-PER
+10011,Turkmeni ( Turkmenistan ),B-ORG O B-LOC O
+5640,"Arnaudija džamija , Banja Luka",B-ORG I-ORG O B-LOC I-LOC
+15518,Fernando Alonso - no.5,B-PER I-PER O O
+11270,"Banja Luka , Bosna i Hercegovina",B-LOC I-LOC O B-LOC I-LOC I-LOC
+5237,Preusmjeri Wilhelm von Leeb,O B-PER I-PER I-PER
+18639,Irsko more se nalazi između ostrva Velike Britanije i Irske .,B-LOC I-LOC O O O B-LOC I-LOC I-LOC O B-LOC O
+5642,"PREUSMJERI Gotfrid , vojvoda Normandije",O B-PER I-PER I-PER I-PER
+13594,PREUSMJERI Walburga Habsburg Douglas,O B-PER I-PER I-PER
+15156,"PREUSMJERI Edvard VII , kralj Ujedinjenog Kraljevstva",O B-PER I-PER I-PER I-PER I-PER I-PER
+13194,Sava Mrkalj ( 1783.-1833 .,B-PER I-PER O O O
+13908,"Poreč , grad u Istarskoj županiji",B-LOC O O O B-LOC I-LOC
+13306,Smješten je sa desne strane magistralnog puta Sarajevo .,O O O O O O O B-LOC O
+10116,Njegova zadnja renikarnacija je Rand al'Tor .,O O O O B-PER I-PER O
+2478,Sa Tusterijem se preselio u Basru .,O O O O O B-LOC O
+13051,Od 1857. do 1910. sadrži podatke za naselje Emovački Lug .,O O O O O O O O B-LOC I-LOC O
+10102,"godine , kao druga žena samo 10 dana poslije Marije Bursać .",O O O O O O O O O B-PER I-PER O
+16369,Osnovno školu završio u Mađarskoj .,O O O O B-LOC O
+17544,Preusmjeri Karlov univerzitet u Pragu,O B-ORG I-ORG I-ORG I-ORG
+18786,"U 1857. , 1869. i 1921. sadrži dio podataka za općinu Bol .",O O O O O O O O O O O B-LOC O
+5440,Glavno stanovništvo čine Danci .,O O O B-LOC O
+7318,Administrativno središte oblasti je Astrahan .,O O O O B-LOC O
+5432,Popis stanovništva u Bosni i Hercegovini 1991 .,B-LOC I-LOC I-LOC I-LOC I-LOC I-LOC I-LOC I-LOC
+14381,Manchester United je u prvoj utakmici polufinala pobijedio Milan 2-1 .,B-ORG I-ORG O O O O O O B-ORG O O
+6838,Ne računaju se ni posjedi na Antarktiku .,O O O O O O B-LOC O
+3870,Odbio je ponudu Francuske za iseljenje zbog političkog progona,O O O B-LOC O O O O O
+5520,Spisak općina u Hrvatskoj,B-LOC I-LOC I-LOC I-LOC
+18077,"Snuker plus , varijanta s dodatnim obojenim kuglama",B-ORG I-ORG O O O O O O
+6733,Alojz Benac ( 1914-92 .,B-PER I-PER O O O
+14852,"Osnovnu školu završio je u Banjskoj , gimnaziju u Kosovskoj Mitrovici .",O O O O O O O O O B-LOC I-LOC O
+5250,Do 1961. podaci su sadržani u naselju Osijek .,O O O O O O O B-LOC O
+1365,Spisak općina u Hrvatskoj,B-LOC I-LOC I-LOC I-LOC
+4010,U 2004.je postao jedini trener u historiji Premier lige prošavši kroz čitavu sezonu neporažen .,O O O O O O O B-ORG I-ORG O O O O O O
+1113,"Preusmjeri Karlo III , kralj Napulja",O B-PER I-PER I-PER I-PER I-PER
+7500,Najuspješniji klub je Bayern sa 23 šampionske titule .,O O O B-ORG O O O O O
+1916,"Zlatar ( Hrvatska ) , grad u Krapinsko-zagorskoj županiji",B-LOC I-LOC I-LOC I-LOC O O O B-LOC I-LOC
+10548,Dallas Mavericks ( 1998– ),B-ORG I-ORG O O O
+7639,"poslije odlaska u penziju , odlazi u Dubrovnik u kojem živi do smrti .",O O O O O O O B-LOC O O O O O O
+3883,godine na albumu Sheer Heart Attack .,O O O B-ORG I-ORG I-ORG O
+13059,"Prevodio je Freuda ( “Pronađena psihoanaliza” , te “Budućnost jedne iluzije i drugi spisi” ) i Lorencera ( “Intimnost i socijalna patnja” ) .",O O B-PER O O O O O O O O O O O O O O O O O O O O O
+4327,Gustoća naseljenosti u Dobrinju je 38 stanovnika / km2 .,O O O B-LOC O O O O O O
+5539,PREUSMJERI Đorđe od Danske,O B-PER I-PER I-PER
+6586,"To je dovelo do Velike depresije 1929. godine , koja je dovela do kolapsa .",O O O O B-ORG I-ORG O O O O O O O O O
+6538,"preusmjeri Tvrtko I , kralj Bosne",O B-PER I-PER I-PER I-PER I-PER
+236,Preusmjeri Kotezi ( Bugojno ),O B-LOC I-LOC I-LOC I-LOC
+14698,je zbirka od 15 kratkih priča Agathe Christie .,O O O O O O B-PER I-PER O
+6303,Mark Selby ( 2 ),B-PER I-PER O O O
+1911,Glavni grad ove oblasti bio je Pale .,O O O O O O B-LOC O
+12953,Preusmjeri Joseph Louis Gay-Lussac,O B-PER I-PER I-PER
+2771,PREUSMJERI Kvalifikacije za Svjetsko prvenstvo u nogometu 1990 .,O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+7141,Dragan Čović ( vršilac dužnosti ) ( rođ .,B-PER I-PER O O O O O O O
+12243,Prisvajaju je Maroko i Demokratska Arapska Republika Sahara,O O B-LOC O B-LOC I-LOC I-LOC I-LOC
+8983,Sergio Pérez,B-PER I-PER
+13563,Često se koristi kao ( pogrešan ) sinonim za Ujedinjeno Kraljevstvo .,O O O O O O O O O B-LOC I-LOC O
+4662,kao i tast Severovog sina Karakale .,O O O O O B-PER O
+17473,"Jajce ( historijsko gradsko područje ) ,",B-LOC O O O O O O
+2849,Luca Badoer vozač za testiranje,B-PER I-PER O O O
+1584,u kompaniji Adria Airways .,O O B-ORG I-ORG O
+15775,"godine u Laholu , kod Bijelog Polja .",O O O O O B-LOC I-LOC O
+11581,"75350 - Srebrenik , BH Pošta",O O B-LOC O O O
+8123,Dan očeva ( Bugarska ),O O O B-LOC O
+15115,ŠK Slovan Bratislava,B-ORG I-ORG I-ORG
+7767,i Srbiju i Crnu Goru ( 2003-2006 .,O B-ORG I-ORG I-ORG I-ORG O O O
+2817,Mađarska se kvalificirala na Evropsko prvenstvo sveukupnim rezultatom 5–4 .,B-ORG O O O B-ORG I-ORG O O O O
+17370,U kvalifikacijama za Svjetsko prvenstvo 1974 .,O O O B-ORG I-ORG I-ORG O
+8653,"Irak ( 60,5 % ) , Turska ( 24,8 % ) , Sirija ( 14,7 % )",B-LOC O O O O O B-LOC O O O O O B-LOC O O O O
+3012,Fernando Alonso,B-PER I-PER
+964,PREUSMJERI Stjepan II Kotromanić,O B-PER I-PER I-PER
+6576,Henri de Toulouse-Lautrec - 18 slika,B-PER I-PER I-PER O O O
+13842,"Prvi put se uvodi i autorska večer , a prva je posvećena Zdenku Runjiću , koji plasira 12 novih pjesama .",O O O O O O O O O O O O B-PER I-PER O O O O O O O
+12157,"Nekropola sa stećcima Gvozno , historijsko područje .",O O O B-LOC O O O O
+10484,PREUSMJERI Premijer liga Bosne i Hercegovine 2006 / 2007 .,O B-LOC I-LOC I-LOC I-LOC I-LOC I-LOC I-LOC I-LOC I-LOC
+1701,Jovan Divjak ( zamjenik načelnika ),B-PER I-PER O O O O
+4819,Utah Jazz ( 1984–2003 ),B-ORG I-ORG O O O
+17580,AS Bari ( 1991-1992 ),B-ORG I-ORG O O O
+396,Preusmjeri Bosansko-podrinjski kanton Goražde,O B-LOC I-LOC I-LOC
+18685,Bosna ( regija ),B-LOC I-LOC I-LOC I-LOC
+9830,Ehnaton - onaj koji se sviđa Atonu .,B-PER O O O O O O O
+3120,Kimi Räikkönen,B-PER I-PER
+6743,Kakmuž je jedno od rijetkih sela na planini Ozren koje ima asfaltiranu putnu mrežu i dobro je povezano sa okolnim selima .,O O O O O O O O B-LOC O O O O O O O O O O O O O
+556,"Mala Buna , naselje grada Velike Gorice , Zagrebačka županija",B-LOC I-LOC O O O B-LOC I-LOC O B-LOC I-LOC
+10778,"godine , a naslijedio ga je njegov sin Stjepan Držislav .",O O O O O O O O B-PER I-PER O
+3491,Preusmjeri Liskovac ( Cazin ),O B-LOC I-LOC I-LOC I-LOC
+9036,"godine , naselje je ukinuto i pripojeno naselju Jadranovo .",O O O O O O O O B-LOC O
+1010,PREUSMJERI Velika nagrada Velike Britanije 2011 .,O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+10329,Alija Izetbegović,B-PER I-PER
+14674,"Također je objavila i audio kasetu na kojoj sama govori svoje stihove , te u 2014. zbirku video poezije na YouTube-u .",O O O O O O O O O O O O O O O O O O O O B-ORG O
+13698,"Bologna , Italija",B-LOC O B-LOC
+4261,"Uvod u tefsirsku i hadisku nauku , Mehmed Handžić",O O O O O O O B-PER I-PER
+15684,godine pogledati pod Rijeka .,O O O B-LOC O
+5042,"James Hepburn , za kojeg se generalno vjeruje da je odgovoran za Darnleyevu smrt , oslobođen je krivnje nakon kratkog suđenja .",B-PER I-PER O O O O O O O O O O O O O O O O O O O O
+10412,"Ostatak jedinice sačinjavali su borci sa područja Zvornika , Živinica i Tuzle .",O O O O O O O B-LOC O B-LOC O B-LOC O
+11353,Janko Tipsarević,B-PER I-PER
+10854,HJK Helsinki,B-ORG I-ORG
+2986,"svog rođaka i punca , Luja XII , koji nije gajio simpatije prema njemu .",O O O O O B-PER I-PER O O O O O O O O
+12951,"U 1991. sadrži dio podataka grada Čakovca , a dio podataka sadržan je u gradu Čakovcu .",O O O O O O B-LOC O O O O O O O O B-LOC O
+16165,Preusmjeri Brzo klizanje na Zimskim olimpijskim igrama 2014 - 10000 m ( muškarci ),O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+11227,U 1869. i 1880. te od 1910. do 1931. podaci su sadržani u naselju Duga Rijeka .,O O O O O O O O O O O O O O B-LOC I-LOC O
+942,"Bolivija , Norveška , Sjeverna Irska ,",B-LOC O B-LOC O B-LOC I-LOC O
+17956,Gustoća naseljenosti u Vrlici je 9 stanovnika / km2 .,O O O B-LOC O O O O O O
+9871,Milwaukee Bucks Š,B-ORG I-ORG O
+14976,Istraživao ga je norvežanin Roald Amundsen između 1903. i 1906. godine i po njemu je i dobio ime .,O O O B-LOC B-PER I-PER O O O O O O O O O O O O O
+962,"Lopar ( Hrvatska ) , naselje i općina u Primorsko-goranskoj županiji",B-LOC I-LOC I-LOC I-LOC O O O O O B-LOC I-LOC
+17146,Preusmjeri Skijaško trčanje na Zimskim olimpijskim igrama 1984 - 30 km,O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+393,"Pedro Calderón de la Barca ( 1600–1681 ) , dramatičar i poeta",B-PER I-PER I-PER I-PER I-PER O O O O O O O
+11029,Preusmjeri Paris Saint-Germain FC,O B-ORG I-ORG I-ORG
+18748,Sergio Pérez - no.17,B-PER I-PER O O
+14296,"CDU 15 vijećnika ( 4.628 glasova ili 31,79 % )",B-ORG O O O O O O O O O
+7306,PREUSMJERI Slobodno skijanje na Zimskim olimpijskim igrama 2014 .,O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+18269,Washington Wizards ( 5 ),B-ORG I-ORG O O O
+4565,Lewis Hamilton,B-PER I-PER
+6511,Nogometna reprezentacija Njemačke je u svojoj historiji nastupila 12 puta u kvalifikacijama za Evropsko prvenstvo u kojim je uspjela ostvariti 11 puta plasman na Evropsko prvenstvo .,B-ORG I-ORG I-ORG O O O O O O O O O O B-LOC I-LOC O O O O O O O O O B-LOC I-LOC O
+7633,"U obavljanju svojih poslova samostalna je , nezavisna i odgovorna Hrvatskom saboru .",O O O O O O O O O O B-ORG I-ORG O
+12077,"Prepuštovec ( Zagreb ) , naselje grada Zagreba",B-LOC I-LOC I-LOC I-LOC O O O B-LOC
+8393,Heikki Kovalainen - no.19,B-PER I-PER O O
+9996,Član Hrvatske demokratske zajednice .,O B-ORG I-ORG I-ORG O
+12824,"Elvir Bolić , bivši nogometaš",B-PER I-PER O O O
+18260,Izvršavanje odluka Parlamentarne skupštine ;,O O B-ORG I-ORG O
+1896,Sve pjesme su napisane za vrijeme snimanja prethodnog albuma Toxicity .,O O O O O O O O O B-ORG O
+10219,Volgogradska oblast ( Волгоградская область ),B-LOC I-LOC O O O O
+315,sa stanicom ( Concorde ) .,O O O B-ORG O O
+16303,"Smješten na Jadranskom moru , na krajnjem jugu Hrvatske .",O O B-LOC I-LOC O O O O B-LOC O
+4201,Rubens Barrichello,B-PER I-PER
+2173,"U 1890. bez stanovnika , a 1931. podaci su sadržani u naselju Kolan .",O O O O O O O O O O O O B-LOC O
+17290,Utočište za ludake Beechworth,B-ORG I-ORG I-ORG I-ORG
+11979,PREUSMJERI Rukometna reprezentacija Turske,O B-ORG I-ORG I-ORG
+12466,Danas se nalazi u Egipatskom muzeju u Kairu .,O O O O B-ORG I-ORG O B-LOC O
+18329,Nick Heidfeld,B-PER I-PER
+9868,Heikki Kovalainen,B-PER I-PER
+8646,"knjiga prema Odiseji , 7―12 .",O O B-LOC O O O
+8660,"Umrla je tokom predskazivanja rođenja Randa al'Tora , vjerovatno od šoka .",O O O O O B-PER I-PER O O O O O
+9624,"PREUSMJERI Lotar I , car Svetog rimskog carstva",O B-PER I-PER I-PER I-PER I-PER I-PER I-PER
+15668,Spisak općina u Hrvatskoj,B-LOC I-LOC I-LOC I-LOC
+1537,Sergio Pérez,B-PER I-PER
+369,PREUSMJERI Ivana Kastiljska ( portugalska kraljica ),O B-PER I-PER I-PER I-PER I-PER I-PER
+10831,'Studio mađarskih programa Lendava,O O O B-LOC
+18677,Papa Klement XIV ( 1705-1774 ),B-PER I-PER I-PER O O O
+2222,Dima Bilan,B-PER I-PER
+14582,Paskal ( jedinica ),B-ORG I-ORG I-ORG I-ORG
+9942,Sebastian Vettel,B-PER I-PER
+16900,Ricardo Zonta vozač za testiranje,B-PER I-PER O O O
+2450,"Alberto Moravia , književnik",B-PER I-PER O O
+15513,Cambridge – London ( Ujedinjeno Kraljevstvo ),B-LOC O B-LOC O B-LOC I-LOC O
+14959,Godinu kasnije bio je prisiljen pobjeći u egzil u Tunis .,O O O O O O O O O B-LOC O
+14646,"Mnogi savremenici tih događanja su tvrdili da je , u neku ruku , Veselin Masleša dao ime klubu .",O O O O O O O O O O O O O B-PER I-PER O O O O
+17695,Belgijska]] top-lista ( Valonija ),O O O B-LOC O
+7607,Fernando Alonso,B-PER I-PER
+918,"Oliver u Lisinskom , Oliver Dragojević",O O O O B-PER I-PER
+17011,Preusmjeri Ciudad de México,O B-LOC I-LOC I-LOC
+4018,*Da te barem nisam srela - Jasna Zlokić,O O O O O O B-PER I-PER
+2044,Takmiči se u Prvoj nogometnoj ligi Federacije Bosne i Hercegovine .,O O O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG O
+4762,U osminifinala protivnik Brazilu je bila Belgija .,O O O B-LOC O O B-ORG O
+17846,Juan Pablo Montoya - no.6,B-PER I-PER I-PER O O
+18500,Poznat je kao Hanibalov otac .,O O O B-PER O O
+16238,FK Dinamo Minsk,B-ORG I-ORG I-ORG
+14913,"PREUSMJERI Ferdinand II , kralj Aragonije",O B-PER I-PER I-PER I-PER I-PER
+7476,19 Pikardija,O B-LOC
+11063,B Tracy McGrady - Houston Rockets,O B-PER I-PER O B-ORG I-ORG
+16903,Tribuni angusticlavii .,B-ORG I-ORG O
+13337,Pastor Maldonado,B-PER I-PER
+7504,Gustoća naseljenosti u Senju je 11 stanovnika / km2 .,O O O B-LOC O O O O O O
+3933,Parlament Federacije Bosne i Hercegovine,B-ORG I-ORG I-ORG I-ORG I-ORG
+302,Edgar Miroljubivi ( Eadgar ),B-PER I-PER O O O
+4739,Peter O'Toole - T. E. Lawrence,B-PER I-PER O B-PER I-PER I-PER
+14460,Nalazi se u Yamoussoukrou na Obali Slonovače .,O O O B-LOC O B-LOC I-LOC O
+12334,predstavljao je međunarodnu zajednicu kao visoki predstavnik Ujedinjenih naroda u Bosni i Hercegovini .,O O O O O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG O
+1668,"Stankovci ( Hrvatska ) , naselje i općina u Zadarskoj županiji",B-LOC I-LOC I-LOC I-LOC O O O O O B-LOC I-LOC
+1816,"Na Cambidgeu je sreo svog budućeg saradnika i prijatelja , Hugh Laurieja .",O O O O O O O O O O B-PER I-PER O
+14375,Spisak općina u Hrvatskoj,B-LOC I-LOC I-LOC I-LOC
+2253,Kimi Räikkönen,B-PER I-PER
+1894,služio u Kongresu kao njen zastupnik .,O O B-ORG O O O O
+12997,Jenson Button,B-PER I-PER
+14907,"Brezje ( Sveta Nedelja ) , naselje grada Svete Nedelje , Zagrebačka županija",B-LOC I-LOC I-LOC I-LOC I-LOC O O O B-LOC I-LOC O B-LOC I-LOC
+9729,"Godine 1993. prelazi u San Antonio Spurse , ali njegov privatni život ispunjen raznim aferama , kao i stalno farbanje kose , nisu zadovoljili čelnike kluba .",O O O O B-ORG I-ORG I-ORG O O O O O O O O O O O O O O O O O O O O
+6970,Makedonija,B-LOC
+13569,Prva liga FBiH,B-ORG I-ORG I-ORG
+12143,Celta de Vigo,B-ORG I-ORG I-ORG
+5369,"Živi u Gschnitzu , Austrija .",O O O O B-LOC O
+15309,Preusmjeri Stranka pravde i povjerenja,O B-ORG I-ORG I-ORG I-ORG
+11535,Nico Hülkenberg,B-PER I-PER
+11851,"Sarajevo , Bosna i Hercegovina",B-LOC O B-LOC I-LOC I-LOC
+3835,Malmö FF ( 5 ),B-ORG I-ORG O O O
+8336,Osuđen je na 6 godina robije u Sremskoj Mitrovici i Lepoglavi .,O O O O O O O B-LOC I-LOC O B-LOC O
+5790,Smatra se jednom od najvećih američkih pjesnikinja .,O O O O O B-LOC O O
+17614,"75324 - Stjepan Polje , BH Pošta",O O B-LOC I-LOC O O O
+7782,Svake godine se održavaju više K-1 turnira po cijelom svjetu na kojima se takmičari mogu kvalificirati za finale u Tokiju .,O O O O O O O O O O O O O O O O O O O B-LOC O
+10737,Svjetska turistička organizacija,B-ORG I-ORG I-ORG
+4343,"Psyducka , ne muče Golducka , dopuštajući mu da koristi svoje nevjerovatno snažne umne sposobnosti kad god želi .",B-PER O O O O O O O O O O O O O O O O O O
+17017,"PREUSMJERI Sigismund , car Svetog rimskog carstva",O B-PER I-PER I-PER I-PER I-PER I-PER
+13975,godine u izdanju diskografske kuće Diskoton .,O O O O O B-ORG O
+16034,Njemačka ( prvak iz 1990 ) ( 1 ),B-ORG O O O B-ORG O O O O
+17523,Preusmjeri Club Brugge KV,O B-ORG I-ORG I-ORG
+1831,Najviše avio-saobraćaja dolazi sa letova za Hanoi .,O O O O O O B-LOC O
+2069,"Suprotstavljenog člana posade , kapetana Bligha , glumio je Anthony Hopkins .",O O O O O O O O O B-PER I-PER O
+1205,PREUSMJERI Kongresna dvorana u Parizu,O B-ORG I-ORG I-ORG I-ORG
+3972,preusmjeri Papa Siksto V,O B-PER I-PER I-PER
+15025,"U 1857. , 1869. , 1921. i 1931. sadrži podatke za naselje Polače , a od 1890. do 1931. za naselje Pomena .",O O O O O O O O O O O O B-LOC O O O O O O O O B-LOC O
+1356,Kao mladić 1941. godine postaje učesnik Narodnooslobodilačkog rata .,O O O O O O B-ORG I-ORG O
+4217,je krunisan za kralja Italije .,O O O O B-LOC O
+14901,"U 1857. i 1869. sadrži dio podataka općine Ližnjan , u 1857. , 1869. i 1921. dio podataka općine Fažana , a do 1991. i dio podataka općine Medulin .",O O O O O O O O B-LOC O O O O O O O O O O B-LOC O O O O O O O O B-LOC O
+14615,U periodu od 1948. do 1951. obavljao je ulogu glavnog urednika sarajevskog dnevnog lista Oslobođenje“ .,O O O O O O O O O O O B-LOC O O B-ORG O
+6039,Za klub iz Barcelone je odigrao 216 utakmica i postigao 11 golova .,O O O B-LOC O O O O O O O O O
+6878,"Graniči sa Estonijom na sjeveru , Rusijom na istoku , Litvanijom i Bjelorusijom na jugoistoku .",O O B-LOC O O O B-LOC O O O B-LOC O B-LOC O O O
+17608,francusko političar .,B-LOC O O
+16023,"Ibumetin ( Austrija , Danska , Švedska i Latvija )",O O B-LOC O B-LOC O B-LOC O B-LOC O
+5585,Preusmjeri Crnogorska pravoslavna crkva,O B-ORG I-ORG I-ORG
+16946,Gustoća naseljenosti u Sunji je 20 stanovnika / km2 .,O O O B-LOC O O O O O O
+8754,Kazuki Nakajima vozač za testiranje,B-PER I-PER O O O
+1569,Athletic Bilbao,B-ORG I-ORG
+10708,"PREUSMJERI Luj XV , kralj Francuske",O B-PER I-PER I-PER I-PER I-PER
+5752,Spisak općina u Hrvatskoj,B-LOC I-LOC I-LOC I-LOC
+5286,Romain Grosjean,B-PER I-PER
+10663,Historijske ličnosti Isaac Newton i Jonathan Swift izgubile su novac u ovom događaju .,O O B-PER I-PER O B-PER I-PER O O O O O O O
+3471,Turizam u Bosni i Hercegovini,B-LOC I-LOC I-LOC I-LOC I-LOC
+10565,"Iako se smatraju manje pouzadnim od verzija s dizelskim motorima , brojni primjerci su korišteni tokom izraelsko-arapskih sukoba .",O O O O O O O O O O O O O O O O B-ORG I-ORG O
+161,Mark Webber,B-PER I-PER
+10876,"Hasan Salihamidžić , nogometaš",B-PER I-PER O O
+3961,"Antoine Lavoisier , 1743–1794",B-PER I-PER O O
+3515,FIFA Kup konfederacija 2013 .,B-ORG I-ORG I-ORG I-ORG I-ORG
+13985,U 1991. pripojen nenaseljeni dio područja općine Podgorač .,O O O O O O O B-LOC O
+2070,"Oni prihvataju ponudu Komarovskog oko zaštite i transporta do Mandžurije , i da odmah napuste Varikino .",O O O O O O O O O B-LOC O O O O O O O
+6443,U Francuskoj ni danas nije priznat .,O B-LOC O O O O O
+1090,Lewis Hamilton,B-PER I-PER
+6029,John Wayne je navodno bezuspješno lobirao za ulogu .,B-PER I-PER O O O O O O O
+17541,godine po nalogu Josipa Broza pod imenom “Tovarna Avtomobilov Maribor” .,O O O B-PER I-PER O O O O O O
+986,We Will Rock You,B-ORG I-ORG I-ORG I-ORG
+2416,PREUSMJERI Olimpijski stadion ( Torino ),O B-ORG I-ORG I-ORG I-ORG I-ORG
+113,PREUSMJERI Claus von Stauffenberg,O B-PER I-PER I-PER
+14614,"Rovišće , naselje i općina u Bjelovarsko-bilogorskoj županiji",B-LOC O O O O O B-LOC I-LOC
+9176,preusmjeri Cardiff City FC,O B-ORG I-ORG I-ORG
+16167,"Godine 1980. primljen je u Kuću slavnih , a Los Angeles Lakersi su u njegovu čast penzionisali dres sa brojem 44 .",O O O O O B-ORG I-ORG O O B-ORG I-ORG I-ORG O O O O O O O O O O
+5316,"Guillaume Apollinaire ( 1880-1918 ) , francusko-poljski pisac",B-PER I-PER O O O O O O
+10091,U gradu se rodio čuveni moreplovac Vitus Bering koji je dao ime Beringovom moru .,O O O O O O B-PER I-PER O O O O B-LOC I-LOC O
+5616,"Zbog borbi , zona odgovornosti je naknadno promijenjena i u nju je uključena općina Vareš .",O O O O O O O O O O O O O O B-LOC O
+400,Penzjanska oblast ( Пензенская область ),B-LOC I-LOC O O O O
+16612,PREUSMJERI Prva nogometna liga FBiH 2002 / 2003 .,O B-LOC I-LOC I-LOC I-LOC I-LOC I-LOC I-LOC I-LOC
+356,"Vrh ( Buzet ) , naselje grada Buzeta , Istarska županija",B-LOC I-LOC I-LOC I-LOC O O O B-LOC O B-LOC I-LOC
+12873,Na mjestu predsjednika zamijenila ga je Kolinda Grabar-Kitarović .,O O O O O O B-PER I-PER O
+13475,"Osijek , Hrvatska",B-LOC O B-LOC
+5439,Preusmjeri Flags of the World,O B-ORG I-ORG I-ORG I-ORG
+14334,Stargate SG-1 ( 2005-2007 ),B-ORG I-ORG O O O
+16464,PREUSMJERI Državna cesta D8,O B-ORG I-ORG I-ORG
+8071,"**Q1a1 ( M120 , M265 / N14 ) − Niskofrekventna kod Han Kineza , Dungan naroda , Japanaca , Korejaca i Tibetanaca",O O O O O O O O O O O B-LOC I-LOC O O O O B-LOC O B-LOC O B-LOC
+18710,Oni su istovremeno i najveća jezična grupa jugoistočne Evrope .,O O O O O O O B-LOC I-LOC O
+8262,Nikad nije pristupio Nacistima .,O O O B-ORG O
+14594,"Hepburn , Audrey , britansko-holandska glumica",B-PER I-PER I-PER O O O
+3498,"Gustoća naseljenosti u Koprivničkim Ivancu je 64 , stanovnika / km2 .",O O O B-LOC I-LOC O O O O O O O
+9295,Indiana Pacers ( 6 ),B-ORG I-ORG O O O
+9017,Na njegovim koncertnim turnejama išao je širom Evrope i svugdje gdje je išao bio je priznat zbog svoje virtuoznosti i muzičkog ukusa .,O O O O O O O B-LOC O O O O O O O O O O O O O O O
+3715,Alejandro González Iñárritu – Birdman,B-PER I-PER I-PER O O
+14623,Allsvenskan,B-ORG
+8877,David Lynch,B-PER I-PER
+4017,Sergio Pérez,B-PER I-PER
+5584,PREUSMJERI Finale UEFA Evropske lige 2010 .,O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+15039,sa stanicom ( Gare d'Austerlitz ) ;,O O O B-LOC I-LOC O O
+9759,Aleksandar Ranković Marko ( 1909-83 .,B-ORG I-ORG I-ORG O O O
+17714,"Varaždinske Toplice , grad u Varaždinskoj županiji",B-LOC I-LOC O O O B-LOC I-LOC
+7312,"PREUSMJERI Rudolf , kralj Zapadne Franačke",O B-PER I-PER I-PER I-PER I-PER
+7216,Rubens Barrichello no.2,B-PER I-PER O
+17215,Preusmjeri Carica ( čvor ),O B-ORG I-ORG I-ORG I-ORG
+1298,Faraoni pripisuju svim svojim uspješnim poduhvatima Amonovo djelovanje i oni daju mnogo svog bogatstva i zarobljenog plijena na izgradnju svojih hramova .,B-PER O O O O O O O O O O O O O O O O O O O O O
+7816,"Baranjsko Petrovo Selo , naselje i općina u Osječko-baranjskoj županiji",B-LOC I-LOC I-LOC O O O O O B-LOC I-LOC
+11969,Grad se nalazi otprilike na polovini puta između Banja Luke i Jajca .,O O O O O O O O B-LOC I-LOC O B-LOC O
+9174,Spisak općina u Hrvatskoj,B-LOC I-LOC I-LOC I-LOC
+8992,"pampidi ili patagonci ( Urugvaj i Argentina ) ,",O O O O B-LOC O B-LOC O O
+2009,20px]] Norveška,O B-LOC
+4792,Fred Zinnemann,B-PER I-PER
+17982,"Wilton N. Chamberlain , igrač",B-PER I-PER I-PER O O
+4388,Fernando Alonso,B-PER I-PER
+13545,U finalu nakon produžetaka Real Madrid je pobijedio Atlético Madrid rezultatom 4-1 .,O O O O B-ORG I-ORG O O B-ORG I-ORG O O O
+4423,Preusmjeri Njemačka demokratska republika,O B-LOC I-LOC I-LOC
+7416,Fernando Alonso,B-PER I-PER
+14388,Šesto čulo]] – M. Night Shyamalan,O O O B-PER I-PER I-PER
+2828,UEFA Superkup 1998 .,B-ORG I-ORG I-ORG I-ORG
+10022,PREUSMJERI XXXII olimpijske igre - Tokyo 2020 .,O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+8801,"Victoria , krunska princeza od Švedske",B-PER I-PER I-PER I-PER I-PER I-PER
+1892,CSI : Las Vegas,B-ORG I-ORG I-ORG I-ORG
+11210,Naslijedio ga je njegov mlađi brat Henrik .,O O O O O O B-PER O
+398,"C - Shaquille O'Neal , Miami Heat",O O B-PER I-PER O B-ORG I-ORG
+12827,"godine , u kojoj je glumila s Hughom Lauriejem .",O O O O O O O B-PER I-PER O
+4917,Lewis Hamilton,B-PER I-PER
+11632,Preusmjeri Ujedinjeni Arapski Emirati,O B-LOC I-LOC I-LOC
+1013,godine ) je kanadska glumica .,O O O B-LOC O O
+12222,Uslikano kratko nakon smrti Robina Williamsa .,O O O O B-PER I-PER O
+15670,FC Basel,B-ORG I-ORG
+7582,Mađarska se kvalificirala na Evropsko prvenstvo sveukupnim rezultatom 5 – 4 .,B-ORG O O O B-ORG I-ORG O O O O O O
+10811,Mark Webber,B-PER I-PER
+5306,Mercedes GP,B-ORG I-ORG
+10798,Bio je član dinastije Valois .,O O O B-ORG I-ORG O
+15007,"Gupta carstvo - 4,5 miliona km2",B-LOC I-LOC O O O O
+7264,Heinz Fischer,B-PER I-PER
+5839,"Drugi ciljevi uključuju izdavanje novih verzija distribucije , i održavanje distribucije slobodnom i potpuno besplatnom .",O O O O O O O O O O O B-LOC O O O O
+3274,Zajedno su krenuli u napad na Mordor .,O O O O O O B-ORG O
+14043,godine svom sinu Luju VIII zemlju sa sigurnom budućnošću .,O O O B-PER I-PER O O O O O
+10115,"Predala je meč zbog bolova u butini pri vodstvu Venus Williams 1:6 , 1:0 .",O O O O O O O O O B-PER I-PER O O O O
+14637,PREUSMJERI Nogometni savez Bosne i Hercegovine,O B-ORG I-ORG I-ORG I-ORG I-ORG
+13810,PREUSMJERI Univerzitet u Beogradu,O B-ORG I-ORG I-ORG
+6142,"Njena sestra Bisera Veletanlić , također je pjevačica .",O O B-PER I-PER O O O O O
+9573,"PREUSMJERI Akihito , car Japana",O B-PER I-PER I-PER I-PER
+103,"Ova raketa krstari na visini od 15 km brzinom od 0,75 maha .",O O O O O O O O O O O B-ORG O
+14954,Preusmjeri B & H Airlines,O B-ORG I-ORG I-ORG I-ORG
+281,Eventualno je prodano oko 7 miliona primjeraka u Sjedinjenim Američkim Državama .,O O O O O O O O B-LOC I-LOC I-LOC O
+2081,Washington Wizards ( 5 ),B-ORG I-ORG O O O
+10088,=== Ekipa ispale u 3. Liga ( od 2008. godine ) ===,O O O O B-ORG I-ORG O O O O O O
+18804,Šri Lanka 30 dana,B-LOC I-LOC O O
+8815,PREUSMJERI Međunarodna košarkaška federacija,O B-ORG I-ORG I-ORG
+16623,"34 Charles Barkley , K , 1992-96",O B-PER I-PER O O O O
+5041,"72290 - Novi Travnik , BH Pošta",O O B-LOC I-LOC O O O
+2162,PREUSMJERI Nogometni savez Bosne i Hercegovine,O B-ORG I-ORG I-ORG I-ORG I-ORG
+9543,Sjeverna Amerika,B-LOC I-LOC
+10712,PREUSMJERI Sarajevo u kasno osmanlijsko doba,O B-LOC I-LOC I-LOC I-LOC I-LOC
+7559,PREUSMJERI Stankovci ( Hrvatska ),O B-LOC I-LOC I-LOC I-LOC
+2630,"Velika Barna , naselje grada Grubišnog Polja , Bjelovarsko-bilogorska županija",B-LOC I-LOC O O O B-LOC I-LOC O B-LOC I-LOC
+8204,Gustoća naseljenosti u Zagvozdu je 10 stanovnika / km2 .,O O O B-LOC O O O O O O
+17779,Takuma Sato - no.22,B-PER I-PER O O
+15109,"Кукарка ) je grad u Kirovskoj oblasti , Rusija .",O O O O O B-LOC I-LOC O B-LOC O
+18059,"PREUSMJERI Kazimir III , kralj Poljske",O B-PER I-PER I-PER I-PER I-PER
+16421,Grad Zagreb ( uže područje ),O B-LOC O O O O
+13526,Murrayev profil na ATP.com,O O O B-ORG
+1477,U prvoj utakmici kao domaćin Sevilla je poražena rezultatom 0-2 .,O O O O O B-ORG O O O O O
+5207,29 ekipa iz Afrike,O O O B-ORG
+8669,Vozili su ga Felipe Massa i Valtteri Bottas .,O O O B-PER I-PER O B-PER I-PER O
+16530,Zlatan Muslimović - nogometaš,B-PER I-PER O O
+11948,"Michael Collins ( 2 ) , pilot komandnog modula",B-PER I-PER O O O O O O O
+15363,VfB Stuttgart ( 287 ) Borussia Dortmund ( 247 ),B-ORG I-ORG O O O B-ORG I-ORG O O O
+16379,U 1981. i 1991. podaci su sadržani u naselju Dubrovnik ( grad Dubrovnik ) .,O O O O O O O O O B-LOC O O B-LOC O O
+16485,"107 , 105 Judd Trump",O O O B-PER I-PER
+14263,Marija Šerifović,B-PER I-PER
+2212,Prošao je jedino u Southamptonu te je sa samo 16 godina otišao živjeti na drugi kraj Engleske .,O O O O B-ORG O O O O O O O O O O O B-LOC O
+14236,San Antonio Spurs ( 1974–1985 ) Chicago Bulls ( 1985–1986 ),B-ORG I-ORG I-ORG O O O B-ORG I-ORG O O O
+18276,"Nastavljač je i ujedno poricatelj Nietzschea , zagovara volju za nemoć , kontemplativnu dokolicu i spokojstvo korjenite skepse .",O O O O O B-PER O O O O O O O O O O O O O
+13372,Daniel Ricciardo,B-PER I-PER
+7880,Ime je dobila po Charles-Augustin de Coulombu .,O O O O B-PER I-PER I-PER O
+9987,Utočište za ludake Beechworth,B-ORG I-ORG I-ORG I-ORG
+15985,Trenutno nastupa za makedonski klub FK Vardar .,O O O B-LOC O B-ORG I-ORG O
+8299,Gustoća naseljenosti u Čačincima je 19 stanovnika / km2 .,O O O B-LOC O O O O O O
+2997,PREUSMJERI Svjetsko prvenstvo u nogometu 2006 - eliminacijska faza,O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+443,Njih su se dvojica otputili u London kako bi kupili sve što mu je potrebno za školovanje .,O O O O O O B-LOC O O O O O O O O O O O
+4749,"godine Brešće ) je naseljeno mjesto u sastavu grada Osijeka , Osječko-baranjska županija , Republika Hrvatska .",O O O O O O O O O B-LOC O B-LOC I-LOC O B-LOC I-LOC O
+15874,Sebastian Vettel,B-PER I-PER
+16012,Preusmjeri Sicherheitsdienst ( SS ),O B-ORG I-ORG I-ORG I-ORG
+17954,Od 1857. do 1981. sadrži dio podataka za općine Stubičke Toplice i Jakovlje ( Zagrebačka županija ) .,O O O O O O O O O B-LOC I-LOC O B-LOC O B-LOC I-LOC O O
+10426,Papa Siksto IV ( 1471-1484 ),B-PER I-PER I-PER O O O
+18730,Felipe Massa,B-PER I-PER
+7218,Microsoft-ovi programi za programere i samo oglašavanje su dobilni znatnu pažnju raznih programera .,B-ORG O O O O O O O O O O O O O
+11643,Najveći i glavni grad Tórshavn broji 17 000 stanovnika .,O O O O B-LOC O O O O O
+9228,Golden State Warriors,B-ORG I-ORG I-ORG
+15053,IFK Norrköping ( 10 ),B-ORG I-ORG O O O
+8041,Također u SLC-u je smješten NBA klub Utah Jazz .,O O O O O B-ORG O B-ORG I-ORG O
+1063,Jenson Button,B-PER I-PER
+16072,Bijou – 3:37,B-ORG O O
+14978,Preusmjeri Druz Julije Cezar,O B-PER I-PER I-PER
+5953,PREUSMJERI Stadion Julio Martínez Prádanos,O B-ORG I-ORG I-ORG I-ORG
+14548,Pete Sampras,B-PER I-PER
+14572,Australija,B-LOC
+11957,Pravo na nasljedstvo imaju samo potomci kralja Carla XVI Gustafa .,O O O O O O O B-PER I-PER I-PER O
+17624,Adis Nurković ( NK Travnik ),B-PER I-PER O B-ORG I-ORG O
+3780,godine u izdanju diskografske kuće Jugoton .,O O O O O B-ORG O
+5898,U 1869. sadrži dio podataka općine Murter-Kornati .,O O O O O O B-LOC O
+9717,Finale su odigrali Schalke 04 i Inter Milano .,O O O B-ORG I-ORG O B-ORG I-ORG O
+12954,"PREUSMJERI Buffy , ubica vampira",O B-ORG I-ORG I-ORG I-ORG
+6152,Adolf Hitler je odlučio da ostane u gradu .,B-PER I-PER O O O O O O O
+17406,Bukovica ( Kiseljak ),B-LOC I-LOC I-LOC I-LOC
+4786,"Trenutno nastupa u League Two , četvrtom rangu engleskog nogometa .",O O O B-ORG I-ORG O O O B-ORG I-ORG O
+3305,Preusmjeri Socijalistička federativna republika Jugoslavija,O B-LOC I-LOC I-LOC I-LOC
+14173,Spisak općina u Hrvatskoj,B-LOC I-LOC I-LOC I-LOC
+11125,Vratio se iz mrtvih kao Gandalf bijeli .,O O O O O B-PER O O
+16198,"preusmjeri Juan Carlos , kralj Španije",O B-PER I-PER I-PER I-PER I-PER
+3577,"Palma de Mallorca , Španija",B-LOC I-LOC I-LOC O B-LOC
+6227,PREUSMJERI Kuća lutaka ( serija ),O B-ORG I-ORG I-ORG I-ORG I-ORG
+9853,"Nastupao je za HŠK Zrinjski , HNK Rijeku i Grasshopper Club Zürich .",O O O B-ORG I-ORG O B-ORG I-ORG O B-ORG I-ORG I-ORG O
+13119,"Njegove reforme uključuju i ukidanje konzervativnih janjičara 1826. godine , što je omogučilo njegovim nasljednicima lakše donošenje reformi .",O O O O O O B-ORG O O O O O O O O O O O O
+5154,Preusmjeri Partija demokratskog progresa,O B-ORG I-ORG I-ORG
+6680,"Kevin Garnett , Minnesota Timberwolves",B-PER I-PER O B-ORG I-ORG
+7572,PREUSMJERI Pleš ( Bednja ),O B-LOC I-LOC I-LOC I-LOC
+593,"godine , započinje historija i djelatničko razdoblje do današnjih dana , te okuplja autore i artiste koji će kroz buduće razdoblje biti nazvani majstorima , a Studio u kojem su djelovali , Zagrebačka škola crtanog filma .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-ORG I-ORG I-ORG I-ORG O
+15199,"Chinedu Ogbuke , nogometaš",B-PER I-PER O O
+17396,1 ) Libija 2 ) Saudijska Arabija,O O B-LOC O O B-LOC I-LOC
+10743,"Njegov nasljednik Sulejman I , dao je tamo kasnije izgraditi poznatu Sulejman-džamiju .",O O B-PER I-PER O O O O O O O O O
+17734,Naslijedio ga je njegov potpredsjednik Millard Fillmore .,O O O O O B-ORG I-ORG O
+8340,"Dijelovi aviona bit će pravljeni u Japanu i Italiji , dok će se finalno sklapanje vršiti u Seattleu .",O O O O O O B-LOC O B-LOC O O O O O O O O B-LOC O
+12614,Zatim je studirao pravo na Zagrebačkom univerzitetu .,O O O O O B-ORG I-ORG O
+4297,godine na albumu A Kind of Magic .,O O O B-ORG I-ORG I-ORG I-ORG O
+13935,PREUSMJERI Prolog ( Livno ),O B-LOC I-LOC I-LOC I-LOC
+11671,Istočni Timor ( također WO ),B-LOC I-LOC O O O O
+3289,FK Velež iz Mostara je treći tim po nastupima u Evropi sa 28 utakmica .,B-ORG I-ORG O B-LOC O O O O O O B-LOC O O O O
+1225,Preusmjeri Schärding ( okrug ),O B-LOC I-LOC I-LOC I-LOC
+16041,Sébastien Buemi,B-PER I-PER
+14568,10 ekipa iz Južne Amerike,O O O B-ORG I-ORG
+17053,Jenson Button,B-PER I-PER
+11614,Felipe Massa,B-PER I-PER
+17078,Nalaze se na magistralnom putu Sarajevo .,O O O O O B-LOC O
+13391,Nico Hülkenberg,B-PER I-PER
+17724,Nastao je na osnovu Mercedes-Benz NG modela .,O O O O B-ORG O O O
+4142,Lewis Hamilton,B-PER I-PER
+16565,Nakon još jedne teške utakmice protiv Turske golom Ronalda Brazil se plasirao u finale .,O O O O O O B-ORG O B-PER B-LOC O O O O O
+935,Pastor Maldonado,B-PER I-PER
+10095,"7. juni - Alois Hitler , otac Adolfa Hitlera",B-LOC I-LOC O B-PER I-PER O O B-PER I-PER
+119,PREUSMJERI Rukometna reprezentacija Kine,O B-ORG I-ORG I-ORG
+9540,Permski kraj ( Пермский край ),B-LOC I-LOC O O O O
+10003,njemački političar ( SPD ),B-LOC O O B-ORG O
+1259,PREUSMJERI Rukometna reprezentacija Poljske,O B-ORG I-ORG I-ORG
+11493,Hugo od sv. Viktora,B-PER I-PER I-PER I-PER
+8546,Fernando Alonso,B-PER I-PER
+17163,=== Srbija i Crna Gora na SP 2006 ===,O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG O
+15914,Ivo Karlović,B-PER I-PER
+12136,"U 1857. i 1869. podaci su sadržani u naselju Klarići , a u 1921. i 1931. u naselju Vrh .",O O O O O O O O O B-LOC O O O O O O O O B-LOC O
+3849,Beagle ( krater ),B-LOC I-LOC I-LOC I-LOC
+11579,Alžir ( grad ),B-LOC I-LOC I-LOC I-LOC
+14678,"Na početku knjige vodi se rasprava između Sokrata i Tresimaha , o pravičnosti .",O O O O O O O B-PER O O O O O O
+18199,Neki tvrde da je otkrio Australiju,O O O O O B-LOC
+18291,PREUSMJERI Svjetsko prvenstvo u nogometu 2006 - eliminacijska faza,O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+13510,U 1880. i 1890. sadrži dio podataka općine Mala Subotica .,O O O O O O O O B-LOC I-LOC O
+796,Hagartek – EMI,O O B-ORG
+4725,Građanska demokratska stranka Bosne i Hercegovine,B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+11073,"51 ekipa iz Evrope ,",O O O B-ORG O
+14630,Široki Brijeg ( branitelj naslova ),B-ORG I-ORG O O O O
+3535,"On je sjedište nekih od najvažnijih institucija Evropske unije , sekretarijat Beneluksa i sjedište NATO-a , kao i dom brojnih međunarodnih , višejezičkih organizacija , političara , diplomata i civilnih službenika .",O O O O O O O B-ORG I-ORG O O B-ORG O O B-ORG O O O O O O O O O O O O O O O O O
+7293,godine ubijeno više od 200 mještana ( prema navodima Amnesty Internationala ) u napadu naoružanih gerilaca .,O O O O O O O O O B-ORG I-ORG O O O O O O
+13172,PREUSMJERI Međunarodni univerzitet Burch,O B-ORG I-ORG I-ORG
+810,Smallville ( sezona 8 ),B-ORG I-ORG I-ORG I-ORG I-ORG
+7492,Aldburg se nalazi u Rohanu .,O O O O B-ORG O
+9379,Umro je sa 65 godina u SAD-u .,O O O O O O B-LOC O
+13891,Preusmjeri Međunarodna skijaška federacija,O B-ORG I-ORG I-ORG
+5718,"Roger Ebert je , međutim , u recenziji iz 1984. naglasio kako je originalna verzija remek-djelo , dok je skraćena bila obična karikatura .",B-PER I-PER O O O O O O O O O O O O O O O O O O O O O O
+10612,Spisak općina u Hrvatskoj,B-LOC I-LOC I-LOC I-LOC
+6817,Sparta Prag pobjednik sveukupnim rezultatom 4–1 .,B-ORG I-ORG O O O O O
+5658,"Ivanovci Gorjanski , naselje grada Đakova , Osječko-baranjska županija",B-LOC I-LOC O O O B-LOC O B-LOC I-LOC
+14718,"Materija , uključujući i živi svijet , posvuda , sveukupno se i neprekidno mijenja .",B-LOC O O O O O O O O O O O O O O
+5881,Narodna stranka Radom za boljitak,B-ORG I-ORG I-ORG I-ORG I-ORG
+17349,Na zapadu ga oplakuje Sredozemno more .,O O O O B-LOC I-LOC O
+7948,Preusmjeri Plitvička jezera ( nacionalni park ),O B-LOC I-LOC I-LOC I-LOC I-LOC I-LOC
+16611,Akadsko carstvo - 650.000 km2,B-LOC I-LOC O O O
+7668,PREUSMJERI Gradina ( Maglaj ),O B-ORG I-ORG I-ORG I-ORG
+3721,Tranmere Rovers i Newcastle United su odigrali utakmicu sa najviše postignutih golova .,B-ORG I-ORG O B-ORG I-ORG O O O O O O O O
+8261,Sa osvojenih 27 titula Grasshopper je najuspješniji klub Superlige .,O O O O B-ORG O O O O O
+16849,"Ostrvo Man ,",B-LOC I-LOC O
+12337,"Preusmjeri Anne , kraljevska princeza",O B-PER I-PER I-PER I-PER
+2894,Carlos Sainz Jr .,B-PER I-PER I-PER I-PER
+13207,PREUSMJERI HRK Izviđač Ljubuški,O B-ORG I-ORG I-ORG
+17263,"uključujući 19 ekipa iz prethodne sezone Premijer lige , te tri kluba iz prethodne sezone First Division .",O O O O O O B-ORG I-ORG O O O O O O O B-ORG I-ORG O
+10775,"U prvoj utakmici izgubili su od Italije 0:2 , te potom i od Meksika 1:2 .",O O O O O O B-ORG O O O O O O B-ORG O O
+17727,Slično će podučavati Akvinac .,O O O B-PER O
+2209,"Svrstava ga to , nakon Zagreba , Splita , Rijeke i Osijeka na peto mjesto po broju stanovnika među hrvatskim gradovima .",O O O O O B-LOC O B-LOC O B-LOC O B-LOC O O O O O O O O O O
+9544,Drugo mjesto je osvojila Nigerija a treće Alžir .,O O O O B-ORG O O B-ORG O
+11543,Jarno Trulli,B-PER I-PER
+18232,Nastupio je na Svjetskom prvenstvo u alpskom skijanju 2015 . .,O O O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG O
+6927,Preusmjeri Gifu ( grad ),O B-ORG I-ORG I-ORG I-ORG
+14899,Profesionalnu karijeru je počeo 1968. godine u ekipi Scunthorpe kao napadač .,O O O O O O O O B-ORG O O O
+4872,Zaragoza,B-LOC
+572,Sve do potpisa ugovora za Stoke bio je posuđivan raznim klubovima u kojima je ostajao po jednu godinu .,O O O O O B-ORG O O O O O O O O O O O O O
+16391,"Pojednostavljeno , Strepsirrhini su uglavnom aktivni noću ( uz pojedine iznimke ) dok su Haplorrhini , opet uz neke iznimke , uglavnom dnevno aktivni .",O O B-PER O O O O O O O O O O O B-PER O O O O O O O O O O
+5744,Preusmjeri Građanski rat u Tadžikistanu,O B-ORG I-ORG I-ORG I-ORG
+5876,"*Negroidi ( Afrika ) 88-100 % , ukljućivši i",O O B-LOC O O O O O O
+1722,"Breznica ( Hrvatska ) , naselje i općina u Varaždinskoj županiji",B-LOC I-LOC I-LOC I-LOC O O O O O B-LOC I-LOC
+16921,Fred Zinnemann,B-PER I-PER
+13236,25px]] Pridnjestrovska Moldavska Republika,O B-LOC I-LOC I-LOC
+3166,Gustoća naseljenosti u Dubrovačkom primorju je - stanovnika / km2 .,O O O B-LOC I-LOC O O O O O O
+16707,"PREUSMJERI Catherine , vojvotkinja od Cambridgea",O B-PER I-PER I-PER I-PER I-PER
+16094,"PREUSMJERI Fridrik IX , kralj Danske",O B-PER I-PER I-PER I-PER I-PER
+4473,Najveći uspjeh na Evropskim prvenstvima Srbija i Crna Gora je ostvarila 2000 .,O O O B-LOC I-LOC B-ORG I-ORG I-ORG I-ORG O O B-ORG O
+5689,Engleska i Irska su se kvalificirali u osminufinala .,B-ORG O B-ORG O O O O O O
+7887,Smallville ( sezona 1 ),B-ORG I-ORG I-ORG I-ORG I-ORG
+4832,Centar socijalne medicine Baumgartner Höhe - Bolnica i centar za njegu Otto Wagner,B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+12546,Serdar je bio zapovjednik svih janjičarskih formacija na ovom području .,B-PER O O O O B-ORG O O O O O
+17466,Finale UEFA Lige prvaka 2014 .,B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+18118,Felipe Massa,B-PER I-PER
+5772,"Ipak , prvi prototip ove boginje javlja se pod imenom Raatri , što je istovremeno i prototip boginje Durga .",O O O O O O O O O O O O O O O O O O B-ORG O
+3898,Stanislas Wawrinka,B-PER I-PER
+6070,PREUSMJERI Svjetsko prvenstvo u nogometu 2006. - Grupa C,O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+6291,Paul di Resta,B-PER I-PER I-PER
+8117,Preusmjeri Senat Sjedinjenih Američkih Država,O B-ORG I-ORG I-ORG I-ORG
+16217,"Pored osnovnih sudova postoji pet okružnih sudova , u Banjoj Luci , Bijeljini , Doboju , Trebinju i Istočnom Sarajevu .",O O O O O O O O O B-LOC I-LOC O B-LOC O B-LOC O B-LOC O B-LOC I-LOC O
+6058,"Silvana Armenulić , pjevačica",B-PER I-PER O O
+473,Grčka ( 31 ),B-ORG O O O
+3042,Ispred se nalaze Drina i Kupa,O O O B-LOC O B-LOC
+8538,Jenson Button,B-PER I-PER
+89,Preusmjeri Evropski put E60,O B-ORG I-ORG I-ORG
+10462,Svjetsko prvenstvo u nogometu 1994 .,B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+4141,NBA trener godine,B-ORG O O
+15850,Gregor Schlierenzauer – 5 ( 40 ),B-PER I-PER O O O O O
+10730,Kuba,B-LOC
+10134,Preusmjeri Al Dino,O B-PER I-PER
+1226,Šri Lanka ( službeni ),B-LOC I-LOC O O O
+10087,Pratio je svog oca u Srednju zemlju .,O O O O O B-LOC I-LOC O
+7442,Sergio Pérez,B-PER I-PER
+8809,Članica je OPECa od 2007. godine .,O O B-ORG O O O O
+11002,Najveći uspjeh u dresu Nigerije ostvario je šampionskom titulom na Afričkom kupu nacija 2013. godine .,O O O O B-ORG O O O O O B-ORG I-ORG I-ORG O O O
+2669,Princes of the Universe – 3:32,B-ORG I-ORG I-ORG I-ORG O O
+13137,Takmičenje obuhvata klubove iz Posavskog i Tuzlanskog kantona .,O O O O B-LOC O B-LOC I-LOC O
+3237,"PREUSMJERI Filip II , vojvoda Orléansa",O B-PER I-PER I-PER I-PER I-PER
+16066,"71373 - Župča , BH Pošta",O O B-LOC O O O
+5914,Juan Martín del Potro,B-PER I-PER I-PER I-PER
+1368,Preusmjeri Konstantin VII Porfirogenet,O B-PER I-PER I-PER
+3196,Borussia Dortmund pobjednik sveukupnim rezultatom 3–0 .,B-ORG I-ORG O O O O O
+12163,Tokio,B-LOC
+17529,Cleveland Cavaliers ( 2 ),B-ORG I-ORG O O O
+5261,"Törökbecse ) je grad i sjedište istoimene općine u Vojvodini , Srbija .",O O O O O O O O O B-LOC O B-LOC O
+4563,Preusmjeri Thomas Müller ( nogometaš ),O B-PER I-PER I-PER I-PER I-PER
+16815,Preusmjeri NK Istra 1961,O B-ORG I-ORG I-ORG
+5859,Rubens Barrichello,B-PER I-PER
+12459,Argo ( krater ),B-LOC I-LOC I-LOC I-LOC
+7224,"Svrstavanje ostataka u odvojenu vrstu je kontroverzno , jer ga neki istraživači smatraju regionalnom varijantom vrste Australopithecus afarensis .",O O O O O O O O O O O O O O O O B-LOC I-LOC O
+765,Jedino u Africi nisu zabilježeni tragovi posljednje oledbe .,O O B-LOC O O O O O O
+12367,Producenti]] – Mel Brooks,O O B-PER I-PER
+8583,PREUSMJERI Zračne snage SAD-a,O B-ORG I-ORG I-ORG
+3777,preusmjeri Copa América 1983 .,O B-ORG I-ORG I-ORG I-ORG
+9080,Kvalifikacije za Evropsko prvenstvo 1964 .,B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+16294,"Desinić , naselje i općina u Krapinsko-zagorskoj županiji",B-LOC O O O O O B-LOC I-LOC
+9261,Travnik,B-LOC
+5534,Anton Pavlovič Čehov ( 1860.-1904 .,B-PER I-PER I-PER O O O
+5780,Socijalistička republika Slovenija,B-LOC I-LOC I-LOC
+6020,"U to vrijeme , zadnji studijski album u kojem pjeva Bruce Dickinson .",O O O O O O O O O O B-PER I-PER O
+7206,Pete Sampras,B-PER I-PER
+15042,"Srbobran , 4 ( 16 ) 10.1894 , br .",B-LOC O O O O O O O O O
+8818,"Karlo VII , kralj Francuske",B-PER I-PER I-PER I-PER I-PER
+14820,je bosanskohercegovački književnik .,O B-LOC O O
+15116,Preusmjeri Muhamed Hevaija Uskufija,O B-PER I-PER I-PER
+18267,Član ove grupe bio je i Bašagićev otac .,O O O O O O B-ORG O O
+14942,godine ) je bio hrvatski pisac .,O O O O B-LOC O O
+11781,Živi i radi u Washingtonu .,O O O O B-LOC O
+2399,Od 1898. godine domaće utakmice igra na stadionu City Ground .,O O O O O O O O B-ORG I-ORG O
+17613,Slovenija]] Jurij Tepeš Robert Kranjec Jernej Damjan Peter Prevc,O B-PER I-PER B-PER I-PER B-PER I-PER B-PER I-PER
+7090,"PREUSMJERI Ana , carica Rusije",O B-PER I-PER I-PER I-PER
+14771,Gustoća naseljenosti u Plaškom je 13 stanovnika / km2 .,O O O B-LOC O O O O O O
+13428,"Kuzanski , Nikola",I-PER I-PER I-PER
+18415,Las Palmas de Gran Canaria,B-LOC I-LOC I-LOC I-LOC I-LOC
+2877,Borussia Mönchengladbach,B-ORG I-ORG
+18661,Jean-Éric Vergne,B-PER I-PER
+14684,Barcelona ( pobjednik u grupi H ),B-ORG O O O O O O
+15351,Segunda División 16 .,B-ORG I-ORG O O
+8469,PREUSMJERI FK Željezničar Sarajevo,O B-ORG I-ORG I-ORG
+18792,Rafael Nadal,B-PER I-PER
+2649,Preusmjeri Xena : Princeza ratnica,O B-ORG I-ORG I-ORG I-ORG
+7740,Za to bivše naselje podaci su sadržani u naselju Veliko Vukovje .,O O O O O O O O O B-LOC I-LOC O
+10590,Kamui Kobayashi,B-PER I-PER
+15483,Od 1994. godine započinje stalnu saradnju sa Demokratskom strankom i njenim predsjednikom Zoranom Đinđićem .,O O O O O O O B-ORG I-ORG O O O B-PER I-PER O
+13887,Beagle ( krater ),B-LOC I-LOC I-LOC I-LOC
+5274,Carlos Moyá,B-PER I-PER
+16231,"Najstariji oblik je džamija-dvorište okruženo stubovima na kojima su lukovi ( u Kairuanu , i u Kairu ) .",O O O O O O O O O O O O B-LOC O O O B-LOC O O
+7044,Govori se da je naručitelj njegovog ubistva bio direktno Osama bin Laden .,O O O O O O O O O B-PER I-PER I-PER O
+1338,Sven Hannawald,B-PER I-PER
+18453,Rođen je 1966. godine u Zavidovićima .,O O O O O B-LOC O
+3179,"Otac mu je bio Leopold Mozart , veoma značajan u životu svoga sina .",O O O O B-PER I-PER O O O O O O O O
+3611,Igra na poziciji napadača .,O O O B-PER O
+13670,"Blanka Vlašić 2,01 m SB",B-PER I-PER O O O
+11102,Atlético Madrid,B-ORG I-ORG
+18336,*Zapjevaj mi ispod glasa - Jasna Zlokić,O O O O O B-PER I-PER
+2163,"Babice Gornje , Lukavac",B-LOC I-LOC O B-LOC
+16218,Sebastian Vettel,B-PER I-PER
+17679,Urugvaj je peti put u svojoj historiji osvojio šampionsku titulu .,B-ORG O O O O O O O O O O
+7899,1996. godine tri člana sastali su se slučajno u Švedskoj i u martu 1997. snimaju svoj treći album 10 godina .,O O O O O O O O O B-LOC O O O O O O O O O O O
+11728,"Član kojega bira Predstavnički dom Bosne i Hercegovine , a koji ne obavlja pravosudnu funkciju i nije iz reda zastupnika Parlamentarne skupštine ;",O O O B-ORG I-ORG I-ORG I-ORG I-ORG O O O O O O O O O O O O B-ORG I-ORG O
+1158,U Amsterdamu 1931. pobjeđuje Euwea rezultatom +2 -0 =8 .,O B-LOC O O B-PER O O O O O
+17505,Regija I - Afrika,O O O B-LOC
+18002,"Cimiroti , Bosanska Gradiška",B-LOC O B-LOC I-LOC

@@ -80,7 +80,9 @@ if __name__ == "__main__":
                         choices=[
                             'sl_500k', 'sl_bsnlp', 'sl_ewsd', 'sl_scr', 'sl',
                             'hr_500k', 'hr_bsnlp', 'hr',
-                            'sr_set', 'sr'
+                            'sr_set', 'sr',
+                            'bs_wann', 'bs',
+                            'mk_wann', 'mk'
                         ])
     parser.add_argument('pretrained_model', help='Pretrained model to use for fine tuning',
                         choices=['mcbert', 'xlmrb', 'xlmrl'])

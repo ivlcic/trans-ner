@@ -64,7 +64,7 @@ if __name__ == "__main__":
         description='NER Neural inference script for Slovene, Croatian and Serbian language')
     parser.add_argument('pretrained_model', help='Pretrained model to use for inference')
     parser.add_argument('lang', help='language of the text',
-                        choices=['sl', 'hr', 'sr'])
+                        choices=['sl', 'hr', 'sr', 'bs', 'mk'])
     parser.add_argument('text', help='Text to classify')
     tmmst.args.add_common_dirs(parser)
     parser.add_argument(

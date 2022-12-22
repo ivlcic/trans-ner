@@ -130,7 +130,7 @@ def conll2csv(conll_path: str, base_name: str, append: bool, ner_tag_idx: int, m
     max_seq_len = map_filter.get('max_seq_len', 128)
     stop_at = map_filter.get('stop_at', -1)
     with open(conll_path) as fp:
-        line = fp.readline()
+        line = 'whatever'
         while line:
             line = fp.readline()
             if line.startswith('#'):
@@ -349,20 +349,96 @@ def chech_dir_param(conf: Dict, param_name: str, parent_path: str) -> str:
     return fpath
 
 
+def filter_wikiann(lang: str, proc_fname: str) -> None:
+    data = ''
+    invalid = {"''", "'", "]]", "[[", "==", "**", "``"}
+    counter = 0
+    sent_id = 0
+    prefix = lang + ':'
+    with open(os.path.join(proc_fname), 'rt', encoding='utf-8') as fp:
+        line = 'whatever'
+        while line:
+            line = fp.readline()
+            if line == '\n':
+                if counter > 0:
+                    data += '\n'
+                counter = 0
+                continue
+            if line == '':
+                continue
+            tokens = line.split('\t')
+            if tokens[0] and tokens[0].startswith(prefix):
+                tokens[0] = tokens[0][len(prefix):]
+            if tokens[0] in invalid:
+                continue
+            if tokens[0].startswith("''"):
+                tokens[0] = tokens[0][2:]
+            if tokens[0].startswith("**"):
+                tokens[0] = tokens[0][2:]
+            if counter == 0:
+                data += '# sent_id = ' + str(sent_id) + '\n'
+                sent_id += 1
+            if counter == 0 and tokens[0] == '-':
+                continue
+            if counter == 0 and tokens[0] == '–':
+                continue
+            if counter == 0 and tokens[0] == ',':
+                continue
+            if counter == 0 and tokens[0] == ')':
+                continue
+            data += str(counter) + '\t' + tokens[0] + '\t' + tokens[1]
+            counter += 1
+
+    with open(os.path.join(proc_fname), 'wt', encoding='utf-8') as fp:
+        fp.write(data)
+
+
 def prep_data(args, confs: List[Dict]) -> None:
     for conf in confs:
         type = conf.get('type')
-        zip_fname = chech_dir_param(conf, 'zip', args.corpora_dir)
-        zipfile.ZipFile(zip_fname).extractall(tmmst.const.default_tmp_dir)
-        proc_fname = chech_dir_param(conf, 'proc_file', tmmst.const.default_tmp_dir)
-        target_base_name = chech_param(conf, 'result_name')
-        map_filter = chech_param(conf, 'map_filter')
+        if type == 'wikiann':
+            ner_conll_idx = chech_param(conf, 'ner_conll_idx')
+            target_base_name = chech_param(conf, 'result_name')
+            map_filter = chech_param(conf, 'map_filter')
+            lang = chech_param(conf, 'lang')
+            zip_fname = chech_dir_param(conf, 'zip', args.corpora_dir)
+            zip_dir = os.path.join(tmmst.const.default_tmp_dir, target_base_name)
+            if not os.path.exists(zip_dir):
+                os.mkdir(zip_dir)
+            zipfile.ZipFile(zip_fname).extractall(zip_dir)
+            proc_fname = chech_dir_param(conf, 'proc_file', tmmst.const.default_tmp_dir)
+            with open(os.path.join(proc_fname, 'train'), 'rt', encoding='utf-8') as fp:
+                data = fp.read()
+            with open(os.path.join(proc_fname, 'dev'), 'rt', encoding='utf-8') as fp:
+                data += "\n"
+                data += fp.read()
+            with open(os.path.join(proc_fname, 'test'), 'rt', encoding='utf-8') as fp:
+                data += "\n"
+                data += fp.read()
+            with open(os.path.join(proc_fname, 'extra'), 'rt', encoding='utf-8') as fp:
+                data += "\n"
+                data += fp.read()
+            proc_fname = os.path.join(proc_fname, 'bs-wann.conll')
+            with open(proc_fname, 'wt', encoding='utf-8') as fp:
+                fp.write(data)
+            filter_wikiann(lang, proc_fname)
+            conll2csv(proc_fname, os.path.join(args.data_dir, target_base_name), False, ner_conll_idx, map_filter)
         if type == 'conll':
+            zip_fname = chech_dir_param(conf, 'zip', args.corpora_dir)
+            zipfile.ZipFile(zip_fname).extractall(tmmst.const.default_tmp_dir)
+            proc_fname = chech_dir_param(conf, 'proc_file', tmmst.const.default_tmp_dir)
+            target_base_name = chech_param(conf, 'result_name')
+            map_filter = chech_param(conf, 'map_filter')
             logger.debug('Converting conll data [%s -> %s]...', proc_fname, target_base_name)
             ner_conll_idx = chech_param(conf, 'ner_conll_idx')
             conll2csv(proc_fname, os.path.join(args.data_dir, target_base_name), False, ner_conll_idx, map_filter)
             logger.info('Converted data [%s -> %s]', proc_fname, target_base_name)
         if type == 'bsnlp':
+            zip_fname = chech_dir_param(conf, 'zip', args.corpora_dir)
+            zipfile.ZipFile(zip_fname).extractall(tmmst.const.default_tmp_dir)
+            proc_fname = chech_dir_param(conf, 'proc_file', tmmst.const.default_tmp_dir)
+            target_base_name = chech_param(conf, 'result_name')
+            map_filter = chech_param(conf, 'map_filter')
             logger.debug('Converting BSNLP data [%s -> %s]...', proc_fname, target_base_name)
             bsnlp2csv(proc_fname, os.path.join(args.data_dir, target_base_name), False, map_filter)
             logger.info('Converted data [%s -> %s]', proc_fname, target_base_name)
@@ -426,7 +502,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(
         description='NER Data preparation and normalization for Slovene, Croatian and Serbian language')
     parser.add_argument('lang', help='language of the text',
-                        choices=['sl', 'hr', 'sr'])
+                        choices=['sl', 'hr', 'sr', 'bs', 'mk'])
     parser.add_argument(
         '-d', '--data_dir', help='Data output directory', type=tmmst.args.dir_path,
         default=tmmst.const.default_data_dir)
@@ -543,7 +619,6 @@ if __name__ == "__main__":
         prep_data(args, confs)
         split_data(args, confs)
     if args.lang == 'sr':
-        tokenizer = tmmst.data.get_classla_tokenizer(args.lang)
         confs = [
             {
                 'type': 'conll',
@@ -558,6 +633,38 @@ if __name__ == "__main__":
                     'B-per': 'B-PER', 'I-per': 'I-PER',
                     'B-misc': 'B-MISC', 'I-misc': 'I-MISC',
                     'B-deriv-per': 'B-PER', 'I-deriv-per': 'I-PER'
+                }
+            }
+        ]
+        prep_data(args, confs)
+        split_data(args, confs)
+    if args.lang == 'bs':
+        confs = [
+            {
+                'type': 'wikiann',
+                'lang': 'bs',
+                'zip': 'bs-wann.zip',
+                'proc_file': 'bs_wann',
+                'result_name': 'bs_wann',
+                'ner_conll_idx': 2,
+                'map_filter': {
+                    'max_seq_len': 128
+                }
+            }
+        ]
+        prep_data(args, confs)
+        split_data(args, confs)
+    if args.lang == 'mk':
+        confs = [
+            {
+                'type': 'wikiann',
+                'lang': 'mk',
+                'zip': 'mk-wann.zip',
+                'proc_file': 'mk_wann',
+                'result_name': 'mk_wann',
+                'ner_conll_idx': 2,
+                'map_filter': {
+                    'max_seq_len': 128
                 }
             }
         ]
