@@ -38,7 +38,12 @@ if __name__ == "__main__":
     mc = TrainedModelContainer(
         tmmst.args.get_pretrained_model_path(args), []
     )
-    export_path = os.path.join(args.models_dir, args.target_model)
+
+    if os.sep in args.target_model:
+        export_path = os.path.join(args.target_model)
+    else:
+        export_path = os.path.join(args.models_dir, args.target_model)
+
     if not os.path.exists(export_path):
         os.makedirs(export_path)
 
