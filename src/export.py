@@ -34,7 +34,7 @@ if __name__ == "__main__":
         logger.info("Will run on specified cuda [%s] device only!", args.limit_cuda_device)
 
     mc = TrainedModelContainer(
-        tmmst.args.get_pretrained_model_path(args), []
+        tmmst.args.get_pretrained_model_path(args), tmmst.args.get_tags_to_remove(args)
     )
 
     if os.sep in args.target_model:
