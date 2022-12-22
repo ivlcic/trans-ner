@@ -26,9 +26,7 @@ if __name__ == "__main__":
     parser.add_argument('pretrained_model', help='Pretrained model to export')
     parser.add_argument('target_model', help='Target model to export')
     tmmst.args.add_common_dirs(parser)
-    parser.add_argument(
-        '-c', '--limit_cuda_device', help='Limit ops to specific cuda device.', type=int, default=None
-    )
+    tmmst.args.add_common_arguments(parser)
     # noinspection PyTypeChecker
     args: ArgNamespace = parser.parse_args()
 
