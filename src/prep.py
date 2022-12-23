@@ -1,6 +1,4 @@
 #!/usr/bin/env python
-import numpy as np
-
 import tmmst
 import tmmst.data
 import tmmst.const
@@ -12,29 +10,9 @@ import re
 import zipfile
 import shutil
 import logging
-import classla
-import pandas as pd
 from typing import Dict, List, Any, Callable
 from io import StringIO
 
-# Training corpus SETimes.SR 1.0
-# https://www.clarin.si/repository/xmlui/handle/11356/1200
-#
-# hr500k
-# https://www.clarin.si/repository/xmlui/handle/11356/1183
-#
-# Training corpus SUK 1.0
-# https://www.clarin.si/repository/xmlui/handle/11356/1747
-#
-# BSNLP
-# http://bsnlp.cs.helsinki.fi/data/bsnlp2021_train_r1.zip
-# http://bsnlp.cs.helsinki.fi/data/BSNLP-2017-Data-2021-Fix-Release.zip
-# bsnlp test data
-# http://bsnlp.cs.helsinki.fi/data/bsnlp2021_test_v5.zip
-#
-# I've merged 2017 and 2021 and properly renamed language dirs.
-# We'll do train/test/dev split on our own.
-#
 logger = logging.getLogger('prep')
 logger.addFilter(tmmst.fmt_filter)
 
@@ -332,21 +310,7 @@ def bsnlp2csv(bsnlp_path: str, base_name: str, append: bool, map_filter: Dict = 
     conll2csv(conll_fname, base_name, append, 9, map_filter)
 
 
-def chech_param(conf: Dict, p_name: str) -> Any:
-    p = conf.get(p_name)
-    if not p:
-        logger.warning('Missing [%s] param in [%s] config', p_name, conf)
-        exit(1)
-    return p
 
-
-def chech_dir_param(conf: Dict, param_name: str, parent_path: str) -> str:
-    fname = chech_param(conf, param_name)
-    fpath = os.path.join(parent_path, fname)
-    if not os.path.exists(fpath):
-        logger.warning('Missing [%s] filename in dir [%s]', fname, parent_path)
-        exit(1)
-    return fpath
 
 
 def filter_wikiann(lang: str, proc_fname: str) -> None:
@@ -393,20 +357,32 @@ def filter_wikiann(lang: str, proc_fname: str) -> None:
         fp.write(data)
 
 
+def filter_cnec(procfname: str):
+    # I = ORG
+    # T = MISC (time) -> O
+    # P = PER
+    # G = LOC
+    # M = MISC (media) -> ORG (if not @)
+    # O = MISC (product)
+    # A = MISC (address, number) -> O
+    # B-[^ITPGMAO]{1,}$
+    pass
+
+
 def prep_data(args, confs: List[Dict]) -> None:
     for conf in confs:
         type = conf.get('type')
         if type == 'wikiann':
-            ner_conll_idx = chech_param(conf, 'ner_conll_idx')
-            target_base_name = chech_param(conf, 'result_name')
-            map_filter = chech_param(conf, 'map_filter')
-            lang = chech_param(conf, 'lang')
-            zip_fname = chech_dir_param(conf, 'zip', args.corpora_dir)
+            ner_conll_idx = tmmst.args.chech_param(conf, 'ner_conll_idx')
+            target_base_name = tmmst.args.chech_param(conf, 'result_name')
+            map_filter = tmmst.args.chech_param(conf, 'map_filter')
+            lang = tmmst.args.chech_param(conf, 'lang')
+            zip_fname = tmmst.args.chech_dir_param(conf, 'zip', args.corpora_dir)
             zip_dir = os.path.join(tmmst.const.default_tmp_dir, target_base_name)
             if not os.path.exists(zip_dir):
                 os.mkdir(zip_dir)
             zipfile.ZipFile(zip_fname).extractall(zip_dir)
-            proc_fname = chech_dir_param(conf, 'proc_file', tmmst.const.default_tmp_dir)
+            proc_fname = tmmst.args.chech_dir_param(conf, 'proc_file', tmmst.const.default_tmp_dir)
             with open(os.path.join(proc_fname, 'train'), 'rt', encoding='utf-8') as fp:
                 data = fp.read()
             with open(os.path.join(proc_fname, 'dev'), 'rt', encoding='utf-8') as fp:
@@ -424,85 +400,32 @@ def prep_data(args, confs: List[Dict]) -> None:
             filter_wikiann(lang, proc_fname)
             conll2csv(proc_fname, os.path.join(args.data_dir, target_base_name), False, ner_conll_idx, map_filter)
         if type == 'conll':
-            zip_fname = chech_dir_param(conf, 'zip', args.corpora_dir)
+            zip_fname = tmmst.args.chech_dir_param(conf, 'zip', args.corpora_dir)
             zipfile.ZipFile(zip_fname).extractall(tmmst.const.default_tmp_dir)
-            proc_fname = chech_dir_param(conf, 'proc_file', tmmst.const.default_tmp_dir)
-            target_base_name = chech_param(conf, 'result_name')
-            map_filter = chech_param(conf, 'map_filter')
+            proc_fname = tmmst.args.chech_dir_param(conf, 'proc_file', tmmst.const.default_tmp_dir)
+            target_base_name = tmmst.args.chech_param(conf, 'result_name')
+            map_filter = tmmst.args.chech_param(conf, 'map_filter')
             logger.debug('Converting conll data [%s -> %s]...', proc_fname, target_base_name)
-            ner_conll_idx = chech_param(conf, 'ner_conll_idx')
+            ner_conll_idx = tmmst.args.chech_param(conf, 'ner_conll_idx')
             conll2csv(proc_fname, os.path.join(args.data_dir, target_base_name), False, ner_conll_idx, map_filter)
             logger.info('Converted data [%s -> %s]', proc_fname, target_base_name)
         if type == 'bsnlp':
-            zip_fname = chech_dir_param(conf, 'zip', args.corpora_dir)
+            zip_fname = tmmst.args.chech_dir_param(conf, 'zip', args.corpora_dir)
             zipfile.ZipFile(zip_fname).extractall(tmmst.const.default_tmp_dir)
-            proc_fname = chech_dir_param(conf, 'proc_file', tmmst.const.default_tmp_dir)
-            target_base_name = chech_param(conf, 'result_name')
-            map_filter = chech_param(conf, 'map_filter')
+            proc_fname = tmmst.args.chech_dir_param(conf, 'proc_file', tmmst.const.default_tmp_dir)
+            target_base_name = tmmst.args.chech_param(conf, 'result_name')
+            map_filter = tmmst.args.chech_param(conf, 'map_filter')
             logger.debug('Converting BSNLP data [%s -> %s]...', proc_fname, target_base_name)
             bsnlp2csv(proc_fname, os.path.join(args.data_dir, target_base_name), False, map_filter)
             logger.info('Converted data [%s -> %s]', proc_fname, target_base_name)
 
-
-def split_data(args, confs: List[Dict]) -> None:
-    ds = [int(x) for x in args.data_split.split(':')]
-    if len(ds) != 2:
-        raise ValueError("We need two-way split arg: 'train:eval' we use remains as 'test' "
-                         "i.e. split arg '80:15' would leave us with 5% test set size")
-    if sum(ds) >= 100:
-        raise ValueError("Data split sum must be less than 100 since we also need a test set!")
-
-    training_sets: List[pd.DataFrame] = []
-    evaluation_sets: List[pd.DataFrame] = []
-    test_sets: List[pd.DataFrame] = []
-    for conf in confs:
-        target_base_name = chech_param(conf, 'result_name')
-        data = pd.read_csv(os.path.join(args.data_dir, target_base_name + '.csv'))
-
-        # Shuffle the whole dataset first
-        if args.non_reproducible_shuffle:
-            data = data.sample(frac=1).reset_index()
-            logger.info("Done non-reproducible data shuffle.")
-        else:
-            data = data.sample(frac=1, random_state=2611).reset_index()
-            logger.info("Done reproducible data shuffle.")
-
-        data_len = len(data)
-        train_n = int((ds[0] / 100) * data_len)
-        eval_n = train_n + int((ds[1] / 100) * data_len)
-        test_n = data_len - eval_n
-        logger.info("Splitting the data [%s:%s] proportionally to [%s] => [train:%s,eval:%s,test:%s]",
-                    target_base_name, data_len, args.data_split, train_n, eval_n, test_n)
-        training_data, evaluation_data, test_data = np.split(data, [train_n, eval_n])
-        training_sets.append(training_data)
-        training_data.to_csv(
-            os.path.join(args.data_dir, target_base_name + '.train.csv'), index=False, encoding='utf-8'
-        )
-        evaluation_sets.append(evaluation_data)
-        evaluation_data.to_csv(
-            os.path.join(args.data_dir, target_base_name + '.eval.csv'), index=False, encoding='utf-8'
-        )
-        test_sets.append(test_data)
-        test_data.to_csv(
-            os.path.join(args.data_dir, target_base_name + '.test.csv'), index=False, encoding='utf-8'
-        )
-
-    pd.concat(training_sets).to_csv(
-        os.path.join(args.data_dir, args.lang + '.train.csv'), index=False, encoding='utf-8'
-    )
-    pd.concat(evaluation_sets).to_csv(
-        os.path.join(args.data_dir, args.lang + '.eval.csv'), index=False, encoding='utf-8'
-    )
-    pd.concat(test_sets).to_csv(
-        os.path.join(args.data_dir, args.lang + '.test.csv'), index=False, encoding='utf-8'
-    )
 
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
         description='NER Data preparation and normalization for Slovene, Croatian and Serbian language')
     parser.add_argument('lang', help='language of the text',
-                        choices=['sl', 'hr', 'sr', 'bs', 'mk'])
+                        choices=['sl', 'hr', 'sr', 'bs', 'mk', 'sq'])
     parser.add_argument(
         '-d', '--data_dir', help='Data output directory', type=tmmst.args.dir_path,
         default=tmmst.const.default_data_dir)
@@ -583,7 +506,7 @@ if __name__ == "__main__":
             }
         ]
         prep_data(args, confs)
-        split_data(args, confs)
+        tmmst.data.split_data(args, confs)
     if args.lang == 'hr':
         tokenizer = tmmst.data.get_classla_tokenizer(args.lang)
         confs = [
@@ -617,7 +540,7 @@ if __name__ == "__main__":
             }
         ]
         prep_data(args, confs)
-        split_data(args, confs)
+        tmmst.data.split_data(args, confs)
     if args.lang == 'sr':
         confs = [
             {
@@ -637,7 +560,7 @@ if __name__ == "__main__":
             }
         ]
         prep_data(args, confs)
-        split_data(args, confs)
+        tmmst.data.split_data(args, confs)
     if args.lang == 'bs':
         confs = [
             {
@@ -653,7 +576,7 @@ if __name__ == "__main__":
             }
         ]
         prep_data(args, confs)
-        split_data(args, confs)
+        tmmst.data.split_data(args, confs)
     if args.lang == 'mk':
         confs = [
             {
@@ -669,4 +592,20 @@ if __name__ == "__main__":
             }
         ]
         prep_data(args, confs)
-        split_data(args, confs)
+        tmmst.data.split_data(args, confs)
+    if args.lang == 'sq':
+        confs = [
+            {
+                'type': 'wikiann',
+                'lang': 'sq',
+                'zip': 'sq-wann.zip',
+                'proc_file': 'sq_wann',
+                'result_name': 'sq_wann',
+                'ner_conll_idx': 2,
+                'map_filter': {
+                    'max_seq_len': 128
+                }
+            }
+        ]
+        prep_data(args, confs)
+        tmmst.data.split_data(args, confs)

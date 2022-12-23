@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# noinspection PyUnresolvedReferences
 import tmmst
 import tmmst.data
 import tmmst.args
@@ -66,7 +67,7 @@ if __name__ == "__main__":
     for corpus in args.corpora:
         path_prefix.append(os.path.join(args.data_dir, corpus))
 
-    _, _, test_data = tmmst.data.load_corpus(logger, path_prefix)
+    _, _, test_data = tmmst.data.load_corpus(path_prefix)
     test_set = DataSequence(mc, test_data, args.max_seq_len)
     predictions, labels, _ = trainer.predict(test_set)
     results = mc.compute_metrics((predictions, labels), True)

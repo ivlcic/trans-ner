@@ -71,6 +71,8 @@ class ModelContainer(torch.nn.Module):
         if test:
             return results
         logger.info("Batch eval: %s", results)
+        if len(logger.handlers) > 0:
+            logger.handlers[0].flush()
         return {
             "precision": results["overall_precision"],
             "recall": results["overall_recall"],

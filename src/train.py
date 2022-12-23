@@ -82,7 +82,8 @@ if __name__ == "__main__":
                             'hr_500k', 'hr_bsnlp', 'hr',
                             'sr_set', 'sr',
                             'bs_wann', 'bs',
-                            'mk_wann', 'mk'
+                            'mk_wann', 'mk',
+                            'sq_wann', 'sq'
                         ])
     parser.add_argument('pretrained_model', help='Pretrained model to use for fine tuning',
                         choices=['mcbert', 'xlmrb', 'xlmrl'])
@@ -115,7 +116,7 @@ if __name__ == "__main__":
         per_device_train_batch_size=args.batch,
         per_device_eval_batch_size=args.batch,
         evaluation_strategy="epoch",
-        #disable_tqdm=True,
+        disable_tqdm=True,
         load_best_model_at_end=True,
         save_strategy='epoch',
         optim='adamw_torch',
@@ -132,5 +133,5 @@ if __name__ == "__main__":
     path_prefix = []
     for corpus in args.corpora:
         path_prefix.append(os.path.join(args.data_dir, corpus))
-    train_data, eval_data, test_data = tmmst.data.load_corpus(logger, path_prefix)
+    train_data, eval_data, test_data = tmmst.data.load_corpus(path_prefix)
     train(args, mc, training_args, train_data, eval_data, test_data)

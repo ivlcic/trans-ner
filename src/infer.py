@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# noinspection PyUnresolvedReferences
 import tmmst
 import tmmst.args
 import tmmst.data
@@ -74,6 +75,7 @@ if __name__ == "__main__":
         '-c', '--limit_cuda_device', help='Limit ops to specific cuda device.', type=int, default=None
     )
 
+    # noinspection PyTypeChecker
     args: ArgNamespace = parser.parse_args()
 
     mc = TrainedModelContainer(

@@ -1,7 +1,11 @@
 import os
-from typing import List
+import logging
+from typing import List, Dict, Any
 
 import tmmst.const
+
+logger = logging.getLogger('args')
+logger.addFilter(tmmst.fmt_filter)
 
 
 def dir_path(dir_name) -> str:
@@ -40,6 +44,23 @@ def add_common_arguments(parser) -> None:
     )
 
 
+def chech_param(conf: Dict, p_name: str) -> Any:
+    p = conf.get(p_name)
+    if not p:
+        logger.warning('Missing [%s] param in [%s] config', p_name, conf)
+        exit(1)
+    return p
+
+
+def chech_dir_param(conf: Dict, param_name: str, parent_path: str) -> str:
+    fname = chech_param(conf, param_name)
+    fpath = os.path.join(parent_path, fname)
+    if not os.path.exists(fpath):
+        logger.warning('Missing [%s] filename in dir [%s]', fname, parent_path)
+        exit(1)
+    return fpath
+
+
 def get_pretrained_model_path(args, train: bool = False) -> str:
     if train:
         pt_model_dir = os.path.join(tmmst.const.default_tmp_dir, args.pretrained_model)
@@ -52,6 +73,6 @@ def get_pretrained_model_path(args, train: bool = False) -> str:
 
 def get_tags_to_remove(args) -> List[str]:
     del_misc = []
-    if args.no_misc:
+    if hasattr(args, 'no_misc') and args.no_misc:
         del_misc = ['B-MISC', 'I-MISC']
     return del_misc

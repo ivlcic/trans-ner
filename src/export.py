@@ -1,6 +1,6 @@
 #!/usr/bin/env python
+# noinspection PyUnresolvedReferences
 import tmmst
-import tmmst.data
 import tmmst.args
 import tmmst.const
 import argparse
