@@ -3,4 +3,5 @@ __pycache__/
 data/*.conll
 tmp/*
 models
+result
 venv

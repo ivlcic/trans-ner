@@ -98,8 +98,11 @@ We keep used NER corpora in this repository just for convenience.
 }
 ```
 - [BSNLP: 3rd Shared Task on SlavNER](http://bsnlp.cs.helsinki.fi/shared-task.html)
+ 
   We merged 2017+2021 train data with 2021 test data and made custom train / dev / test splits. 
+  
   We also mapped EVT (event) and PRO (product) tags to MISC to align the corpus with others.
+  
   You can change mappings running a custom prepare corpus step (see above).
 
 ## Croatian
@@ -133,6 +136,47 @@ We keep used NER corpora in this repository just for convenience.
  year = {2018} 
 }
 ```
+
+## Bosnian, Macedonian, Slovak, Albanian
+
+- [Massively Multilingual Transfer for NER.](https://github.com/afshinrahimi/mmner) nick-named WikiAnn
+```
+@inproceedings{rahimi-etal-2019-massively,
+    title = "Massively Multilingual Transfer for {NER}",
+    author = "Rahimi, Afshin  and
+      Li, Yuan  and
+      Cohn, Trevor",
+    booktitle = "Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics",
+    month = jul,
+    year = "2019",
+    address = "Florence, Italy",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/P19-1015",
+    pages = "151--164",
+}
+```
+
+
+## Czech
+
+- [Neural Networks for Featureless Named Entity Recognition in Czech.](https://github.com/strakova/ner_tsd2016)
+
+```
+@Inbook{Strakova2016,
+  author="Strakov{\'a}, Jana and Straka, Milan and Haji{\v{c}}, Jan",
+  editor="Sojka, Petr and Hor{\'a}k, Ale{\v{s}} and Kope{\v{c}}ek, Ivan and Pala, Karel",
+  title="Neural Networks for Featureless Named Entity Recognition in Czech",
+  bookTitle="Text, Speech, and Dialogue: 19th International Conference, TSD 2016, Brno , Czech Republic, September 12-16, 2016, Proceedings",
+  year="2016",
+  publisher="Springer International Publishing",
+  address="Cham",
+  pages="173--181",
+  isbn="978-3-319-45510-5",
+  doi="10.1007/978-3-319-45510-5_20",
+  url="http://dx.doi.org/10.1007/978-3-319-45510-5_20"
+}
+```
+
 # Evaluation
 
 For evaluation, we use [seqeval](https://huggingface.co/spaces/evaluate-metric/seqeval)
