@@ -1,0 +1,1010 @@
+index,sentence,ner
+7110,Gjeorgjia -,B-LOC O
+9891,Kryetari aktual i Gjykatës së Lartë është gjyqtar Xhezair Zaganjori .,O O O O O O O O B-PER I-PER O
+165,Tigran Sargsyan ( 2008–2014 ),B-PER I-PER O O O
+3472,Lihtenshtajni -,B-LOC O
+9250,"Më vonë shkollimin e vazhdoi në Bolivi , por u kthye në shtëpi kur gjyshi i tij muar një funkcion të lartë politik .",O O O O O O B-LOC O O O O O O O O O O O O O O O O O
+10053,Birmania,B-ORG
+5143,ACF Fiorentina,B-ORG I-ORG
+8898,Rumania -,B-LOC O
+6027,RIDREJTO Ciganët ( Telenovelë ),O B-ORG I-ORG I-ORG I-ORG
+7474,Luarasi ( universitet ),B-ORG I-ORG I-ORG I-ORG
+5561,Hjalmar Branting ( 1921–1923 ),B-PER I-PER O O O
+4636,Cejloni,B-LOC
+2196,Nigeria,B-LOC
+552,"Pussycat Dolls , The",B-ORG I-ORG I-ORG I-ORG
+9220,Kryetari i Shtetit - Francesco Cossiga ( 1985–1992 ),O O O O B-PER I-PER O O O
+8624,Danimarka –,B-LOC O
+1636,Beti e Shëmtuar,B-ORG I-ORG I-ORG
+498,Xhamia e Pazarit .,B-ORG I-ORG I-ORG O
+5255,Kryetarët e Algjerisë,B-ORG I-ORG I-ORG
+759,Monako -,B-LOC O
+6367,Kryetari i Shtetit - Josip Broz Tito ( 1953–1980 ),O O O O B-PER I-PER I-PER O O O
+5714,Zanzibari ( protektorat Britanik ) -,B-LOC O O O O O
+5618,Kryeministër - Willem Drees ( 1948–1958 ),O O B-ORG I-ORG O O O
+1666,John Major ( 1990–1997 ),B-PER I-PER O O O
+1836,Dwight D. Eisenhower ( 1953–1961 ),B-PER I-PER I-PER O O O
+2002,"Mediat raportonin se Real Madridi dhe Barcelona të Spanjës , Interi i Italisë dhe rivalët e Dortmundit kërkonin shërbimet e tij .",O O O B-ORG I-ORG O B-ORG O B-LOC O B-ORG O B-LOC O O O B-ORG O O O O O
+7169,Presidenti - George W. Bush ( 2001–2009 ),O O B-PER I-PER I-PER O O O
+9495,"Bosnja dhe Hercegovina , Gjeorgjia , Mali i Zi dhe Ukraina kanë shprehur interes për të marrë gjithashtu PVA .",B-LOC I-LOC I-LOC O B-LOC O B-LOC I-LOC I-LOC O B-LOC O O O O O O O O O
+7330,Ajo është gjithashtu metropoli më i madh i Evropës në bregdetin mesdhetar .,O O O O O O O O B-LOC O B-LOC I-LOC O
+6594,Bolivia -,B-LOC O
+5157,Shënjtori i Paramithisë është Shën Donati .,O O O O B-PER I-PER O
+6536,"Kartelet ndërkombëtare , të tilla si OPEC , gjithashtu ekzistojnë .",O O O O O O B-ORG O O O O
+2456,Lituania,B-LOC
+273,RIDREJTO Njësia administrative Arras,O B-LOC I-LOC I-LOC
+5900,"Monark - Elizabeth II , Mbretëresha e Cejlonit ( 1952–1972 )",O O B-PER I-PER O O O O O O O
+8636,Forca e Re Demokratike,B-ORG I-ORG I-ORG I-ORG
+2085,Kryeministër – John Major ( 1990–1997 ),O O B-PER I-PER O O O
+564,Idriz Seferi - prijës ushtarak,B-PER I-PER O O O
+6647,Kryeqëndra e kantonit është Montpellier .,O O O O B-LOC O
+2301,Alfa Romeo,B-ORG I-ORG
+4985,Alajärvi,B-LOC
+4924,RIDREJTO Franc Josef Shtraus,O B-PER I-PER I-PER
+7872,Konrad Adenauer ( 1949–1963 ),B-PER I-PER O O O
+7973,Sozialdemokratische Partei Deutschlands,B-ORG I-ORG I-ORG
+253,Lidhja e Prizrenit,B-ORG I-ORG I-ORG
+2608,Siria,B-LOC
+7978,Marillion,B-ORG
+8715,Lartmadhëria e Saj Mbretëresha Elizabeth II,O O O O B-PER I-PER
+9094,Vicente Fox ( 2000–2006 ),B-PER I-PER O O O
+1400,Kryeministër - Kostas Karamanlis ( 2004–2009 ),O O B-PER I-PER O O O
+5628,Italia,B-LOC
+4561,Ermir Lenjani ( Shqipëria ),B-PER I-PER O B-ORG O
+6930,A.C. Milan,B-ORG I-ORG
+8049,"ishte sezoni i organizuar nga National Basketball Association , sezoni filloi më dhe mbaroi më .",O O O O O B-ORG I-ORG I-ORG O O O O O O O O
+6162,RIDREJTO Ebu Rejhan el Biruni,O B-ORG I-ORG I-ORG I-ORG
+6669,( Lima ),O B-LOC O
+4326,Kryeministër - Francisco Franco ( 1939–1973 ),O O B-PER I-PER O O O
+1772,Liquid Tension Experiment 2,B-ORG I-ORG I-ORG I-ORG
+4412,Kancelar - Karl Renner ( 1918–1920 ),O O B-PER I-PER O O O
+5527,Në fillim romani është botuar në dy vëllime në Shqipëri në vitin -- -- .,O O O O O O O O O B-LOC O O O O O
+9045,Festivali Evropian i Këngës 2010,B-ORG I-ORG I-ORG I-ORG I-ORG
+9858,Suedia –,B-LOC O
+3082,Albert Einstein ( 1879–1955 ),B-PER I-PER O O O
+6631,"Njihet me parinë atdhetare të shqiptarëve në kryeqytetin perandorak , Shemsedin Saminë , Naim bej Frashërin dhe Ismail Kemal bej Vlorën .",O O O O O O O O O O B-PER I-PER O B-PER I-PER I-PER O B-PER I-PER I-PER I-PER O
+2874,Vatikani,B-LOC
+7275,RIDREJTO Abdullah ibn el-Zybejr,O B-PER I-PER I-PER
+1128,Ervin Bulku,B-PER I-PER
+1218,A.C. Milan,B-ORG I-ORG
+5220,Argjentina arriti deri në finale ku u mund nga Brazili me rezultatin 4–1 .,B-ORG O O O O O O O O B-ORG O O O O
+7608,Kryeministër - Benito Mussolini ( 1922–1943 ),O O B-PER I-PER O O O
+3105,Fédération Internationale de l'Automobile,B-ORG I-ORG I-ORG I-ORG
+4716,Australia 0.970 ( 2 ),B-LOC O O O O
+1933,Uzbekistani,B-LOC
+8251,Indonezia,B-LOC
+4025,Maturoi në Gjimnazin e Prishtinës .,O O O O B-LOC O
+1490,"Frang Bardhi , shkrimtar shqiptar .",B-PER I-PER O O O O
+9390,Birmania,B-ORG
+5555,Vincent van Gogh,B-PER I-PER I-PER
+4056,Radiotelevizioni i Norvegjisë,B-ORG I-ORG I-ORG
+5513,"FarmVille është një lojë on-line falas , e krijuar nga Zynga dhe mund të luhet në Facebook .",O O O O O O O O O O O O O O O O B-ORG O
+4349,Butani,B-LOC
+3292,Turqia -,B-LOC O
+6286,Hajro Ulqinaku ( 1938- ) ; shkrimtar,B-PER I-PER O O O O O
+7124,Koreja e Jugut,B-LOC I-LOC I-LOC
+9802,"Eksponenti i saj më ekstrem , sidoqoftë , ishte David Hume .",O O O O O O O O O B-PER I-PER O
+7652,Ai u bashkua Sturmabteilung dhe Schutzstaffel ( SS ) shumë të rinj .,O O O O O O O B-ORG O O O O O
+7104,2014 FIFA Kupa e Botës,B-ORG I-ORG I-ORG I-ORG I-ORG
+1858,Janë kualifikuar përsëri në La Liga me ndeshje shtesë,O O O O B-ORG I-ORG O O O
+5933,Kimi Räikkönen,B-PER I-PER
+4641,RIDREJTO Tefta Tashko Koço,O B-PER I-PER I-PER
+3484,2014 FIFA Kupa e Botës,B-ORG I-ORG I-ORG I-ORG I-ORG
+8987,Kameruni,B-LOC
+7475,Lewis Hamilton,B-PER I-PER
+7237,SpongeBob SquarePants ( - ) .,B-PER I-PER O O O O
+6877,Republika e Kinës ( Taivani ),B-LOC I-LOC I-LOC I-LOC I-LOC I-LOC
+5033,Republika Çeke 1–0 Polonia,B-ORG I-ORG O B-ORG
+9981,"Më pas ndeshja shkoi deri në kohën shtesë e deri te penalltitë , Bendtner luajti 120 minuta dhe shënoi penalltinë e parë , Arsenali fitoi 4–3 me penallti .",O O O O O O O O O O O O O O O O O O O O O O O B-ORG O O O O O
+6373,1921–1923 Warren G. Harding,O B-PER I-PER I-PER
+5001,Singapori,B-LOC
+5193,Coldplay,B-ORG
+4521,RIDREJTO UEFA Liga e Kampionëve 2015-16 faza kualifikuese dhe raundi play-off,O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+1416,Kenan Çoban ( Abdülhey ),B-PER I-PER O O O
+3881,Ai ka edhe dy paraqitje me kombëtaren shqiptare .,O O O O O O B-ORG I-ORG O
+2637,President - Wilhelm Pieck ( 1949–1960 ),O O B-PER I-PER O O O
+8507,Monako -,B-LOC O
+3031,Ernesto Che Guevara,B-PER I-PER I-PER
+3043,=== Qarku i Vlorës ===,O B-LOC I-LOC I-LOC O
+4200,KF Tirana,B-ORG I-ORG
+8916,Michiel van den Bos,B-PER I-PER I-PER I-PER
+5159,"Rääkkylä ( 2,528 )",B-LOC O O O
+675,RIDREJTO Radio Televizioni Shqiptar,O B-ORG I-ORG I-ORG
+4805,Uzbekistani,B-LOC
+4042,"Premier - Alexei Kosygin , Kryetar i Këshillit të Ministrave ( 1964–1980 )",O O B-PER I-PER O O O O O O O O O
+2632,Italia,B-LOC
+8420,Kënga e përgjedhur do jetë Il pleut de l'or .,O O O O O B-ORG I-ORG I-ORG I-ORG O
+8137,1909,B-ORG
+6212,Matuzalém Francelino da Silva,B-PER I-PER I-PER I-PER
+6888,KF Bylis,B-ORG I-ORG
+7178,Gjermania Naziste -,B-LOC I-LOC O
+2863,Italia,B-LOC
+8598,"Kreshnik Qato , boksier",B-PER I-PER O O
+4259,Estonia,B-LOC
+6529,KF Apolonia,B-ORG I-ORG
+5692,Dominika,B-LOC
+5483,Gajur Dëralla ishte një ushtarak i divizionit të Balli Kombëtar .,O O O O O O O O B-ORG I-ORG O
+10054,Republika Malagasy,B-LOC I-LOC
+5556,Ferit Bej Vokopola patriot,B-PER I-PER I-PER O
+9969,Filipinet,B-LOC
+9231,Bashkimi Sovjetik,B-LOC I-LOC
+8522,Nepali -,B-LOC O
+9591,We Are Motörhead,B-ORG I-ORG I-ORG
+7134,Venezuela -,B-LOC O
+3538,Without a Trace,B-ORG I-ORG I-ORG
+6468,25px]] David Coulthard,O B-PER I-PER
+4556,Një rol të rëndësishëm për dekada ka luajtur dhe luan Universiteti i Tiranës,O O O O O O O O O O B-ORG I-ORG I-ORG
+6002,Pandi Raidhi ... Pllaton Bubuqi,B-PER I-PER O O O
+5891,Belgjika -,B-LOC O
+10,Suedia -,B-LOC O
+8073,Carl Johan Thyselius ( 1883–1884 ),B-PER I-PER I-PER O O O
+364,Republika e Afrikës Qendrore,B-LOC I-LOC I-LOC I-LOC
+5025,"Shkrimtari antik i udhëtimeve , Pausania , për shembull , vizitoi sitin dhe shkurtimisht përshkroi fortifikimet e shquara dhe Portën e Luanëve , akoma e dukshme në kohën e tij .",O O O O O B-PER O O O O O O O O O O O O O O O O O O O O O O O O O
+7257,Ky lloj haset në Gadishullin Iberik .,O O O O B-LOC I-LOC O
+6139,Kombëtarja greke e futbollit,B-ORG I-ORG I-ORG I-ORG
+6929,Rumania -,B-LOC O
+313,"Por pushteti i tij , ashtu siç e thekson Aristoteli , ishte i kufizuar .",O O O O O O O O O B-PER O O O O O
+911,"Bamir Topi , Presidenti i Shqipërisë ( 2007–2012 )",B-PER I-PER O B-ORG I-ORG I-ORG O O O
+6794,Koreja e Jugut,B-LOC I-LOC I-LOC
+3560,Stadiumi Selman Stërmasi,B-ORG I-ORG I-ORG
+9953,RIDREJTO Ford Motor Company,O B-ORG I-ORG I-ORG
+7173,KF Skënderbeu,B-ORG I-ORG
+3086,Václav Klaus ( 2003–2013 ),B-PER I-PER O O O
+3444,India,B-LOC
+6481,Çadi,B-LOC
+6174,RIDREJTO Byçmeti i Mesëm,O B-LOC I-LOC I-LOC
+2405,"Sofisti Pitagora ishte i mendimit se e tërë problematika shkencore e filozofike duhet t’i subordinohet problematikës antropologjike , meqë “njeriu është masa e çdo gjëje” .",O B-PER O O O O O O O O O O O O O O O O O O O O O O O O
+2998,Malta,B-LOC
+7806,Zaire,B-LOC
+1856,Tani ruhet në Arkivin e Shtetit .,O O O B-ORG I-ORG I-ORG O
+331,Monark - Elizabeth II ( 1979–sot ),O O B-PER I-PER O O O
+1239,Fixhi,B-LOC
+5955,Kombëtarja argjentinase e futbollit,B-ORG I-ORG I-ORG I-ORG
+1888,FC Basel,B-ORG I-ORG
+7445,Sebastian Vettel u radhit i dyti në radhitjen e përgjithëshme kampionale me 95 pikë .,B-PER I-PER O O O O O O O O O O O O O
+819,Brazili -,B-LOC O
+9546,Felipe Massa,B-PER I-PER
+1006,Andorra –,B-LOC O
+1862,Hondurasi -,B-LOC O
+2129,"Emblematik është fjalimi i tij , i cili është edhe një përmbedhje e filozofisë Objektiiviste .",O O O O O O O O O O O O O O B-ORG O
+9348,Kombëtarja shqiptare e futbollit,B-ORG I-ORG I-ORG I-ORG
+8220,Simplon ( Qafë malore ),B-LOC I-LOC I-LOC I-LOC I-LOC
+8096,eshte Delta e Kronëkerit,O B-ORG I-ORG I-ORG
+8856,Kryeqëndra e kantonit është Amiens .,O O O O B-LOC O
+8756,Lidhja Demokratike në Mal të Zi,B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+829,Malajzia,B-LOC
+9137,Përgatitet nga dy feta buke të bardhë ose bukë të posaçme ovale ose rrumbullake .,O O O O B-ORG O O O O O O O O O O
+4943,Vasillaq Vangjeli ... ... shofer Fatmiri,B-PER I-PER O O O O
+7658,RIDREJTO Koreja e Veriut,O B-LOC I-LOC I-LOC
+325,Gambia,B-LOC
+4035,Pearl Jam - prodhues,B-ORG I-ORG O O
+8883,Irlanda,B-LOC
+612,Burundi,B-LOC
+521,Cuando seas mia,B-ORG I-ORG I-ORG
+5043,Birmania,B-ORG
+5694,Lionel Jospin ( 1997–2002 ),B-PER I-PER O O O
+1712,Birmania,B-ORG
+2067,Plus Communication,B-ORG I-ORG
+2633,Lewis Hamilton,B-PER I-PER
+5388,Evo Morales ( 2006–sot ),B-PER I-PER O O O
+642,Shtigjet e shekujve tregime me Autor Kasëm Trebeshina .,O O O O O O B-PER I-PER O
+5212,President - Hosni Mubarak ( 1981–2011 ),O O B-PER I-PER O O O
+7048,RIDREJTO Kombëtarja kazakistaneze e futbollit,O B-ORG I-ORG I-ORG I-ORG
+7762,Cario thirri menjëherë në detyrë si trajnerin e skuadrës Gianni De Biasin duke formouar embrionin e parë të klubit .,O O O O O O O O O B-PER I-PER I-PER O O O O O O O O
+380,Hammered,B-ORG
+6495,'Bashkia Korçë,O B-LOC
+9722,Kryeministër - Tage Erlander ( 1946–1969 ),O O B-PER I-PER O O O
+10088,Kenia,B-LOC
+9907,Omani –,B-LOC O
+2747,"Hämeenlinna ( 67,577 )",B-LOC O O O
+3439,Kamboxhia,B-LOC
+7805,Tunizia — Arabia Saudite,B-LOC O B-LOC I-LOC
+1071,1994,B-ORG
+5108,1963-1969 Lyndon B. Johnson,O B-PER I-PER I-PER
+959,Libani,B-LOC
+7407,Këtu u lind dhe Ludwig van Beethoven .,O O O O B-PER I-PER I-PER O
+774,Give It 2 Me,B-ORG I-ORG I-ORG I-ORG
+747,Sejshellet,B-LOC
+1394,Kryeministër - Olof Palme ( 1969–1976 ),O O B-PER I-PER O O O
+5971,Radio Televizioni i Kosovës,B-ORG I-ORG I-ORG I-ORG
+8828,Law & Order : Special Victims Unit ( E ),B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG O O O
+1221,Monark - Elizabeth II ( 1979–sot ),O O B-PER I-PER O O O
+9951,Rudi Vata,B-PER I-PER
+7321,Performancat e tij bënë që ai të përfshihej në skuadrën e turnamentit nga UEFA .,O O O O O O O O O O O O O B-ORG O
+1881,20x20px]] Luksemburgu,O B-LOC
+6079,Christian Wulff ( 2010–2012 ),B-PER I-PER O O O
+7967,Moldavia -,B-LOC O
+5355,"Qyteti i Luksemburgut]] , Luksemburgu",O O O O B-LOC
+9944,Bendtner tha se pas transferimit se ai nuk do të luante kurrë më për Arsenalin për shkak të mundësive të pakta që j'u ofruan që pas aksidentit me makinë .,O O O O O O O O O O O O O O B-ORG O O O O O O O O O O O O O O O
+5650,Shefqet bej Daiu .,B-PER I-PER I-PER O
+6104,Kancelar - Konrad Adenauer ( 1949–1963 ),O O B-PER I-PER O O O
+4277,Belgjika -,B-LOC O
+4755,Gjermania -,B-LOC O
+6704,Ai ishte pasuar nga djali i tij Gjin i cili më vonë u pasua nga Dhimitër Progoni .,O O O O O O O B-PER O O O O O O O B-PER I-PER O
+5138,KF Bylis,B-ORG I-ORG
+7243,Mirush Kabashi ... ... .. Asketi Lithan,B-PER I-PER O O O O O
+3690,Há dias assim,B-ORG I-ORG I-ORG
+7020,Një vit më vonë Kristofor Kolumbo viziton këtë hapësirë dhe vendoset përkohësisht .,O O O O B-PER I-PER O O O O O O O
+7089,Valencia CF,B-ORG I-ORG
+546,"John Cleese si Niku-Zëre-Pa-Kokë , fantazma e shtëpisë së Grifartit në Hoguorts .",B-PER I-PER O O O O O O O O O O O
+5580,Izraeli,B-LOC
+8051,Kryeministër - Lionel Jospin ( 1997–2002 ),O O B-PER I-PER O O O
+1309,Lewis Hamilton,B-PER I-PER
+4597,Ballafaqimi i një libri me kujtime me të vërtetat e nxjerra nga arkivat për vrasjen e Luigj Gurakuqit dhe ngjarjeve të tjera të rëndësishme të viteve '30 .,O O O O O O O O O O O O O O O O B-PER I-PER O O O O O O O O O O
+9927,"Vangjush Mio , ( )",B-PER I-PER O O O
+506,Liberia -,B-LOC O
+4099,RIDREJTO Xhamia Ebu Bekër,O B-ORG I-ORG I-ORG
+6814,Degën e Kompozicionit e ka kryer nën drejtimin e të madhit Çesk Zadeja .,O O O O O O O O O O O B-PER I-PER O
+542,Janë kualifikuar përsëri në La Liga me ndeshje shtesë,O O O O B-ORG I-ORG O O O
+8338,President - Serzh Sargsyan ( 2008–sot ),O O B-PER I-PER O O O
+7179,KF Skënderbeu,B-ORG I-ORG
+7170,Frederik Ndoci ... ... .. taksambledhsi,B-PER I-PER O O O O
+8919,Karl Staaff ( 1911–1914 ),B-PER I-PER O O O
+6725,Kategoria e Parë,B-ORG I-ORG I-ORG
+4524,RIDREJTO Eliminatoret e Kampionatit Evropian të Futbollit 2016 - Grupi E,O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+9131,Tonga,B-LOC
+784,Nepali -,B-LOC O
+5050,Norvegjia -,B-LOC O
+3820,Me këtë këngë fitojë çmimin e parë dhe u dublua nga Vaçe Zela .,O O O O O O O O O O O B-PER I-PER O
+1655,Papua Guinea e Re,B-LOC I-LOC I-LOC I-LOC
+3783,RIDREJTO Ahmed ibn Hanbeli,O B-PER I-PER I-PER
+9281,Suedia ktheu rezultatin nga 4–0 në 4–4 për 35 minuta .,B-ORG O O O O O O O O O O
+6228,KF Tirana,B-ORG I-ORG
+3468,RIDREJTO Mbretëria e Inkëve,O B-ORG I-ORG I-ORG
+3853,Lihtenshtajni -,B-LOC O
+4731,Ndriçim Xhepa ... ... ... .Beni,B-PER I-PER O O O O
+1704,Kryeqëndra e kantonit është Amiens .,O O O O B-LOC O
+7342,Argjentina — Meksika,B-LOC O B-LOC
+1110,Faqja zyrtare e federatës,O O O B-ORG
+2650,KF Albpetrol,B-ORG I-ORG
+1106,RIDREJTO Urve ibn Mesud,O B-PER I-PER I-PER
+2383,Kancelar - Werner Faymann ( 2008–sot ),O O B-PER I-PER O O O
+6994,Ibrahimoviç bëri rikthimin e tij në fushat e lojes kundër rivalëve katalanas të RCD Espanyol në minuten e 82 .,O O O O O O O O O O O O O B-ORG I-ORG O O O O O
+58,Branko Crvenkovski ( 1992–1998 ),B-PER I-PER O O O
+7181,Valencia CF,B-ORG I-ORG
+6972,RIDREJTO Lufta Antifashiste Nacionalçlirimtare,O B-ORG I-ORG I-ORG
+3211,Robert Ndrenika ... ... ..,B-PER I-PER O O O
+4963,Liquid Tension Experiment ( album ),B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+3915,RIDREJTO 2014 FIFA Kupa e Botës,O B-ORG I-ORG I-ORG I-ORG I-ORG
+2518,RIDREJTO Kombëtarja bjelloruse e futbollit,O B-ORG I-ORG I-ORG I-ORG
+5960,RIDREJTO Chelsea F.C .,O B-ORG I-ORG I-ORG
+8066,"Chester A. Arthur , President ( 1881–1885 )",B-PER I-PER I-PER O O O O O
+2696,Monark - Papa Pali VI ( 1963–1978 ),O O B-PER I-PER I-PER O O O
+8508,Xanana Gusmão ( 2002–2007 ),B-PER I-PER O O O
+2121,Një Zonjë e Vërtetë,B-ORG I-ORG I-ORG I-ORG
+3345,"për të shuguruar lëvizjen e Ballit Kombëtar , me bashkëdrejtuesit e të cilit do kishte edhe mosmarrëveshje .",O O O O O B-ORG I-ORG O O O O O O O O O O O
+5291,RIDREJTO Teatri Aleksandër Moisiu,O B-ORG I-ORG I-ORG
+2068,RIDREJTO Forcat e Armatosura të Shteteve të Bashkuara të Amerikës,O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+9537,"Parashqevi Qiriazi ( Atdhetare , Mësuese e Popullit )",B-PER I-PER O O O O O O O
+1929,Shikimi për partner fillonme ndërtimin e foles dhe Shqiponja rrinë afër foles së tyre .,O O O O O O O O B-ORG O O O O O O
+7813,"Leu në lagjen Kala , i biri i Joanit dhe Efthimies .",O O O B-ORG O O O O O O O O
+1656,Sex Pistols,B-ORG I-ORG
+7119,Deportivo de La Coruña,B-ORG I-ORG I-ORG I-ORG
+3347,Birmania,B-ORG
+9636,RIDREJTO Komunat e Shqipërisë,O B-ORG I-ORG I-ORG
+7556,Presidenti - Fidel Castro ( 1976–2008 ),O O B-PER I-PER O O O
+8133,Kryeministër - Vladimir Putin ( 2008–2012 ),O O B-PER I-PER O O O
+515,Kupa Evropiane e Kombeve 1964,B-ORG I-ORG I-ORG I-ORG I-ORG
+9245,Mañana es para siempre,B-ORG I-ORG I-ORG I-ORG
+1094,Agim Qirjaqi ... ...,B-PER I-PER O O
+5249,"Monark - Norodom Sihanouk , Mbreti i Kamboxhias ( 1993–2004 )",O O B-PER I-PER O O O O O O O
+665,Edhe pse pati një periudhë të shkurtër si ministër i Punëve të Brendshme mandati i tij u dallua nga akte të rënda të dhunës nga ana e regjimit kundër civilëve .,O O O O O O O O O O O O O O O O O O O O O O O O O O O B-ORG O O O
+6257,KS Teuta,B-ORG I-ORG
+8238,Principata e Gjirokastrës,B-ORG I-ORG I-ORG
+9048,President - Thomas Klestil ( 1992–2004 ),O O B-PER I-PER O O O
+4607,Giancarlo Fisichella,B-PER I-PER
+9484,Katari,B-LOC
+4310,Kryeministër - Nikola Gruevski ( 2006–sot ),O O B-PER I-PER O O O
+3178,Perandoria Osmane -,B-LOC I-LOC O
+7853,Publius Cornelius Scipio .,B-PER I-PER I-PER O
+6414,"Kurikka ( 14,370 )",B-LOC O O O
+5027,Kryetari i Shtetit - Sandro Pertini ( 1978–1985 ),O O O O B-PER I-PER O O O
+4543,Japonia -,B-LOC O
+10036,KF Tirana,B-ORG I-ORG
+1855,Është garues në garat automobilistike Formula 1 .,O O O O O B-ORG I-ORG O
+544,RIDREJTO Kombëtarja malazeze e futbollit,O B-ORG I-ORG I-ORG I-ORG
+2858,KS Teuta,B-ORG I-ORG
+53,Astrit Patozi ( kryetar ),B-PER I-PER O O O
+5158,Somalia,B-LOC
+798,President - Rudolf Kirchschläger ( 1974–1986 ),O O B-PER I-PER O O O
+5160,Guajana,B-LOC
+7451,"Në këtë lagje gjatë viteve 90-92 janë mbledhë armët , teshat dhe ushqimet e para të UÇK-së .",O O O O O O O O O O O O O O O O B-ORG O
+2412,Sevilla FC,B-ORG I-ORG
+5641,Kolumbia -,B-LOC O
+8541,Eurodeputeti Otto von Habsburg,O B-PER I-PER I-PER
+3521,RIDREJTO Njësia administrative Kalis,O B-ORG I-ORG I-ORG
+8539,Babai i këtij stili konsiderohet Maksim Gorki .,O O O O O B-PER I-PER O
+4681,Kryetari i Shtetit - Josip Broz Tito ( 1953–1980 ),O O O O B-PER I-PER I-PER O O O
+4882,Phil Hill ( 1958-1962 ),B-PER I-PER O O O
+5020,RIDREJTO Njësia administrative Derjan,O B-LOC I-LOC I-LOC
+1992,Sejshellet,B-LOC
+134,"Premier - Alexei Kosygin , Kryetar i Këshillit të Ministrave ( 1964–1980 )",O O B-PER I-PER O O O O O O O O O
+8663,Jacques Chirac ( 1995–2007 ),B-PER I-PER O O O
+5464,Adnan Januzaj - Manchester United / BVB Dortmund,B-PER I-PER O B-ORG I-ORG O B-ORG I-ORG
+1835,8500 Rrethi i Kukësit,O B-LOC I-LOC I-LOC
+3265,Kryeministër - Tage Erlander ( 1946–1969 ),O O B-PER I-PER O O O
+4711,Gogo Nushi ( 1949–1950 ),B-PER I-PER O O O
+5981,Somalia,B-LOC
+4445,Ai u bë shqiptari i parë që luan në La Liga .,O O O O O O O O O B-ORG I-ORG O
+7369,2014 FIFA Kupa e Botës,B-ORG I-ORG I-ORG I-ORG I-ORG
+9400,Real Madrid C.F .,B-ORG I-ORG I-ORG I-ORG
+3091,Mozambiku,B-LOC
+7933,Official profile te Atlético Madrid,O O O B-ORG I-ORG
+8151,Senegali,B-LOC
+1473,ACF Fiorentina,B-ORG I-ORG
+682,"Stonehenge , duke vazhduar pastaj të diskutoi mbi botën antike .",B-ORG O O O O O O O O O O
+565,Kryeministër - Sam Hinds ( 1999–sot ),O O B-PER I-PER O O O
+2522,Birmania,B-ORG
+4683,Anglia,B-LOC
+3476,RIDREJTO Sebastian Ziani de Ferranti,O B-PER I-PER I-PER I-PER
+2097,RIDREJTO Ministria e Zhvillimit Urban dhe Turizmit e Shqipërisë,O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+8028,Përfundoi studimet e larta në Uiversitetin e Tiranës në fakultetin ekonomik .,O O O O O B-ORG I-ORG I-ORG O O O O
+3228,Surinami,B-LOC
+3693,Benjamin Netanyahu ( 1996–1999 ),B-PER I-PER O O O
+6592,Atlético Madrid 'Titulli i 2 ( i dytë ) i klubit,B-ORG I-ORG O O O O O O O O O
+1652,Felipe Massa,B-PER I-PER
+8134,RIDREJTO Gjykata Evropiane e Drejtësisë,O B-ORG I-ORG I-ORG I-ORG
+4788,Organizata e Kombeve të Bashkuara,B-ORG I-ORG I-ORG I-ORG I-ORG
+6350,Arundo pygmaea - në Itali,O O O O B-LOC
+9442,Chester A. Arthur,B-PER I-PER I-PER
+3784,Nick Heidfeld,B-PER I-PER
+4785,RIDREJTO Lëvizja Socialiste për Integrim,O B-ORG I-ORG I-ORG I-ORG
+5709,Kori u përshtat dhe u dirigjua nga Jordan Rudess .,O O O O O O O B-PER I-PER O
+3032,Viçita është selia e qarkut e Seduik .,O O O O O O B-LOC O
+9991,Kryeministër - Kostaq Kota ( 1928–1930 ),O O B-PER I-PER O O O
+10086,Indonezia,B-LOC
+6643,Kancelar - Helmut Schmidt ( 1974–1982 ),O O B-PER I-PER O O O
+3463,Tirana u shpall fituese e këtij turneu .,B-ORG O O O O O O O
+718,RIDREJTO Eqrem bej Libohova,O B-PER I-PER I-PER
+1597,Papua Guinea e Re,B-LOC I-LOC I-LOC I-LOC
+3041,Suedia –,B-LOC O
+2713,Lëvizjet për softuerët e lirë,B-ORG I-ORG I-ORG I-ORG I-ORG
+9530,Barbadosi,B-LOC
+6805,Rusia -,B-LOC O
+1796,Espoo,B-LOC
+683,Prusia –,B-LOC O
+4295,Ridrejto Ebu el-Hasan Ali ibn el-Hysein Mesudi,O B-PER I-PER I-PER I-PER I-PER I-PER
+5878,Konfederata Gjermane ( 1815–1866 ),B-ORG I-ORG O O O
+5506,RIDREJTO Njësia administrative Petran,O B-LOC I-LOC I-LOC
+7152,Francesco Cossiga ( 1985–1992 ),B-PER I-PER O O O
+5723,Festivali Evropian i Këngës 2010,B-ORG I-ORG I-ORG I-ORG I-ORG
+4547,Ky eveniment nuk është njohur ende zyrtarisht nga FSHF .,O O O O O O O O B-ORG O
+8654,"Në sezonin e parë , Monaco u bë kampione e Ligue 1 .",O O O O O B-ORG O O O O B-ORG I-ORG O
+383,Nepali -,B-LOC O
+9473,25px]] David Coulthard,O B-PER I-PER
+9784,RIDREJTO Ali Ibn Ebi Talib,O B-PER I-PER I-PER I-PER
+188,Kryeministër - Vladimir Putin ( 2008–2012 ),O O B-PER I-PER O O O
+7131,President - Roman Herzog ( 1994–1999 ),O O B-PER I-PER O O O
+662,Papua Guinea e Re,B-LOC I-LOC I-LOC I-LOC
+3573,Federata e Futbollit e Kosovës,B-ORG I-ORG I-ORG I-ORG I-ORG
+5099,Alban Bushi,B-PER I-PER
+2258,Naruto gjithashtu e përdor këtë teknikë .,B-ORG O O O O O O
+5320,"Pirro Çako , Ardit Gjebrea",B-PER I-PER O B-PER I-PER
+8929,"Në qendër të afreskut pikturohet kujdesshëm Vrana Konti , ku figura e tij dominon si shëmbëlltyrë komandanti , që bashkon fuqinë fizike me arsyen për ta mbrojtur lirinë e Atdheut .",O O O O O O B-PER I-PER O O O O O O O O O O O O O O O O O O O O O O O
+6382,RIDREJTO Dyluftimi i qenve,O B-ORG I-ORG I-ORG
+10090,Fuqia për të rikrijuar lirinë – nga Shefki Hysa,O O O O O O O B-PER I-PER
+4097,Norvegjia -,B-LOC O
+9074,T dy pilotët e Ferrarit shënuan xhirot e para më të shpejta ku udhëhoqi Kimi Räikkönen i përcjellë nga Felipe Massa .,O O O O B-ORG O O O O O O O O O B-PER I-PER O O O B-PER I-PER O
+6778,Sejshellet,B-LOC
+6735,Kryetari i Shtetit - Giovanni Leone ( 1971–1978 ),O O O O B-PER I-PER O O O
+3945,RIDREJTO Lëvizja Socialiste për Integrim,O B-ORG I-ORG I-ORG I-ORG
+7398,John Wayne,B-PER I-PER
+9363,FC Barcelona,B-ORG I-ORG
+4693,Birmania,B-ORG
+2106,Portugalia 0.909 ( 1 ),B-LOC O O O O
+8285,"Monark - Elizabeth II , Mbretëresha e Bahameve ( 1973–sot )",O O B-PER I-PER O O O O O O O
+6381,"Thelbësisht skulptor , iu dedikua pikturës në mënyrë sporadike , me kërkesën e disa admiruesve të veprës së tij , mbi të gjitha papa Giulio II .",O O O O O O O O O O O O O O O O O O O O O O O B-PER I-PER I-PER O
+4241,Danimarka –,B-LOC O
+8902,Universiteti i Evropës Juglindore,B-ORG I-ORG I-ORG I-ORG
+7612,Metropolis Pt. 2 : Scenes from a Memory,B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+5742,"Ekipi më i suksesshëm janë FK Tirana , ekip që e kanë fituar titullin kampion 5 herë .",O O O O O B-ORG I-ORG O O O O O O O O O O O
+9153,Kryeministër - David Ben-Gurion ( 1955–1963 ),O O B-PER I-PER O O O
+3111,Giancarlo Fisichella,B-PER I-PER
+8486,"Ai ishte pjesë e skuadrës që luajti në Kupën e Botës 1962 , duke luajtur në ndeshjen e parë të grupit që u mbyll me humbjen 1–0 kundër Çekosllovakisë .",O O O O O O O O B-ORG I-ORG I-ORG I-ORG O O O O O O O O O O O O O O O O B-ORG O
+5356,Monako -,B-LOC O
+3068,Wayne County ( New York ),B-LOC I-LOC I-LOC I-LOC I-LOC I-LOC
+4426,Kënga u shkrua nga Axl Rose .,O O O O B-PER I-PER O
+2200,Mauritania,B-LOC
+4377,Këjo kënga gjendet në albumin Thriller .,O O O O O B-ORG O
+709,Georges Pompidou ( 1962–1968 ),B-PER I-PER O O O
+6602,"Pas shkollës fillore , shkon në Janinë , në shkollën turke .",O O O O O O B-LOC O O O O O
+853,Herman Van Rompuy ( 2008–2009 ),B-PER I-PER I-PER O O O
+609,Kosta Rika -,B-LOC I-LOC O
+6600,Secret Intelligence Service,B-ORG I-ORG I-ORG
+3415,Ai mund të luajti si sulmues i mirëfilltë ose si sulmues i dytë .,O O O O O B-PER I-PER I-PER O O B-PER I-PER I-PER O
+4231,Gai Plin Sekundi - C .,B-PER I-PER I-PER O O O
+5169,Timori Lindor -,B-LOC I-LOC O
+4085,Una spada per Lady Oscar,B-ORG I-ORG I-ORG I-ORG I-ORG
+6650,Suedia –,B-LOC O
+5867,Me kalimin e kohës kaloi edhe Adriatikun duke u shtrirë edhe në tregun e Shqipëris ku krijoj degën e saj .,O O O O O O B-LOC O O O O O O O B-LOC O O O O O O
+8732,RIDREJTO Abdullah ibn Hydhejfe es-Sahmi,O B-PER I-PER I-PER I-PER
+8952,Unioni Demokratik i Shqiptarëve,B-ORG I-ORG I-ORG I-ORG
+254,Shën Luçia,B-LOC I-LOC
+2427,Presidenti – Martti Ahtisaari ( 1994–2000 ),O O B-PER I-PER O O O
+3574,2014 FIFA Kupa e Botës,B-ORG I-ORG I-ORG I-ORG I-ORG
+7554,"Gjatë kësaj periudhe 35 vjeçare të aktivitetit politik ka qenë disa herë i ftuar në në të ashtuquajturat biseda informative , i kërcënuar dhe i maltretuar , i është kërcënuar edhe familja shpesh herë sepse 4 vëllezërit i kishte luftëtar të UÇK-se , ndërsa shtëpia e tij ishte bazë logjistike e UÇK-së në vendlindjen në Revuç .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-ORG O O O O O O O O O B-ORG O O O O O
+3505,Vietnami,B-LOC
+7977,Maja Pançiç 2017 m,B-ORG I-ORG O O
+2659,Russell Crowe - Det .,B-PER I-PER O O O
+7449,Kthehet në atdhe një vit më vonë dhe do të jetë për gjashtë muaj sekretar i kabinetit të kryeministrit Fan Noli .,O O O O O O O O O O O O O O O O O O O B-PER I-PER O
+10092,Mirel Josa,B-PER I-PER
+2647,Poeti dhe dramaturgu i njohur Anglez William Shakespeare njihet si dramaturgu më i madh i të gjitha kohërave .,O O O O O O B-PER I-PER O O O O O O O O O O O
+8512,"Midis të dekoruarve me kordonin e madh me yll mund të përmenden Faik Konica , Imz .",O O O O O O O O O O O O B-PER I-PER O O O
+1991,Guatemala -,B-LOC O
+7520,RIDREJTO Institut kombëtar i statistikës ( Spanjë ),O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+3053,RIDREJTO Njësia administrative Qendër ( Devoll ),O B-LOC I-LOC I-LOC I-LOC I-LOC I-LOC
+5502,Schoharie County ( New York ),B-LOC I-LOC I-LOC I-LOC I-LOC I-LOC
+8544,Ishujt Solomon -,B-LOC I-LOC O
+3081,Rrethi i Kurbinit,B-LOC I-LOC I-LOC
+2780,==Beteja e Preshevës me rrethinë,O O B-LOC O O
+5843,Armenia -,B-LOC O
+306,Indonezia,B-LOC
+6014,Demografia e Irlandës,B-ORG I-ORG I-ORG
+6627,Nico Rosberg,B-PER I-PER
+813,Republika Sovjetike Kineze ( shtet i panjohur ),B-LOC I-LOC I-LOC O O O O O
+4282,Kyçet e njeriut,B-ORG I-ORG I-ORG
+6983,Irani -,B-LOC O
+6906,Perandoria Osmane -,B-LOC I-LOC O
+6749,Doktor i kishës,B-PER I-PER I-PER
+1555,Polonia,B-LOC
+6583,Gjermania -,B-LOC O
+5524,Namibia -,B-LOC O
+6394,Serzh Sargsyan ( 2008–sot ),B-PER I-PER O O O
+8052,RIDREJTO Sao Paulo ( shtet ),O B-LOC I-LOC I-LOC I-LOC I-LOC
+3048,"Jakov Xoxa , shkrimtar shqiptar ( i cili ka marrë Fierzën si vendngjarje në disa nga veprat e tij )",B-PER I-PER O O O O O O O O O O O O O O O O O O
+59,Kultura e Britanisë së Madhe,B-ORG I-ORG I-ORG I-ORG I-ORG
+4879,Mike Hawthorn,B-PER I-PER
+6599,Html kodet e ngjyrave,B-ORG I-ORG I-ORG I-ORG
+8853,"*Kryetari i Shtetit - Mao Zedong , Kryetar i Komitetit Qëndror Ekzekutiv ( 1931–1937 )",O O O O B-PER I-PER O O O O O O O O O
+335,Kisha e Vërtetë e Jezusit,B-ORG I-ORG I-ORG I-ORG I-ORG
+4777,Mali i Zi,B-LOC I-LOC I-LOC
+4514,RIDREJTO Trinidadi dhe Tobagoja,O B-ORG I-ORG I-ORG
+6343,"Dante Alighieri ( 1265-1321 ) , poet",B-PER I-PER O O O O O
+3413,The Big Bang Theory,B-ORG I-ORG I-ORG I-ORG
+8527,RIDREJTO UEFA Euro 2000,O B-ORG I-ORG I-ORG
+677,Lajm ( gazetë ),B-ORG I-ORG I-ORG I-ORG
+7621,Monark - Papa Gjon Pali II ( 1978–2005 ),O O B-PER I-PER I-PER I-PER O O O
+4966,Konfederata Gjermane,B-ORG I-ORG
+1593,Kosta Rika -,B-LOC I-LOC O
+7303,Listen - Jordan Rudess,B-ORG O B-PER I-PER
+5303,Kryeministër - Jacques Chaban-Delmas ( 1969–1973 ),O O B-PER I-PER O O O
+9862,Kryeministër - Fidel Castro ( 1959–2008 ),O O B-PER I-PER O O O
+3694,Australia -,B-LOC O
+5728,Richard Nixon ( 1969–1974 ),B-PER I-PER O O O
+624,RIDREJTO Ndeshja e futbollit Serbi-Shqipëri ( 2014 ),O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+210,Portugalia –,B-LOC O
+1033,Rajmonda Bulku ... ... .Meli,B-PER I-PER O O O
+9718,Felipe Massa,B-PER I-PER
+9582,Ferrari 054 3.0 Ferrari 055 3.0 V10,B-ORG O O B-ORG O O O
+7452,Birmania,B-ORG
+3591,Vajza e Agamemnonit është një roman i shkruajtur nga Ismail Kadare .,O O O O O O O O O B-PER I-PER O
+990,Ai ia ka vendosur Sasukes shenjen e mallkimit .,O O O O B-PER O O O O
+10084,RIDREJTO Ministria për Inovacionin dhe Administratën Publike e Shqipërisë,O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+4635,FC Barcelona,B-ORG I-ORG
+5994,"Monark - Elizabeth II , Mbretëresha e Belizas ( 1981–sot )",O O B-PER I-PER O O O O O O O
+8109,Nigeri,B-LOC
+2431,I ati u grish nga Spiro Moisiu për me marrë pjesë në rezistencën kundër gjermanëve .,O O O O O B-PER I-PER O O O O O O O O O
+9791,Kombëtarja irlandezoveriore e futbollit,B-ORG I-ORG I-ORG I-ORG
+3248,Në këtë sezon Real Madrid C.F . e fitoi titullin e tretë në La Liga .,O O O B-ORG I-ORG I-ORG I-ORG O O O O O O B-ORG I-ORG O
+9038,Irlanda,B-LOC
+456,Ai e filloi ndeshjen në mesfushë dhe u zëvëndësua në minutën e 90 me kosovarin Armend Dallku pas një ndeshje fantastike .,O O O O O O O O O O O O O O O B-PER I-PER O O O O O
+196,Birmania,B-ORG
+6891,Zvicra,B-LOC
+2086,RIDREJTO Frederiku i Madh,O B-PER I-PER I-PER
+8724,Italia,B-LOC
+2757,Dmitry Medvedev ( 2008–2012 ),B-PER I-PER O O O
+7437,Birmania,B-ORG
+4361,Juvenilia dhe vjersha të tjera libër Autor Ndre Mjeda .,O O O O O O O B-PER I-PER O
+1512,"RIDREJTO Alpandeire , Spanjë",O B-LOC I-LOC I-LOC
+2642,Nigeri,B-LOC
+2323,Helloween,B-ORG
+6882,RIDREJTO Dr Zakir Naik,O B-PER I-PER I-PER
+3786,The Black Mages,B-ORG I-ORG I-ORG
+9037,Georges Pompidou ( 1969–1974 ),B-PER I-PER O O O
+4551,RIDREJTO Komuna e Kamenicës ( Maqedoni ),O B-LOC I-LOC I-LOC I-LOC I-LOC I-LOC
+9497,RIDREJTO Mirza Ghulam Ahmet,O B-PER I-PER I-PER
+4578,KF Skënderbeu,B-ORG I-ORG
+6971,KF Skënderbeu,B-ORG I-ORG
+8763,KS Teuta,B-ORG I-ORG
+2378,Nigeria,B-LOC
+3735,Portugalia –,B-LOC O
+1758,"Shkollën fillore e kreu në Pejë , ndërsa gjimnazin në vendlindje .",O O O O O B-LOC O O O O O O
+220,Pakistani,B-LOC
+4767,Shkëmbi dhuroi krosin që solli aksionin e golit të shënuar nga mesfushori Bakary Nimaga .,O O O O O O O O O O O O B-PER I-PER O
+8180,Jordania,B-LOC
+8602,Hondurasi -,B-LOC O
+5681,Liquid Tension Experiment 2,B-ORG I-ORG I-ORG I-ORG
+3034,Kryeqëndra e kantonit është Toulon .,O O O O B-LOC O
+7320,Ishte një nga organizatorët e Lidhjes Shqiptare të Prizrenit dhe një nga luftëtarët më të vendosur për autonominë e Shqipërisë dhe mbrojtjen e tërësisë së saj territoriale .,O O O O O B-ORG I-ORG I-ORG I-ORG O O O O O O O O O O B-LOC O O O O O O O O
+8039,Of Mice & Men,B-ORG I-ORG I-ORG I-ORG
+4401,Akad. Prof. Dr.Teki Biçoku ( 1965-1974 ),B-PER I-PER I-PER I-PER O O O
+3516,Liberia -,B-LOC O
+4194,Republika Jugafrikane - 1,B-LOC I-LOC O O
+5045,Alfa Romeo,B-ORG I-ORG
+4066,Meksika -,B-LOC O
+1950,Ky eveniment nuk është njohur ende zyrtarisht nga FSHF .,O O O O O O O O B-ORG O
+4982,Margarita Xhepa ... Zyraka,B-PER I-PER O O
+5667,Jefferson County ( New York ),B-LOC I-LOC I-LOC I-LOC I-LOC I-LOC
+7081,Kryeministër - Ingvar Carlsson ( 1986–1991 ),O O B-PER I-PER O O O
+7501,Presidenti - Rafael Correa ( 2007–sot ),O O B-PER I-PER O O O
+3583,RIDREJTO Pastel Blues ( album ),O B-ORG I-ORG I-ORG I-ORG I-ORG
+5487,Ai u zëvendësua nga aktori Gabriel Porras .,O O O O O B-PER I-PER O
+8560,Birmania,B-ORG
+9198,Xhaferr Ypi ( 1921–1922 ),B-PER I-PER O O O
+5670,Mauritania,B-LOC
+2743,Lech Kaczyński ( 2005–2010 ),B-PER I-PER O O O
+3307,Muri kinez që 5-të p.e.r .,B-ORG I-ORG O O O O
+9815,"Për shkak të pozicionit të saj gjeografik , Kroacia paraqet një përzierje të katër sferave të ndryshme kulturore .",O O O O O O O O B-LOC O O O O O O O O O O
+7482,RIDREJTO Festivali Evropian i Këngës për Fëmijë,O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+7397,Ndeshja e rradhës u luajt kundër Italisë .,O O O O O O B-ORG O
+1705,ridrejto Mbreti Zogu I,O B-PER I-PER I-PER
+6402,"2015 do të ketë Harry S. Truman , Dwight D. Eisenhower , John F. Kennedy , dhe Lyndon B. Johnson",O O O O B-PER I-PER I-PER O B-PER I-PER I-PER O B-PER I-PER I-PER O O B-PER I-PER I-PER
+1245,Kryeministër – Harri Holkeri ( 1987–1991 ),O O B-PER I-PER O O O
+3601,Mauritania,B-LOC
+6565,Ai shënoi sërisht kundër Portugalisë në ndeshjen e kthimit që përfundoi me rezultatin 1–1 .,O O O O B-ORG O O O O O O O O O O
+9708,RIDREJTO Policia e shtetit shqiptar,O B-ORG I-ORG I-ORG I-ORG
+6179,President - Wilhelm Pieck ( 1949–1960 ),O O B-PER I-PER O O O
+781,Kryeministër - Francisco Franco ( 1939–1973 ),O O B-PER I-PER O O O
+5412,Willy Brandt ( 1969–1974 ),B-PER I-PER O O O
+9221,Samoa -,B-LOC O
+1062,Kolumbia -,B-LOC O
+7783,Karl Renner ( 1945–1950 ),B-PER I-PER O O O
+7188,Kombëtarja boliviane e futbollit,B-ORG I-ORG I-ORG I-ORG
+6646,"Në territorin e Fterrës dalin 42 burime uji , të grupuara në burime uji me prurje më të mëdha dhe me prurje të vogla .",O O O B-LOC O O O O O O O O O O O O O O O O O O O O O
+8208,Myrskylä ( Mörskom ),B-LOC O O O
+2722,Real Madrid C.F .,B-ORG I-ORG I-ORG I-ORG
+6170,Luftë e vogël e përkorë roman me Autore Elvira Dones .,O O O O O O O O B-PER I-PER O
+3003,Dhimitër Progoni ( 1208–1216 ),B-PER I-PER O O O
+2030,Suedia –,B-LOC O
+4766,Kryeministër - Carl Gustaf Ekman ( 1930–1932 ),O O B-PER I-PER I-PER O O O
+5148,Ostrobothnia Qendrore ( Keski-Pohjanmaa / Mellersta Österbotten ),B-LOC I-LOC O O O O O O
+9950,Konfederata Gjermane ( 1815–1866 ),B-ORG I-ORG O O O
+7589,John Cena si vetja e vet,B-PER I-PER O O O O
+3354,22x20px]] FC Schalke 04,O B-ORG I-ORG I-ORG
+2574,Monako -,B-LOC O
+5571,Birmania,B-ORG
+6768,Bangladeshi,B-LOC
+2568,1946,B-ORG
+2302,Eritrea,B-LOC
+9277,Valencia CF,B-ORG I-ORG
+5384,Particioni i numrit natyral,B-ORG I-ORG I-ORG I-ORG
+4797,RIDREJTO Banka Kombëtare Tregtare,O B-ORG I-ORG I-ORG
+184,Belgjika -,B-LOC O
+2654,; Yenicami Ağdelen S.K .,O B-ORG I-ORG I-ORG I-ORG
+3332,Zvicra,B-LOC
+5834,Kjo zonë kufizohet me Zonën Veriperëndimore dhe Zonën Jugore .,O O O O B-LOC I-LOC O B-LOC I-LOC O
+2105,Panamaja,B-LOC
+3008,Nina Simone at Newport,B-ORG I-ORG I-ORG I-ORG
+4441,Futsal Klub Tirana në Minifutboll ( Meshkuj ),B-ORG I-ORG I-ORG O O O O O
+2984,Ridrejto Katedralja e Shën Shtjefnit,O B-ORG I-ORG I-ORG I-ORG
+255,Václav Klaus ( 1992–1997 ),B-PER I-PER O O O
+8716,RIDREJTO Lista e shteteve,O B-LOC I-LOC I-LOC
+3377,Laosi,B-LOC
+390,RIDREJTO Shqiptarët në Shtetet e Bashkuara,O B-ORG I-ORG I-ORG I-ORG I-ORG
+2186,Ai pothuajse sa nuk shënoi për ekipin e tij pas një krosimi te Cristiano Ronaldo .,O O O O O O O O O O O O O B-PER I-PER O
+5060,Janë kualifikuar përsëri në La Liga me ndeshje shtesë,O O O O B-ORG I-ORG O O O
+6992,Hondurasi -,B-LOC O
+5942,Konfederata Serbia dhe Mali i Zi,B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+2387,*Kryetari i Shtetit - Francisco Franco ( 1936–1975 ),O O O O B-PER I-PER O O O
+7761,Emiratet e Bashkuara Arabe,B-LOC I-LOC I-LOC I-LOC
+3167,FC Schalke 04,B-ORG I-ORG I-ORG
+4723,Ndoqi mësimet fillore në Korçë ku qe zhvendosur vëllai i tij Spirua dhe më tej në Greqi .,O O O O B-LOC O O O O O O O O O O O B-LOC O
+2280,Lesoto,B-LOC
+5589,Kryeministër - Francisco Franco ( 1939–1973 ),O O B-PER I-PER O O O
+6903,BBC Live & In-Session,B-ORG I-ORG I-ORG I-ORG
+2143,Mali i Zi,B-LOC I-LOC I-LOC
+6449,Saxon,B-ORG
+8255,Michiel van den Bos,B-PER I-PER I-PER I-PER
+8044,Maroku,B-LOC
+2495,Maqedonia e lashtë,B-ORG I-ORG I-ORG
+7745,Resonance - Jordan Rudess,B-ORG O B-PER I-PER
+22,The New York Times,B-ORG I-ORG I-ORG I-ORG
+6696,Austria,B-LOC
+4769,Media në Britaninë e Madhe,B-ORG I-ORG I-ORG I-ORG I-ORG
+4850,Iron Fist,B-ORG I-ORG
+4520,President - Branko Crvenkovski ( 2004–2009 ),O O B-PER I-PER O O O
+6015,RIDREJTO Rajoni i Pejës,O B-LOC I-LOC I-LOC
+1404,Greqia -,B-LOC O
+672,"Ilomantsi ( 5,693 )",B-LOC O O O
+7096,"Monark - Elizabeth II , Mbretëresha e Tuvalut ( 1978–sot )",O O B-PER I-PER O O O O O O O
+9677,"ishte sezoni i organizuar nga National Basketball Association , sezoni filloi më dhe mbaroi më .",O O O O O B-ORG I-ORG I-ORG O O O O O O O O
+8284,Boetsch jeton në Gjeneva .,O O O B-LOC O
+2869,Zëri i Pensionistit,B-ORG I-ORG I-ORG
+2991,Shtetet e Bashkuara të Amerikës –,B-LOC I-LOC I-LOC I-LOC I-LOC O
+2096,Birmania,B-ORG
+8455,Joachim Rücker ( 2006–2008 ),B-PER I-PER O O O
+4260,Kenia,B-LOC
+2878,Metropolis Pt. 2 : Scenes from a Memory,B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+944,Kolumbia -,B-LOC O
+6124,Birmania,B-ORG
+5192,25px]] Jenson Button,O B-PER I-PER
+4754,"Ai ishte i përgatitur për të huazuar ose transferuar për të gjetur një skuadër tjetër , por kur Louis van Gaal u emërua trajneri i ri , të dy lojtarët u bënë titullar pothuajse në të gjitha ndeshjet e sezonit .",O O O O O O O O O O O O O O O O O O B-PER I-PER I-PER O O O O O O O O O O O O O O O O O O O O
+8170,San Marino,B-LOC I-LOC
+9193,RIDREJTO Partia Komuniste e Shqipërisë,O B-ORG I-ORG I-ORG I-ORG
+191,25px]] Felipe Massa,O B-PER I-PER
+7947,Ne të tre Roman me Autor Fatos Kongoli .,O O O O O O B-PER I-PER O
+6585,The Walt Disney Company,B-ORG I-ORG I-ORG I-ORG
+4562,Liquid Tension Experiment 2,B-ORG I-ORG I-ORG I-ORG
+5546,Kryetarët e Republikës Jugoafrikane,B-ORG I-ORG I-ORG I-ORG
+5179,Irlanda,B-LOC
+7591,Presidenti - Harry S. Truman ( 1945–1953 ),O O B-PER I-PER I-PER O O O
+2875,RIDREJTO Ekonomia e Ish Republikës Jugosllave e Maqedonisë,O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+8289,Spanja –,B-LOC O
+7487,Agim Qirjaqi ... Profesori,B-PER I-PER O O
+2225,Eritrea,B-LOC
+9734,Pakistani,B-LOC
+9560,RIDREJTO Njësia administrative Kthellë,O B-LOC I-LOC I-LOC
+754,Kryeministër - Tage Erlander ( 1946–1969 ),O O B-PER I-PER O O O
+1324,Kryetari i Shtetit - Carlo Azeglio Ciampi ( 1999–2006 ),O O O O B-PER I-PER I-PER O O O
+9307,Kepi i Gjelbër,B-LOC I-LOC I-LOC
+7231,Turqia,B-LOC
+1316,Sinan Hasani ( 1986–1987 ),B-PER I-PER O O O
+394,La Liga,B-ORG I-ORG
+1177,"E para me Buzukun , Budin , Bogdanin e Varibobën , e dyta nëpërmjet De Radës , Naimit , Serembes , Pashko Vasës , Samiut , Mjedjes , Çajupit .",O O O B-PER O B-PER O B-PER O B-PER O O O O B-PER I-PER O B-PER O B-PER O B-PER I-PER O B-PER O B-PER O B-PER O
+1117,Andorra,B-LOC
+8827,Guinea Ekuatoriale,B-LOC I-LOC
+2727,Konfederata Gjermane ( 1815–1866 ),B-ORG I-ORG O O O
+2616,RIDREJTO Mbretëria e Bashkuar e Britanisë së Madhe dhe Irlandës së Veriut,O B-LOC I-LOC I-LOC I-LOC I-LOC I-LOC I-LOC I-LOC I-LOC I-LOC I-LOC
+3830,Prusia –,B-LOC O
+2223,Irani -,B-LOC O
+9222,Kryeministër - Fredrik Reinfeldt ( 2006–2014 ),O O B-PER I-PER O O O
+8130,Violeta Manushi ... ... gjyshja e Mimozës,B-PER I-PER O O O O O
+9428,"Piloti nga Scuderia Toro Rosso , Sebastian Vettel gjithashtu dështoi që të realizojë xhiro kualifikuese për shkak të problemeve me vajin kështu që u radhit si i dhjeti .",O O B-ORG I-ORG I-ORG O B-PER I-PER O O O O O O O O O O O O O O O O O O O O O
+8054,Teuta Kurti,B-PER I-PER
+8193,Tunizia,B-LOC
+2901,RIDREJTO Muamer el Gadafi,O B-PER I-PER I-PER
+8935,KF Gramozi,B-ORG I-ORG
+6053,Konflikti Frashëri dhe Vreto rreth drejtshkrimit .,O B-PER O B-PER O O O
+2769,Racing de Santander,B-ORG I-ORG I-ORG
+9595,Shtetet e Bashkuara të Amerikës –,B-LOC I-LOC I-LOC I-LOC I-LOC O
+4507,Austria,B-LOC
+7995,Mos e përziej me Republika Socialiste e Bosnjës dhe Hercegovinës .,O O O O B-LOC I-LOC I-LOC I-LOC I-LOC I-LOC O
+3367,Një ndër paraqitje të tilla mbi këtë deklaratë është edhe ajo e shefit të diplomacisë Sllovenisë Dimitrij Rupel .,O O O O O O O O O O O O O O O B-LOC B-PER I-PER O
+9108,Anders Fogh Rasmussen ( 2001–2009 ),B-PER I-PER I-PER O O O
+2810,1986 FIFA Kupa e Botës,B-ORG I-ORG I-ORG I-ORG I-ORG
+3033,Álvaro Arbeloa,B-PER I-PER
+7736,Togo,B-LOC
+3482,Australia -,B-LOC O
+4156,Willy Brandt ( 1969–1974 ),B-PER I-PER O O O
+9569,Kina,B-LOC
+6623,President - Gustav Heinemann ( 1969–1974 ),O O B-PER I-PER O O O
+8327,The New York Times,B-ORG I-ORG I-ORG I-ORG
+5684,Liquid Tension Experiment,B-ORG I-ORG I-ORG
+2090,Branko Crvenkovski ( 2004–2009 ),B-PER I-PER O O O
+8950,Norvegjia -,B-LOC O
+10064,Japonia,B-LOC
+4647,Willem Drees ( 1948–1958 ),B-ORG I-ORG O O O
+4918,A.C. Milan,B-ORG I-ORG
+2675,President - Andrej Kiska ( 2014–sot ),O O B-PER I-PER O O O
+9699,Vincent van Gogh,B-PER I-PER I-PER
+1320,Kryetari i Shtetit - Giorgio Napolitano ( 2006–2015 ),O O O O B-PER I-PER O O O
+9207,Tempulli i Artemidës në Efes,B-ORG I-ORG I-ORG I-ORG I-ORG
+8288,Polonia,B-LOC
+5174,FC Barcelona,B-ORG I-ORG
+6800,Ramones,B-ORG
+9653,"Ulysses S. Grant , President ( 1869–1877 )",B-PER I-PER I-PER O O O O O
+3731,Profesor universitar Universiteti i Prishtinës,O O B-ORG I-ORG I-ORG
+7353,Kryeministër – Margaret Thatcher ( 1979–1990 ),O O B-PER I-PER O O O
+1777,Ngjyrat e fanellës së klubit janë e bardha dhe e zeza dhe ata i luajn ndeshjet si vendas në Stadiumi Laçi .,O O O O O O O O O O O O O O O O O O O B-ORG I-ORG O
+4054,"Bamir Topi , Presidenti i Shqipërisë ( 2007–2012 )",B-PER I-PER O B-ORG I-ORG I-ORG O O O
+2927,RIDREJTO Ciganët ( Telenovelë ),O B-ORG I-ORG I-ORG I-ORG
+3738,Kryeministër - Massimo D'Alema ( 1998–2000 ),O O B-PER I-PER O O O
+3699,Andorra,B-LOC
+1843,Komoret,B-LOC
+2485,=== Me Dream Theater ===,O O B-ORG I-ORG O
+5599,Kostas Karamanlis ( 2004–2009 ),B-PER I-PER O O O
+5233,Portugalia –,B-LOC O
+1696,Rumania -,B-LOC O
+4727,Kryeministër - Benito Mussolini ( 1922–1943 ),O O B-PER I-PER O O O
+2625,Republika Dominikane -,B-LOC I-LOC O
+7458,Warner Bros .,B-ORG I-ORG I-ORG
+6215,Kombëtarja moldave e futbollit,B-ORG I-ORG I-ORG I-ORG
+8101,Inter bleu 50 % të kartonit të lojtarit .,B-ORG O O O O O O O O
+1920,Josip Broz Tito ( 1953–1980 ),B-PER I-PER I-PER O O O
+883,Kjo ishte gara e parë me përfundim për pilotin Sebastian Vettel .,O O O O O O O O O B-PER I-PER O
+9823,Popullsia greke e këtyre rajoneve ishte e pakënaqur nga sundimi venecian .,B-LOC I-LOC O O O O O O O O O O
+9588,"Në Perandorinë Bizantine profesionin e avokatit e gjejmë jo vetëm më të zhvilluar , por edhe më të organizuar .",O B-LOC I-LOC O O O O O O O O O O O O O O O O O
+5168,Marie Logoreci ... ... ..,B-PER I-PER O O O
+4211,"Hana Cakuli , këngëtare .",B-PER I-PER O O O
+927,1958 FIFA Kupa e Botës,B-ORG I-ORG I-ORG I-ORG I-ORG
+2847,RIDREJTO Fejzi bej Alizoti,O B-PER I-PER I-PER
+3109,The Big Bang Theory,B-ORG I-ORG I-ORG I-ORG
+621,Omani –,B-LOC O
+2900,Jordania,B-LOC
+3615,Festivali Evropian i Këngës 2009,B-ORG I-ORG I-ORG I-ORG I-ORG
+7628,Nigeria,B-LOC
+7682,A.C. Milan,B-ORG I-ORG
+8114,Gjermania,B-LOC
+5453,RIDREJTO Teorema e rosës së shëmtuar,O B-ORG I-ORG I-ORG I-ORG I-ORG
+64,RIDREJTO Mirza Beshirudin Mahmut Ahmet,O B-PER I-PER I-PER I-PER
+5225,Stadiumi Loro Boriçi,B-ORG I-ORG I-ORG
+8031,FC Barcelona,B-ORG I-ORG
+4825,Ivo Sanader ( 2003–2009 ),B-PER I-PER O O O
+5767,Presidenti - Vicente Fox ( 2000–2006 ),O O B-PER I-PER O O O
+5190,PSV Eindhoven,B-ORG I-ORG
+3924,Tonga,B-LOC
+4568,Letonia,B-LOC
+3006,Ajo është gruaja e dytë që drejton MI5 .,O O O O O O O B-ORG O
+4853,Kampion i La Liga,O O B-ORG I-ORG
+5617,Princi Norodom Sihanouk ( 1975–1976 ),B-PER I-PER I-PER O O O
+5121,"Ky popull paraqitet në disa ermra , kështu në Birmania përdoret apo është një fis i këtij opulli i quajtur shan ( int .",O O O O O O O O O B-ORG O O O O O O O O O O O O O O
+8339,Koreja e Veriut,B-LOC I-LOC I-LOC
+978,Real Madrid C.F .,B-ORG I-ORG I-ORG I-ORG
+8405,Jani Vreto ( Atdhetar ),B-PER I-PER O O O
+2138,RIDREJTO Njësia administrative Shushicë ( Elbasan ),O B-LOC I-LOC I-LOC I-LOC I-LOC I-LOC
+4357,RIDREJTO Paradokset e Zenonit,O B-ORG I-ORG I-ORG
+2627,"Paraardhës i tij ishte Papa Piu X , ndërsa pasardhësi Papa Piu XI .",O O O O B-PER I-PER I-PER O O O B-PER I-PER I-PER O
+9702,RIDREJTO Kombëtarja shqiptare e futbollit,O B-ORG I-ORG I-ORG I-ORG
+4191,Guatemala -,B-LOC O
+1759,Bastards,B-ORG
+4328,Awake - Dream Theater,B-ORG O B-ORG I-ORG
+7858,Zvicra,B-LOC
+7498,Catherine Zeta-Jones,B-PER I-PER
+651,Algjeria,B-LOC
+2890,Chris Rock si Tregimtari .,B-PER I-PER O O O
+6263,Mauritiusi,B-LOC
+95,100 Lekë ( 2000 ),B-ORG I-ORG I-ORG I-ORG I-ORG
+937,"Edicioni gjerman , botuar nga Piper Verlag , përfshin një kapitull të shkruar nga Joachim Gauck , i cili mëpastaj u bë edhe President i Gjermanisë .",O O O O O O O O O O O O O O B-PER I-PER O O O O O O O B-PER I-PER I-PER O
+501,KS Teuta,B-ORG I-ORG
+5214,"Pas ndeshjes , trajneri José Mourinho e lavdëroi Lampardin duke e quajtur lojtarin më të mirë në botë .",O O O O B-PER I-PER O O O O O O O O O O O O O
+1057,Kryeqëndra e kantonit është Bourges .,O O O O B-LOC O
+3995,RIDREJTO Galatasaray S.K .,O B-ORG I-ORG I-ORG
+71,"5 dite më vonë , ai shënoi 2 Gola të tjerë në fitoren e Barçs kundër Real Zaragoza .",O O O O O O O O O O O O O O O O B-ORG I-ORG O
+3925,RIDREJTO Ebu Hydhejfe ibn el-Mugire,O B-PER I-PER I-PER I-PER
+1492,Pearl Jam - prodhues,B-ORG I-ORG O O
+9456,Etiopia -,B-LOC O
+5069,Marc Pujol,B-PER I-PER
+6806,Konfederata Gjermane ( 1815–1866 ),B-ORG I-ORG O O O
+5798,"Calvin Coolidge , President ( 1923–1929 )",B-PER I-PER O O O O O
+6126,Kryeministër - Václav Klaus ( 1992–1997 ),O O B-PER I-PER O O O
+9232,Altin Haxhi,B-PER I-PER
+5044,Somalia,B-LOC
+1999,Violeta Manushi ... .Frosa Guri,B-PER I-PER O O O
+8333,Motörhead ( album ),B-ORG I-ORG I-ORG I-ORG
+9461,RIDREJTO FK Partizani Tirana,O B-ORG I-ORG I-ORG
+3628,Agim Qirjaqi ... profesori,B-PER I-PER O O
+3404,Koreja e Veriut,B-LOC I-LOC I-LOC
+9995,RIDREJTO Lefteri dhe Anthia,O B-PER I-PER I-PER
+8024,2002 FIFA Kupa e Botës,B-ORG I-ORG I-ORG I-ORG I-ORG
+606,Hamburger SV,B-ORG I-ORG
+1872,"Dikur pran rrugës që lidhte Gjilanin me Kumanovën , e cila është në hapje e sipër .",O O O O O B-LOC O B-LOC O O O O O O O O O
+9162,RIDREJTO Njësia administrative Zall-Reç,O B-LOC I-LOC I-LOC
+6928,Ai luajti 72 minuta përpara se të zëvëndësohej nga Isco .,O O O O O O O O O B-PER O
+6708,Universiteti i Tybingenit,B-ORG I-ORG I-ORG
+6464,RIDREJTO Kombëtarja malazeze e futbollit,O B-ORG I-ORG I-ORG I-ORG
+5883,It 's All About You,B-ORG I-ORG I-ORG I-ORG I-ORG
+9190,Sipoo ( Sibbo ),B-LOC O O O
+202,"Kolë Idromeno ( 1860-1939 ) , piktor , arkitekt , urbanist , fotograf , skenograf",B-PER I-PER O O O O O O O O O O O O O
+3153,Lisa Simpson,B-PER I-PER
+4177,Enchant,B-ORG
+3812,Unioni Demokratik i Shqiptarëve,B-ORG I-ORG I-ORG I-ORG
+2605,Maldivet,B-LOC
+8062,Mozambiku,B-LOC
+7856,"Njihet edhe si njeriu i neveritshëm i borës , nga një përkthim i gabuar gazetaresk i shprehjes në gjuhën nepaleze Metoh Kangmi .",O O O O O O O O O O O O O O O O O O B-ORG I-ORG O O O
+8608,Iraku,B-LOC
+2538,RM 3 - FC Barcelona 1,O O O B-ORG I-ORG O
+5297,Venezuela -,B-LOC O
+10006,Kirgistani -,B-LOC O
+9627,Ushtria Çlirimtare e Kosovës,B-ORG I-ORG I-ORG I-ORG
+9655,Beti e Shëmtuar,B-ORG I-ORG I-ORG
+9218,"Monark - Elizabeth II , Mbretëresha e Rodezisë ( pa djeninë e saj ) ( 1965–1970 )",O O B-PER I-PER O O O O O O O O O O O O O
+7694,Kultura e Britanisë së Madhe,B-ORG I-ORG I-ORG I-ORG I-ORG
+8605,It 's All About You,B-ORG I-ORG I-ORG I-ORG I-ORG
+9455,"Benjamin Franklin hulumtoj kavanozin e Leyden-it , dhe dëshmoi se ngarkesa ishte vendosur në qelq , e jo në ujë siç të tjerët pandehnin .",B-PER I-PER O O O O O O O O O O O O O O O O O O O O O O O
+4654,"se Kosova dhe Malcia ) prej së cilës 10,000 km2 janë ujë .",O B-LOC O B-LOC O O O O O O O O O
+2046,"Atë vit ai me agjencinë Winkreative , u përqëndruan në projektimin e pamjes të Swiss International Air Lines AG .",O O O O O O O O O O O O O O B-ORG I-ORG I-ORG I-ORG I-ORG O
+5814,Ai u rikthye në kohë për të luajtur në ndeshjen e parë të fazës së grupeve kundër Portos .,O O O O O O O O O O O O O O O O O B-ORG O
+9875,Libani,B-LOC
+9712,Curb Your Enthusiasm,B-ORG I-ORG I-ORG
+9978,Atlético Madrid ishte fituesja e vitit te kaluar dhe ishte mbrojtesja e titullit por u eleminua nga FC Rubin Kazan .,B-ORG I-ORG O O O O O O O O O O O O O O O B-ORG I-ORG I-ORG O
+10026,Bullgaria -,B-LOC O
+5995,RIDREJTO The Circus Starring Britney Spears,O B-ORG I-ORG I-ORG I-ORG I-ORG
+584,Kryetari i Shtetit - Mao Zedong ( 1949–1959 ),O O O O B-PER I-PER O O O
+5986,Greqia -,B-LOC O
+5987,Ishujt Marshall,B-LOC I-LOC
+2993,Rrëfenjë me ndërkombëtarë roman me Autor Ylljet Aliçka .,O O O O O O B-PER I-PER O
+8191,Janë kualifikuar përsëri në La Liga me ndeshje shtesë,O O O O B-ORG I-ORG O O O
+2189,Gjermania -,B-LOC O
+6705,Tonga,B-LOC
+3970,President - Konstantinos Karamanlis ( 1990–1995 ),O O B-PER I-PER O O O
+2703,Kimi Räikkönen,B-PER I-PER
+3872,Kryeministër - Fidel Castro ( 1959–2008 ),O O B-PER I-PER O O O
+2055,Lyndon B. Johnson ( 1963–1969 ),B-PER I-PER I-PER O O O
+3363,Suedia -,B-LOC O
+2948,Bangladeshi,B-LOC
+3604,25px]] Kimi Räikkönen,O B-PER I-PER
+7229,Columbia Broadcasting System,B-ORG I-ORG I-ORG
+5277,Lost and Forgotten,B-ORG I-ORG I-ORG
+10004,Alfred Moisiu ( 2002–2007 ),B-PER I-PER O O O
+6028,Loro Boriçi ( 1965–1972 ),B-PER I-PER O O O
+8826,Japonia –,B-LOC O
+1315,Yuna,B-PER
+5056,Presidenti – Tarja Halonen ( 2000–2012 ),O O B-PER I-PER O O O
+6946,Porvoo ( Borgå ),B-LOC O O O
+2313,Carry Me in Your Dreams,B-ORG I-ORG I-ORG I-ORG I-ORG
+952,Presidenti – Tarja Halonen ( 2000–2012 ),O O B-PER I-PER O O O
+3121,Monako -,B-LOC O
+128,The Jelly Jam 2,B-ORG I-ORG I-ORG I-ORG
+3803,Kalaja e Shkodrës,B-ORG I-ORG I-ORG
+3329,Miloš Krasić,B-PER I-PER
+7267,Erik Gustaf Boström ( 1891–1900 ),B-PER I-PER I-PER O O O
+2247,RIDREJTO Bashkimi Ndërkombëtar i Telekomunikacionit,O B-ORG I-ORG I-ORG I-ORG
+6517,Festivali Evropian i Këngës 2010,B-ORG I-ORG I-ORG I-ORG I-ORG
+3238,Vranoci i Epërm ( Lebanë ),B-LOC I-LOC I-LOC I-LOC I-LOC I-LOC
+2882,"Havzi Nela u shqua për jetën e veprimtarinë e tij politike , arsimore e shoqërore .",B-PER I-PER O O O O O O O O O O O O O O
+2026,Egjipti,B-LOC
+9172,Ekonomia e Andorrës,B-ORG I-ORG I-ORG
+9440,Kancelar - Konrad Adenauer ( 1949–1963 ),O O B-PER I-PER O O O
+5417,Kombëtarja maltase e futbollit,B-ORG I-ORG I-ORG I-ORG
+5081,Japonia,B-LOC
+7331,Samoa,B-LOC
+2532,Breznitë e Hankonatëve është një roman i shkruajtur nga Ismail Kadare .,O O O O O O O O O B-PER I-PER O
+4631,The Hitchhiker 's Guide to the Galaxy ( ),B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG O O
+3145,Rusia -,B-LOC O
+7164,Vietnami,B-LOC
+4668,San Marino,B-LOC I-LOC
+4847,Club Atlético de Aviación,B-ORG I-ORG I-ORG I-ORG
+5413,==Marrëdhëniet me qeverinë e Fan Nolit,O O O O B-PER I-PER
+1120,Sergio Ramos,B-PER I-PER
+9920,Valencia CF,B-ORG I-ORG
+9517,Kulla e Sahatit e Tiranës,B-ORG I-ORG I-ORG I-ORG I-ORG
+5405,The Human League,B-ORG I-ORG I-ORG
+5371,Gjithashtu ishte themelues i Bankës së Shqipërisë .,O O O O B-ORG I-ORG I-ORG O
+2753,Suedia -,B-LOC O
+5787,Kryetari i Shtetit - Josip Broz Tito ( 1953–1980 ),O O O O B-PER I-PER I-PER O O O
+3798,Organizata Botërore e Tregtisë,B-ORG I-ORG I-ORG I-ORG
+7258,Presidenti - Augusto Pinochet ( 1974–1990 ),O O B-PER I-PER O O O
+4779,Rubens Barrichello,B-PER I-PER
+6727,*27.05.1944 - 22.10.1944 Omer Nishani,O O O B-PER I-PER
+5049,Mike Hawthorn,B-PER I-PER
+2192,RIDREJTO Komuna e Kotorrit,O B-LOC I-LOC I-LOC
+4602,"Daisuke Namikawa - Roko ,",B-PER I-PER O O O
+8307,Partia Demokratike ( ShBA ),B-ORG I-ORG I-ORG I-ORG I-ORG
+7709,"Nga disa shtyllë betoni të marra nga Burgu i Spaçit i njohur si Auzhvici shqiptar , ku vetë Fatos Lubonja kaloi një pjesë të jetës së vet si i dënuar politik .",O O O O O O O B-ORG I-ORG I-ORG O O O O O O O O B-PER I-PER O O O O O O O O O O O O
+1190,Fatos Nano ( 1997–1998 ),B-PER I-PER O O O
+4186,Danimarka –,B-LOC O
+2347,Ata më vonë do të njihen si Dream Theater .,O O O O O O O B-ORG I-ORG O
+6269,*06.09.1944 - 29.11.1944 Ibrahim bej Biçakçiu,O O O B-PER I-PER I-PER
+9946,Islami dhe terrorizmi,B-ORG I-ORG I-ORG
+6724,Armend Dallku,B-PER I-PER
+3860,Kyle Casciaro,B-PER I-PER
+1717,Baywatch ( 1992-1996 ),B-PER O O O
+9762,Ata të dy luajnë me kombëtaren sllovene .,O O O O O B-ORG I-ORG O
+706,Bullgaria -,B-LOC O
+9423,RIDREJTO Njësia administrative Bushat,O B-LOC I-LOC I-LOC
+7385,Papua Guinea e Re,B-LOC I-LOC I-LOC I-LOC
+9104,Barbadosi,B-LOC
+9594,Monark - Papa Pali VI ( 1963–1978 ),O O B-PER I-PER I-PER O O O
+2819,Japonia -,B-LOC O
+8472,Koreja e Veriut,B-LOC I-LOC I-LOC
+5866,Zelanda e Re -,B-LOC I-LOC I-LOC O
+5115,Athletic Bilbao fitoj titullin e tretë në La Liga në këtë sezon .,B-ORG I-ORG O O O O O B-ORG I-ORG O O O O
+6683,Melpomeni Çobani ... ... ..,B-PER I-PER O O O
+1764,Jenson Button,B-PER I-PER
+1795,"Prof. Dr. Rexhep Meidani , Kryetar i Bordit",O O B-PER I-PER O O O O
+2652,Tonga -,B-LOC O
+5231,Arundo trivalvis - në Indonezi,O O O O B-LOC
+9299,President - Rudolf Kirchschläger ( 1974–1986 ),O O B-PER I-PER O O O
+1124,Kenia,B-LOC
+5284,Mit'hat Bej Frashëri - Ministër i Punëve Publike,B-PER I-PER I-PER O O O O O
+4717,Shën Luçia,B-LOC I-LOC
+1210,Eintracht Frankfurt,B-ORG I-ORG
+6165,Hondurasi -,B-LOC O
+7094,"Njëkohësisht , ato simbolizojnë dëshirën e vendasve në shekuj për liri dhe për ta mbrojtur lirinë nga bedenat e kalasë së ndërtuar nga Pasha Aliu .",O O O O O O O O O O O O O O O O O O O O O O O B-ORG I-ORG O
+7855,François Mitterrand ( 1981–1995 ),B-PER I-PER O O O
+10020,Pas ekspozitave të ndryshme dhe asaj në Muzeu Historik Kombëtar punët e tij vlerësohen nga studjuesit e artit si tërheqëse dhe të pëlqyeshme nga i gjithë publiku .,O O O O O O O B-ORG I-ORG I-ORG O O O O O O O O O O O O O O O O O O
+5341,RIDREJTO Njësia administrative Zall-Reç,O B-LOC I-LOC I-LOC
+7422,"Vasillaq Vangjeli ... babai , Baxhuli",B-PER I-PER O O O O
+4729,RIDREJTO 1950 FIFA Kupa e Botës,O B-ORG I-ORG I-ORG I-ORG I-ORG
+6338,Uusikaupunki ( ),B-LOC O O
+8166,Iso-Polifonia ( gazetë ),B-ORG I-ORG I-ORG I-ORG
+8037,Sylvio Mendes Campos Junior,B-PER I-PER I-PER I-PER
+172,RIDREJTO Njësia administrative Shënkoll,O B-LOC I-LOC I-LOC
+3897,TV Teuta,B-ORG I-ORG
+6400,"Pluzhina T - 1,494",B-LOC O O O
+7175,Nepali -,B-LOC O
+3635,Kancelar - Konrad Adenauer ( 1949–1963 ),O O B-PER I-PER O O O
+2116,RIDREJTO Abdullah ibn Mesud,O B-PER I-PER I-PER
+3451,RIDREJTO Omer ibn Abdylazis,O B-PER I-PER I-PER
+420,RIDREJTO Muzeu Arkeologjik Durrës,O B-ORG I-ORG I-ORG
+354,Beliza,B-LOC
+1644,President - Thomas Klestil ( 1992–2004 ),O O B-PER I-PER O O O
+3649,Partia Fashiste Shqiptare u krijua,B-ORG I-ORG I-ORG O O
+1905,Zelanda e Re -,B-LOC I-LOC I-LOC O
+1745,Koreja e Veriut,B-LOC I-LOC I-LOC
+3199,Ai u rikthye në sezonin tjetër në skuadrën e parë duke qënë zëvëndësuesi i Ilion Likës .,O O O O O O O O O O O O O O B-PER I-PER O
+1372,RIDREJTO Maqedonia e lashtë,O B-ORG I-ORG I-ORG
+3204,Zvicra,B-LOC
+6327,dhe regjinë për të njejtën dramë në të cilën aktruan Meryl Streep dhe Philip Seymour Hoffman në rolet kryesore .,O O O O O O O O O O B-PER I-PER O B-PER I-PER I-PER O O O O
+3729,Hell Freezes Over,B-ORG I-ORG I-ORG
+6555,RIDREJTO Just a Little More Love ( kënga ),O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+9790,President - Serzh Sargsyan ( 2008–sot ),O O B-PER I-PER O O O
+1412,Japonia,B-LOC
+7891,Kancelar - Bruno Kreisky ( 1970–1983 ),O O B-PER I-PER O O O
+3850,Indeksi i zhvillimit njerëzor,B-ORG I-ORG I-ORG I-ORG
+2206,President - Richard von Weizsäcker ( 1984–1994 ),O O B-PER I-PER I-PER O O O
+5310,Kjo është edhe arsyeja pse Bashkimi Europian e adoptoi flamurin e njëjtë .,O O O O O B-ORG I-ORG O O O O O O
+4450,RIDREJTO Procesi i gjeneralëve të Wermachtit në Ballkan,O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+8021,RIDREJTO Raiffeisen Bank Shqipëri,O B-ORG I-ORG I-ORG
+4258,Janë kualifikuar përsëri në La Liga me ndeshje shtesë,O O O O B-ORG I-ORG O O O
+7284,Lituania -,B-LOC O
+4871,Anglia,B-LOC
+2842,Meksika -,B-LOC O
+133,Kancelar - Bruno Kreisky ( 1970–1983 ),O O B-PER I-PER O O O
+2788,Bosnja dhe Hercegovina,B-LOC I-LOC I-LOC
+2159,President - Hosni Mubarak ( 1981–2011 ),O O B-PER I-PER O O O
+2576,Shtabi i Përgjithshëm,B-ORG I-ORG I-ORG
+1910,Kryetari i Shtetit - Josip Broz Tito ( 1953–1980 ),O O O O B-PER I-PER I-PER O O O
+6968,Kancelar - Bruno Kreisky ( 1970–1983 ),O O B-PER I-PER O O O
+195,Tunizia,B-LOC
+32,Guvernator - Sir James Carlisle ( 1993–2007 ),O O B-PER I-PER I-PER O O O
+9052,KS Teuta,B-ORG I-ORG
+728,"Maxim Gorky , Malva , Lindja e një Njeriu",B-PER I-PER O O O O O O O
+4254,Philippe Pétain ( 1940–1942 ),B-PER I-PER O O O
+5797,RIDREJTO Bosnja dhe Hercegovina,O B-LOC I-LOC I-LOC
+5266,Giancarlo Fisichella filloi i fundit për shkak të ndërrimeve të motorit para garës .,B-PER I-PER O O O O O O O O O O O O
+7949,"Monark - Elizabeth II , Mbretëresha e Fixhit ( 1970–1987 )",O O B-PER I-PER O O O O O O O
+2620,Ai shënoi sërisht në javën e ardhshme në fitoren 2–1 jashtë fushe kundër Bolognës .,O O O O O O O O O O O O O B-ORG O
+3384,« Vetëm Kisha protestoi kundër masakrës Hitleriane mbi lirinë .,O O B-ORG O O O O O O O
+7743,Irani -,B-LOC O
+2612,Kryetari i Shtetit - Giuseppe Saragat ( 1964–1971 ),O O O O B-PER I-PER O O O
+6908,Kosta Rika -,B-LOC I-LOC O
+5345,La Liga,B-ORG I-ORG
+7893,Allegany County ( New York ),B-LOC I-LOC I-LOC I-LOC I-LOC I-LOC
+8441,Nemaha County ( NM ),B-LOC I-LOC O O O
+8555,William H. Taft,B-PER I-PER I-PER
+9680,Indonezia,B-LOC
+61,RIDREJTO L. L. Zamenhof,O B-PER B-PER I-PER
+6022,Nepali -,B-LOC O
+2273,Kryeqytet i provincës Haut-Mbomou në Republikën Afrika Qendrore .,O O O B-LOC O B-LOC I-LOC I-LOC O
+5648,Lesoto,B-LOC
+2256,President - Thomas Klestil ( 1992–2004 ),O O B-PER I-PER O O O
+1834,Është pranë Xhamisë së Namazgjahut dhe Xhamisë së Kryepazarit .,O O B-ORG I-ORG I-ORG O B-ORG I-ORG I-ORG O
+6616,Zanzibari ( protektorat Britanik ) -,B-LOC O O O O O
+4031,RIDREJTO Burgu i Burrelit,O B-ORG I-ORG I-ORG
+9709,Sao Tome dhe Principe,B-LOC I-LOC I-LOC I-LOC
+7467,Gambia,B-LOC
+4131,"Pas kësaj , ata u ndeshën kundër Kroacisë ku sërisht barazuan me rezultatin 1–1 .",O O O O O O O B-ORG O O O O O O O
+8886,"Fitorja e Partisë Demokratike në zgjedhjet e përgjithshme , u njollos nga akuzat për mashtrim .",O O B-ORG I-ORG O O O O O O O O O O O O
+2754,Panamaja -,B-LOC O
+5514,Venezuela -,B-LOC O
+6463,"Fakulteti i Drejtësisë , Universiteti i Vlorës",B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+482,Monako -,B-LOC O
+348,Surinami,B-LOC
+5536,Motörizer,B-ORG
+5833,Lupçi i Epërm,B-LOC I-LOC I-LOC
+7374,Vedder iu referohet kësaj çështje me anë të kënges Lukin nga No Code .,O O O O O O O O O O O B-ORG I-ORG O
+7300,Charmed ( 1998-2006 ) .,B-ORG O O O O
+411,Turqia -,B-LOC O
+870,Bolivia -,B-LOC O
+2257,Gjermania Naziste -,B-LOC I-LOC O
+1460,Kupa e basketbollit e Shqipërisë është evenimenti i dytë për nga rëndësia .,B-ORG I-ORG I-ORG I-ORG I-ORG O O O O O O O O
+2282,"Ushtria Çlirimtare për Preshevë , Medvegjë dhe Bujanoc",B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+4178,Federata Polake e Futbollit,B-ORG I-ORG I-ORG I-ORG
+5661,A Change of Seasons,B-ORG I-ORG I-ORG I-ORG
+716,Presidenti - Fidel Castro ( 1976–2008 ),O O B-PER I-PER O O O
+6364,"Iphigenia ) - e bija e Agamemnonit , mbretit të Mikenës dhe gruas së tij Klitemnstrës .",O O O O O O B-PER O O O O O O O O O O
+3695,Real Madrid C.F .,B-ORG I-ORG I-ORG I-ORG
+5733,Maroku,B-LOC
+1342,American Dad !,B-ORG I-ORG I-ORG
+2114,Iraku,B-LOC
+7406,Anders Fogh Rasmussen ( 2001–2009 ),B-PER I-PER I-PER O O O
+3815,Parku Kombëtar i Butrintit,B-ORG I-ORG I-ORG I-ORG
+4399,*Mbreti Nikolla I ( 1918–1921 ),O B-ORG I-ORG O O O
+9977,Shtabi i Përgjithshëm ishte në varësi të Komandantit Suprem të Forcave të Armatosura .,O O O O O O O O O O B-ORG I-ORG I-ORG O
+44,Ansi Agolli,B-PER I-PER
+1653,KF Bashkimi Sh .,B-ORG I-ORG O O
+824,Danimarka –,B-LOC O
+7018,Japonia,B-LOC
+2166,President - Nelson Mandela ( 1994–1999 ),O O B-PER I-PER O O O
+1457,Shën Luçia,B-LOC I-LOC
+5950,*Misaki Matsuya në Excel Saga,O O O B-ORG I-ORG
+7380,Bolivia -,B-LOC O
+7952,Hong Kong -,B-LOC I-LOC O
+7360,Austria -,B-LOC O
+9782,Konfederata Gjermane,B-ORG I-ORG
+7613,Vepra 4 me Autor Faik Konica .,O O O O B-PER I-PER O
+5201,Kryeministër - Pandeli Evangjeli ( 1930–1935 ),O O B-PER I-PER O O O
+28,Suedia –,B-LOC O
+1657,Shqipëria,B-LOC
+5619,Palestina ( shtet me njohje të kufizuar ),B-ORG O O O O O O O

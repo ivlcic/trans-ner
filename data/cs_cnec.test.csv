@@ -1,0 +1,894 @@
+index,sentence,ner
+7480,Zásadní spor však vedou oba konkurenti o reklamu .,O O O O O O O O O
+655,Její rodiče to však neuklidnilo .,O O O O O O
+7729,"že mužstvo potřebuje posílit především v ofenzívě a vyjmenoval sedm hráčů , o něž by Slavia měla zájem - Samec z Chebu , Dvirnik z Bohemians , Cupák z Brna , Lasota z Drnovic , Hromádko z Jablonce , Verbíř z Teplic a Obajdin , který se vrací z Frankfurtu nad Mohanem do Liberce .",O O O O O O O O O O O O O O O B-ORG O O O B-PER O B-LOC O B-PER O B-ORG O B-PER O B-ORG O B-ORG O B-ORG O B-PER O B-ORG O B-PER O B-LOC O B-PER O O O O O B-ORG I-ORG I-ORG O B-LOC O
+2720,"Závěr však patřil Spartě , jejímiž nejlepšími hráči byli Hrubý s Ježdíkem .",O O O B-ORG O O O O O B-PER O B-PER O
+980,Abych situaci zvládla .,O O O O
+870,Na rozdíl od příbuzné Ceraria namaquensis dobře roste pravokořenná a při citlivé zálivce a teplotách neklesajících pod 10 o C je dostatečně odolná .,O O O O B-MISC I-MISC O O O O O O O O O O O O B-MISC I-MISC O O O O
+36,"PZ Kladno 20 0 1 19 43 : 183 1 RLSŽ 15 . kolo : Zbraslav - Louny 2 : 8 , Černošice - Benátky 0 : 13 , Kralupy - Roudnice 12 : 1 , Rakovník - Beroun 5 : 0 , Říčany - Neratovice 2 : 1 , V . Popovice - Nymburk 0 : 4 , Benešov Žižkov",O B-LOC O O O O O O O O O O O O O B-ORG O B-ORG O O O O B-ORG O B-ORG O O O O B-ORG O B-ORG O O O O B-ORG O B-ORG O O O O B-ORG O B-ORG O O O O B-ORG I-ORG I-ORG O B-ORG O O O O B-ORG B-ORG
+4324,Pro zájemce bude na jaře 1999 opět zorganizován 9 - denní zájezd do Londýna ( cena letos 5500 Kč ) .,O O O O O O O O O O O O O B-LOC O O O O B-MISC O O
+568,TGM 30 Kč /den/ m2 / 3 měsíce ( uvnitř ) tržní místo jinde 20 Kč /den/ m2 ostatní zábor 10 Kč /den/ m2 na zpevněné ploše a 4 Kč /den/ m2 na nezpevněné,O O B-MISC O B-MISC O O O O O O O O O O B-MISC O B-MISC O O O B-MISC O B-MISC O O O O O B-MISC O B-MISC O O
+8846,"Nejdřív jsem tam byl s jedním Chorvatem , jedním muslimským Srbem a jedním bosenským Srbem , všichni tři byli zloději aut .",O O O O O O B-PER O O O B-PER O O O B-PER O O O O O O O
+5632,"Prozatímní irácká ústava předpokládá parlamentní volby do 30 . ledna 2005 a je pravděpodobné , že většina Iráčanů bude volit podle náboženské konfese .",O O O O O O O O O O O O O O O O O B-PER O O O O O O
+4278,"Nechyběla ani velká knihovna , v níž byla uložena nomumentální sbírka čínského písemnictví nazvaná Úplná knižnice čtyř druhů S ' kchu čchüan - šu , čítající 79339 svazků ( 4 ) .",O O O O O O O O O O O O O O B-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC O O O O O O O O
+4581,"Na víčka naneste světle růžové stíny a potom šedou , bleděmodrou nebo švestkovou .",O O O O O O O O O O O O O O
+1250,Otázka č . 5 Co vás za uplynulý rok nejvíce rozesmutnilo ?,O O O O O O O O O O O O
+3974,"Kamera využívá formát MicroMV a záznam ve standardu MPEG2 na videokazetu o velikosti poštovní známky , která je o 70 % menší než u předchozího formátu MiniDV , nicméně poskytuje dost kapacity pro 60minutový záznam .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+4796,"Tyto tenzometry se nejúspěšněji využívají ve snímačích mechanických veličin , nejčastěji sil , tlaků a zrychlení , vyznačujících se miniaturními rozměry , širokým frekvenčním rozsahem počínajícím statickou hladinou měřené veličiny ( tlak , síla ) a vysokou citlivostí .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2729,Předseda republikánské strany Miroslav Sládek se chystal z pomníku sv .,O O O B-PER I-PER O O O O O O
+1882,"Naproti tomu mezi prvními uspěla Hutnická , kterou mezi neplatiči často uvádějí zubaři .",O O O O O B-ORG O O O O O O O O
+6635,Prodám garáž na Močidýlkách .,O O O B-LOC O
+2195,Mnoho katolíků si od Husa stále zachovává odstup .,O O O O B-PER O O O O
+2839,"Nevůle pamatovat si , zapamatovat ; pokud si paměť proráží přirozenou cestu , pociťuje se to co obtíž .",O O O O O O O O O O O O O O O O O O O
+8185,Zdaleka ne na všechny ovšem udělalo propuštění Wang Tana takový dojem jako na představitele administrativy prezidenta Clintona .,O O O O O O O B-PER I-PER O O O O O O O B-PER O
+6310,"na mně zanechal neblahé následky , dokonce se jí v oku zaleskla slza lítosti a já hned pomyslel na to , jaký jsme mohli být krásný a nesmrtelný milenecký pár , ale že nám osud nedopřál žádnou šanci a teď už jsem nespěchal , protože když jsem utíkal sám , bez Danielky , měl jsem najednou spoustu času , pečlivě jsem si zabalil maminčin starý , promáčknutý kufr a naposledy se šel podívat na veliké akvárium v jídelně , bylo v něm jen pět drobných rybek , které se plaše oťukávaly , ale zato se nadmíru rozmnožili vodní šneci a šplhali zvnitřku",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+8232,"Starosta a generálové a ministři se v tu chvíli podobali klukům , které volá maminka k večeři .",O O O O O O O O O O O O O O O O O O
+165,"Ostrava - V klubu Atlantik v Ostravě , který se již několik let věnuje ostravským ochotnickým souborům , dnes začíná pod názvem Maják první ročník přehlídky amatérských divadel .",B-LOC O O O B-ORG O B-LOC O O O O O O O O O O O O O O O B-ORG O O O O O O
+4848,Ve čtvrtek ráno Nejvyšší soud poměrem hlasů 5 ku 4 posvětil vykonání rozsudku .,O O O B-ORG I-ORG O O O O O O O O O
+4696,"V tomto "" horizontálním ' ' přístupu ( 2 ) zkoumáme tudíž třídovost jednotek IF a možnosti klasifikace , které z ní plynou , druhotně však i jejich systém , založený na jejich paradigmatičnosti ( viz 3 ) .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+6662,"Do manželství vstupují dva hodnotní , ale ne stejní lidé .",O O O O O O O O O O O
+5525,""" Co se tedy 21 . 9 . 2000 vlastně stalo ? "" ptá se soudce poškozené Renáty Pokutové .",O O O O O O O O O O O O O O O O O B-PER I-PER O
+3283,Program je uvozen nařízením vlády č . 299 / 2001 Sb .,O O O B-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC
+7493,FATRA Napajedla ve spolupráci se Škrobárnami Horažďovice a Polymer institutem Brno vyvinula fólii ECOFOL . - Jedná se o biodegradovatelný materiál na bázi polyolefinů v kombinaci se škroby .,B-ORG I-ORG O O O B-ORG I-ORG O B-ORG I-ORG I-ORG O O B-MISC O O O O O O O O O O O O O O O
+7240,"I jejich materiály byly skartovány a nikdy se nepodařilo zjistit , co dělají dnes .",O O O O O O O O O O O O O O O
+5604,"Budou vyhlazeny národy a smetena města ; nebude mezí tomu , kdo má v ruce zbraň a zkázu v srdci .",O O O O O O O O O O O O O O O O O O O O O
+3730,"- Na 6,5 miliard eur ( cca 195 miliard korun ) přijde řeckou vládu pořádání OH 2004 v Aténách .",O O O O O O O O O O O O O O O B-ORG O O B-LOC O
+2509,Nevýhodou pak sekvenční ( tedy postupný ) záznam spektra a až na vyjímky vždy vysoká cena .,O O O O O O O O O O O O O O O O O
+4564,Nyní by se teoreticky mohl rozpojit spínač S1 spojený s hradlem .,O O O O O O O B-MISC O O O O
+3225,"Příběh Heleny Fejkové vyvrací názor , že galerie nemohou prosperovat , a trochu připomíná příběh paní Burdy , která za podobných okolností vybudovala jeden z nejpotřebnějších časopisů pro ženy ?",O B-PER I-PER O O O O O O O O O O O O O B-PER O O O O O O O O O O O O O
+4157,", vidí se nám , že vždy v tom na omyle jsi , z kderéhož když se bohdá shledáme , tě oustně srozumitedlně vyvedeme . "" Byl schopen také na základě vlastního pozorování poznat nutnost stavebních oprav , jako v případě farního kostela v Kleči ( č . kat . 44 ) : "" tu v Kleči nemalé opravy potřebí . . . jakž sme to sami zhlídli . """,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O B-LOC O O O O O O O O O O O O O
+3714,Dzik uvádí tři hypotetické problematické případy .,B-PER O O O O O O
+3260,"Nemocné může vyléčit výhradně a jedině jejich nemoc , jejich vlastní hlodající nemoc , jejich vlastní hlodající falešná choroba ( protože kdyby byla opravdová , byla by nevyléčitelná ) , které někteří nemocní - oslepeni velkým zoufalstvím - říkají choroba života , jenže ono to se životem nemá vůbec nic společného .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2434,"Ten , kdo prožil tento okamžik , kdo nahlédl mimo hranice našeho světa , ten také chápe , že jen v některých chvílích života jsme s to žít opravdu naplno .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+7776,Nikolaj Jurčenko se svým bývalým trenérem Karolem Dobiašem ještě v dresu Boby Brno . Foto Vilém Kratochvíl,B-PER I-PER O O O O B-PER I-PER O O O B-ORG I-ORG O O B-PER I-PER
+3794,"Rychlost světla při otevírání námi vnímaného časoprostoru nebyla 3 ž 105 km s - 1 , ale o řád vyšší , a tak výrazněji , než se domníváme , ovlivnila hyperinflační rozpínání malého prostoru vesmíru .",O O O O O O O O O O O B-MISC I-MISC I-MISC I-MISC O O O O O O O O O O O O O O O O O O O O O
+5067,"V každé výtce , v každém napomenutí - kromě odvahy říci pravdu - je nezbytný duch rozlišování , rozvaha a zároveň soucit a takt .",O O O O O O O O O O O O O O O O O O O O O O O O O
+8093,"Město ještě dospávalo , pod koly auta se měkce rozprskávaly závěje mokrého sněhu .",O O O O O O O O O O O O O O
+7848,""" Blíž k čelu , "" vybídla ho Joanna .",O O O O O O O O B-PER O
+4365,"Ze strukturálních fondů má v letech 2004 až 2006 k dispozici 130,1 miliónu eur ( celá ČR 1 mld .",O O O O O O O O O O O O O O O O B-LOC O O O
+8759,"Želiv je ale rovněž znám vodní nádrží Trnávka , hotelem Kocanda a třeba oblíbeným rekreačním střediskem Metrostav , "" doplnila informaci o známé obci na Vysočině Zdeňka Průšová .",B-LOC O O O O O O B-LOC O O B-ORG O O O O O B-ORG O O O O O O O O B-LOC B-PER I-PER O
+6455,"Na otázku LN , zda pozice vlády vůči mzdovým požadavkům není slabá ikvůli absenci zákona o státní službě , reagoval předseda vlády Václav Klaus slovy : "" Zákon o státní službě by nám nepomohl .",O O B-ORG O O O O O O O O O O O O O O O O O O O B-PER I-PER O O O B-MISC I-MISC I-MISC I-MISC O O O O
+1488,Začátkem roku 1942 byly v Air Fighting Development Unit ( AFDU - Jednotka zdokonalování vzdušného boje ) prováděny zajímavé zkoušky s využitím Mk .,O O O O O B-ORG I-ORG I-ORG I-ORG O B-ORG O B-ORG I-ORG I-ORG I-ORG O O O O O O O O
+5488,"Průmyslově se využíval pouze chrysotil , krokydolit a amosit , z toho asi 90 % tvořil chrysotil .",O O O O O O O O O O O O O O O O O O
+1681,"Snad chtěl černý odlákat bílého střelce od citlivého bodu f7 . ) 5 . Sxb5 Jf6 6 . Jf3 Dh6 ( Lépe bylo Dh5 , ale Kieseritzky chce obsadit toto pole jezdcem . ) 7 . d3 Jh5 ( Hrozí Jg3 + , ale proti tomu má bílý snadný lék .",O O O O O O O O O O O O O O O O O O O O O O O O O O B-PER O O O O O O O O O O O O O O O O O O O O O O O O
+5243,sůl uzená slanina 100 g,O O O O B-MISC
+7543,Za zpěvu proběhlo zahájení výstavy v Emila Vejvody v Communiu při starokatolické rotundě ( foto Ladislav Tesař ),O O O O O O B-PER I-PER O O O O O O O B-PER I-PER O
+2804,"Podívejte , já vím , že je to zlé .",O O O O O O O O O O
+2636,"Mám teď něco , co se rovná náboženství .",O O O O O O O O O
+639,Basketbal AGB Sparta -,B-ORG I-ORG I-ORG O
+6367,Nakonec ji najde .,O O O O
+2990,Zkoumal jsem to v duchu a usmíval se nevesele .,O O O O O O O O O O
+5968,"Byl celý zšedlý a nervózní a ďolíček na bradě se mu kroutil , když mluvil .",O O O O O O O O O O O O O O O O
+1183,"Vedoucí prodeje a financování vozidel Jakub Čika , e-mail: jakub.cika@davocar.cz , tel: +420 734 78 54 49",O O O O O B-PER I-PER O O B-ORG O O O O O O O
+4079,"Velikost "" cihly "" , tj . hodnota filtru ( box size ) byla zadána ve výši 50.0 .",O O O O O O O O O O O O O O O O O O O
+3128,"Na Baštici je druhý stupeň , na potoku Bystrý chybí do druhého stupně dvacet centimetrů .",O B-LOC O O O O O O B-LOC O O O O O O O
+4335,"Nebylo by asi účelné zabývat se Fischerovou teorií symbolu , tím méně publikací Johannesa Volkelta ( Jena 1876 ) nebo ještě hlouběji do minulosti G . F . Creuzerovou ve třech vydáních - tedy vysoce populární - , a to z let 1810 - 12 , 1819 - 22 a 1837 - 43 .",O O O O O O B-PER O O O O O O B-PER I-PER O B-LOC O O O O O O O B-PER I-PER I-PER I-PER I-PER O O O O O O O O O O O O O O O O O O O O O O O O O
+6613,Samota v nemoci je samotou nejtíživější .,O O O O O O O
+1989,šance ( 4 ) 13.00 7 čili Sedm dní 14.00 Křižáci ( 2 / 2 ) - závěr polského filmu ( 1960 ) 15.30 Klenoty ( 3 ) - britský seriál 16.20 Roseanne ( 20 ) 16.50 Správná modrá ( 5 ) 17.40 Pobřežní hlídka VI ( 13 ) 18.30 Beverly Hills 90210 ( 126 ) 19.30 Televizní noviny 20.00 Nespoutaná divočina - americký film ( 1995 ) 21.40 Právě dnes 21.45 Columbo ( 51 ) - Semínko pochyb 23.00 Moje spravedlnost - americký film ( 1987 ) 0.40 Konec vysílání,O O O O O B-MISC I-MISC I-MISC I-MISC O B-MISC O O O O O O O O O O O O O B-MISC O O O O O O O B-MISC O O O O B-MISC I-MISC O O O O B-MISC I-MISC I-MISC O O O O B-MISC I-MISC I-MISC O O O O B-MISC I-MISC O B-MISC I-MISC O O O O O O O B-MISC I-MISC O B-MISC O O O O B-MISC I-MISC O B-MISC I-MISC O O O O O O O B-MISC I-MISC
+5988,"Odpověď neslyším , neboť mi sklouzne talíř z hromady nádobí a zařinčí tak , že se všichni v obýváku ohlédnou .",O O O O O O O O O O O O O O O O O O O O O
+6622,"Chápu , že si někteří dávali pozor na zranění , ale proti Švýcarům se to nesmí opakovat , "" zlobil se Uhrin .",O O O O O O O O O O O O B-PER O O O O O O O O B-PER O
+3016,ECU ( 1 ECU = 36.96 Kč ) .,B-MISC O O B-MISC O O B-MISC O O
+6096,"Až dosud se na takovou reformu spisovatelovy situace vzmohl jen marxismus - tím , že spisovatele podrobil proletariátu .",O O O O O O O O O O O O O O O O O O O
+3115,Ve 23 . min . se míč na druhé straně hřiště odrazil k Zdráhalovi a ten pohotovou střelou k tyči zařídil hostům vedení .,O O O O O O O O O O O O O B-PER O O O O O O O O O O
+702,Měřený hydrostatický tlak je snímán polovodičovým tenzometrickým čidlem .,O O O O O O O O O
+8359,"Nešlo to jen tak , jako horolezci se museli přidržovat výstupků - pahýlů stromů , větví zákrsků .",O O O O O O O O O O O O O O O O O O
+5523,"Studie GISSI - 1 a ISIS - 2 ukázaly , že absolutní snížení mortality bylo u starších jedinců o více než 50 % vyšší než u mladších .",O B-MISC I-MISC I-MISC O B-MISC I-MISC I-MISC O O O O O O O O O O O O O O O O O O O O
+7771,Ani k Vltavě ani k Otavě už nebylo daleko a místy měla krajina ráz spíše gotický než barokní .,O O B-LOC O O B-LOC O O O O O O O O O O O O O
+6581,"Spojky jsou seřazeny podle priority od nejmenší k největší : Ţ , or , and , & .",O O O O O O O O O O O O O O O O O O
+3810,"Svoji funkci v celosvětové síti plní skvěle , jeho význam dále vzroste po vybudování nových provozů na rozloze 30 tis . m2 , vybavených moderními technologiemi .",O O O O O O O O O O O O O O O O O O B-LOC I-LOC I-LOC B-MISC O O O O O
+6140,"23 . století , vyspělá generace strojů se chopí vlády na Zemi a lidi pěstuje ve zvláštních elektrárnách kvůli tvorbě energie , přičemž je nechává žít v iluzorním světě virtuální reality .",O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O
+7982,Na první pohled vypadala ta léčba záhadně .,O O O O O O O O
+1194,"Začal ji častovat písněmi o dlouhé cestě , které se v Ústní historii nedochovaly .",O O O O O O O O O O O O O O O
+1523,Takže BBC je s vámi .,O B-ORG O O O O
+7433,"Na první pohled by nás tato čísla měla zneklidnit , neboť jediná dobrá inflace je žádná inflace .",O O O O O O O O O O O O O O O O O O
+8590,U chobotnice se odřezává ústní a řitní část .,O O O O O O O O O
+3252,"Režisér Petr Kotek se štábem České televize se vypravil po stopách v podobě dohadů , spekulací a legend , a diváci tak mají příležitost nejen zopakovat si historii stavovského povstání a jeho tragického konce , ale být i svědky napínavého pátrání za účasti historiků , archeologů , geofyziků a Jana Vodňanského , který",O B-PER I-PER O O B-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PER I-PER O O
+683,má přiblížit kuchyni velkého národa Brzo jsem našel v novinách vysvětlení,O O O O O O O O O O O
+6408,Strojexport Pha 210,B-ORG O O
+1937,"Káhira - Konzul českého velvyslanectví v Káhiře Vratislav Janda včera uvedl , že těla dvou dosud pohřešovaných českých a slovenských turistek z egyptské lodi Princezna Džihání , jež se 14 . listopadu potopila na Nilu , byla ve středu identifikována .",B-LOC O O O O O B-LOC B-PER I-PER O O O O O O O O O O O O O O O B-MISC I-MISC O O O O O O O O B-LOC O O O O O O
+6299,"Mezi Vietnamci se proslýchá , že mnozí snaživí vedoucí byli zvlášt aktivní během listopadové revoluce .",O B-PER O O O O O O O O O O O O O O
+2579,"Velká lóže Hlavou mi občas probleskne myšlenka , nápad , někdy jasná , konkrétní , někdy jen nástin , rozostřené tušení .",O O O O O O O O O O O O O O O O O O O O O O
+6064,"Vysvětlit jí , že to je jenom vnější podoba ?",O O O O O O O O O O
+5664,"Svitavy ( lek ) - Svitavští policisté , kteří se zabývají trestním oznámením Sládkových republikánů na iniciátory umístění pamětní desky Oskaru Schindlerovi v tomto městě , chtějí nejprve požádat renomované historiky , aby posoudili Schindlerovu činnost v období před válkou i během ní .",B-LOC O O O O O O O O O O O O B-ORG I-ORG O O O O O B-PER I-PER O O O O O O O O O O O O B-PER O O O O O O O O O
+8854,V Evropě je pro účely koordinace dobrovolné certifikace určena Evropská organizace pro zkoušení a certifikaci ( EOTC - European Organization for Testing and Certification ) .,O B-LOC O O O O O O O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG O B-ORG O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG O O
+7092,"Naše obchodní společnost využívá pro práci dělnice z Ukrajiny , které k nám nastoupily prostřednictvím ukrajinské firmy , a my této firmě hradíme za práci jejích pracovníků smluvenou cenu .",O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O
+4325,"Dokud tento podíl nepřesáhne 25 procent , smí být na etiketě uveden Cabernet Sauvignon samotný ( viz rámeček str . 185 ) .",O O O O O O O O O O O O B-MISC I-MISC O O O O O O O O O
+3355,"Poprvé se připomíná jako součást milštejnského panství Berků z Dubé v roce 1362 , a její jméno "" Lindawa či Lindenau "" údajně označovalo lučinu nebo háj s lipami .",O O O O O O O B-PER I-PER I-PER O O O O O O O O B-LOC O B-LOC O O O O O O O O O
+7123,Němce v Tatrách napadl medvěd Košice - Německého turistu napadl ve Vysokých Tatrách medvěd .,B-PER O B-LOC O O B-LOC O O O O O B-LOC I-LOC O O
+1602,"Konstruktivnějším směrem se začala ubírat komplikovaná britsko - čínská jednání o osudech Hongkongu , a konečně právě v těchto dnech přijela na Tchaj - wan delegace čínských novinářů , což ve vzájemných vztazích obou čínských států představuje dosti zásadní zlom .",O O O O O O O O O O O O B-LOC O O O O O O O O O B-LOC I-LOC I-LOC O O O O O O O O O O O O O O O O
+6889,""" Celkově přesahuje několik set milionů , "" míní mluvčí Agrobanky Vlastimil Nesrsta .",O O O O O O O O O O B-ORG B-PER I-PER O
+5004,Vracel se mu starý pocit literární prohry .,O O O O O O O O
+3454,"Investiční účinnost se ostatně začíná zcela logicky snižovat , neboť se adekvátním způsobem neprojevuje v ekonomickém růstu .",O O O O O O O O O O O O O O O O O O
+4674,"14 . století se dnes jeví obdobím poměrně klidného vývoje bez větších zahraničních válek , cizích vpádů , bez epidemií a hladomorů .",O O O O O O O O O O O O O O O O O O O O O O O
+3877,Každý člověk má několik přátel .,O O O O O O
+6474,"Podle několika průzkumů má tato strana podporu 35 až 36 procent voličů , zatímco její největší rival , strana Renovación ( Obnova ) v čele Rafaelem Reyem , má podporu 5 až 7 procent .",O O O O O O O O O O O O O O O O O O O B-ORG O B-ORG O O O B-PER I-PER O O O O O O O O
+2964,Nová mluvčí absolvovala Právnickou fakultu Masarykovy univerzity v Brně a poté studovala obchodní právo na Právnické fakultě ve Vídni .,O O O B-ORG I-ORG I-ORG I-ORG O B-LOC O O O O O O B-ORG I-ORG O B-LOC O
+4616,"6 . a ) Se všemi bojovníky za svobodu , kteří jsou v zajetí , se musí zacházet podle příslušných ustanovení Ženevské smlouvy a zacházení s vojenskými zajatci ze 12 . srpna 1949 .",O O O O O O O O O O O O O O O O O O O O O B-MISC I-MISC O O O O O O O O O O O
+8416,S dopravním parkem je to jako v loňském roce .,O O O O O O O O O O
+397,Proč je lepší chovat želvy v teráriu a ne volně v místnosti ?,O O O O O O O O O O O O O
+6399,"Pro Safíju , Farušu Sután a paní Džanfedu byly připraveny stoličky , potažené rudým sametem , zatímco ostatní dámy se usadily , jak se dalo , buď na opěradle sultánova divanu , nebo na zem na pestré polštáře pastelových barev .",O B-PER O B-PER I-PER O O B-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+4783,"S vodní trámovou mříží může kotel přijmout palivo obsahující dokonce kusy cihel , hřebíky i kliky od dveří : vše co se může vyskytnout v odpadním dřevě .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2241,Naposledy totiž společně nahrávali v roce 1983 album Blázni umírají nadvakrát .,O O O O O O O O B-MISC I-MISC I-MISC O
+8871,"Festival Praha - Evropa , který byl včera zahájen , navazuje na přehlídky Evropa - Mozart - Praha a Evropa - Praha - hudba .",O B-ORG I-ORG I-ORG O O O O O O O O O B-ORG I-ORG I-ORG I-ORG I-ORG O B-ORG I-ORG I-ORG I-ORG I-ORG O
+8274,Sledujte nástěnku nebo se ptejte mě .,O O O O O O O
+2411,"Generální ředitelství Plzeňská 276/298 , 151 23 Praha 5 – Motol GPS:  ,  telefon recepce: 257 282 111 fax: 257 282 582 e-mail: energie@enas.cz web: www.energie-as.cz",O O B-LOC O O O O B-LOC O O B-LOC O B-LOC O B-LOC O O O O O O O O O O B-ORG O O
+7012,"Tato jednota byla pouhým dočasným emocionálním sjednocením , zakrývajícím hluboké vnitřní hodnotové rozpory mezi většinovou společností a okruhem lidí , jejichž symbolem se stal Václav Havel .",O O O O O O O O O O O O O O O O O O O O O O O O B-PER I-PER O
+6998,"Obě menší strany , KDU - ČSL i US , se podle Havla měly v reakci na opoziční smlouvu "" držet na uzdě "" a "" nemluvit tak silnými slovy "" .",O O O O B-ORG I-ORG I-ORG O B-ORG O O O B-PER O O O O O O O O O O O O O O O O O O O
+3347,"I knihu , i knížku - zvláště vaše kniha - krásné .",O O O O O O O O O O O O
+8833,"Skutečně , dospěli jsme na sněmu k názoru , že by bylo dobré mít skupinku šesti až osmi poslanců v parlamentu .",O O O O O O O O O O O O O O O O O O O O O O
+792,"Pokračujeme v našem seriálu o japonské firmě Mori Seiki , která spolu s některými dalšími výrobci určuje směr budoucího vývoje v oblasti CNC strojů - především CNC soustruhů a CNC obráběcích center .",O O O O O O O B-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O O O O
+6390,"Uhřičice - Zajímavost , o jaké málokdo ví , skrývá malá vesnička na pravém břehu řeky Moravy nedaleko Kojetína na Přerovsku .",B-LOC O O O O O O O O O O O O O O O B-LOC O B-LOC O B-LOC O
+1463,55 DARY MOŘE,O O O
+7910,A nahoře na kopci je žíznivým a hladovým k dispozici samoobslužná restaurace penzionu Gustava Honese .,O O O O O O O O O O O O O B-PER I-PER O
+7301,"Majetková komise posuzovala též možnost podepsání základní dohody o dělení majetku , kterou předpokládá zákon .",O O O O O O O O O O O O O O O O
+4826,"Jak uvedl ve svém prohlášení po květnové svatbě s Marií Sungovou , "" 3 . dubna 1973 jsem v sobě objevil , že jsem požehnán darem léčení .",O O O O O O O O O B-PER I-PER O O O O O O O O O O O O O O O O O
+3089,"Legenda osmdesátých let , americká kapela Blondie , se vrací na scénu prostřednictvím nového alba No Exit , které přináší typický melodický sound a jež respektuje stylově rozostřený zvuk devadesátých let .",O O O O O O B-ORG O O O O O O O O B-MISC I-MISC O O O O O O O O O O O O O O O
+7603,"Hudební magazín Šedesátka , který vysílá dnes od 20 hodin ČT2 , má na programu portréty zpěvačky Radúzy , Karla Růžičky ml . , skupiny Massive Attack a Mileny Hofmeisterové .",O O B-MISC O O O O O O O B-ORG O O O O O O B-PER O B-PER I-PER I-PER I-PER O O B-ORG I-ORG O B-PER I-PER O
+402,"Španělské nároky uznal i papež , který ve filipínské Manile zřídil biskupství roku 1579 ( na arcibiskupství bylo povýšeno 1595 ) , a to bylo podřízeno církevní hierarchii v Mexiku .",O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O B-LOC O
+378,"V polovině 19 . století nastal nový rozmach "" ptačí módy "" .",O O O O O O O O O O O O O
+867,"Zúčastní se ho cvičenci brněnských žup Máchalovy a Vaníčkovy , dále krále Jiřího z Boskovic , Bukovského z Vyškova a Pernštejnské z Tišnova .",O O O O O O B-PER O B-PER O O B-ORG I-ORG O B-LOC O B-PER O B-LOC O O O B-LOC O
+863,"Jediným dokumentem , který o klasifikaci mluví , je právě vyhláška o základních školách .",O O O O O O O O O O O O O O O
+4348,Nejčastějším kritériem pro rozdělení detektorů plynů je podle jejich využití .,O O O O O O O O O O O
+553,I jen nepatrným povolením pedálu akcelerátoru velmi znatelně ušetříte pohonné hmoty .,O O O O O O O O O O O O
+8773,Jednáním s předsedy Senátu a Poslanecké sněmovny Giovannim Spadolinim a Giorgiem Napolitanem zahájil včera italský prezident Oscar Luigi Scalfaro konzultace o vytvoření nové vlády po čtvrteční demisi premiéra Giuliana Amata .,O O O B-ORG O B-ORG I-ORG B-PER I-PER O B-PER I-PER O O O O B-PER I-PER I-PER O O O O O O O O O B-PER I-PER O
+3698,"Za interpunkcí ( čárky , tečky , dvojtečky apod . ) necháváme mezeru , kterou naopak neděláme např . u pomlček mezi čísly stránek ( 28 - 34 ) , před závorkami apod .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+778,"Až na jedno hnutí , za které kandiduje ministrů a poslanců hned několik .",O O O O O O O O O O O O O O
+7106,"Dne 11 . 5 . 1990 jsem se jako zástupce Strany zelených zúčastnil zasedání rady ONV Litoměřice na téma životního prostředí , která se konala ve štětínských papírnách .",O O O O O O O O O O B-ORG I-ORG O O O B-ORG I-ORG O O O O O O O O O O O O
+2892,Počátkem června bude viditelný zpočátku na ranní obloze a koncem měsíce bude vycházet už krátce po půlnoci .,O O O O O O O O O O O O O O O O O O
+8553,Pozoruhodné jsou hodiny podle návrhu Paola Uccella ( 1443 ) s ciferníkem děleným na 24 hodin .,O O O O O B-PER I-PER O O O O O O O O O O
+2705,Vo týdle to vim sichr .,O O O O O O
+8686,"Avšak připadá nám , že koaliční partneři počítají s tím , že deset radních by mohlo vydržet až do komunálních voleb , "" řekl náměstek primátora Richard Pavel .",O O O O O O O O O O O O O O O O O O O O O O O O O O B-PER I-PER O
+520,"Mera - Czech přitom ve spolupráci s městem v sousedství svého komerčního objektu stavěla 44 nových bytů a Koros byl mezi těmi , kteří rozhodovali , zda jí zakázka připadne .",B-ORG I-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1527,"Zatímco Sukův Klavírní kvartet a moll vznikl ve třídě Antonína Dvořáka , podnítilo Dvořákův Klavírní kvartet Es dur čtyřleté naléhání nakladatele Simrocka .",O B-PER B-MISC I-MISC I-MISC I-MISC O O O B-PER I-PER O O B-PER B-MISC I-MISC I-MISC I-MISC O O O B-PER O
+6149,"Jedinými zeměmi , u kterých se tyto podíly výrazněji odlišují , jsou Polsko a Rumunsko ( jejich podíl na prostředcích PHARE je menší než podíl na celkovém počtu obyvatel ) , Maďarsko a Bulharsko ( podíl na prostředcích PHARE je větší než podíl na celkovém počtu obyvatel ) .",O O O O O O O O O O O O B-LOC O B-LOC O O O O O B-ORG O O O O O O O O O O B-LOC O B-LOC O O O O B-ORG O O O O O O O O O O
+8562,"Práce Milana Maura ( nar . 1950 ) z osmdesátých let patří k tomu nejlepšímu , co v bídě tehdejších Čech vznikalo .",O B-PER I-PER O O O O O O O O O O O O O O O O O B-LOC O O
+1175,"Vedení v tabulce si výhrou v derby nad Admirou , která klesla na poslední místo , pojistila rezerva Sparty a ze zisku tří bodů se radovala i Sparta Krč .",O O O O O O O O B-ORG O O O O O O O O O B-ORG O O O O O O O O B-ORG I-ORG O
+3481,Zkrátka tento projekt je zaměřen na takzvaný základní výzkum .,O O O O O O O O O O
+4596,Big Band Manitoba - koncert kanadského orchestru ( 16.00 ) GALERIE PORTYČ :,B-ORG I-ORG I-ORG O O O O O O O O B-ORG O
+7847,"Ve světle nejnovější kritické zprávy , sestavené jeho vlastní administrativou , ale nemohl dost dobře dále mlčet .",O O O O O O O O O O O O O O O O O O
+3982,"Potom odstraníme tvrdé části a zbytky nečistot , nakrájíme na menší kousky a dáme povařit do kuřecího vývaru společně s čínským zelím nakrájeným na nudličky a můžeme přidat i kousky uvařeného kuřete , případně něco vařené rýže nebo nudlí .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+7334,A navíc : o výsledcích druhé světové války se snad nediskutuje .,O O O O O O O O O O O O
+1923,"Generál odcházel bodře , velmi povzbuzen a téměř uklidněn .",O O O O O O O O O O
+5481,"1 . muži , 2 . děti , 3 . domov , 4 . největší úspěch , 5 . slavný výrok , 6 . dramatický moment , 7 . silná stránka jejich osobnosti .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+4768,Objízdná trasa vede po souběžné komunikaci ( do 30 . 12 . ) .,O O O O O O O O O O O O O O
+4896,Od konce srpna musí totiž platit více než 25 tisíc korun měsíčně za nájem budovy u zimního stadionu .,O O O O O O O O O O O O O O O O O O O
+1880,Při pátečním vítězství Kolína nad Rýnem 13 : 2 nad Norimberkem v německé hokejové lize zaznamenal za vítězný tým tři góly Rus Sergej Berezin a dostihl v tabulce střelců českého reprezentanta Roberta Reichela .,O O O B-ORG I-ORG I-ORG O O O O B-ORG O O O O O O O O O O B-PER I-PER I-PER O O O O O O O B-PER I-PER O
+3889,"Skladba infekčních agens je zobrazena v grafu č . 1 /tabulka č . 2 / . Výrazný nárůst závažných pseudomonádových infekcí nás přinutil ke změně antimikrobní profylaxe - Pseudomonas aeruginosa tvořila 20,3 % všech pozitivních kultivací , rezistence na ampicilin činila 99 % ( graf 5.1 . , tab .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-MISC I-MISC O O O O O O O O O O O O O O O O O O O O
+4338,"Léto je na Krétě na vrcholu v průběhu srpna , kdy teploty dosahují 40 st . výšin , pro plážové "" povaleče "" ideální podmínky .",O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O
+850,V územním plánu města Brna se s realizací počítá .,O O O O B-LOC O O O O O
+1886,"Poměry v koalici Svazu demokratické levice a Polské lidové strany jsou znovu napjaté od chvíle , kdy premiér Czimoszewicz před 14 dny odvolal lidoveckého ministra zahraničního obchodu Jacka Buchacze bez předcházejících konzultací s předsedou lidové strany Waldemarem Pawlakem .",O O O B-ORG I-ORG I-ORG O B-ORG I-ORG I-ORG O O O O O O O O B-PER O O O O O O O O B-PER I-PER O O O O O O O B-PER I-PER O
+3639,Nebezpečnou chorobou je virová mozaika okurek ( na str . 194 ) .,O O O O O O O O O O O O O
+7679,Ten se tehdy pohyboval okolo čtyř set korun za kus .,O O O O O O O O O O O
+5310,"Učivo se zaměřuje hlavně na vysvětlení významu slov a ustálených slovních spojení ( frazeologismů ) v textu , na jednoduché utřídění slov a slovních spojení ( výrazů ) .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+8913,"Adresa Základní škola Mnichovo Hradiště , Sokolovská 254 295 01 Mnichovo Hradiště Telefon 326 772 321 – sekretariát 326 772 526 – ředitelna 326 772 514 - pavilon ( 1. a 2. třídy, školní družina) 326 772 685 - sportovní hala Fax 326 772 060 E-mail skola@1zsmh.cz",O B-ORG I-ORG I-ORG I-ORG O B-LOC O O O B-LOC I-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-ORG
+4104,"Konzistence čerstvé betonové směsi byla ověřována průměrem rozlití betonu z kužele pro zkoušku rozlitím ( po 5 minutách 75 cm , po 30 minutách 70 cm ) .",O O O O O O O O O O O O O O O O O O O B-MISC O O O O O B-MISC O O
+3270,Jsem král .,O O O
+1442,"Mezinárodní veletrh technologií , výrobků a služeb pro rozvoj obcí a měst URBIS se uskuteční počtvrté .",B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG O O O O
+981,"Hlavní role v černobílém širokoúhlém ( ! ) filmu si zahráli Václav Koubek , Pavel Landovský , Eliška Sirová , Jana Dolanská , Jiří Soukup ( pouhá shoda jmen se scenáristou ) a Matěj Hádek .",O O O O O O O O O O O B-PER I-PER O B-PER I-PER O B-PER I-PER O B-PER I-PER O B-PER I-PER O O O O O O O O B-PER I-PER O
+7703,"Jistě že jsou tací , kteří nestávkovali , ale se stávkou sympatizovali .",O O O O O O O O O O O O O
+2740,"Pokud vsadíte padesát korun na výhru Slávie například v kurzu 1.5 a ta rozdrtí svého největšího soupeře Spartu v derby 3 : 0 , zinkasujete od Fortuny 75 korun .",O O O O O O B-ORG O O O O O O O O O O B-ORG O O O O O O O O B-ORG O O O
+5944,"Broušení a lakování parket a všech dřevěných podlah provádí Marek Matuška , tel . 068 / 53 12589 .",O O O O O O O O O B-PER I-PER O O O O O O O O
+7843,"Etxeberría ) , Atlético Madrid - Betis Sevilla 0 : 0 .",O O O B-ORG I-ORG O B-ORG I-ORG O O O O
+719,"Nedovedu si představit , že bych sama vydržela bez pomoci druhých .",O O O O O O O O O O O O
+4088,", Lvi jsou vypuštěni ( Verneuil , 1961 ) , Cartouche ( de Broca , 1961 ) , Osm a půl ( Fellini , 1963 ) , Tenkrát na Západě ( Leone , 1969 ) , Violence et Passion ( Visconti , 1974 ) , La Storia ( Comencini , 1986 ) .",O B-MISC I-MISC I-MISC O B-PER O O O O B-MISC O B-PER I-PER O O O O B-MISC I-MISC I-MISC O B-PER O O O O B-MISC I-MISC I-MISC O B-PER O O O O B-MISC I-MISC I-MISC O B-PER O O O O B-MISC I-MISC O B-PER O O O O
+3503,"Do roku 1990 brankář týmu Tesla Pardubice , od sezóny 1990 / 91 s puncem nejlepšího brankáře Evropy v klubu NHL Chicago Black Hawks , od roku 1992 gólman Buffalo Sabres . V sezóně 1993 / 94 se poprvé ocitl na špičce .",O O O O O B-ORG I-ORG O O O O O O O O O O B-LOC O O B-ORG I-ORG I-ORG I-ORG O O O O O B-ORG I-ORG O O O O O O O O O O O O
+3291,"Polední slunce svítí na ohradu , na červený plakát .",O O O O O O O O O O
+4255,"Vzhledem k tomu , že se mění přístup k této problematice , jde o téma velice aktuální .",O O O O O O O O O O O O O O O O O O
+387,"Tito nemocní mohou být buď 24 hodin po výkonu sledování v zdravotnickém zařízení , mohou však být i propuštěni a sledování ambulantně .",O O O O O O O O O O O O O O O O O O O O O O O
+6235,"Tento krok se rovněž nazývá "" image discrimination "" nebo "" image segmentation "" .",O O O O O O O O O O O O O O O
+5353,"Dalším spojením je "" fyzická osoba při provozování podnikatelské činnosti "" , které obsahuje § 24 zákona o státní správě ve vodním hospodářství nebo "" fyzická osoba při výkonu podnikatelské činnosti "" v § 88 zákona o ochraně přírody a krajiny .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+425,"Odtud už můžete postupovat svobodně a odvážně , bez zdržování se s úmornou prací se slabikami .",O O O O O O O O O O O O O O O O O
+3660,Edson teď poslal dopředu Arthurův 2 . pluk .,B-PER O O O B-PER O O O O
+6829,Podobný pocit převládne po přečtení včerejšího rozhovoru s Josefem Luxem v Právu .,O O O O O O O O B-PER I-PER O B-ORG O
+802,"Nejvíce vystavovatelů je z Velké Británie ( 906 ) a USA ( 800 ) , nepočítáme - li pochopitelně vystavovatele domácí .",O O O O B-LOC I-LOC O O O O B-LOC O O O O O O O O O O O
+4492,Roztoky NaHCO3,O B-MISC
+7247,Slovenské celky se budou do dalších kol probojovávat velice obtížně .,O O O O O O O O O O O
+4870,"Prostě jsou tady , obtěžují postiženého , možná i jeho partnera nebo jiné lidi v jeho blízkosti - a často obtěžují více , než je nezbytné .",O O O O O O O O O O O O O O O O O O O O O O O O O O O
+710,"Voličům se představili kandidáti Václav Benda ( Praha 1 ) , Vladimír Zeman ( 2 ) , Zdeněk Klausner ( 4 ) , Petr Bratský ( 5 ) , Jan Koukal ( 6 ) , Alena Palečková ( 8 ) , Josef Pavlata ( 9 ) , Milan Kondr ( 10 ) , Václav Mencl ( 11 ) a Jan Krámek ( 12 ) . čtk",O O O O B-PER I-PER O B-LOC O O O B-PER I-PER O O O O B-PER I-PER O O O O B-PER I-PER O O O O B-PER I-PER O O O O B-PER I-PER O O O O B-PER I-PER O O O O B-PER I-PER O O O O B-PER I-PER O O O O B-PER I-PER O O O O O
+3473,"Východočešky se pokusí hráčkám Strakonic vrátit porážku z předchozího vzájemného duelu z konce ledna , v němž podlehly 74:87 .",O O O O B-ORG O O O O O O O O O O O O O O O
+932,"Protože nejsme schopni vidět na celou cestu před námi , neuděláme krok vůbec žádný : "" Nežádám si vidět vzdálenou krajinu , jeden krok mi stačí "" ( kardinál Newman ) .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PER O O
+6566,Podle přání zákazníka je lze specializovat volbou výměnných nástaveb .,O O O O O O O O O O
+8589,"Její skrytá úloha v boji proti drogám se poprvé dostala na světlo , když byl v roce 1997 zatčen a usvědčen z drogových deliktů šéf protidrogových sil generál José de Jesús Gutiérrez Rebollo .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PER I-PER I-PER I-PER I-PER O
+610,Stav našich financí vůbec nebyl valnej .,O O O O O O O
+3957,Nejsilnější z vystavovaných trofejí je současně i naší novou nejsilnější trofejí .,O O O O O O O O O O O O
+6989,ČS . NÁMOŘNÍ PLAVBA 34 1390 5 13 8 3 0 SPT TELECOM 22 3350 2 11 14 2 0,B-ORG I-ORG I-ORG I-ORG O O O O O O O B-ORG I-ORG O O O O O O O
+8494,"150 g cukru moučka , 40 g másla , 150 g medu , 5 vajec , skořice , tlučený hřebíček , 1 tlučené nové koření , 50 g strouhaných ořechů a stejné množství rozinek , trochu citronové a pomerančové kůry , 1 prášek do pečiva , 400 g polohr . mouky , mléko podle potřeby",O B-MISC O O O O B-MISC O O O B-MISC O O O O O O O O O O O O O O O O B-MISC O O O O O O O O O O O O O O O O O O O B-MISC O O O O O O O
+4877,A tak se s výjimkou krátkých období zvýšeného zájmu v této oblasti mnoho nového nestalo .,O O O O O O O O O O O O O O O O
+7055,"K žadatelce M . Jánoškové se přidali ještě P . Mikeš , M . Strouhal a I . Konupka , všichni z Prostějova .",O O B-PER I-PER I-PER O O O B-PER I-PER I-PER O B-PER I-PER I-PER O B-PER I-PER I-PER O O O B-LOC O
+7423,"Nedělám si iluze o tom , že by někdo byl ochotný právě teď vložit nějakou větší sumu do našeho klubu .",O O O O O O O O O O O O O O O O O O O O O
+8365,"Těmito událostmi se spustila lavina , v jejímž pohybu , zahrnujícím všechny oblasti kultury , se formovaly základy českého moderního umění 20 . století .",O O O O O O O O O O O O O O O O O O O O O O O O O
+5311,Při trvalé práci v hlučném prostředí by neměla převýšit 90 dB .,O O O O O O O O O O B-MISC O
+5091,"Dcera knížete Theodorika , r . 909 byla provdána za saského vévodu Jindřicha Ptáčníka , který se stal r . 919 králem Německé říše .",O O B-PER O O O O O O O O O B-PER I-PER O O O O O O O O B-LOC I-LOC O
+2332,"Nakřáplý hlas Ralpha Stanleyho i jeho archaický styl hry , do kterého teprve proniká vliv techniky Scruggsovy , nám umožní v ' Pretty Polly ' a v ' Man Of Constant Sorrow ' pochopit , proč má tuto kapelu v oblibě i Bob Dylan .",O O B-PER I-PER O O O O O O O O O O O O B-PER O O O O O B-MISC I-MISC O O O O B-MISC I-MISC I-MISC I-MISC O O O O O O O O O O B-PER I-PER O
+4268,"Se ztrátou přes sedm miliónů korun hospodařila v uplynulém roce akciová společnost Pozemní stavby Zlín , když v roce 1998 vykázala zisk 2,5 miliónu korun .",O O O O O O O O O O O O B-ORG I-ORG I-ORG O O O O O O O O O O O
+1185,"Jak víte , je hydraulický despotismus možný jen tehdy , když podstata nebo podmínka , na níž absolutně závisí život všeobecně , může být ovládána relativně malou a centralizovanou mocí .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+6515,K pracovnímu oblečení vždy noste tenké punčochové prádlo .,O O O O O O O O O
+3067,"Kokain na denním pořádku O osudu dalších lidí , které zachytila kamera BBC , se Casablancas nezmínil s tím , že se jedná o interní záležitosti soukromého podniku .",O O O O O O O O O O O O B-ORG O O B-PER O O O O O O O O O O O O O
+1939,DIVADLO UNGELT : Alfred Story ( 20.00 ) - Kabaretní představení o staré Praze .,B-ORG I-ORG O B-MISC I-MISC O O O O O O O O B-LOC O
+5863,Bůh mu pomáhej .,O O O O
+1452,Konkrétním příkladem je těžební pole Alba v britské části Severního moře .,O O O O O B-LOC O O O B-LOC I-LOC O
+3507,Bez public relations se knihovny neobejdou .,O O O O O O O
+530,otevřít jej je lstivý manévr 9 .,O O O O O O O
+5455,"Vmícháme cibuli , česnek , celerová semínka a muškátový oříšek .",O O O O O O O O O O O
+7198,"Vycítíme , že tragický boj o sebe samého , jehož scénou je pokojík v kdesi ve švýcarském hotelu v době války , mohl být ve své době metaforou osudů české emigrace .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1643,""" Prodloužením levé kyčle v Edenu ( i když nebylo trvalé ) se mi zbudovala ohromná víra v uzdravování .",O O O O O O O O O O O O O O O O O O O O
+230,"00 - 555 , Warszawa , telefon - 00482 / 6287221 PORTUGALSKO : Rua Pero de Alenquer , 14 , 14000 Lisboa , telefon - 003511 / 3013529 RAKOUSKO : Penzinger Strasse 11 - 13 , 1140 Wien , telefon - 00431 / 8943741 RUMUNSKO : Strada Ion Ghica 11 , Sector 4 , Bucuresti , telefon - 00401 / 6159142 - 4 RUSKO : ul . J . Fučíka 12 / 14 , 123056 Moskva D - 47",O O O O B-LOC O O O O O O B-LOC O B-LOC I-LOC I-LOC I-LOC O O O O B-LOC O O O O O O B-LOC O B-LOC I-LOC O O O O O B-LOC O O O O O O B-LOC O B-LOC I-LOC I-LOC O O B-LOC I-LOC O B-LOC O O O O O O O O B-LOC O B-LOC I-LOC I-LOC I-LOC I-LOC O O O O O B-LOC O O O
+6629,"Jeho prarodiče tady žili a už osmdesát let před narozením Komenského byl jeho předek zdejším fojtem , "" říká starosta Komni Karel Navrátil .",O O O O O O O O O O B-PER O O O O O O O O O B-LOC B-PER I-PER O
+4815,"I když název evokuje sportovního ducha , je třeba zapomenout na delší úseky absolvované rychlostí nad 130 km / h . Bez ochranného štítu se totiž rapidně zvyšuje odpor , který tělo proudícímu vzduchu klade : bolí zejména krk a ruce .",O O O O O O O O O O O O O O O O O B-MISC I-MISC I-MISC O O O O O O O O O O O O O O O O O O O O O O
+574,"aby byla gastropexe přerušená ( a to při dlouhodobém sledování po odstranění PEG ) , což je v rozporu s pozorováním u zvířecího modelu , kdy byla pevná gastropexe po 14 dnech fixace pomocí PEG dosažena pouze u 57 % psů ( při pozorování 44 dní po odstranění PEG ) 47 .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+8528,"Pufr poté nastaven na pH 8,0 a skladován maximálně tři týdny při laboratorní teplotě .",O O O O B-MISC O O O O O O O O O O
+8110,"Pro součty jednotlivých sloupců je vhodnější místo funkce SUMA použít funkci SUBTOTAL , protože funkce SUMA sčítá i skryté řádky , kdežto funkce SUBTOTAL nikoliv .",O O O O O O O O O O O O O O O O O O O O O O O O O O
+1362,Trestanci se opět rozřehtali .,O O O O O
+4946,"2,65 gólu .",O O O
+1272,Jana není doma .,B-PER O O O
+3095,"Inscenace Kateřiny Duškové , k níž napsal hudbu Vladimír Franz , otevře divadelní scénu studentů DAMU vybudovanou v areálu školy .",O B-PER I-PER O O O O O B-PER I-PER O O O O O B-ORG O O O O O
+1683,Jarmila Fráňová z Mostu,B-PER I-PER O B-LOC
+5340,"Pokud byste při takovém přerušení jízdy bezděčně podrželi pedál akcelerace , mohlo by dojít k přehřátí motoru , systému odvodu výfukových plynů a dalších zařízení , jejichž zvýšená teplota by mohla způsobit požár .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+5387,"Na obou koncích kilometrového úseku cesty , zvoleného pro hru , se postaví jeden rozhodčí .",O O O O O O O O O O O O O O O O
+6534,"V podstatě tedy ukazuje , jak by to vypadalo , kdyby v Německu platil většinový volební systém .",O O O O O O O O O O O O B-LOC O O O O O
+636,"A dál běží záběr za záběrem s tabulkami , klapkami a pokřiky ; někdy nemá kopie šlajer , ale zato je šedivá nebo vyblajchovaná ; někdy je tak hrozná , že se jí říká mord ; někdy je na obraze vyfotografován i mikrouš nebo reflektor , a pak se to taky musí zahodit .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+4205,"Je tedy důležité vybrat si jednoduchý motiv větve s jablky či jablkem , který by zmatek umravnil a zároveň vypovídal o celku .",O O O O O O O O O O O O O O O O O O O O O O O
+5935,Vždyť přece : vezmi svůj kříž !,O O O O O O O
+4229,"Vejčité , zašpičatělé , na okraji ohrnuté listy jsou na svrchní straně leskle tmavozelené , na spodní straně popelavě šedé nebo modrozelené .",O O O O O O O O O O O O O O O O O O O O O O O
+3861,"Na kole se člověk dostane prakticky všude , zejména od té doby , co je povinností všech státem subvencovaných institucí umožnit přístup handicapovaným lidem .",O O O O O O O O O O O O O O O O O O O O O O O O O
+7786,"Byla to chyba minulého vedení Lyry Pragensis , že něco takového dopustilo , a s bývalou náměstkyní ředitele vedeme soudní spor , "" sdělila žena , která má blízko k současnému vedení Lyry Pragensis a nechtěla zveřejnit své jméno s odůvodněním , že nemůže mluvit za Nadaci Lyry Pragensis .",O O O O O B-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O O O O O B-ORG I-ORG O O O O O O O O O O O O B-ORG I-ORG I-ORG O
+1042,Pekaři a cukráři chtějí zkoušky Olomouc ( and ) -,O O O O O B-LOC O O O O
+5208,V roce 1988 jsem tu skončil filmovou hudbou k seriálu Cirkus Humberto a do roku 1995 jsem v Česku nenapsal ani notu .,O O O O O O O O O O B-MISC I-MISC O O O O O O B-LOC O O O O
+777,"Nemohlo tomu koneckonců být jinak , když například v carském Rusku přechod z pravoslaví na katolicismus byl trestán automatickým vyhnanstvím na Sibiř a za pokus katolické výchovy dětí ve smíšeném manželství hrozilo , že budou odebrány státem ( což ovšem přineslo především ten efekt , že polsko - ruská manželství se stala nesmírně vzácným úkazem ) .",O O O O O O O O O O B-LOC O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+7341,"V budově učiliště se počítá se základní školou , protože kvůli nedostatečné kapacitě v základní škole musí zhruba stovka žáků dojíždět do okolních obcí a okrajových částí města .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1351,"Slovo Nikdy není nejhroznější ze všech slov , neboť toto slovo je naopak časově velmi průhledné , omezené na míru úplné hříčky , slovo Nikdy znamená jen tvoje Nikdy , jen do tvé smrti , ale slovo Pozdě , to je to pravé hrozné slovo , protože Pozdě , to je skutečně",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+6181,"Policisté zjistili , že mrtvým mužem je Luboš Š . z Jihlavy , který byl od srpna pohřešován .",O O O O O O O B-PER I-PER I-PER O B-LOC O O O O O O O
+1232,"Mimochodem právě v Unipetrolu zůstávají naprosto klidní : "" Valnou hromadu už jsme letos měli a další změny nejsou na pořadu dne , "" míní předseda představenstva Filip Šedivý , někdejší federální poslanec za ODS .",O O O B-ORG O O O O O O O O O O O O O O O O O O O O O O O B-PER I-PER O O O O O B-ORG O
+6196,"Ale když přítel pevně srdci blízký bůhvíkam odešel a vítr fičí sám pustými vřesovisky , kde o víno dřív zněl , vánoční střechy černají a tají .",O O O O O O O O O O O O O O O O O O O O O O O O O O O
+8633,"Kromě Kouzelného měšce a druhého dílu Trávníkáře se mezi první dvacítkou prosadily ještě tři novinky : thriller Rychlejší než smrt , historická romance Rob Roy a další thrillerová podívaná s názvem Štvanice .",O B-MISC I-MISC O O O B-MISC O O O O O O O O O O B-MISC I-MISC I-MISC O O O B-MISC I-MISC O O O O O O B-MISC O
+5597,Vystřílel do ní zásobník ze vzdálenosti padesáti kroků .,O O O O O O O O O
+6252,"Těžké boje se podle UNPROFOR odehrávají rovněž v blízkosti města Doboj , které zatím drží bosenští Srbové .",O O O O B-ORG O O O O O B-LOC O O O O O B-PER O
+963,"Přehlídku zahajoval členský soubor DCP , Divadelní spolek Kotouč Štramberk hrou Vl .",O O O O B-ORG O B-ORG I-ORG I-ORG I-ORG O B-PER I-PER
+12,Co si počít ?,O O O O
+2076,"Dva sobotní zápasy , proti výběru Prahy a českým juniorkám , ovšem byly velmi krásné , "" dodala Linda O ' Cainová .",O O O O O O B-ORG O O O O O O O O O O O B-PER I-PER I-PER I-PER O
+7030,""" Listopad jsem prožíval v Americe ve dne v noci u televize .",O O O O O B-LOC O O O O O O O
+7770,"V těchto dnech vydává soukromé nakladatelstvím Vladimíra Hübla - JAN ( Fürnbergova 316 , Praha 10 ) ve své edici Faust ( Fakta A Úsměvy Starých Tajemství ) tuto knihu :",O O O O O O B-ORG I-ORG I-ORG I-ORG O B-LOC O O B-LOC I-LOC I-LOC O O O B-MISC O B-MISC I-MISC I-MISC I-MISC I-MISC O O O O
+6584,Naopak - zápas Slavia - Sparta byl kvalitní a Slavia nás v druhé půli varovala .,O O O B-ORG O B-ORG O O O B-ORG O O O O O O
+6477,S každým krokem se cítíte mnohem uvolněnější .,O O O O O O O O
+5864,Zvolna sešla po schodech dolů a zmizela v zástupu zevlounů .,O O O O O O O O O O O
+3405,"Staly se nejen obrazem jeho díla , ale i autoportrétem českého typografa a umělce , osobnosti , která přerostla hranice své země i své doby .",O O O O O O O O O O O O O O O O O O O O O O O O O O
+3751,"V tomto osvětlení je naše přibližnost neodolatelně krásná právě proto , že otvírá stále nové pracovní výhledy , stále nové možnosti zápasu o vyslovení nevysloveného .",O O O O O O O O O O O O O O O O O O O O O O O O O O
+4705,Počet motorových nákladních vozidel v rozdělování se rovněž zvýšil o necelých 7 % z 16506 na 17604 .,O O O O O O O O O O O O O O O O O O
+869,Mimo předplatné uvádí Moje Divadlo Prostějov v pátek 23 . 1 . v 19 hod . v přednáškovém sále pod názvem Podivní společníci dramatizaci dvou povídek z Divokého západu O Henryho .,O O O B-ORG I-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O B-MISC I-MISC B-PER I-PER O
+3374,"I dnešní návrháři včetně populárního Toma Forda udržují tradici černé - od těsně obepínajících kalhot , které se spíše podobají punčochám , až po černou bižutérii , kabelky a ostatní doplňky . Výstava Smuteční oslavy v místním módním institutu FIDM představuje historické období let 1861 - 1906 , kdy ženy nosily černé smuteční šaty dva a půl roku - zatímco muži jen tři měsíce .",O O O O O B-PER I-PER O O O O O O O O O O O O O O O O O O O O O O O O O O B-MISC I-MISC O O O O B-ORG O O O O O O O O O O O O O O O O O O O O O O O O O
+845,"Společnost vyvážela i dovážela především dopravní prostředky , traktory a zemědělské stroje .",O O O O O O O O O O O O O
+1360,A taky že to vždycky fungovalo .,O O O O O O O
+2985,Tentokrát obrana Buffala nechala útočníka Juneaua střílet zblízka a přízemní pokus podklouzl pod lapačkou ležícího Haška .,O O B-ORG O O B-PER O O O O O O O O O B-PER O
+6288,"( Údery z Osudové , tma ) OBRAZ 11 KAREL MAX stojí u BENINA lůžka tak , jak zůstal stát na konci předchozího obrazu .",O B-MISC I-MISC I-MISC O O O O O B-PER I-PER O O B-PER O O O O O O O O O O O
+7068,"Tento seznam nechal vyhotovit J . Klas , jehož bezpečnostní komise pověřila , aby podle lustračního zákona provedl kontrolu personálního složení ministerstva vnitra .",O O O O B-PER I-PER I-PER O O O O O O O O O O O O O O O O O
+5288,"Z obránců klubu se do sezony 97 / 98 , ve které se do druhé šestky hvězd protlačil Chris Pronger , žádný do ligového All Star neprosadil , ale to neznamená , že by nebylo z čeho vybírat .",O O O O O O O O O O O O O O O O O O B-PER I-PER O O O O B-ORG I-ORG O O O O O O O O O O O O O
+3431,Při užití kombinace všech 3 markerů stoupá senzitivita na 74 .,O O O O O O O O O O O
+8660,"V silně emocionální atmosféře , která se na Letné proti Slovensku očekává , by slavnostní akt zcela zanikl .",O O O O O O O O B-LOC O B-LOC O O O O O O O O
+1379,"Jeden byl bojovníkem Organizace pro osvobození Palestiny v Iráku , druhý učitelem v Saúdské Arábii , další pracoval v Řecku .",O O O B-ORG I-ORG I-ORG I-ORG O B-LOC O O O O B-LOC I-LOC O O O O B-LOC O
+2678,"Někdo od televize navrhoval bojkot , zastavení vysílání .",O O O O O O O O O
+5517,"Od září 2003 aplikuje evropské indikátory město Vsetín , ještě téhož roku se k němu přidal Hradec Králové .",O O O O O O O B-LOC O O O O O O O O B-LOC I-LOC O
+7993,Hodilo se jim téměř vše .,O O O O O O
+185,"Přes taxikářovo rameno se dívala , jak se noční obloha karmínově zbarvuje , a přitom se pohybovala tak , aby taxikář získal dojem , že se jí líbí to , co dělá .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+5738,"Jirka Zítka si nejdříve myslel , že jim nějak páchne z úst , ale pak zjistili , že čištění zubů je tu pro děti něco jako ranní modlitba .",B-PER I-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2500,Samuel Taylor Coleridge PÍSEŇ O STARÉM NÁMOŘNÍKU,B-PER I-PER I-PER B-MISC I-MISC I-MISC I-MISC
+7084,"To zvyšuje nároky na správu , kterou Bay Networks zajišťuje prostřednictvím síťového managementu Optimity .",O O O O O O O B-ORG I-ORG O O O O B-ORG O
+821,"Podle proděkana Pedagogické fakulty Masarykovy univerzity Josefa Budiše přitom do škol mnohdy nenastoupí ti , kdo vystudovali učitelství cizích jazyků .",O O B-ORG I-ORG I-ORG I-ORG B-PER I-PER O O O O O O O O O O O O O
+6080,"Vstup ČSFR , Polska a Maďarska do NATO spojil J . Dienstbier s nutností zajištění demokracie ve východní Evropě .",O B-LOC O B-LOC O B-LOC O B-ORG O B-PER I-PER I-PER O O O O O O B-LOC O
+8018,Průměrné mzdy jsou v Praze podstatně vyšší než v jiných částech republiky,O O O O B-LOC O O O O O O O
+183,"Nevím , jak by se líbilo panu starostovi Holubic , kdyby v těsné blízkosti jeho domu se nacházel takový zbor , který nejenže hyzdí okolí , ale ohrožuje i bezpečnost obyvatel , zvláště dětí a je také živnou půdou pro myši , potkany a podobné živočichy .",O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+6588,"Odešly dopisy - Václavu Havlovi , federální vládě a všem zastupitelským úřadům v Praze .",O O O B-PER I-PER O O O O O O O O B-LOC O
+2704,Především kdo je Roger Cook ?,O O O B-PER I-PER O
+7468,"Slunce pálí a nebýt toho , že se Roxette na stará kolena sbratřili s diskotékovou muzikou a že se v Berlíně slavila další Love Parade , byli bychom bez novinky .",O O O O O O O O B-ORG O O O O O O O O O O O B-LOC O O B-ORG I-ORG O O O O O O
+7701,"Skládal hudbu pro jevištní představení ( více než 60 inscenací ) a dvanáct let působil ve funkci hudebního ředitele pařížského Národního lidového divadla , s jehož ředitelem Jeanem Vilarem spolurežíroval na jevišti Sofoklovu Antigonu a vlastní muzikál podle Queneauova románu Loin de Rueil .",O O O O O O O O O O O O O O O O O O O O B-ORG I-ORG I-ORG O O O O B-PER I-PER O O O B-PER B-MISC O O O O B-PER O B-MISC I-MISC I-MISC O
+2135,Vášnivě potřásl hlavou .,O O O O
+2160,""" Ano , zejména podmínky věku , ale v řadě případů i fyzické dispozice předtím spousta inzerátů obsahovala , "" řekl Tauber .",O O O O O O O O O O O O O O O O O O O O O B-PER O
+6539,""" Můžeme toho vašeho Džindžiho zítra poslat na tržiště , aby vám tam koupil nějaké služebné , "" odpověděl Džavid Chán .",O O O O B-PER O O O O O O O O O O O O O O B-PER I-PER O
+6195,"Haluz ve vichřici sténá , zahrada je zasněžená .",O O O O O O O O O
+8411,"Běžná inkubační doba je 1 - 2 týdny , první příznaky se podobají chřipce .",O O O O O O O O O O O O O O O
+1504,A to byl přesně případ divadla Uranie v Praze - Holešovicích .,O O O O O O B-ORG O B-LOC I-LOC I-LOC O
+6740,Na druhém místě se umístila devatenáctiletá modelka Zdeňka Zadražilová z Jindřichova Hradce ( 93 - 62 - 89 ) a třetí byla dvacetiletá studentka Veronika Křížová z Kostelce nad Černými Lesy ( 89 - 58 - 90 ) .,O O O O O O O B-PER I-PER O B-LOC I-LOC O O O O O O O O O O O O B-PER I-PER O B-LOC I-LOC I-LOC I-LOC O O O O O O O O
+4437,"22 ) Vážný , č . 5008 z roku 1934 .",O O O O O O O O O O O
+458,Někdy dokonce usne .,O O O O
+1138,"Jak v po - sledním čísle napsal pražský týdeník Czech Business Journal , první investicí v bývalém komunistickém bloku bylo pro General Electric Capital Services loni v srpnu zvýšení podílu v soukromé gdaňské bance Solidarity Chase Bank , která od té doby působí pod názvem General Electric Capital Bank .",O O O O O O O O O B-ORG I-ORG I-ORG O O O O O O O O O B-ORG I-ORG I-ORG I-ORG O O O O O O O O O B-ORG I-ORG I-ORG O O O O O O O O B-ORG I-ORG I-ORG I-ORG O
+6117,"Musela by to ale být zeď na klidném místě , kde by nechodilo moc lidí , nikdo mě nevyrušoval řečmi , na nic se mě neptal a nic mi nepřipomínal .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+6420,Neopomenutelnou zkouškou při nejistotě by měla být zkouška přídržnosti nebo soudržnosti .,O O O O O O O O O O O O
+8001,Je to otázka daleké budoucnosti .,O O O O O O
+2618,"V 1 . ročníku je to předmět Výpočetní technika , kde se studenti prakticky naučí používat programy pro tvorbu technické dokumentace ( Excel , Word ) a předávání informací prostřednictvím Internetu ( Netscape , Explorer , Pegasus Mail , Outlook Express atd . ) .",O O O O O O O B-ORG I-ORG O O O O O O O O O O O O O B-MISC O B-MISC O O O O O O O B-MISC O B-MISC O B-MISC I-MISC O B-MISC I-MISC O O O O
+1064,Clark zopakoval hattrick Jágrův 26 . gól sezony na výhru Pittsburgu nestačil Konec podtitulku,B-PER O O B-PER O O O O O O B-LOC O O O
+1472,Zachtělo se mu tu chytrou dívku trochu otrávit .,O O O O O O O O O
+2034,V mezidobí ji totiž vybrali její straničtí kolegové za nástupkyni odstoupivšího Jana Kalvody do funkce ministryně spravedlnosti .,O O O O O O O O O O O B-PER I-PER O O O O O
+4358,"Karolina Světlá ve vzpomínkách "" Několik archů z rodinné kroniky "" , které vyšly roku 1862 v almanachu Máj , píše o svých českobrodských předcích rottovského rodu , majitelích hostince v období nedlouhé vlády Josefa II :",B-PER I-PER O O O B-MISC I-MISC I-MISC I-MISC I-MISC O O O O O O O O B-MISC O O O O O O O O O O O O O O O B-PER I-PER O
+4360,Plynné palivo je do hořáku sálavé trubky přivedeno plynovým tělesem s plynovou tryskou .,O O O O O O O O O O O O O O
+469,3 . Sjednává se smluvní pokuta ve výši 10 % kupní ceny za kupujícím neodebrané zboží ve sjednané dodací době ( s výjimkou doby uvedené v čl . II / 7 této smlouvy ) .,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1279,Wolf Meynert je intelektuál .,B-PER I-PER O O O
+3090,Berounští radní požadovali na ministru Davidovi podrobné vysvětlení jeho stanoviska a nabídli mu schůzku .,O O O O O B-PER O O O O O O O O O
+8872,Klasickým příkladem je zatím největší armádní zakázka na modernizaci tanku T 72 .,O O O O O O O O O O B-MISC I-MISC O
+6587,"To se ovšem nemůže obejít bez selekce a zejména bez integrace toho , co otázka učiní svou vlastní minulostí .",O O O O O O O O O O O O O O O O O O O O
+4374,"Chceme - li degradaci provádět uvnitř palivového článku , musíme značně zvýšit pracovní teplotu .",O O O O O O O O O O O O O O O
+3210,Setkal jste se s něčím podobným i v Japonsku ?,O O O O O O O O B-LOC O
+6065,Bagdád nespokojen NEW YORK -,B-LOC O B-LOC I-LOC O
+6842,"Deformací indukované změny v barevnosti povrchu , to znamená funkce reakce - změna vlastnosti povrchu .",O O O O O O O O O O O O O O O O
+6822,Komunisté se mu ale pomstili a dali mu důchod 280 Kčs .,O O O O O O O O O O B-MISC O
+5931,"Nevím sice proč , ale cítím to tak .",O O O O O O O O O
+86,"Zdá se , že ještě žije , že je z tohoto světa .",O O O O O O O O O O O O O
+6521,"Nový vůz z Tatry Sipox vyniká nízkou hmotností a malými rozměry Praha - Prodat v roce 1995 na trhu České republiky 250 až 400 lehkých užitkových vozů Microcar , jejichž prodej v ČR byl zahájen 1 . listopadu , je hlavním cílem výrobce , akciové společnosti Tatra Sipox Bánovce nad Bebravou .",O O O B-ORG I-ORG O O O O O O B-LOC O O O O O O O B-LOC I-LOC O O O O O O B-MISC O O O O B-LOC O O O O O O O O O O O O O B-ORG I-ORG I-ORG I-ORG I-ORG O
+2613,"Informuje je , že se chystá policejní razie v továrně s džínami . - Marcus chce v jednom baru pomoci Tommymu proti zabijákům v oblecích .",O O O O O O O O O O O O O O B-PER O O O O O B-PER O O O O O
+5980,S pěticí amerických astronautů se na misi podílel ruský kosmonaut Sergej Krikaljov .,O O O O O O O O O O B-PER I-PER O
+8677,"Dokonce i "" symboly s nimi zaměnitelné "" .",O O O O O O O O O
+2353,"A včera mě viděla v televizi , jak vykukuju za těma velkejma auťákama - jeli tam někam na recepci a vzali mě s sebou !",O O O O O O O O O O O O O O O O O O O O O O O O O
+1267,Co dělá pořád v té montércimře v přízemí ?,O O O O O O O O O
+2619,Devatero pro ochranu S obdobnými problémy jako američtí manažeři se začali potýkat i jejich západoevropští kolegové .,O O O O O O O O O O O O O O O O O
+421,Exkurze budou zaměřeny na vybranou stavební problematiku rekonstrukce paláce .,O O O O O O O O O O
+6813,"Rád jsem také přijal pozvání přítele Jaroslava Muchy , který mi jednou poskytl celý svůj byt jen proto , abych Prostějov mohl lépe poznat a mohl se podívat na okolí , kam jezdí prostějovská mládež stanovat a koupat se .",O O O O O O B-PER I-PER O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O
+2668,Přece byste neodešel bez rozloučení .,O O O O O O
+8199,"Na území regionu se demonstrační jízda kamionů uskuteční ve dvou trasách , z Ostravy přes Frýdek - Místek a Příbor zpět , ale protest se dotkne i řidičů , kteří pojedou z Olomouce přes Lipník a Přerov zpět do Olomouce a také šoférů cestujících po dálnici D1 .",O O O O O O O O O O O O O B-LOC O B-LOC I-LOC I-LOC O B-LOC O O O O O O O O O O O O B-LOC O B-LOC O B-LOC O O B-LOC O O O O O O B-MISC O
+8298,Po vyhlášení výsledků se šéfredaktor s úsměvem se všemi rozloučil a popřál nám hodně úspěchů do další revoluce .,O O O O O O O O O O O O O O O O O O O
+3001,Uherské Hradiště - Dalších minimálně šest set padesát nových nezaměstnaných očekávají na přelomu letošního a příštího roku pracovníci Úřadu práce v Uherském Hradišti .,B-LOC I-LOC O O O O O O O O O O O O O O O O B-ORG I-ORG I-ORG I-ORG I-ORG O
+8431,"Naopak v šachu je soupeřova slabost jen příležitostí k jejímu využití , a nevinnost , to sem už vůbec nepatří .",O O O O O O O O O O O O O O O O O O O O O
+2156,""" Nemám zvlášní pocit , "" uvedl Hašek , který vychytal už pětatřicátou nulu v NHL , z toho patnáctou v posledních dvou sezónách .",O O O O O O O B-PER O O O O O O O B-ORG O O O O O O O O O
+6061,Zítra půjdu na jarmark .,O O O O O
+8272,"V režii Franceska Rosiho jsem sehrál hlavní roli ve snímku Příměří , který bude mít premiéru 10 . února v Římě .",O O B-PER I-PER O O O O O O B-MISC O O O O O O O O O B-LOC O
+5593,"Občas v mírnější formu takovéto angíny přechází angína lakunární , povlaky na rozdíl od difterie nikdy nepřesahují hranice mandle ( obr . 10 ) .",O O O O O O O O O O O O O O O O O O O O O O O O O
+6668,organizování manifestací byl Kantor nedostižný .,O O O B-PER O O
+1586,"Dvojčata pracují úporně na tom , aby byl Walesa zvolen do čela státu a aby byl v Polsku nastolen jakýsi centristicko - pravicový gaullistický systém silné prezidentské ruky , proti čemuž jsou pochopitelně nedávno zvolení poslanci Solidarity .",O O O O O O O O B-PER O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O B-ORG O
+8571,"Aby opatření správců rezervací byla účinná a aby se zabránilo hladovění nebo naopak překrmení kamzíků , musí vědci provádět pravidelná a co nejpřesnější sčítání a studie v terénu , tedy zjistit stav populace : počty , věkové spektrum , poměr pohlaví u dospělých zvířat , rozmnožovací index a geografické rozšíření .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+5354,Potrubí vedené do jezera mezi oběma státy by se mělo táhnout z Rudého moře na sever v délce 320 kilometrů .,O O O O O O O O O O O O B-LOC I-LOC O O O O O O O
+8711,"JAROSLAV LUX , ředitel FNsP : Odpovídám za řízení nemocnice , za svými rozhodnutími si stojím a nehodlám je měnit na ničí nátlak .",B-PER I-PER O O B-ORG O O O O O O O O O O O O O O O O O O O
+381,"Svrchní bunda - silný loden , zapínání na zdrhovadlo a druky , boční i svrchní kapsy .",O O O O O O O O O O O O O O O O O
+454,"Ze všech těchto údajů vyplývá , že v roce 1998 bylo ve světě vyrobeno celkem 493626 vozíků , tedy o 4,1 % více než v roce předcházejícím .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+5104,ČSN EN 1170 - 1 Prefabrikované betonové výrobky - Zkušební metoda pro sklovláknobeton - Část 1 :,B-MISC I-MISC I-MISC I-MISC I-MISC O O O O O O O O O O B-MISC O
+8576,VELKÝ OSEK ( jad ) Protipancéřový puškový granát našel muž ( 29 ) mezi obcemi Velký Osek a Volárna na Kolínsku .,B-LOC I-LOC O O O O O O O O O O O O O B-LOC I-LOC O B-LOC O B-LOC O
+8876,"Ramazzotti , který měl zpívat v produkci Serge Grimauxe ve Sportovní hale , je českému publiku znám z televizních přenosů z festivalu v San Remu a z velmi populárních nahrávek .",B-PER O O O O O O B-PER I-PER O B-ORG I-ORG O O O O O O O O O O O B-LOC I-LOC O O O O O O
+1317,"Rovněž vyzve vlády , kterých se to týká , aby postupovaly ukázněně a daly své možnosti k dispozici Vatikánu , kde vlády a Feniané mohou pokračovat ve vyjednávání . """,O O O O O O O O O O O O O O O O O O B-LOC O O O O B-PER O O O O O O
+2420,Tvůj upřímný bratr Václav .,O O O B-PER O
+7307,"AC Sparta Praha ( 16 ) 7 0 4 3 9 : 12 4 ( -5 ) 3 0 2 1 6 : 7 2 4 0 2 2 3 : 5 2 Číslo v závorce za názvem klubu znamená pořadí po minulém kole , číslo v závorce za celkovým počtem bodů znamená",B-ORG I-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+5200,"Výklenek dnes měří 110 m na šířku , 136 m na výšku a hluboký je 46 m .",O O O O B-MISC O O O O B-MISC O O O O O O B-MISC O
+5383,""" Prý si dokážu užívat se 3 ženami do 5 ráno .",O O O O O O O O O O O O
+5227,Produkuje znamenitá vína a věhlasná jsou i vinobraní .,O O O O O O O O O
+1133,"Irská velvyslankyně v ČR Marie Crossová předá v pátek u příležitosti dne sv . Patrika generálnímu sekretáři Českomoravského fotbalového svazu Janu Obstovi pověstné irské štěstí , neboť Irsko bude po dobu ME v Anglii fandit českým fotbalistům .",O O O B-LOC B-PER I-PER O O O O O O B-PER I-PER I-PER O O B-ORG I-ORG I-ORG B-PER I-PER O O O O O B-LOC O O O B-ORG O B-LOC O O O O
+2382,"A tak virtuosně to dělal , že jen málokdy byl lapen .",O O O O O O O O O O O O
+5640,Prakticky mi to znemožňovalo práci .,O O O O O O
+2187,"Blesk zabíjel Pět členů jedné rodiny z východoindického státu Urísa bylo zabito ve spánku , když při bouři do jejich domu udeřil blesk .",O O O O O O O O O B-LOC O O O O O O O O O O O O O O
+4341,"svisle bedněný , s pavláčkou pod mohutnou valbou střechy ( Pošumaví ) , 14 - štít s kuželovitým kabřincem ( "" kuklou "" ) a s podlomením , lomenice svisle bedněná , s ornamentem vyskládaným z latěk ( Valašsko , česko - slovenské pomezí ) .",O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O
+6222,Podle Radky Štefkové nemají žádnou šanci .,O B-PER I-PER O O O O
+5237,"Budova má obdélníkový půdorys , je jednopatrová a mimo jiné je na ní zajímavé nesymetrické rozmístění oken , které je důsledkem členění vnitřních prostor .",O O O O O O O O O O O O O O O O O O O O O O O O O
+7634,Pan Moritz si odkašlal také a sklonil se k magnetofonovým kazetám SOUND LETTER .,O B-PER O O O O O O O O O B-MISC I-MISC O
+8749,"Když chcete být úspěšná , musíte mít stejné pracovní předpoklady a kvality jako muž .",O O O O O O O O O O O O O O O
+5642,+22 / 1 PŘÍPRAVA ČERSTVÝCH TĚSTOVIN,O O O O O O
+4407,"Příroda je krutá , a to nutně .",O O O O O O O O
+6694,Příčinou požáru byl výbuch a vznícení papírového prachu .,O O O O O O O O O
+7378,"Knihu si můžete objednat na adrese Economia , a . s . , Na poříčí 30 , 112 86 Praha 1 , kde vám zařídí její zaslání na dobírku přímo z nakladatelství .",O O O O O O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG O B-LOC I-LOC O O O O B-LOC I-LOC O O O O O O O O O O O O
+5445,"Firma si podle něj v roce 2001 hluboce oddechla , že se zbavila tíživého dluhu a splatila jej do poslední koruny .",O O O O O O O O O O O O O O O O O O O O O O
+8692,Je pro malíře nebo obecně umělce Olomouc handicapem ?,O O O O O O B-LOC O O
+4246,Motorola Timeport P1088 je mobilní telefon s velkou obrazovkou kvůli internetu .,B-MISC I-MISC I-MISC O O O O O O O O O
+8719,"Je nás přece jenom pořád více než Belgičanů a po cestě v Belgii směrem na německé Cáchy není nikde jediný ukazatel směru Aachen ( podle doporučení UNESCO , které v tomto případě považuji za jedině správné ) , ale situace je ještě komplikována tím , že se několikrát přejíždí hranice mezi Valonskem a Flandrami , takže na jednom ukazateli je Aix - la",O O O O O O O B-PER O O O O B-LOC O O O B-LOC O O O O O B-LOC O O O B-ORG O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O B-LOC O O O O O O O O O
+8040,"Ježkův tajemník Jan Princ se domnívá , že mezi hlavní problémy patří nejasné řešení řídícího systému burzy .",B-PER O B-PER I-PER O O O O O O O O O O O O O O
+1160,"Ve vzduchu se zablesklo křišťálové křídlo , když kolem proletěl vrabec .",O O O O O O O O O O O O
+8892,"Na tiskové konferenci 30 . dubna společnost Ford Motor Company spolu s mediálním partnerem redakcí Auto , motor a sportu vyhlásila soutěž mladých designérů v České a Slovenské republice s cílem podpořit jejich zájem a případně získat ke spolupráci další mladé spolupracovníky .",O O O O O O O B-ORG I-ORG I-ORG O O O O O B-ORG I-ORG I-ORG I-ORG I-ORG O O O O O B-LOC O B-LOC I-LOC O O O O O O O O O O O O O O
+5440,"Olej z kukuřice vyhledávají ti , kdo drží dietu .",O O O O O O O O O O
+7318,"9.00 Aerobics 9.30 Cyklistika 10.30 Stolní tenis - World All Stars Circuit 11.30 Aerobics 12.00 Magazín mezin . motosportu 13.00 MS v sajdkárkrosu , Ouběnice , Československo 14.00 Tenis . turnaj ATP v Bale , druhé semifin . a finále 20.00 Box 21.30 Sport . aktuality 22.00 Evrop . góly 23.00 Box 0.00 Magazín bláznivých sportů 0.30 Sport . aktuality",O B-MISC O B-MISC O B-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC O B-MISC O B-MISC I-MISC I-MISC I-MISC O B-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC O B-MISC I-MISC I-MISC I-MISC O B-LOC O O O O O O O B-MISC O B-MISC I-MISC I-MISC O B-MISC I-MISC I-MISC O B-MISC O B-MISC I-MISC I-MISC O B-MISC I-MISC I-MISC
+2949,"A na desítky dalších , kteří na takové zavolání ještě čekají .",O O O O O O O O O O O O
+5432,"Bývalý policista , ateista Jericho Cane , má před sebou nelehký úkol : dívku najít a zachránit ji před zlem , které jí hrozí . ( 17.30 , 20.00 ) DIVADLO :",O O O O B-PER I-PER O O O O O O O O O O O O O O O O O O O O O O O O O O
+6144,"Nevím , jestli měla obruč nebo švihadlo nebo míč , nevím nic .",O O O O O O O O O O O O O
+6838,"The Economist : Smrtící tajemství města Majli - Saj Londýn - Demokracie je sice dobrá věc , reptají , ale byli jsme zvyklí na tři druhy čokolády , reptají obyvatelé kyrgyzského města Majli - Saj , kdysi utajeného a preferovaného před mnoha ostatními .",B-ORG I-ORG O O O O B-LOC I-LOC I-LOC B-LOC O O O O O O O O O O O O O O O O O O O O O O B-LOC I-LOC I-LOC O O O O O O O O O
+7316,"To se týká mnoha věcí : miš , zmyje a sináček jsou hrubé chyby , s jetely , kachly jsou podstatně menší , okrajovější chyby .",O O O O O O O O O O O O O O O O O O O O O O O O O O
+3870,"Stala se z toho literatura , ale nikoli psychologie .",O O O O O O O O O O
+8889,"Těsto necháte v chladu odpočinout , vyválíte na placku a vykrajujete různé tvary , které upečete v mírné troubě .",O O O O O O O O O O O O O O O O O O O O
+5420,"NÁRODNÍ KNIHOVNA , Klementinum 190 ( 10 - 17 h ) :",B-ORG I-ORG O B-ORG I-ORG O O O O O O O
+7724,"Za to se však mohou zúčastňovat mezinárodních soutěží , mají výraznou slevu třeba na pražském festivalu účesů a dostávají zdarma informace o tom , co se právě ve světě nosí na hlavě .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+5520,"GALERIE FRANZE KAFKY , Staroměstské náměstí 22 , 10.00 - 13.00 a 14.00 - 17.00 :",B-ORG I-ORG I-ORG O B-LOC I-LOC O O O O O O O O O O
+1693,"Jelcin dostal potvrzení mandátu , aby vládl Rusku , zároveň však lidové hlasování tohoto mandátu nezbavilo další spoluvlastníky - poslance parlamentu .",B-PER O O O O O O B-LOC O O O O O O O O O O O O O O
+8672,"V galerii Ambit lze získat také komunistické busty Nové Město Návštěvníci galerie Ambit , která sídlí ve františkánském klášteře na Jungmannově náměstí , si zde mohou do konce září prohlédnout a zakoupit díla ze sbírek Nadace Českého fondu umění , mezi nimiž jsou zastoupena i díla ve stylu socialistického realismu .",O O B-ORG O O O O O B-LOC I-LOC O O B-ORG O O O O O O O B-LOC I-LOC O O O O O O O O O O O O O B-ORG I-ORG I-ORG I-ORG O O O O O O O O O O O O
+3143,"A poslední věc , na kterou se zapomíná a dosvědčují to zkušenosti z celého světa , že ty nečistě získané peníze obvykle nejsou penězi , jež by zůstaly svým podezřelým majitelům v podobě úspor .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+5250,Chicago ( 1920 - 1930 ) .,B-LOC O O O O O O
+7042,"Aktiva i pasiva našeho úspěchu - čili po vašem SMDČCH - jsou nepřímo úměrný hluku , který naděláme !",O O O O O O O O O O O O O O O O O O O
+1365,"Vlastnictví parníku Titanik Zjistili jsme , že Titanik byl lodí náležející společnostem White Star a Oceanic Steam Navigation z Anglie , jejíž veškeré akcie jsou v držení společnosti International Navigation ( Ltd . ) v Anglii , a akcie této společnosti jsou ve vlastnictví společnosti Mezinárodní obchodní loďstvo "" , tedy americké korporace ,",O O B-MISC O O O O B-MISC O O O O B-ORG I-ORG O B-ORG I-ORG I-ORG O B-LOC O O O O O O O O B-ORG I-ORG O O O O O B-LOC O O O O O O O O O B-ORG I-ORG I-ORG O O O O O O
+4010,A jakých !,O O O
+1113,"133 / 1982 Sb . , zákona č . 180 / 1990 Sb . , zákona č . 328 / 1991 Sb . , zákona č . 519 / 1991 Sb . , zákona č . 263 / 1992 Sb . , zákona České národní rady č . 24 / 1993 Sb . , zákona č . 171 / 1993 Sb . , zákona č . 117 / 1994 Sb . , zákona č . 152 / 1994 Sb . , zákona č . 216 / 1994 Sb . , zákona č . 84 / 1995 Sb . a zákona č .",O O O O O O B-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC O B-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC O B-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC O B-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC O B-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC O B-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC O B-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC O B-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC O B-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC O B-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC O O O O
+7500,"Pomoci by podle Tomáše Ježka měla také Českomoravská záruční úvěrová banka , která obdržela státní dotaci , mimo",O O O B-PER I-PER O O B-ORG I-ORG I-ORG I-ORG O O O O O O O
+1916,"živou vodou 7.55 Havran Ric ( 237 ) 8.10 Rohy 8.40 Tatra - Dakar 10.05 Diskusní klub 10.35 Vzpomínky s humorem a láskou , film o M . Landonovi 12.10 Ema Destinnová 12.40 Faustův dům 13.00 Tankové bitvy 14.00 Tenis - Pupp Czech Open , přenos z finále turnaje žen 16.00 Posvěcený Svěcený aneb Jaroslav Svěcený 16.30 Havran Ric ( 204 ) 17.00 Mezi námi kluky , hudební komedie 18.30 Naše Imogena , filmová komedie 20.00 Vražda v tónině C dur , drama Fr . 21.30",O O O B-MISC I-MISC O O O O B-MISC O B-MISC I-MISC I-MISC O B-MISC I-MISC O B-MISC I-MISC I-MISC I-MISC I-MISC O O O B-PER I-PER I-PER O B-MISC I-MISC O B-MISC I-MISC O B-MISC I-MISC O B-MISC I-MISC I-MISC I-MISC I-MISC O O O O O O O B-MISC I-MISC I-MISC I-MISC I-MISC O B-MISC I-MISC O O O O B-MISC I-MISC I-MISC O O O O B-MISC I-MISC O O O O B-MISC I-MISC I-MISC I-MISC I-MISC O O B-LOC I-LOC O
+7485,"Odborníci ze ředitelství silnic a dálnic v souvislosti se zásahem ministerstva operují studií , která dokazuje , že během pěti let budou silnice na severu Čech zcela přetížené , pokud by dálnice D 8 skutečně skončila v Lovosicích , byl by doslova zahlcen také hraniční přechod s Německem na Cínovci .",O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O B-LOC O B-LOC O
+1997,"Spatřila jsem i repliku staré anglické katedrály , zčásti už namalované , a droboučká okna z barevného skla připravená k nasazení , a také započatou scénu z feudální bitvy - maličké rytíře na koních s napřaženým kopí proti lukostřelcům , oděným v barvách lesních porostů .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+3543,OSTRAVA ( tch ) - Už dříve trestaný lotr ( 21 ) bezdůvodně napadl o rok staršího mladíka před restaurací Karlos v Ostravě - Zábřehu .,B-LOC O O O O O O O O O O O O O O O O O O O B-ORG O B-LOC O B-LOC O
+7639,"Nezlomná vůle k experimentu Koláře neopustila ani později , po těžké nemoci , v exilu .",O O O O B-PER O O O O O O O O O O O
+3883,Cesta mráčkového dráčka ( potrvá do 21 . 4 . ) .,B-MISC I-MISC I-MISC O O O O O O O O O
+4327,"Nechápal , kdy se na něho někdo zlobí , a často se nevhodně rozesmál , když někdo rychle změnil výraz svého obličeje .",O O O O O O O O O O O O O O O O O O O O O O O
+5539,"Na krátké vzdálenosti je silniční doprava nenahraditelná , na dlouhých trasách se jí podařilo konkurovat železnici , jejíž nákladní doprava během posledních dvaceti let stále klesala .",O O O O O O O O O O O O O O O O O O O O O O O O O O O
+6586,"V předvolebním období se pro zavedení nejvyššího trestu vyslovili nejen představitelé krajních stran , jako Miroslav Sládek nebo Miroslav Grebeníček , ale i předáci menších stran vládní koalice Ivan Pilip a Daniel Kroupa , píše rakouský list .",O O O O O O O O O O O O O O O B-PER I-PER O B-PER I-PER O O O O O O O O B-PER I-PER O B-PER I-PER O O O O O
+6374,"146 , tel . 0646 / 744077 Otevřeno : květen až září 9 - 16 hod . , zavírací den pondělí",O O O O O O O O O O O O O O O O O O O O O
+7111,Předseda Křesťanskodemo - kratické strany Václav Benda naopak prezidentova vyjádření jednoznačně podpořil .,O B-ORG I-ORG I-ORG I-ORG B-PER I-PER O O O O O O
+6538,"PRAHA ( hm ) - Zájem o mezinárodní výstavu Schola Nova 95 v pražském Veletržním paláci , na které představuje 90 firem svou nabídku pro školy , je podle M . Cajzové z pořádajících Brněnských veletrhů a výstav veliký .",B-LOC O O O O O O O O B-ORG I-ORG I-ORG O O B-MISC I-MISC O O O O O O O O O O O O O B-PER I-PER I-PER O O B-ORG I-ORG O O O O
+236,"Nikdo ani nemíní zakrývat , že účinnost bude přímo úměrná tomu , jak se podaří v ČEB a EGAP soustředit um a zkušenosti z mezinárodního obchodu a bankovnictví .",O O O O O O O O O O O O O O O O B-ORG O B-ORG O O O O O O O O O O
+6303,"Pevná vazba , koženka .",O O O O O
+6046,"Jen dělal pořád pyskama , jako když dává pusy , ale to nikomu nevadilo .",O O O O O O O O O O O O O O O
+1911,Pouze Všeobecná zdravotní pojišťovna přispívá dětem do patnácti let částkou čtyři sta korun z účelového fondu na podporu prevence .,O B-ORG I-ORG I-ORG O O O O O O O O O O O O O O O O
+2771,"Za léta permanentních perzekucí , šikan a pronásledování , a zároveň za léta neustálé práce v undergroundové kultuře se Jirousovi alias Magorovi podařilo přerůst v lokální český mýtus deklasovaného romantika .",O O O O O O O O O O O O O O O O O O O B-PER O B-PER O O O O O O O O O
+7141,"To , co žádáme , je však něco jiného .",O O O O O O O O O O
+3267,Hadasa je ve Swideru .,O O O O O
+4120,"Dobrodiní tehdy tak zdánlivě nesmyslné činnosti se nejvíce projevilo během 2 . světové války , neboť za olivový olej bylo možno dostat vše .",O O O O O O O O O O O O O O O O O O O O O O O O
+4544,"ENERGOCENTRUM NZ2 společnosti Phoenix - Zeppelin , s . r . o . , Modletice je progresivní nepřerušitelný zdroj elektrické energie o napětí 3x400 V a typovém výkonu do zátěže 250 kVA .",B-ORG I-ORG O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG O B-MISC O O O O O O O O O B-MISC O O O O O O B-MISC O
+4662,"Na základní barvu je houbou nanesena barva s poněkud výraznějším zeleným odstínem a pak ještě poslední , vrchní vrstva .",O O O O O O O O O O O O O O O O O O O O
+1089,"Absolvoval hranickou akademii , velel olomoucké remontní baterii a po okupaci vytvořil s podplukovníky Josefem Mašínem a Josefem Balabánem zpravodajsko - diverzní skupinu v rámci Obrany národa .",O O O O O O O O O O O O O O B-PER I-PER O B-PER I-PER O O O O O O B-ORG I-ORG O
+2849,K této příležitosti jsem jim zaslala gratulace za náš roverský kmen .,O O O O O O O O O O O O
+4702,"Kontakty na provozovatele serveru Obchodní-dům.cz Provozovatel obchodu: Internet Retail a.s. Sídlo společnosti: Skorkovská 1511 , 198 00 Praha 9 IČO: 26430240 DIČ: CZ26430240 Zapsána: u rejstříkového soudu v Praze , oddíl B, vložka 7047",O O O O O O O B-ORG I-ORG I-ORG O O B-LOC O O O O B-LOC O O O O O O O O O O B-LOC O O O O O
+1584,"Prošla Treblinkou a Osvětimí , bezprostředně po svém zázračném návratu se ve vlastním bytě dívala do očí dobře živeného pána , odklepávajícího cigaretu do jejího starožitného popelníku .",O B-ORG O B-ORG O O O O O O O O O O O O O O O O O O O O O O O O
+6618,""" Bude to těžké utkání , protože Opava v boji o záchranu udělá vše pro dobrý výsledek .",O O O O O O O B-ORG O O O O O O O O O O
+3909,Ostrov nazývaný také Icukušima ( 30 km2 ) leží asi 20 km jz . od Hirošimy v Hirošimském zálivu .,O O O B-LOC O O B-MISC O O O O B-MISC O O O B-LOC O B-LOC I-LOC O
+8123,""" V některých zemích je státní podpora soukromých škol běžná , ale například v Anglii a v USA nedostávají soukromé školy od státu nic .",O O O O O O O O O O O O O O B-LOC O O B-LOC O O O O O O O
+7654,Na činnost Senátu je v návrhu státního rozpočtu pro příští rok vyčleněno 250 miliónů korun .,O O B-ORG O O O O O O O O O O O O O
+7767,"Protože lze předpokládat , že kurs koruny se bude ještě pohybovat , měly by firmy vědět , jak je možné se chránit před nepříznivým dopadem takové situace - jak se zajistit proti kurzovním rizikům .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2305,Děčín GALERIE HEFAISTOS : Václav Dyntar - keramika .,B-LOC B-ORG I-ORG O B-PER I-PER O O O
+2817,""" Od otevření východní Evropy Rakousko ztrácí podíl na polském trhu , zatímco sousednímu Německu se na zdejším trhu podařilo rozšířit svou přítomnost , "" řekl pro agenturu APA expert IHS Bernhard Böhm .",O O O O B-LOC B-LOC O O O O O O O O B-LOC O O O O O O O O O O O O B-ORG I-ORG O B-ORG B-PER I-PER O
+4895,"3 ) Svátostné manželství je platné manželství dvou pokřtěných , např . dva pokřtění evangelíci měli sňatek na úřadě - jejich manželství je platné a je svátostné .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+8587,"Dostane - li se zajatec až do cíle , jeho útěk se zdařil ; v opačném případě putuje na samotku .",O O O O O O O O O O O O O O O O O O O O O
+6834,Proč tedy s ním máme tolik problémů ?,O O O O O O O O
+6427,"Poslední studie , prezentované na 9 . mezinárodní konferenci o AIDS v Berlíně , hovoří asi o 15procentním riziku přenosu infekce z matky na plod v Evropě , v Africe je o něco vyšší .",O O O O O O O O O O B-MISC O B-LOC O O O O O O O O O O O O O B-LOC O O B-LOC O O O O O
+3012,"Jindy zas vím , že z těchto mladých lidí vzejde člověk hlubokých myšlenek , velikého sebepoznání , vytrvalosti , nepokořitelnosti a promyšleného postupu .",O O O O O O O O O O O O O O O O O O O O O O O O
+6430,"Protože Británie není členem Schengenské dohody , jedná se podle nich o bilaterální problém . +",O B-LOC O O B-MISC I-MISC O O O O O O O O O O
+964,"Od roku 1530 vládli na Maltě Johanité ( vojenský řád sv . Jana - založen v roce 1048 ) , velmistr Jean de la Vallette zakládá v roce 1566 nové hlavní město , které je po něm i pojmenováno - Vallettu ( dnes chráněna jako památková rezervace UNESCO ) .",O O O O O B-LOC B-ORG O O O B-PER I-PER I-PER O O O O O O O O B-PER I-PER I-PER I-PER O O O O O O O O O O O O O O O B-LOC O O O O O O B-ORG O O
+5989,"V souvislosti se zavedením zaručených šeků se záruční kartou oznamujeme , že všechny další tuzemské soukromé šeky Komerční banky budou od 1 . srpna 1995 považovány za nezaručné , a to i v rámci prodejní sítě KB , čímž dochází ke změně Obchodních podmínek pro Přijímání šeků KB pro platby v Kč , část A .",O O O O O O O O O O O O O O O O O B-ORG I-ORG O O O O O O O O O O O O O O O O O B-ORG O O O O O B-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC O
+6576,"Jedná se o vlnění , při kterém se v každém bodu prostoru elektromagnetické pole mění sinusově .",O O O O O O O O O O O O O O O O O
+4346,HOLEŠOVICE - Z důvodu rekonstrukce a napojení nových vodovodů v Heřmanově a Schnirchově ulici nepoteče příští pondělí 19 . března v době od 0.30 do 16 . hodin v části Prahy 7 voda .,B-LOC O O O O O O O O O B-LOC O B-LOC I-LOC O O O O O O O O O O O O O O O O B-LOC I-LOC O O
+7734,"Vyšší cena , která by měla platit i po podpisu smlouvy s NGW , by však společně s finančním vstupem německé firmy měla plně pokrýt splátky úvěrů na stavbu kanalizace a čističky .",O O O O O O O O O O O O B-ORG O O O O O O O O O O O O O O O O O O O O
+2814,"Počty a růst Bankovní karty Eurocard / MasterCard a VISA bylo vloni možné použít ve 270 zemích a teritoriích světa v téměř třinácti miliónech obchodních místech ( hotely , obchody , supermarkety , čerpací stanice apod . ) .",O O O O O B-MISC O B-MISC O B-MISC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+6304,"Duchovním , kněžím a lékařům staroamerických indiánských říší a asijským nomádským kmenům sloužily božské rostliny k odhalení a napravení rebelů .",O O O O O O O O O O O O O O O O O O O O O
+1701,Ještě krátce k diplomatické dohře Grand Prix Brno .,O O O O O B-ORG I-ORG I-ORG O
+8849,"Maďarsko požádá OSN o náhradu škod , které mu vzniknou zavedením ekonomických sankcí vůči Jugoslávii .",O O B-ORG O O O O O O O O O O O B-LOC O
+6845,"Správně pochopil - a také politicky prosazoval - že integrace Slovenska stejně jako ostatních malých států ve střední Evropě do nadnárodních celků je v jejich vlastním národním zájmu , v zájmu jejich bezpečnosti a prosperity .",O O O O O O O O O O B-LOC O O O O O O O B-LOC O O O O O O O O O O O O O O O O O
+4819,"Prodejní oddělení, oddělení péče o zákazníky Pondělí - pátek, 7:00 - 17:00 Tel.: 800 24 24 24 (bezplatná telefonní linka) Fax: 800 10 06 28 (bezplatná faxová linka), 596 614 800 E-mail: prodej.web@manutan.cz Firemní prodejna – Ostrava Pondělí - pátek, 7:00 - 11:00 a 11:30 – 15.30 Tel.: 595 697 190",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-ORG O O O B-LOC O O O O O O O O O O O O O O
+1196,"Praha - Portrétní dokument Prostory Theodora Pištěka , jehož verzi pro videokazety určené zejména galeriím pokřtil režisér a scenárista Miloslav Šmídmajer v předvečer dnešní televizní premiéry snímku na programu ČT 2 v rámci cyklu Zblízka , se nelíbí jeho hlavnímu hrdinovi .",B-LOC O O O B-MISC I-MISC I-MISC O O O O O O O O O O O O B-PER I-PER O O O O O O O O B-ORG I-ORG O O O B-MISC O O O O O O O
+3675,"Galerie Doubner , kterou provozuje stejnojmenná architektonická kancelář , se nachází na Václavském náměstí číslo 15 .",B-ORG I-ORG O O O O O O O O O O O O O O O
+396,"Přímá volba je 595132 + klapka , faxovat lze na číslo 596111023 .",O O O O O O O O O O O O O
+2755,"telefon 844 333 444 (Po–Pá 7.00 – 19.00 ) , e-mail ČSOB Multicash 24 corhelpdeskelb@csob.cz nebo e-mail w1se wise.desk@csob.cz , helpdesk pro služby w1se a ČSOB Multicash 24 , pro volání ze zahraničí +420 495 800 141 .",O O O O O O O O O O O B-MISC I-MISC I-MISC B-ORG O O O B-ORG O O O O O O B-MISC I-MISC I-MISC O O O O O O O O O O
+8787,"Díky promyšlené konstrukci a volbě složení směsi vynikají pneumatiky řady Kormoran Impulser především dobrým vedením vozu na mokrých vozovkách , výborným odvodem vody ze stopy , dlouhou životností a nízkou hladinou hluku .",O O O O O O O O O O B-MISC I-MISC O O O O O O O O O O O O O O O O O O O O O
+2115,"Sbírka Naděje , provozovaná formou bankovního konta , byla povolena Ministerstvem vnitra 6 . srpna 1997 .",O B-ORG O O O O O O O O B-ORG I-ORG O O O O O
+3120,"Když mě nazvou básníkem , zamrazí mě , říká lingvista Zbyněk Šiška",O O O O O O O O O O B-PER I-PER
+6743,Můžeme se tak s nimi setkat například při stavbě výškových věží v Kuala Lumpur nebo dodávce informačního systému pro German Stock Exchange ( německou burzu ) .,O O O O O O O O O O O O B-LOC I-LOC O O O O O B-ORG I-ORG I-ORG O O O O O
+556,Keňa - 5 . a Kenneth Eriksson nedokončil,B-LOC O O O O B-PER I-PER O
+4286,"Vypálili 135 vesnic , 40 mlýnů , devět hamrů a zmocnili se kořisti v hodnotě přes milion tolarů , přičemž způsobili škody za 12 milionů .",O O O O O O O O O O O O O O O O O O O O O O O O O O
+3491,Americký thriller vznikl v roce 1990 .,O O O O O O O
+1010,"V 5 . týdnu Sazky je v I . pořadí 42 výher 8409 Kčs , ve II . je 769 výher 462 Kčs a ve III . je 5915 výher 79 Kčs .",O O O O B-MISC O O O O O O O O B-MISC O O O O O O O O B-MISC O O O O O O O O B-MISC O
+4261,Třídenní výstavu návštěvníci i zúčastněné firmy považují účast na veletrhu za dobrý vstup do zlínského regionu .,O O O O O O O O O O O O O O O O O
+4337,"Mezi roky 1950 a 1980 se počet sebevražd dospívajících zvýšil asi o 300 % , zvlášť mezi bílými mladíky z dobře situovaných rodin .",O O O O O O O O O O O O O O O O O O O O O O O O
+2144,""" Tyto podílové fondy ještě uplatňují náhradu ve výši 1.2 miliardy korun na Plzeňské bance sníženou o nyní získané prostředky , "" dodal nucený správce společnosti C . S . fond Luboš Smrčka .",O O O O O O O O O O O O O B-ORG I-ORG O O O O O O O O O O O B-ORG I-ORG I-ORG I-ORG I-ORG B-PER I-PER O
+5042,"Operace "" Black Buck 4 "" v noci na 29 . května musela být odvolána pro poruchu jednoho z cisternových letounů Victor , operace "" Black Buck 5 "" v noci na 31 . května a "" Black Buck 6 "" v noci na 3 . června dosáhly částečného úspěchu .",O O B-MISC I-MISC I-MISC O O O O O O O O O O O O O O O O B-MISC O O O B-MISC I-MISC I-MISC O O O O O O O O O B-MISC I-MISC I-MISC O O O O O O O O O O O
+3963,"- 524 ) a mimo ně mnozí další , ve veřejném životě méně nebo i málo významní , ale svým dílem nepominutelní , např . Firmicus Maternus ( 1 . pol . IV . stol . ) , Optatus ( IV . stol ) , Rufinus ( 345 - 410 ) , Salvianus ( asi 400 - 480 ) .",O O O O O O O O O O O O O O O O O O O O O O O O O B-PER I-PER O O O O O O O O O O O B-PER O O O O O O B-PER O O O O O O B-PER O O O O O O O
+2986,Po nich blíží se k nám světlo .,O O O O O O O O
+8855,"Existují sice dvě novější , digitální nahrávky - jedna s dirigentem Leonardem Slatkinem , na níž Porgyho zpívá skvělý Simon Estes ( Philips ) , druhá Simona Rattleho ( EMI ) se stejným představitelem titulní role jako na snímku firmy DECCA .",O O O O O O O O O O O B-PER I-PER O O O B-PER O O B-PER I-PER O B-ORG O O O B-PER I-PER O B-ORG O O O O O O O O O O B-ORG O
+942,Obklopila ho neproniknutelná tma .,O O O O O
+1572,Navíc hostuje i v Divadle ABC v roli stárnoucího D ' Artagnana .,O O O O B-ORG I-ORG O O O B-PER I-PER I-PER O
+7288,"Zcela opačný přístup včera představil druhý referující , německý architekt Günter Henn , jehož specializací jsou kancelářské budovy , výzkumná střediska , univerzitní komplexy či výrobní haly .",O O O O O O O O O O B-PER I-PER O O O O O O O O O O O O O O O O
+962,"Byl jsem sám , protože všechny naše zásoby jsem v záchvatu dobrého rozmaru hodil aligátorům a mí domorodci , kterým jsem říkal chlapci , utekli do džungle .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+762,"Provolávali protiromská hesla a vyhrožovali , že vtrhnou do jednacího sálu .",O O O O O O O O O O O O
+3418,"Bývalé hlavní město ( 106146 obyv . ) ostrova bylo založeno r . 1496 na březích jezera ( laguna ) , které později zmizelo .",O O O O O O O O O O O O O O O O O O O O O O O O O
+393,Zavrhli jsme způsob progresivní provize s nárůstem procent podle výše prodeje .,O O O O O O O O O O O O
+8857,Naopak mužstvo posílili Petr Nový z Chlumčan a Jaroslav Planeta z Rokycan .,O O O B-PER I-PER O B-ORG O B-PER I-PER O B-ORG O
+7306,"Nebude mít žádné důsledky , řekl předseda Tampy Bay Farrukh Quraisai .",O O O O O O O B-ORG I-ORG B-PER I-PER O
+1885,Ostatní lidé zvedali pěsti a volali tříslabičné slovo .,O O O O O O O O O
+4565,"Ministři G7 už minulý měsíc varovali , že pokud se jednání nepodaří obnovit , může být ohrožena i jinak slibně se rozvíjející světová ekonomika .",O B-ORG O O O O O O O O O O O O O O O O O O O O O O O
+6511,Anebo : každý prs alespoň pětkrát obkroužit žínkou nebo houbou namočenou do studené vody .,O O O O O O O O O O O O O O O
+6851,"Pak ale bude mít i architektonické umění znovu duchovní základ , který potřebuje , aby se mohlo manifestovat jako sebevědomé vyjádření tohoto světového pocitu , v němž pak bude také mít své symboly umění , které potřebuje formální styl jako zrcadlení duchovní ideje .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2373,Starosta Prostějova Jan Šverdík se v sobotu zúčastnil setkání starostů - členů Unie svobody v Kutné Hoře .,O B-LOC B-PER I-PER O O O O O O O O B-ORG I-ORG O B-LOC I-LOC O
+5317,Hmotnost dosahuje ponejvíce asi 60 kg .,O O O O O B-MISC O
+8754,"Zdenek Pecka Mike Ronson : Heaven And Hull , CD , vydal Epic / Sony 1994 .",B-PER I-PER I-PER I-PER O B-MISC I-MISC I-MISC O O O O B-ORG I-ORG I-ORG O O
+8393,"Známe alespoň 18 různých mutací vedoucích k předčasnému šedivění nebo vypadávání vlasů , 30 jiných , které vedou k předčasnému urychlování vývoje kardiovaskulárního stárnutí , a více než 50 těch , které vedou k předčasné senilitě .",O O B-LOC O O O O O O O O O O B-LOC O O O O O O O O O O O O O O B-LOC O O O O O O O O
+6121,Cestou jsme si prohlíželi všecky zahrady a vily .,O O O O O O O O O
+1876,U stropu místnůstky svítila červená lampa .,O O O O O O O
+1896,"Například starosta pražských Letňan Josef Dobrý míní , že zejména v době větších přeměn je důležité , aby samospráva i úřady byly co nejblíž místním problémům .",O O O B-LOC B-PER I-PER O O O O O O O O O O O O O O O O O O O O O
+5366,"došlo 19 . VIII . 1988 , č . j . KS - 0019 - 26 / OV - 88 , přílohy 0 .",O O O O O O O O O O O O O O O O O O O O O O O O
+315,"/ 1 / Československá federativní republika svou hospodářskou politikou usiluje o rozmnožování národního bohatství , o sociálně spravedlivou společnost a o vytvoření nezbytných podmínek pro svobodný rozvoj osobnosti , rozvoj národů a národností .",O O O B-LOC I-LOC I-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2685,"Biškek - Meziparlamentní shromáždění Společenství nezávislých států včera na prvním plenárním zasedání v Biškeku , hlavním městě Kyrgyzstánu , zvolilo předsedou rady shromáždění nejvyššího představitele ruského parlamentu Ruslana Chasbulatova .",B-LOC O O O B-LOC I-LOC I-LOC O O O O O O B-LOC O O O B-LOC O O O O O O O O O B-PER I-PER O
+4201,"V těchto dílech jsou abstraktní obrazy kombinovány s holografickými deskami , které zdánlivě vysílají světelné paprsky do okolního prostoru .",O O O O O O O O O O O O O O O O O O O O
+2173,"Používání individuálního násilí proti státní moci bude vždy obtížným problémem , i dnes , kdy Listina základních práv a svobod je v určitých případech dovoluje ( je přitom třeba říci , že se američtí ústavní experti při čtení tohoto článku Listiny na semináři v Olomouci křižovali ) .",O O O O O O O O O O O O O O O B-MISC I-MISC I-MISC I-MISC I-MISC O O O O O O O O O O O O O O O O O O O O B-MISC O O O B-LOC O O O
+906,Tak především to nebyla právě pohledná ulice .,O O O O O O O O
+1945,"Tohle je náš obývací pokoj - vidíte , jenom takové židle a stolky a koberec a tak dále , co mohli doma oželet .",O O O O O O O O O O O O O O O O O O O O O O O O
+1537,Na černé listině se ocitl i spoluautor scénáře k filmu Most přes řeku Kwai Michael Wilson .,O O O O O O O O O O B-MISC I-MISC I-MISC I-MISC B-PER I-PER O
+6063,"Američané v šortkách tančili na chodbách i na schodech Lucerny , zatímco skupina hrála táhlé náladové skladby , ve kterých se proplétala kytara zpěváka Trey Anastasia s pianem Page McConnella .",B-PER O O O O O O O O B-MISC O O O O O O O O O O O O O O B-PER I-PER O O B-PER I-PER O
+369,Od 1 . listopadu 2004 se vývoz na indický subkontinent prodraží .,O O O O O O O O O O O O
+4509,"Vysazovali je kolem svých posvátných hájů , kde druidové konali obřady , umísťovali je však také vedle svých příbytků , aby je ochránily před bleskem .",O O O O O O O O O O O O O O O O O O O O O O O O O O
+2222,"Zatímco však Staré Město porazilo Poštornou , Atlantic tímto poměrem prohrál v Českých Budějovicích .",O O B-ORG I-ORG O B-ORG O B-ORG O O O O B-LOC I-LOC O
+2371,14.40 Dámská jízda - závěrečný vstup,O B-MISC I-MISC O O O
+516,K životu patří i smrt .,O O O O O O
+2450,"Po chvíli se zvedl a rozvážně , za strašlivého vrzání šináglů , opsal široký půloblouk kolem inspektorova křesla a zaujal znovu pozorovatelský postoj z druhé strany .",O O O O O O O O O O O O O O O O O O O O O O O O O O O
+4666,"Máte - li tapetovat zeď kolem spínače , který nemůžete ze stěny sejmout , nejdříve položte naklížený pruh tapety přes něj .",O O O O O O O O O O O O O O O O O O O O O O
+1311,""" HA , HA ! "" skupinka v kostýmech , s prázdnými osvětlenými dýněmi na bambusových hůlkách , přešla napříč Allen Street , přešla zelený pruh uprostřed ulice .",O O O O O O O O O O O O O O O O O O O O B-LOC I-LOC O O O O O O O
+7607,"Na druhé straně právě nesmiřitelnost , plynoucí z pocitu , "" že mi byla souzena porážka hned na začátku života "" , a rozhodnutí "" neodpovídat jim na jejich otázky "" , a to ani pozitivně , ale ani negativně , tvoří jakýsi až osudový podtón Zábranova údělu - tímto tajným vrcholem svého spisovatelství mohl se za daných okolností proslavit vskutku až po své smrti . . .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PER O O O O O O O O O O O O O O O O O O O O O
+918,země Z S B Z S B celkem SSSR 48 41 19 38 30 30206,O O O O O O O O B-LOC O O O O O O
+627,""" Slavia udělala velikou chybu , že tak schopného trenéra nechala odejít , "" říká dnes s úsměvem Hrdlička , jehož klub nakonec právě Pražany o možnost hrát v Lize",O B-ORG O O O O O O O O O O O O O O O O B-PER O O O O O B-PER O O O O B-ORG
+4482,Měly by to respektovat všechny budoucí úpravy geologického profilu .,O O O O O O O O O O
+4018,"O současnosti i budoucnosti okolí přehrady jsme hovořili se starosty Velké Lhoty ( 406 obyvatel ) Františkem Cibulcem , Bystřičky ( 965 ) Ing . Zbyňkem Fojtíčkem , Růžďky ( 884 ) Ing . Pavlem Kotrlou a Malé Bystřice ( 340 ) Ing . Miloslavem Studenkou .",O O O O O O O O O O B-LOC I-LOC O O O O B-PER I-PER O B-LOC O O O B-PER I-PER I-PER I-PER O B-LOC O O O B-PER I-PER I-PER I-PER O B-LOC I-LOC O O O B-PER I-PER I-PER I-PER O
+2044,"Když jsme vystoupili z vozu , zaslechla jsem křik noční volavky , která v mžiku zatřepotala křídly , vzlétla nad pole a zamířila k bažině .",O O O O O O O O O O O O O O O O O O O O O O O O O O
+4762,"Jinými slovy , naše republika byla v minulosti velmi silně orientovaná na těžký průmysl , kterému železnice konvenuje , lehkému průmyslu , službám , obchodu spíše vyhovuje doprava silniční .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1462,Pozemní dělostřelecká postavení kolem La Valletty však uplatnila novou taktiku .,O O O O B-LOC I-LOC O O O O O
+8604,"Na každý prst počítáme 6 ok na dlaňové straně a 6 ok na hřbetu ruky , mezi jednotlivými prsty nahodíme vždy po dvou okách , resp . z nahozených ok vypleteme nová oka tak , aby na jehlici zůstalo 14 ok pro ukazovák , po 16 okách pro prostředník a prsteník a 14 ok pro",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+7476,"Tak jako v ostatních scénách zvěstování neodklání se Fra Angelico ani zde od typu Humilitatio ( podřízení ) , které projevuje Maria : "" Staniž se mi podle slova Tvého . """,O O O O O O O O O B-PER O O O O O O O O O O O B-PER O O O O O O O O O O
+519,"Pokud se jedná o reklamní zařízení v ochranném pásmu pozemní komunikace , obsahuje stavební zákon v § 71 poněkud matoucí úpravu , když v odst . 2 stanoví pro všechna zařízení jako prvotní režim ohlašování a v odst . 4 upravuje možnost stavebního úřadu stanovit režim správního řízení , přičemž pro zařízení v ochranném pásmu pozemní komunikace tak musí stavební úřad učinit vždy .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+7504,"Phnompenh - Bývalý druhý muž kambodžských maoistických Rudých Khmerů Ieng Sary se včera oficiálně prohlásil za vůdce frakce , která je v opozici vůči masovému vrahu Pol Potovi .",B-LOC O O O O O O B-ORG I-ORG B-PER I-PER O O O O O O O O O O O O O O O B-PER I-PER O
+3933,Naše myslivost se spolu s krajinou vyvíjela skoro šest století .,O O O O O O O O O O O
+302,Ve zdejší pobočce obchodního řetězce Edeka na Rumburger Strasse pracuje i prodavačka Sabine Schmidtová .,O O O O O B-ORG O B-LOC I-LOC O O O B-PER I-PER O
+4739,"Moje bytová lest : najal jsem si pokojíček za 120 Kč měsíčně , do sousedního jakoby náhodou na inzerát a nezávisle přišla má pozdější choť Marie ( 19 ) , přičemž jsme majiteli domku utajili naši intimní blízkost ( vycházeli jsme z domu odděleně , před majitelem si hlučně vykali a milovali se s rukama přitištěnýma k ústům ) .",O O O O O O O O O O B-MISC O O O O O O O O O O O O O O B-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1668,"To myslím vážně , podívej se kolem .",O O O O O O O O
+1816,""" Cílem je , aby tendr byl průzračný a čistý , aby všichni zájemci dostali stejné šance , "" uvedl B . Šimek .",O O O O O O O O O O O O O O O O O O O O B-PER I-PER I-PER O
+2253,"Jediného regionálního zástupce v druhé lize Miroslava Zlámala z Plzně doplní Michal Paták z Horní Břízy , který postoupil z české fotbalové ligy .",O O O O O O B-PER I-PER O B-LOC O B-PER I-PER O B-LOC I-LOC O O O O O O O O
+1894,"Jak zdůrazňují pracovníci UIV , v žádném případě nelze hovořit o žebříčcích kvality , protože školy nebyly poměřovány žádným srovnávacím testem .",O O O B-ORG O O O O O O O O O O O O O O O O O O
+5541,"Pouze na základě jeho doznání v podobě vysvětlení podaného dne 31 . 7 . 2001 bylo nezletilému Ervínu O . prokázáno , že se měl v době od 13.30 do 13.45 dne 10 . 7 . 2001 dopustit majetkové trestné činnosti .",O O O O O O O O O O O O O O O O O B-PER I-PER I-PER O O O O O O O O O O O O O O O O O O O O O O
+6970,Z teras hotelu Hilton - Hilton v Budapešti !,O O O B-ORG O B-ORG O B-LOC O
+5369,ve čtvrtek 30 . května 1996 v 19.00,O O O O O O O O
+3835,Sturdzův kabinet vládl do roku 1899 ( s krátkou přestávkou v letech 1896 až 1897 ) .,B-PER O O O O O O O O O O O O O O O O
+5594,Z uvedeného počtu 8 občanů učinilo oznámení na linku 158 a věc oznámili na příslušném MO VB v Praze 6 .,O O O O O O O O O O O O O O O B-ORG I-ORG O B-LOC I-LOC O
+3670,"PRAHA - Hroznové víno za 109 , jablka za 39,90 , kiwi za 54,90 , párek za 49,90 , růžičková kapusta za 99,90 , rajčata za 79,90 , brambory za 32,90 , papriky za 99,90 či jedna kedlubna za 19,90 koruny .",B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+8336,"Teprve r . 1908 vzniká v Praze malá výrobna Kinofa , která zahájila svou činnost veselohrou Sen starého mládence , po níž následovalo několik dalších filmů , jejichž hlavním představitelem byl zase náš prvý filmový herec - Josef Šváb - Malostranský .",O O O O O O B-LOC O O B-ORG O O O O O O B-MISC I-MISC I-MISC O O O O O O O O O O O O O O O O O O B-PER I-PER I-PER I-PER O
+8387,7 . Jak ovlivnit rozhodnutí o koupi 171,O O O O O O O O
+5552,"Někdy se stane , že omylem vhodíte do schránky jinou obálku ( třeba s penězi ) než jste chtěli .",O O O O O O O O O O O O O O O O O O O O
+5890,"Platí to obdobně i o Maďarsku a Polsku , tvrdí Ian Greer , jehož společnost IGA má centrálu v londýnském Westminsteru a pobočku při centrále EU .",O O O O O B-LOC O B-LOC O O B-PER I-PER O O O B-ORG O O O O B-LOC O O O O B-ORG O
+5790,""" Je to blázen , "" řekl Horsey , "" Vlastně ne , má to - jak se tomu říká - jo , delirium tremens . """,O O O O O O O B-PER O O O O O O O O O O O O O O O O O O O
+1230,Mnoho lidí mělo zájem o revoluci .,O O O O O O O
+8728,"A : od 16.30 Brodek u PV - SEKOPT Hranice B , Určice - Brodek u Přerova , Kostelec - Měrovice , Nezamyslice - Býškovice .",O O O O O O O O O O O O B-LOC O B-LOC I-LOC I-LOC O B-LOC O B-LOC O B-LOC O B-LOC O
+4343,"Když se hráči rozhodnou vyhledat přístřeší a opustí nechráněné místo , kde stojí , obrať na stranu 40 a další sekvenci :",O O O O O O O O O O O O O O O O O O O O O O
+633,"Kontakt : EPS ČR , spol . s r . o . , Rubešova 10 , 120 00 Praha 2 , tel . / fax : 02 / 24 23 12 04 , tel . / zázn . : 02 / 24 23 18 76 IPB Real a . s . představuje",O O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG O B-LOC O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG O
+3278,"Červená , z Rožmitálu pod Třemšínem ( 9 km )",O O O B-LOC I-LOC I-LOC O O B-MISC O
+6913,Navíc to nebylo v práci poznat .,O O O O O O O
+1139,Vstup na Výstaviště je 1 . května zdarma .,O O B-ORG O O O O O O
+1831,"Chtěl ji pozvat ještě někam jinam , ale odmítla .",O O O O O O O O O O
+8902,"Představa , že komiks je čtení jen pro pologramotné primitivy , je dnes směšná - k jejímu popření stačí připomenout dnes již slavnou komiksovou epopej Arta Spiegelmana Maus ( česky Torst 1997 a 1998 ) , popisující příběh autorovy židovské rodiny ve válečném Polsku a holocaust .",O O O O O O O O O O O O O O O O O O O O O O O O O B-PER I-PER B-MISC O O B-ORG O O O O O O O O O O O O B-LOC O O O
+1205,"recenze a glosy Po listopadu 1989 se u nás mnohokrát konstatovalo , jaké množství dluhů leží před autory historické literatury například v oblasti dějin českého nekomunistického odboje za druhé světové války .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+3972,"Na jaře se sklízejí kratší , neboť rychle vykvétají .",O O O O O O O O O O
+5419,"Města vyrostla přes noc , bohatství bylo snadno nabýváno i ztráceno , rozšířily se hazardní hry a kriminalita .",O O O O O O O O O O O O O O O O O O O
+1356,"Alexandre Dumas , Jules Verne , Karel May , podivín , který nevytáh paty z Berlína a vykouzlil miliónům čtenářů pustatiny pouští a divočiny Skalistých hor a prérií , a i ten Jack London ;",B-PER I-PER O B-PER I-PER O B-PER I-PER O O O O O O O B-LOC O O O O O O O O B-LOC I-LOC O O O O O O B-PER I-PER O
+4217,"Bylo tedy nutné navýšit vzdělávací proces o hluboké , skutečné a opravdové studium společenských věd , filosofie , psychologie , sociologie , antropologie kultury , aniž by bylo sebemenším způsobem opuštěno studium dějin fotografického oboru , dějin umění , estetiky , teorie a analýzy fotografického obrazu , technické problematiky fotografie a dalších souvisejících disciplín .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+6039,Na dole Dukla v Havířově zahynul při závalu jeden horník .,O O B-ORG O B-LOC O O O O O O
+6878,"Dlouze kývala plamínkem v paži obepnuté mohérovým rukávkem při When The Smoke Is Going Down , Allways Somewhere či Holiday .",O O O O O O O O O B-MISC I-MISC I-MISC I-MISC I-MISC I-MISC O B-MISC I-MISC O B-MISC O
+1224,Ale zatím neřekla nic .,O O O O O
+2725,"Je zajištěn start loňské vítězky Wiesnerové z Rakouska , stejně jako finalistky Sukové .",O O O O O B-PER O B-LOC O O O O B-PER O
+5585,"Mezi tyto působky pak patří interleukiny IL - 1 , IL - 8 , TNF , TGF ( transforming growth factor beta ) , IFN ( interferon gama ) a řada jiných .",O O O O O O B-MISC I-MISC I-MISC O B-MISC I-MISC I-MISC O B-MISC O B-MISC O O O O O O O B-MISC O O O O O O O O
+562,"CDU včera zároveň čelila novým obviněním , že strana měla už od 50 . let černé fondy ve Švýcarsku ještě z dob legendárního prvního spolkového kancléře Konrada Adenauera .",B-ORG O O O O O O O O O O O O O O O O O B-LOC O O O O O O O B-PER I-PER O
+2471,"Stažené rolety propouštěly pramálo světla , takže jsem toho v místnosti moc nerozeznával , ale koberec byl hustý a měkký , a to málo , co jsem viděl z nábytku , mělo sklon spíš k přepychu než k odříkavosti .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1569,Tentokrát si prozíravě zpáteční letenku nekoupil .,O O O O O O O
+7365,"Hledají i sebemenší smítka , která sem přes den mohl zanést vítr .",O O O O O O O O O O O O O
+5752,""" Škoda bude prodávat byty v celých západních Čechách , a pokles cen se tak nebude týkat jen Plzně , ale i dalších měst , "" poznamenává majitel plzeňské realitní kanceláře Realita František Havíř , který souhlasí s odhadem pádu cen , jak jej nastínil jeho kolega Pavel Pubec .",O B-ORG O O O O O O B-LOC O O O O O O O O O B-LOC O O O O O O O O O O O O B-ORG B-PER I-PER O O O O O O O O O O O O O B-PER I-PER O
+5286,"Jestliže celá populace určitého druhu rostliny ( její odrůdy ) se nemůže stát hostitelem vzhledem k výskytu nejrůznějších ras patogena , pak mezi daným hostitelem a parazitem není afinita .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+3471,Po muče ní chtěl král nechat všechny vyšetřované utopit .,O O O O O O O O O O
+8437,"Dnešní fotograf , zvláště ten mladší , by byl udiven , že se fotografie považuje za převážně chemickou disciplínu a že časopisy plní návody na nejrůznější roztoky a kouzelné vývojky .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+161,"Když Krenz Honeckerovi zmíněný papír předal , odstupující generální tajemník do textu k Schabowského překvapení dodal , že "" jako nástupce je navržen Egon Krenz "" .",O B-PER B-PER O O O O O O O O O O B-PER O O O O O O O O O B-PER I-PER O O
+3961,""" Jen pro Českou republiku to znamená v letošním roce úsporu 150 miliónů korun oproti plánovanému rozpočtu , "" uvedl včera v Piešťanech ministr Tvrdík .",O O O B-LOC I-LOC O O O O O O O O O O O O O O O O O B-LOC O B-PER O
+3515,"800 g den předem uvařených brambor oloupáme , nastrouháme , osolíme , na vále zasypeme krupicí , asi 100 g , a 250 g hrubé mouky ( podle toho , jak jsou vlhké brambory ) , přidáme 2 vejce a zpracujeme v tuhé těsto .",O B-MISC O O O O O O O O O O O O O O O O O B-MISC O O O B-MISC O O O O O O O O O O O O O O O O O O O O O
+3170,"Tato vícerozměrnost naopak chybí skupině Irish Dew , v jejímž čele najdeme Hrubého spoluhráče Václava Veselého a houslistu Josefa Kůstku .",O O O O O B-ORG I-ORG O O O O O B-PER O B-PER I-PER O O B-PER I-PER O
+2070,"Musel jsem ji zachránit , ale zbývalo jen velmi málo času .",O O O O O O O O O O O O
+3174,A celý chod tohoto složitého kombinátu řídili pro polynéského vládce dva bílí námořníci .,O O O O O O O O O O O O O O
+6443,"Šťastně zvolili Dvořák s Nekvasilem svůj první titul , už proto , že zachovali širší kontext italského repertoáru jako nosného sloupu Státní opery , aniž by se zřekli zásadního dramaturgického objevu .",O O B-PER O B-PER O O O O O O O O O O O O O O O O B-ORG I-ORG O O O O O O O O O
+8318,Zakoupil jsem si to tedy sám a dělám sám sobě mecenáše .,O O O O O O O O O O O O
+1090,Za ideální považuje model denacifikace v poválečném Německu .,O O O O O O O B-LOC O
+6029,"Zejména se jim nelíbí , že Pozemkový fond v mnoha případech vůbec netuší , jakou půdu pronajímá .",O O O O O O B-ORG I-ORG O O O O O O O O O O
+3197,22.30 Zahrada,O B-MISC
+7323,"O mnoho let později - u Alberta Camuse například - budou činy Dona Juana "" ospravedlněny "" a proti baroknímu pojetí se trestající spravedlnost v osudu svůdce existenciálně zesvětští .",O O O O O O B-PER I-PER O O O O B-PER I-PER O O O O O O O O O O O O O O O O
+1157,"Na Velký pátek se nemá pracovat ani na poli , ani v sadu , protože kdo hýbe zemí , ruší Ježíšův klid v hrobě .",O O O O O O O O O O O O O O O O O O O O B-PER O O O O
+986,"Kynologická společnost jim nechce rasu uznat , přestože psi složili mnohé zkoušky a vykázali znamenité vlastnosti .",O O O O O O O O O O O O O O O O O
+2416,"Jednu z nich , Beatrici , moje žena Pipsi vozila autem k superzpovědi a ta Beatrice byla veselá a uměla žertovat . . . a vodila chodící nešťastné děti lesem .",O O O O B-PER O O O B-PER O O O O O O B-PER O O O O O O O O O O O O O O O
+113,MOSKVA - Ruská generální prokuratura včera rozhodla o zahájení trestního stíhání čečenského prezidenta Džochara Dudajeva a vydala příkaz k jeho zatčení .,B-LOC O O O O O O O O O O O O B-PER I-PER O O O O O O O
+5316,Mezi rozkrokem a horní rámovou trubkou by měla být mezera cca 8 až 10 centimetrů ( u trekového kola 5 až 7 centimetrů ) .,O O O O O O O O O O O O O O O O O O O O O O O O O
+3767,"Prohlásil jsem , že svět je absurdní , a postupoval jsem příliš rychle .",O O O O O O O O O O O O O O
+5616,Pokladník byl zničen .,O O O O
+400,Jeho prosté vytlačení z tuby je však obtížné .,O O O O O O O O O
+228,"A Night With Lou Reed Z nových videokazet Rockový Raymond Chandler Lou Reed , zakladatel legendárních Velvet Underground , jehož písně prochází s nebývalou autenticitou pop music již čtvrt století , se na videoalbu představuje kolekcí třinácti písní .",O O O O O O O O O B-PER I-PER I-PER I-PER O O O B-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O
+8634,"Schwarzenberský archiv , který se úzce váže pouze k bavorskému velkostatku Scheinfeld , nemá pro naši republiku podle archivářů žádnou cenu , proto už dva roky jednají s německou stranou o jeho přestěhování .",B-ORG I-ORG O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O
+4609,"Kdo si troufá , může si mrak nakreslit i sám , bez předlohy .",O O O O O O O O O O O O O O
+5958,"Nebo jak jsem se ve Velké Chuchli vracela ze své zahrádky , nevšimla jsem si na přejezdu řítícího se vlaku a pomalinku v klidu přecházela , uvažujíc o řezu broskvoní .",O O O O O B-LOC I-LOC O O O O O O O O O O O O O O O O O O O O O O O O
+356,"/ 3 / Pokud komisionář navrhne komitentovi uzavření předmětné smlouvy s osobou , o které věděl nebo musel vědět , že je u ní důvodná pochybnost , že splní řádně a včas své závazky , má komitent právo uplatnit vůči komisionáři nárok na náhradu způsobené škody podle ustanovení § 373 a násl . obchodního zákoníku .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+5439,"Manažerské účetnictví v podmínkách tržního hospodářství . Trizona ( 1993 ) , Praha .",O O O O O O O B-ORG O O O O B-LOC O
+80,Tehdy se teprve čtrnáctiletí Mickey Melchiondo a Aaron Freeman prohlásili za bratry a přijali jméno Gene a Dean Weenovi .,O O O O B-PER I-PER O B-PER I-PER O O O O O O B-PER I-PER I-PER I-PER O
+8071,"Jeho manželka neopouštěla hnízdo a podrážděně čiřikala , ale choť odmítal brát život vážně .",O O O O O O O O O O O O O O O
+2905,""" Pokud je v Německu takové množství lidí bez práce , je ohrožena také naše demokracie , "" prohlásil Lafontaine , který Kohlovu koncepci podrobil zdrcující kritice ve Spolkovém sněmu již minulý týden .",O O O O B-LOC O O O O O O O O O O O O O O B-PER O O B-PER O O O O O B-ORG I-ORG O O O O
+8262,"Německo - ruské ekonomické projekty PETROHRAD - V poslední době se velmi dobře rozvíjejí tak důležité německo - ruské projekty , jako jsou společná těžba ropy v Povolží , plánovaná výstavba plynovodu z Jamalského poloostrova do Německa a společná výroba motorů a malých dopravních letadel .",B-LOC O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O O B-LOC I-LOC O B-LOC O O O O O O O O O
+3498,Jako sedmnáctiletý mladíček se 12 . června 1978 upsal profesionálnímu hokeji .,O O O O O O O O O O O O
+2523,Oproti jiným lemčíkům si zástupci rodu Ailuroedus nebudují složitá tokaniště .,O O O O O O B-MISC O O O O
+3715,"Řada koncertů je zdarma , zejména v kostelích , jinak za vstupenku zaplatíte od 50 do 150 DKK .",O O O O O O O O O O O O O O O O O B-MISC O
+7809,""" Z českých reprezentantů budou dále startovat trojskokanka Kašpárková , vícebojař Dvořák a čtvrtkařka Fuchsová , "" doplnil Slanina .",O O O O O O O O B-PER O O B-PER O O B-PER O O O B-PER O
+8513,"Ale nemohli jsme využít 16 korun , ale v podstatě jen 12,40 .",O O O O O O O O O O O O O
+2823,NEW YORK ( ČTK ) - Největší světový výrobce počítačových programů americká firma Microsoft zahájila v pátek výrobu nového operačního systému Windows 95 .,B-LOC I-LOC O B-ORG O O O O O O O O O B-ORG O O O O O O O B-MISC I-MISC O
+6498,Na závěr své zprávy o setkání se Stalinem připojil tento souhrn osobních dojmů : Not once did he repeat himself .,O O O O O O O B-PER O O O O O O O O O O O O O
+3890,"Věří také , že odbory mohou a musí k tomuto procesu svým dílem přispět .",O O O O O O O O O O O O O O O
+8179,"Starosta Emil Růžička ( nezávislý ) Právu potvrdil , že se v letošním roce počítá i s dalšími podobnými investičními akcemi : "" Z rozpočtu jsme na rekonstrukci dolnodvořišťských komunikací vyčlenili 1500000 korun , opravíme je i v osadě Budákov .",O B-PER I-PER O O O B-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O
+4017,"Krásné vlny , krásná barevná kombinace .",O O O O O O O
+4263,Je použitelná pro tepelně izolační výrobky .,O O O O O O O
+5584,Jeho manželství se nejspíš definitivně rozpadlo .,O O O O O O O
+1330,"A naši dnešní zvláštní hosté : Ran Siegel , Marilyn Priceová , skladatel písní Allen Rubin . . . a slečna Annie Havillandová ! """,O O O O O O B-PER I-PER O B-PER I-PER O O O B-PER I-PER O O O O O B-PER I-PER O O
+7312,"Zatímco Deirdre a Seamus jsou otřeseni , Gregor opět zmizí . - Sam se dovtípí , že zaměněný kufřík patřil původně ke krasobruslařské výbavě .",O B-PER O B-PER O O O B-PER O O O O B-PER O O O O O O O O O O O O
+6428,ŘĺJNA 1980 DO 6 .,O O O O O
+4939,"I sebelehčí nemoc vyvolává v organismu změny ; člověk je malátný , bolí ho hlava , nemá o nic zájem , je rozladěný , krátce "" není ve své kůži "" .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+7216,"přijmou NATO jako společenství stejně smýšlejících států , které se spojily ke kolektivní obraně a zachování míru , kde každý přispívá k bezpečnosti a obraně , z nichž mají prospěch všechny členské státy a budou pevně oddány zásadám , cílům a závazkům zahrnutým do Rámcového dokumentu Partnerství pro mír ;",O B-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-ORG I-ORG I-ORG O
+4464,"Připravte si dvě běžná drátěná ramínka a do nich udělejte dva zářezy tak , jak je naznačeno .",O O O O O O O O O O O O O O O O O O
+831,Typy kompresorů vyráběných ve firmách KKK a Schiele PGW se vzájemně doplňují .,O O O O O B-ORG O B-ORG I-ORG O O O O
+1298,Děvče hodilo hlavou ke stropu .,O O O O O O
+7816,U MALÉHO GLENA : Brad Stratton + The Snake Eaters ( 21.00 ) - Koncert jazzrockové formace .,B-ORG I-ORG I-ORG O B-PER I-PER O B-ORG I-ORG I-ORG O O O O O O O O
+7741,"Jiří Kotalík byl také autorem výběrové expozice Jiránkova malířského díla , která byla v Litoměřicích zpřístupněna v prosinci 1995 - tedy měsíc před smrtí našeho nejznámějšího poválečného historika umění .",B-PER I-PER O O O O O B-PER O O O O O O B-LOC O O O O O O O O O O O O O O O
+4538,Podle policie se nehoda stala na silnici č . I / 57 .,O O O O O O O O O O O O O
+2009,Vidím mamku scházet ze schodů jejího malířského ateliéru .,O O O O O O O O O
+4792,Náročné amatérské kamery s asi 3 miliony obrazových plošek poskytují pro záznam nekomprimovaných obrazových dat objem nejméně 9 MB .,O O O O O O O O O O O O O O O O O O B-MISC O
+1598,"Bratislava - "" Cítím se natolik jistý , abych mohl takovouto nabídku odmítnout , a KDH ji nepřijímá zejména proto , že ji nepovažuje za vážnou , "" prohlásil v pravidelném rozhovoru pro Slovenský rozhlas Jan Čarnogurský o nabídce vedoucích představitelů HZDS vytvořit tzv . velkou koalici .",B-LOC O O O O O O O O O O O O O O B-ORG O O O O O O O O O O O O O O O O O B-ORG I-ORG B-PER I-PER O O O O B-ORG O O O O O O
+4388,"Z tohoto pohledu se zdá být vysvětlitelné , že za "" odstranění "" jednoho čelného domácího politika navrhoval jistý vydavatel nadprůměrnou cenu 5 milionů Kč , zatímco běžného občana si nájemní vrazi cení méně : podle policejních zpráv si účtují kolem 50 tisíc korun .",O O O O O O O O O O O O O O O O O O O O O O O O B-MISC O O O O O O O O O O O O O O O O O O O O
+4423,"Vědomí nezbytnosti zásadních - i když nepochybně velmi diferencovaných - změn se postupně prosazuje ve všech částech světa , přestože bezprostřední motivy jsou značně rozmanité .",O O O O O O O O O O O O O O O O O O O O O O O O O O
+8894,"Jsou však nepopiratelné , vystupují na dobře čitelném pozadí i toho nejvýstřednějšího a nejpitvornějšího dění .",O O O O O O O O O O O O O O O O
+7471,"Pamatuji si tehdejší sortiment a vidím , že se znatelně změnil .",O O O O O O O O O O O O
+4389,Hnojíme pouze v období intenzivního růstu slabým roztokem vícesložkových hnojiv jednou za 3 - 4 týdny i déle .,O O O O O O O O O O O O O O O O O O O
+2828,Vydržel jsem to devět dní .,O O O O O O
+7052,V rozhovoru pro HN to včera uvedl předseda telekomunikační komise Parlamentu Anton Zima .,O O O B-ORG O O O O O O O B-PER I-PER O
+8696,Germain 13 5 17 Michael Madar 27 AS Monako 2 0 18 Reynalds Pédros 24 FC Nantes 19 2,O O O O B-PER I-PER O B-ORG I-ORG O O O B-PER I-PER O B-ORG I-ORG O O
+398,"to asi náhoda , že dva z nich , Mystické zasnoubení sv . Kateřiny , dílo německého monogramisty I . M . z roku 1514 , a zátiší holandské malířky Rachel Ruysch z doby kolem roku 1718 se prodaly za 3,4 miliónu a 3,1 miliónu při vyvolávacích cenách 2,9 a 1,6 miliónu korun .",O O O O O O O O O B-MISC I-MISC I-MISC I-MISC I-MISC O O O O B-PER I-PER I-PER I-PER O O O O O O O O B-PER I-PER O O O O O O O O O O O O O O O O O O O O O O
+6076,"Ukazuje se , že také Němci , Francouzi či Italové se na Evropu stále často dívají národníma očima a uvažují hlavně , jak v EU uplatnit své zájmy .",O O O O O B-PER O B-PER O B-PER O O B-LOC O O O O O O O O O O O B-ORG O O O O
+4917,"Japonci se roku 1639 tak úspěšně uzavřeli vnějšímu světu , že dočasně vypadli z povědomí Evropanů .",O O O O O O O O O O O O O O O B-PER O
+5226,"Já nad tím nepláču - nežijeme v 19 . století , kdy to byl hlavní projev života národa .",O O O O O O O O O O O O O O O O O O O
+6977,"Účinkují Jaroslav Kos , Tutu , Vlasta Průchová a Zdeněk Zdeněk Trio a další . ( 19.00 ) MUZEUM : Eva Hnyková - Obrazy ( končí dnes ) .",O B-PER I-PER O B-ORG O B-PER I-PER O B-ORG I-ORG I-ORG O O O O O O O O B-PER I-PER O O O O O O O
+1013,"situaci před jarní sezónou řekl : "" Cílem Baníku je vybojovat v silné konkurenci pražských týmů Sparty a Slavie účast v pohárové soutěži . "" Mluvčí hráčů Petr Škarabela k ambicím ostravského celku poznamenal : "" Je snahou všech hráčů prosadit se v ligové soutěži a získat si tak jméno v Evropě .",O O O O O O O O B-ORG O O O O O O O B-ORG O B-ORG O O O O O O O O B-PER I-PER O O O O O O O O O O O O O O O O O O O O O O B-LOC O
+7582,Od soboty do pondělí pak přeruší práci strojvedoucí na železnici .,O O O O O O O O O O O
+6589,"Slavia zvítězila přesvědčivě a dokázala , že prohra v Prešově byla mimořádným výpadkem v oslnivé jarní formě .",B-ORG O O O O O O O O B-LOC O O O O O O O O
+5306,"Plzeň - Plzeňský krajský soud ve středu vyměřil podmíněný trest zemědělci Marku Valešovi z Karlovarska za to , že připravil Podpůrný a garanční rolnický a lesnický fond bezmála o 10 milionů korun .",B-LOC O O O O O O O O O O B-PER I-PER O B-LOC O O O O O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG O O O O O O
+3749,"Matrix Revolutions , americký film ( 17.30 a 20.00 )",B-MISC I-MISC O O O O O O O O
+7264,"PRAHA ( ČTA ) - Nepovinné členství v lékařských komorách , jak ho navrhuje poslanec Parlamentu Petr Čermák ( ODS ) , podporuje Křesťanskodemokratická strana ( KDS ) .",O O O O O O O O O O O O O O O B-ORG B-PER I-PER O B-ORG O O O B-ORG I-ORG O B-ORG O O
+5839,Taťka tak odvezl jedno své dvojče do nemocnice a druhé si teď odvážel .,O O O O O O O O O O O O O O
+3274,Brala to Lucka .,O O B-PER O
+4949,"Adresa: Divadlo Na Fidlovačce, s.r.o. Křesomyslova 625 140 00 Praha 4",O B-ORG I-ORG I-ORG I-ORG B-LOC O O O B-LOC O
+6142,"Možná , že v něm už bylo všechno , ale možná ještě nic jistého .",O O O O O O O O O O O O O O O
+6339,"Pouze prvotřídní ořech , povrch olej .",O O O O O O O
+6110,"Mezi tyto státy se mj . řadí i Rusko , o kterém Jonathan Spalter píše : "" Většina velkých ruských korporací o Problému roku 2000 již někdy slyšela . . . "" O rozměrech chapadel tohoto fenoménu svědčí mj . prostředky , které státy vynakládají na jeho řešení .",O O O O O O O O B-LOC O O O B-PER I-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+103,"Přitáhnu si ho , celá se k němu vzepnu - a v sametovém temném tunýlku vychutnávám jeho blaženost svou blažeností .",O O O O O O O O O O O O O O O O O O O O O
+5429,Ale s odstupem času si přece jen vynutili respekt vzdělaného lidstva .,O O O O O O O O O O O O
+8313,"O pečlivosti práce svědčí , že jen čtyři bloky byly poškozeny v průběhu demontáže .",O O O O O O O O O O O O O O O
+281,Sledovala kazetu s ústy dokořán a oči jí zářily .,O O O O O O O O O O
+2081,"Na stole stály dvojité stříbrné svícny se svícemi z nejčistšího vosku a příbory byly kompletní , i s noži a vidličkami s kostěnými střenkami , ne jen pouhé lžíce , jak tehdy bývalo ještě zvykem .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+4072,Navíc vodácké bratrstvo jsou veselí kumpáni .,O O O O O O O
+8910,O to by se měla zajímat každá žena .,O O O O O O O O O
+3218,"A tak na letošním ročníku Wolkrova Prostějova budeme mít možnost zhlédnout celkem 13 představení divadel poezie , z toho tři vystoupí na festivalu jako hosté - Divadlo Vizita Praha , Komorní scéna ARÉNA Ostrava a TY - JÁ - TR Nedospáno Praha .",O O O O O B-ORG I-ORG O O O O O O O O O O O O O O O O O O O B-ORG I-ORG B-LOC O B-ORG I-ORG I-ORG B-LOC O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG B-LOC O
+239,"Celkové výdaje vyčerpaly 75.3 miliardy Sk , což je o tři miliardy méně než ve srovnatelném loňském období .",O O O O O B-MISC O O O O O O O O O O O O O
+7659,"Požaduje vypracování dlouhodobého komplexního programu bytové výstavby , zvětšení státního podílu na investicích a daňové úlevy pro všechny investory do výstavby .",O O O O O O O O O O O O O O O O O O O O O O
+7515,"Pan Pavel Dostál : Domnívám se ale , že by bylo nutné říci v té souvislosti , že už je zcela jedno , kdo na tom ministerstvu bude , ale že filmařská obec by se měla domluvit na jednom , že ten zákon by měl být jeden .",O B-PER I-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+4073,"Dodává se obvykle v rolích ( až do šíře 210 cm ) nebo v rozmanitých formátech a s různým typem vlny ( např . B , C ) - a je zvláště vhodná jako ochrana při transportu a manipulaci různých průmyslových výrobků , např . nábytku , topných těles , sanitárních produktů , porcelánu a hrnčířského zboží aj . ,",O O O O O O O O O O B-MISC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+6766,"Ruský mistr světa v šachu Garry Kasparov se chce opět střetnout se superpočítečem Deep Blue americké firmy IBM , s nímž v neděli prohrál poslední šestou partii , a tím i celou sérii 2.5 : 3.5 .",O O O O O B-PER I-PER O O O O O O B-MISC I-MISC O O B-ORG O O O O O O O O O O O O O O O O O O O
+5041,"Problém byl v tom , že skutečný rok nemá 365 , ale 365 a čtvrt dne .",O O O O O O O O O O O O O O O O O
+2162,Nemělo smysl koledovat si o trable .,O O O O O O O
+3176,"Nebudu je samozřejmě už lovit harpunami , tak jak je lovívali velrybáři kdysi .",O O O O O O O O O O O O O O
+7559,"se orientuje na vlastní tvorbu , se nezpronevěřuje svému poslání , nebude špatným učitelem , ale spíše právě naopak , znamená příslib tvořivosti . . . "" - Těmito slovy uvedl doc . dr . J . Brožek , CSc . únorovou výstavu prací studentů katedry výtvarné výchovy pedagogické fakulty Univerzity J . E . Purkyně v síni Emila Filly v Ústí nad Labem .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PER I-PER I-PER I-PER I-PER I-PER I-PER I-PER I-PER I-PER O O O O O O O O O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG O O B-PER I-PER O B-LOC I-LOC I-LOC O
+6733,"Pět exponátů bylo vyhodnoceno a oceněno v soutěži o ZLATÝ IDET 97 : samohybná houfnice ZUZANA , modernizace tanku T - 72 M4 CZ , komplexní integrovaný systém zabezpečení a řízení letového provozu AČR , stanice monitorování radioelektronických signálů SDD a Spectrum For Open Systems , v . 4.0",O O O O O O O O O B-MISC I-MISC I-MISC O O O B-MISC O O O B-MISC I-MISC I-MISC I-MISC I-MISC O O O O O O O O O B-MISC O O O O O B-MISC O B-MISC I-MISC I-MISC I-MISC O O O O
+2630,V New Yorku bylo ten den dusno a horko a já byl nevyspalý stejně jako tehdy v Indii .,O B-LOC I-LOC O O O O O O O O O O O O O O B-LOC O
+8204,"Jaroslav Alexa , jenž v minulém ročníku skončil čtvrtý , hned po startu naznačil , že má nejvyšší ambice .",B-PER I-PER O O O O O O O O O O O O O O O O O O
+1395,A tak jsem se do toho vložil a odprásknul jsem ho na místě .,O O O O O O O O O O O O O O
+1675,"Mise OSN prakticky skončila již v pátek , kdy byla podepsána nová ústava , nastolen staronový král Norodom Sihanuk a vytvořena nová vláda v čele s prvním a druhým premiérem princem Ranariddhem a Hun Senem .",O B-ORG O O O O O O O O O O O O O O O B-PER I-PER O O O O O O O O O O O O B-PER O B-PER I-PER O
+7424,Někde na ministerstvech jsou pravděpodobně schováni staří a kovaní plánovači .,O O O O O O O O O O O
+7075,Loni Brusel po několika letech šetření uvalil rekordní pokuty na 33 výrobců cementu za držení uměle vysokých cen a usvědčil z nekalé dohody také dvacet producentů kartónu .,O B-ORG O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O
+7420,"Například poslankyně Jana Petrová a Hana Marvanová jsou přesvědčeny , že rychlá deregulace je nezbytná .",O O B-PER I-PER O B-PER I-PER O O O O O O O O O
+37,Tohle nemá cenu tajit .,O O O O O
+1477,"Už je to tady , pomyslil si , a skoro se mu , absurdně , ulevilo .",O O O O O O O O O O O O O O O O O
+8574,"Druhý doběhl s odstupem jedné a tři čtvrtě délky What's Up Boys , třetí místo v cíli dostihu na 7200 metrů s třiceti překážkami obsadil už s velkou ztrátou favorizovaný Blowing Wind .",O O O O O O O O O B-PER I-PER I-PER O O O O O O O O O O O O O O O O O O B-PER I-PER O
+6078,"Podle agentury Reuter vykazuje letos rozpočet přebytek ve výši 1.5 % hrubého domácího produktu ( HDP ) , zatímco v loňském roce na něm byl zaznamenán schodek odpovídající 0.2 % HDP .",O O B-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+5207,00.30 Mladí v partě - groteskní příhody,O B-MISC I-MISC I-MISC O O O
+6858,Zlato patří Sadykovovi ze SSSR .,O O B-PER O B-LOC O
+8669,"Do bytu , ve kterém bydlí , musíš po dřevěných schodech , které hlídá ve výklenku sádrový trpaslík .",O O O O O O O O O O O O O O O O O O O
+146,"Už viděl před sebou světla hostince , kde měli přenocovat .",O O O O O O O O O O O
+4761,"Přednášet zde mají specialisté z oblasti izolací proti úniku tepla , vlhkosti , hluku , požární ochrany , oken , střešních plášťů , stěn , okapů , štítů .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+101,"12.50 Na pozvání Svobodné Evropy , Cesta do Evropy",O B-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC
+4623,Mnozí z nich sehráli neobyčejně významnou roli v neúspěšném pokusu o spojení socialismu s demokracií v roce 1968 .,O O O O O O O O O O O O O O O O O O O
+2212,"Plzeň - Dvoudenní mezinárodní letecký den , v jehož průběhu se divákům představí mimo jiné špičková letadla armád zemí NATO , se uskuteční od 29 . do 30 . května v Líních u Plzně .",B-LOC O O O O O O O O O O O O O O O O O O B-ORG O O O O O O O O O O O B-LOC I-LOC I-LOC O
+2478,Patřím k Northmourovým nejstarším přátelům .,O O B-PER O O O
+3397,"Z jeho knih : básnická sbírka Miluju tě k zbláznění ( 1988 ) , román Sestra , Výlet k nádražní hale ( 1994 ) a Anděl ( 1995 ) , indiánské legendy Trnová dívka ( 1997 ) , novela Noční práce ( 2001 ) .",O O O O O O B-MISC I-MISC I-MISC I-MISC O O O O O B-MISC O B-MISC I-MISC I-MISC I-MISC O O O O B-MISC O O O O O O B-MISC I-MISC O O O O O B-MISC I-MISC O O O O
+3306,"Zas ti v ústech slzy sládnou , oči města blikají , bílí koně běží , slábnou , do propasti padají .",O O O O O O O O O O O O O O O O O O O O O
+2344,"Vrásky mnohým dělá i Svobodův přístup ke spravování stranické pokladny , v níž byly podle informací LN nalezeny nesrovnalosti z dob Ivana Havlíčka .",O O O O B-PER O O O O O O O O O O O B-ORG O O O O B-PER I-PER O
+1892,Příště se téma ve variacích opakovalo .,O O O O O O O
+7880,"Představitelé této strany vystupují ve sdělovacích prostředcích , vydávají periodikum .",O O O O O O O O O O O
+7411,""" Několik věcí v mém soukromém životě mě dovedlo k poznání , že tenis není nejdůležitější na světě , "" začala Novotná říkat loni .",O O O O O O O O O O O O O O O O O O O O O B-PER O O O
+4986,"Na dluhopisy , které Trump nabízí zájemcům tentokrát , je vypsána roční úroková míra těsně nad hranicí 10 procent , ovšem ani taková pobídka zájemce netáhne .",O O O O B-PER O O O O O O O O O O O O O O O O O O O O O O
+6590,"Poslanci Jan Vidím ( ODS ) , Michal Lobkowicz ( US ) a Josef Houzák ( KSČM ) se shodli , že bez stanoviska vedení ÚDV nelze diskutovat .",O B-PER I-PER O B-ORG O O B-PER I-PER O B-ORG O O B-PER I-PER O B-ORG O O O O O O O O B-ORG O O O
+8530,2 cibule,O O
+8299,"Jaroslav Kozák , náčelník Horské služby Beskydy :",B-PER I-PER O O B-ORG I-ORG I-ORG O
+6755,"Vypružení lokomotivy je dvoustupňové , a to primární i sekundární listovými pružnicemi .",O O O O O O O O O O O O O
+3365,BOHUŇOVICE - Tělo muže středního věku ve značném stupni rozkladu našel v pondělí odpoledne strážník na místní skládce v Bohuňovicích .,B-LOC O O O O O O O O O O O O O O O O O O B-LOC O
+2997,"Minulý týden vláda zakázala prominentní listy Naša Borba , Danas a Dnevni Telegraf , rádio Zenta a nechala soudně vystěhovat další populární rádio , Index .",O O O O O O B-ORG I-ORG O B-ORG O B-ORG I-ORG O O B-ORG O O O O O O O O B-ORG O
+4081,Nabídka je velmi bohatá a stojí za to ji využít .,O O O O O O O O O O O
+443,"Rakousko - ČR ? 2:1 , Bělorusko - Řecko 2:1 , o 3 . místo :",B-ORG O B-ORG O O O B-ORG O B-ORG O O O O O O O
+4749,"Zákonné opatření předsednictva Federálního shromáždění č . 15 / 1970 Sb . ze dne 4 . března 1970 , o zániku práva osobního užívání bytu a vyklizení bytu občanů , kteří se protiprávně zdržují mimo území Československé socialistické republiky",O O O B-ORG I-ORG O O O O O B-MISC I-MISC O O O O O O O O O O O O O O O O O O O O O O O O B-LOC I-LOC I-LOC
+3519,"Čistý zisk belgické bankovní a pojišťovací skupiny KBC , která je vlastníkem přední české banky ČSOB , vzrostl ve druhém čtvrtletí meziročně o 59 procent na 476,3 miliónu eur .",O O O O O O O B-ORG O O O O O O O B-ORG O O O O O O O O O O O O O O
+4790,"Potřebujeme - li pouze záporné hodnoty výstupních napětí , zaměníme ana - logicky T1 odporem 10 kW , uzemníme emitor tranzistoru T2 a na emitor T4 přivedeme napětí - 100 V .",O O O O O O O O O O O O O B-MISC O O B-MISC O O O O O O O O O O O O O B-MISC O
+2888,Kladno - Epidemii žloutenky v Kladně se pracovníkům okresní hygienické stanice stále nedaří zastavit .,B-LOC O O O O B-LOC O O O O O O O O O
+1570,"Jeden z představitelů japonského ministerstva financí řekl , že G7 považuje nynější kurs jenu za příliš slabý a komuniké nevylučuje možnost společné akce na devizovém trhu .",O O O O O O O O O B-ORG O O O O O O O O O O O O O O O O O
+8413,Tento postup předvedl na čtvrteční tiskové konferenci i v diskusním pořadu Bez imunity ( 18 . 10 . na ČT 1 ) .,O O O O O O O O O O O B-MISC I-MISC O O O O O O B-ORG I-ORG O O
+8839,Útočníci 11 Pablo Alfonso 23 Betis Sevilla 10 2 7 José Amavisca 25 Real Madrid 10 1 14 Francisco Kiko 24 Atlético Madrid 8 2 17 Javier Manjarin 25 La Coruňa 6 1 9 Juan Antonio Pizzi 28 CD Tenerife 11 4 19 Julio Salinas 33 Sporting Gijón 54 22,O O B-PER I-PER O B-PER I-PER O O O B-PER I-PER O B-ORG I-ORG O O O B-PER I-PER O B-ORG I-ORG O O O B-PER I-PER O B-ORG I-ORG B-PER I-PER I-PER I-PER I-PER I-PER O B-ORG I-ORG O O O B-PER I-PER O B-ORG I-ORG O O
+7218,Za plachtou vozu Matěje Kopeckého,O O O B-PER I-PER
+8041,Původní zpravodajství z Chorvatska najdete na poslední straně .,O O O B-LOC O O O O O
+1063,Vklínila se mezi ně pouze Vondrová ze SKI klubu Preciosa Jablonec .,O O O O O B-PER O B-ORG I-ORG I-ORG I-ORG O
+6250,""" Naprosto chápu , do jaké situace jste se dostal , Monsieur Jordache , "" řekl , "" ale jistě si umíte představit , že takovou věc nelze zařídit přes noc , pokud vůbec . . . "" "" Jsem ochoten jít až do výše dvaceti tisíc dolarů , "" prohlásil Rudolf s naprostým klidem .",O O O O O O O O O O O B-PER I-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PER O O O O
+6738,""" Je třeba spěchat pomalu . . . a prezident Clinton tak také postupuje , "" uvedl Cohen .",O O O O O O O O O O B-PER O O O O O O B-PER O
+8793,"Nebo dokonce že hnutí nemá jasnou politickou koncepci a pragmaticky převádí odpovědnost za politické a mocenské poměry v zemi buď na výkonné vládní a hospodářské struktury , nebo na své lokální organizace , které znají místní podmínky a "" nejlépe vědí , co mají dělat "" .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2807,"Bojím se chodit do biografu , nebo něco číst .",O O O O O O O O O O
+5953,Slavnostní koncerty k výročí narození Antonína Dvořáka proběhnou v Nelahozevsi už po třinácté .,O O O O O B-PER I-PER O O B-LOC O O O O
+6312,"Vyšetřující soudcové věděli , že přiznání byla vymyšlena , nemohli věřit doznáním , o nichž předstírali , že je berou vážně .",O O O O O O O O O O O O O O O O O O O O O O
+2999,Hlavními manažery emise jsou makléřská firma CIBC Wood Gundy Oppenheimer a Deutsche Bank .,O O O O O O B-ORG I-ORG I-ORG I-ORG O B-ORG I-ORG O
+1240,Ombudsmanovi lidé na západ od našich hranic ( zejména ve Skandinávii ) pracují až pohádkově jednoduše a efektivně .,O O O O O O O O O O B-LOC O O O O O O O O
+3780,"Vaše objednávky s Vámi vyřídí příjemný a vstřícný personál rezervačních oddělení jednotlivých lázeňských domů. Lázeňský hotel Radium Palace T. G. Masaryka 413 , 362 51 Jáchymov Recepce tel.: +420 353 835 111 Recepce fax: +420 353 831 743 Rezervace tel.: +420 353 835 555 Rezervace fax: +420 353 835 777 E-mail: radiumpalace@laznejachymov.cz wellness recepce: Tel.: + 420 353 835 600 E-mail: wellnessrad@laznejachymov.cz",O O O O O O O O O O O O O O B-ORG I-ORG I-ORG I-ORG B-LOC I-LOC I-LOC O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O B-ORG O O O O O O O O O B-ORG
+5898,Jeho vysoká postava vzhledem k nevysokém stropu příliš velká .,O O O O O O O O O O
+7782,"Pod vedením někdy až despotického barona Henriho de Baillet - Latoura , pozdějšího prezidenta MOV , však největší část obtíží překonali , a tak 20 . dubna zahájili hry na olympijském ledě v Palais de Glace hokejisté a krasobruslaři .",O O O O O O B-PER I-PER I-PER I-PER I-PER O O O B-ORG O O O O O O O O O O O O O O O O O O B-ORG I-ORG I-ORG O O O O
+6152,"Pomohlo vám , že Drnovicím chyběli Tuma v útoku a Kadlec v obraně ?",O O O O B-ORG O B-PER O O O B-PER O O O
+1022,Jejím hlavním tématem je reforma OSN v podmínkách rychle se měnícího světa .,O O O O O B-ORG O O O O O O O
+4786,"Vzácně se objevují i souvislosti , rovněž s Dalím ( Vajíčko ) , Magrittem ( V Nekoři ) , přátelství s L . Fárou , jejž fotografovala , se dost možná odráží ve Fotokoláži z roku 1949 ;",O O O O O O O O B-PER O B-MISC O O B-PER O B-MISC I-MISC O O O O B-PER I-PER I-PER O O O O O O O O O B-MISC O O O O
+3305,"Hrála na venkově , v Yorku s Tate Wilkinsonem , v Bathu s Johnem Palmerem .",O O O O O B-LOC O B-PER I-PER O O B-LOC O B-PER I-PER O
+3577,"Třebaže lze textové editory vybavit automatickou kontrolou dělení slov , mnoho z jejich uživatelů se spokojí s dělením připraveným pro angličtinu a výsledek již nepřečtou , ani neopraví ani korektoři .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+7354,Snad třetina obyvatel by své domy prodala a táhla o kus dál .,O O O O O O O O O O O O O
+6227,"V rozdílných množárenských podmínkách - mlžení , mléčná fólie , byly opakovaně testovány ochranné přípravky .",O O O O O O O O O O O O O O O O
+5154,"Jako takový byl Antonínem Švehlou a jeho bratry založen až roku 1906 "" Venkov "" .",O O O B-PER I-PER O O O O O O O O B-ORG O O
+5213,Ve vlaku platí zvláštní tarif .,O O O O O O
+6680,Přebor HFŽ : od 10.00 Sokol II Prostějov - Ruda na Moravě .,O B-ORG O O O B-ORG I-ORG I-ORG O B-ORG I-ORG I-ORG O
+7572,"Jde o akciovou společnost , jejímiž akcionáři jsou jednotlivé banky a která zajišťuje , jak je patrné už z jejího názvu , mezibankovní elektronickou výměnu dat v mezinárodním měřítku .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+593,"Je tedy pochopitelné , že se francouzská vláda dostává při agrárních reformách plánovaných v rámci ES do potíží , a že neopomíná zdůrazňovat , že základní zájmy francouzského zemědělství hodlá bránit jak vůči Bruselu tak v rámci Uruguayského kola GATTu .",O O O O O O O O O O O O O O O B-ORG O O O O O O O O O O O O O O O O O B-LOC O O O B-ORG I-ORG I-ORG O
+1012,Škroupův Columbus,B-PER B-MISC
+4936,"Systém byl vytvořen clusterovým propojením 64 výkonných počítačů s 96 procesory Intel Dual Xeon 2,4 GHz a 1 GB RAM , a bude sloužit Ústavu fyziky atmosféry Akademie věd ČR ( ÚFA ) pro náročné výpočty a numerické experimenty v rámci kosmického programu realizovaného v České republice .",O O O O O O O O O O O B-MISC I-MISC I-MISC O B-MISC O O B-MISC O O O O O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG O B-ORG O O O O O O O O O O O O O B-LOC I-LOC O
+7038,Jak se s bývalými vězni kontaktujete ?,O O O O O O O
+1350,"šéfová mi řekla , vojáčku vy jste nějak temperamentní , tak jsem jí vypravoval , že kdyby se jí zdálo že chytala ve snách bažanta , že brzy se do jejího srdéčka láska vloudí , a šéfová hned mi dala do kapsy stovku egyptek a prosila , abych pokračoval , a Cílka v kuchyni ukazovala nožem , kterej čistila , jak by podřízla svou představenou , který jsem řekl , nejhezčí ale sen je viděti dobře vytopenou světnici , to znamená milování dvou osob , a šéfová se vrtěla na židli a tak jsem jí pošeptal , ale nejmilejší je sen ,",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+6272,"Podle průzkumu veřejného mínění provedeného pro nedělník "" The Sunday Times "" se 43 % dotázaných domnívá , že parlamenty ve Skotsku a Walesu povedou k postupnému rozpadu Spojeného království .",O O O O O O O B-ORG I-ORG I-ORG I-ORG I-ORG O O O O O O O O O B-LOC O B-LOC O O O O B-LOC I-LOC O
+5128,"Výstražný signál je u tohoto přístroje řízen vysokým tlakem , ale dávkován tlakem středním .",O O O O O O O O O O O O O O O
+8340,"Menší exportní firma často nemá vlastní zdroje , aby samostatně uskutečnila exportní marketing .",O O O O O O O O O O O O O O
+4297,"V pondělí za svítání se čtyři křižníky směřující ke Kaviengu , doprovázeny teď letounem protiponorkové hlídky , otočily o 90 stupňů doleva a mířily k přístavu vzdálenému necelých 70 mil , kde je čekalo zasloužené uvítání .",O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O
+3289,"Co se týče hmotně právních pravidel hospodářské soutěže platných v rámci Společenství , ESD již roku 1964 rozhodl , že ustanovení článku 85 se vztahuje jak na horizontální , tak i na vertikální kartelové dohody ( rozhodnutí ESD 58 / 64 ve věci Consten a Grundig , SbSD 1966 , 322 ) .",O O O O O O O O O O O B-ORG O B-ORG O O O O O O O O O O O O O O O O O O O O O O B-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC O B-MISC O O O O O
+1225,"Právě tyto aktivity chce Svit rozšiřovat , protože z větší části již nyní tvoří současné hospodářské výsledky , "" řekl Valenta .",O O O O B-ORG O O O O O O O O O O O O O O O B-PER O
+7071,"Městský úřad je letos ještě získal "" nahoře "" , na další roky slibuje , že je prostě někde musí najít .",O O O O O O O O O O O O O O O O O O O O O O
+6294,Riziko gangrény žilního původu po podvazech není zanedbatelné .,O O O O O O O O O
+669,"S ohledem na použití slova "" jiné "" u osob ovládaných přímo či zprostředkovaně ovládající osobou , však lze dojít k závěru , že "" ovládanou osobou "" je subjekt , o podíly v němž se jedná , "" ovládající osobou "" je osoba , jejíž podíl na hlasovacích právech se zjišťuje , a "" jinou ovládanou osobou "" je osoba , jejíž podíl na hlasovacích právech se připočítává k podílu "" ovládající osoby "" na "" osobě ovládané "" .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+7633,Akcie ČEZ způsobují pád indexů na burze Praha ( nov ) - Na snižování oficiálního burzovního indexu PX 50 i Indexu Dnes mají největší vliv akcie energetické společnosti ČEZ .,O B-ORG O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O B-ORG O
+694,"Týmy přitom do Portugalska odletěly i s delegátem Konicarem a s rozhodčími Poláčkem a Peškem , kteří měli původně zápas řídit v Ostravě .",O O O B-LOC O O O O B-PER O O O B-PER O B-PER O O O O O O O B-LOC O
+1340,"Člověk musí něco dělat , když chce být poctivě živ , a pan František Hejlek , třiatřicetiletý , se živí sběrem a prodejem starého papíru .",O O O O O O O O O O O O O B-PER I-PER O O O O O O O O O O O
+7974,"Ne automaticky , ale že to vyplývá z celkové logiky .",O O O O O O O O O O O
+5090,"Podle biblického pojetí smrt jako "" poslední nepřítel "" a "" mzda hříchu "" nepostihuje pouze vnější stránku člověka , ale zasahuje ho až do středu jeho bytosti .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+4142,Historické interiéry na zámcích se proto často doplňují květinami v nejrůznějších starožitných nádobách .,O O O O O O O O O O O O O O
+181,"Loňský trenér Ivo Horák byl povolán k mužstvu , takže dorostenecký celek povede letos Jan Směták společně s vedoucím družstva Josefem Kutmonem .",O O B-PER I-PER O O O O O O O O O O B-PER I-PER O O O O B-PER I-PER O
+935,Zadívala se na policisty .,O O O O O
+7704,18 Architekt Bořek Šípek - podle Playboye nejvýznamnější současný návrhář - by rád projektoval bordel .,O O B-PER I-PER O O B-ORG O O O O O O O O O
+119,Na včerejší tiskové konferenci u příležitosti světové premiéry promítání tzv . sférického kaleidoskopu Pilsner Urquell Story to pro HN uvedl mluvčí PP Jaroslav Pomp .,O O O O O O O O O O O O O B-MISC I-MISC I-MISC O O B-ORG O O B-ORG B-PER I-PER O
+1259,Blok receptů zakrátko spotřebován a jeho zadní kartonek jsem dala drobounké holčičce na hraní .,O O O O O O O O O O O O O O O
+8546,"Není třeba dodávat , že bychom chtěli , aby to taky platilo v novopečeném českém senátě ) .",O O O O O O O O O O O O O O O O O O
+7721,"Koukal ve zprávě prakticky jen shrnul , kolik vyjelo na Moravu pražských hasičů a množství techniky od podniků sídlících v hlavním městě , a připomenul humanitární sbírku , kterou magistrát zorganizoval .",B-PER O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O
+779,""" Smluvní vztah se soukromou bezpečnostní agenturou Augusta skončí 30 . září , a to po vzájemné dohodě , tedy bez jakéhokoli penále , "" řekl včera vedoucí Kanceláře sněmovny Petr Kynštetr .",O O O O O O O B-ORG O O O O O O O O O O O O O O O O O O O O B-ORG I-ORG B-PER I-PER O
+3849,Yahoo ! str . 1,B-ORG O O O O
+8745,Uchovává nebo ztrácí přitom svoji identitu ?,O O O O O O O
+1815,Vzhledem k solidní úrovni makroekonomické a politické stability má ČR reálné možnosti k udržení relativně vysokých temp růstu HDP po roce 1996 na úrovni kolem pěti procent ročně .,O O O O O O O O O B-LOC O O O O O O O O B-MISC O O O O O O O O O O
+1907,"Přijel jsem tě teď celého koupit , nehleď na to , že mám na sobě takové boty , peněz mám , brachu , habaděj , koupím tě celého , se vším tvým živobytím , všechny vás koupím , budu - li chtít !",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+3922,"Náměstí 8 . května , 67555 Hrotovice tel . : 568860013 - 4 , fax .",O B-LOC I-LOC I-LOC O O B-LOC O O O O O O O O O
+7593,"Vzhledem k tomu , že jsou rozpory stále hluboké a antialbrechtovské frakce stále vynalézavější při osnování intrik , sotva se na tom v dohledné době něco změní .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+796,"Milan žije nadále v Chomutově , já jsem se před lety odstěhoval do Černošic u Prahy .",B-PER O O O B-LOC O O O O O O O O B-LOC O B-LOC O
+4725,"Jejich spor začal tím , že Rys zajistil svému společníkovi půjčku ve výši 1500 korun od svého známého , za jejíž vrácení ručil .",O O O O O O B-PER O O O O O O O O O O O O O O O O O
+3535,"Chtěl bych tento symfonický soubor čtyř až pěti , možná i šesti CD natočit do konce roku 2002 , a to s Českou filharmonií .",O O O O O O O O O O O O B-MISC O O O O O O O O O B-ORG I-ORG O
+7293,Tolerance a přirozená úcta k bližnímu .,O O O O O O O
+6675,"Podle něj jsou obchody , které firma FEL provedla , zcela legální .",O O O O O O O B-ORG O O O O O
+810,"( Dramatik , který se stal hrdinou - Edmund Campion )",O O O O O O O O B-PER I-PER O
+7492,"To , co se v Británii nazývá morálním úpadkem , nazývají Češi rodinnými hodnotami , pokračuje autor článku a cituje české přísloví : Kdo nekrade , okrádá rodinu .",O O O O O B-LOC O O O O O B-PER O O O O O O O O O O O O O O O O O
+5718,Rybena Bohumín 1210 0.0 4.8 3,O B-LOC O O O O
+6817,"původně určených do fondu dárcovských zemí bude rovněž využito ke krytí dodávek českého zboží . Pro přijetí nabídek bylo rozhodující nejen zajištění financování , ale i kladné stanovisko bosenské vlády . Přednost měli dostat zájemci s vlastními finančními prostředky a historickou spojitostí s teritoriem , kteří nabídnou dlouhodobou spolupráci . čtk Mezi ženami se zvyšuje výskyt HIV",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-MISC
+5658,Kf1 Se3 a bílý se vzdal .,O O O O O O O
+8145,Vybavoval si v duchu svou dosavadní cestu .,O O O O O O O O
+5881,"V zájmu hostů , kteří sem jezdí .",O O O O O O O O
+965,Nedaleko Prijedoru jsem se na stavbě budovy pro uprchlíky setkal se stavbyvedoucím Milo R . Psal se již rok 1997 a v Bosně už byl relativní klid .,O B-LOC O O O O O O O O O O B-PER I-PER I-PER O O O O O O O B-LOC O O O O O
+7948,"Cílem tohoto ustanovení je zabránit tomu , aby se objevená vada , která z počátku může být snadno opravitelná , dále nezhoršovala až do té míry , kdy se stane neopravitelnou .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+227,""" Těšil jsem se , jak se v Terrexu pustím s vervou do práce .",O O O O O O O O B-ORG O O O O O O
+5471,Do křížících se řezů vložíme hřebíčky .,O O O O O O O
+7668,"Některé školy zahájily výuku později Praha - Nejen rozsáhlé stavební rekonstrukce , ale i nedokončené provozní přístavby způsobily letos v některých základních školách potíže s otevřením nového školního roku .",O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O
+3721,"Pokud jsou postižení správně ošetřeni , nebezpečí života není .",O O O O O O O O O O
+5726,14.05 Král sídlí v Ivani,O B-MISC I-MISC I-MISC I-MISC
+8261,"Knižní podoby cyklu GEN se Fischer ujal poté , co se mu nelíbila publikace GEN ( 1 ) , která knižně přinášela prvních deset odvysílaných portrétů a vyšla před rokem .",O O O B-MISC O B-PER O O O O O O O O B-MISC I-MISC I-MISC I-MISC O O O O O O O O O O O O O
+465,Možná zůstane i místo pro spíž a komoru .,O O O O O O O O O
+2894,"Pavel Malínský , Lubomír Skalický a veslovod Dušan Businský si vezou z velkého závodu medaili domů poprvé .",B-PER I-PER O B-PER I-PER O O B-PER I-PER O O O O O O O O O
+879,"na remixech skladeb z tohoto alba vydaných jako Is It On ? se podíleli např . DJ Cam , Carl Craig a Nightmares On Wax .",O O O O O O O O B-MISC I-MISC I-MISC I-MISC O O O O B-PER I-PER O B-PER I-PER O B-ORG I-ORG I-ORG O
+6807,"V reprezentaci Mališ skončil , ale v Teplicích zůstane",O O B-PER O O O O B-LOC O
+1343,"Interní směrnice laboratoře by měly pro jednotlivé zkoušky ( druhy analýz ) jasně určit , jaké typy QC vzorků a s jakou četností jsou zařazovány , s přihlédnutím k výše uvedeným doporučením .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2209,SEMAFOR : Víkend s Krausovou ( dnes v 15.30 ) - Písničkový pořad Jiřího Suchého a Jitky Molavcové .,B-ORG O B-MISC I-MISC I-MISC O O O O O O O O B-PER I-PER O B-PER I-PER O
+2832,"atletika Vítěz nedělních Běchovic Luboš Šubrt bude jediným českým závodníkem , který se zúčastní 4 . ročníku MS v půlmaratónu , jenž se bude konat první říjnový den ve Francii .",O O O B-ORG B-PER I-PER O O O O O O O O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG O O O O O O O O O B-LOC O
+8880,""" Pro podtržení dobové autenticity a vzhledem k jedinečnosti Pražské památkové rezervace byla omítka na plášti objektu při rekonstrukci patinována .",O O O O O O O O O B-MISC I-MISC I-MISC O O O O O O O O O
+1848,"Vstal , byl trochu rozlámaný , ramena ztěžklá .",O O O O O O O O O
+6927,Příjmy z operací s cennými papíry představovaly významnou položku bankovních výnosů a zhruba ze čtyř pětin kompenzovaly pokles úrokových příjmů .,O O O O O O O O O O O O O O O O O O O O O
+3944,Prořídlý smrkový porost rámuje to nádherné dění .,O O O O O O O O
+4872,"Monumentálními pozůstatky nejstaršího období sardinské historie , přibližně ohraničeného roky 1800 až 500 př . n . l . , jsou nuraghi , věžní konstrukce z kamene ve tvaru obráceného vědra .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+572,Evropská unie a regulace finančního sektoru ( Karel Machala ) 48,B-ORG I-ORG O O O O O B-PER I-PER O O
+7,Katolický sjezd v Tailor ' Hall v Dublinu ( 3 . - 8 . prosinec ) .,B-ORG I-ORG O B-ORG I-ORG I-ORG O B-LOC O O O O O O O O O
+5744,"Druhým největším zahraničním odbytištěm je Německo , dále Španělsko a Itálie .",O O O O O B-LOC O O B-LOC O B-LOC O
+5876,"Potil jsem se , krvácel a stále ještě se chvěl .",O O O O O O O O O O O
+4162,Nezdary ohrozí minimum zrozenců ( od 29 . 6 . do 3 . 7 . ) .,O O O O O O O O O O O O O O O O O
+8309,23.55 Z historie rocku ( 6 ),O B-MISC I-MISC I-MISC O O O
+2386,Slibné možnosti hostujících Jurčáka a Musila po půlhodině hry pak Hrubčické povzbudily k vyšší aktivitě a následovaly střely J . Jury a Nováka .,O O O B-PER O B-PER O O O O B-PER O O O O O O O B-PER I-PER I-PER O B-PER O
+1722,"JUDr . Jakuba Čermína , předsedy Českého svazu bojovníků za svobodu jsme se zeptali : o Jednalo se o odškodnění již v roce 1973 ?",B-PER I-PER I-PER I-PER O O B-ORG I-ORG I-ORG I-ORG I-ORG O O O O O O O O O O O O O O
+537,"Na vál dáme hladkou mouku , do důlku vyklepneme 1 vejce , přidáme sůl , vlažnou vodu a lžičku octa .",O O O O O O O O O O O O O O O O O O O O O
+8414,V našem uvedeném příkladu je patrný posun z reality do fantastičnosti .,O O O O O O O O O O O O
+3166,Anglická ulice není rozkošnická .,B-LOC I-LOC O O O
+323,"Ihned poté , co se vaše platba dostane na místo určení , jsou vám zaslány všechny objednané knihy .",O O O O O O O O O O O O O O O O O O O
+4473,"Přestože na ideálního partnera zdaleka nevypadal , nechala se vést instinktem .",O O O O O O O O O O O O
+8008,"KINO VESMÍR : Legenda o Mulan - americký animovaný film ( 15.30 ) , Vrtěti psem americká komedie ( 17.30 a 20 hodin ) KINO KOTVA : Pidilidi - americká komedie ( 17.30 hodin ) , Linie násilí - film Francie , Německa a USA ( 20 hodin ) MALÁ SCÉNA GIMI : Lisabonský příběh americký",B-ORG I-ORG O B-MISC I-MISC I-MISC O O O O O O O O B-MISC I-MISC O O O O O O O O B-ORG I-ORG O B-MISC O O O O O O O O B-MISC I-MISC O O B-LOC O B-LOC O B-LOC O O O O B-ORG I-ORG I-ORG O B-MISC I-MISC O
+5689,"Zmínka o tom , že by tímto prezidentem měl být opět Jean - Bertrand Aristide , ovšem výslovně uvedena není .",O O O O O O O O O O O B-PER I-PER I-PER I-PER O O O O O O
+7828,"Vhazovat žádosti do drop boxu , jak se schránce říká , je možné ve všední dny od osmi hodin ráno do půl šesté večer .",O O O O O O O O O O O O O O O O O O O O O O O O O
+7887,"Prodám Avii A20 Furgon , r . v .",O B-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC O
+8162,""" Přišel se podívat bývalý majitel , "" komentuje Milan Kukla neviditelnou návštěvu , ale není v tom špetka strachu .",O O O O O O O O O B-PER I-PER O O O O O O O O O O
+5550,"Protože jsem tady asi opravdu v tomto sále jeden z mála , který u toho byl od začátku až do konce .",O O O O O O O O O O O O O O O O O O O O O O
+4832,"Mám na mysli především tendenci zaujímat stanoviska i tam , kde by povaze problému i vlastním silám autora odpovídala především věcná analýza materiálu .",O O O O O O O O O O O O O O O O O O O O O O O O
+5908,Kino MAT v Praze promítá dnes a zítra tři klubové filmy .,O B-ORG O B-LOC O O O O O O O O
+1082,"Západ nemá skutečně účinné páky , jak Srby přinutit k zásadním ústupkům , a Rusko bude nadále manévrovat na diplomatické frontě obecně v jejich prospěch .",O O O O O O O B-PER O O O O O O B-LOC O O O O O O O O O O O
+1734,"Praha - Na 200 odborníků by se mělo zúčastnit třetího ročníku mezinárodní konference Energy Efficiency Business Week , zaměřené na efektivní využívání energie , jež se uskuteční 8 . až 10 . listopadu v Praze .",B-LOC O O O O O O O O O O O O B-ORG I-ORG I-ORG I-ORG O O O O O O O O O O O O O O O O O B-LOC O
+5772,"Když se kuly plány s firmou Hewlett Packard a agenturou Aetna , která se na výstavě podílela organizačně , viselo ve vzduchu mnoho otazníků .",O O O O O O B-ORG I-ORG O O B-ORG O O O O O O O O O O O O O O
+4479,"Lidově řečeno to znamená přechod k práci "" bílých límečků "" , kteří dnes tvoří přes 60 % pracovních sil , zatímco v roce 1900 to bylo pouhých 20 % . Podíl fyzické práce "" s montérkami "" se za stejnou dobu snížil z téměř 40 % práceschopného obyvatelstva na dnešních 20 % ; tento údaj však ještě plně neodráží skutečnost , že i v oboru výroby , zemědělství či stavebnictví je řada pozic v oblasti kvalifikované práce .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+3973,"Na start se přihlásilo 14 osmičlenných družstev z pěti zemí , včetně všech českých profesionálních družstev a týmu Příbrami .",O O O O O O O O O O O O O O O O O O B-LOC O
+3898,Proto může doba zdržení kolísat u různých zařízení od 10 do 80 dní .,O O O O O O O O O O O O O O
+6070,"Ale společnost , s níž se stýkala , to nepostřehla ; viděla v přísnosti tohoto tenkého rtu vražednice jen ocelové ostří , na němž se ustavičně tetelil ostnatý šíp jízlivého epigramu .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+6291,Před námi jsou například Tunisko nebo Chile .,O O O O B-LOC O B-LOC O
+8117,"V roce 1970 odváděly tyto ropovody 10 % nafty z Perského zálivu , ale dnes činí jejich podíl přes 50 % .",O O O O O O O O O O B-LOC I-LOC O O O O O O O O O O
+6058,"Kučeravé vlasy mu padaly do obličeje jak čertovské růžky , zrovna tak , jak předevčírem , když jsem s ním byla nahá ve hřbitovní voděnce a on na mne zíral .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+473,"Připomeňme si , že v našem organismu je 20 - 50 mg jódu , z toho 20 - 25 % ve štítné žláze , která odebírá jód z krve , aby mohla "" produkovat "" hormony ( především thyroxin ) .",O O O O O O O O O O O B-MISC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+3042,"Neobáváte se , že nový hypermarket sníží tržby nejen konkurenci , ale i například vašemu obchodnímu domu na Národní třídě , někdejšímu Máji ?",O O O O O O O O O O O O O O O O O O B-LOC I-LOC O O B-ORG O
+8538,"Vyhnete - li se ale očekáváním a zůstanete - li u přání , tužeb a preferencí , pak nebudete vzteklí , jen zklamaní , a bude vám to líto .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+89,"V oblasti cen , pokud si vzpomínám , došlo ke konzultacím tehdy , když k nám po reformě v Lotyšsku přijeli odborníci z Moskvy , aby se poučili z našich chyb .",O O O O O O O O O O O O O O O O O O O B-LOC O O O B-LOC O O O O O O O O
+4141,- PACIENTKU O VÁZE 250 KILO měli z třetího patra do sanitky dopravit vídeňští hasiči .,O O O O O O O O O O O O O O O O
+3918,"Římanka ( Drepanum , Bithynie , kol . r . 255 - Nikomédie , kol . r . 326 ) .",B-PER O B-LOC O B-LOC O O O O O O O B-LOC O O O O O O O O
+6673,Na střeše v pravé části paláce jsou sochy od Bohuslava Schnircha ( 1845 - 1901 ) s názvy Volání na poplach a Hašení požáru ( viz snímek ) .,O O O O O O O O O B-PER I-PER O O O O O O O B-MISC I-MISC I-MISC O B-MISC I-MISC O O O O O
+1226,"Koukal se obává zpomalení privatizace Pražských vodáren PRAHA - Pražská radnice by ráda co nejdříve dokončila privatizaci Pražských vodáren a kanalizací , rozhodnutí ale závisí na vládě .",B-PER O O O O B-ORG I-ORG B-LOC O O O O O O O O O B-ORG I-ORG I-ORG I-ORG O O O O O O O
+8246,Podařilo se mu to až po odmlce .,O O O O O O O O
+7442,"Istř : 200 mikroA , 2 mA , 20 mA , 200 mA , 2 A .",O O O B-MISC O O B-MISC O O B-MISC O O B-MISC O O B-MISC O
+8809,"Pacienta a lékaře v moderní době odlišuje specializovaná , nikoliv všeobecná vzdělanost .",O O O O O O O O O O O O O
+2669,"Průměrné 24hodinové koncentrace oxidu siřičitého ( SO2 ) se v Praze , na Ostravsku i v severočeské pánvi pohybovaly pod přípustnou hodnotou , která je 150 mikrogramů na metr krychlový .",O O O O O O B-MISC O O O B-LOC O O B-LOC O O O O O O O O O O O O O O O O O
+6066,"JADERNÝ PROGRAM BAGDÁDU NEJASNÝ J a k a r t a - Irácký viceprezident Táhá Jasín Ramadán včera na tiskové konferenci v Jakartě znovu opakoval "" historický nárok "" Iráku na Kuvajt .",O O B-LOC O O O O O O O O O O O B-PER I-PER I-PER O O O O O B-LOC O O O O O O B-LOC O B-LOC O
+3237,Velkým štěstím .,O O O
+4789,§ 23,O O
+5031,"Je zázrak , jak z těch trosek sborů se najdou mladí lidé , kteří jsou ochotni jít do té situace .",O O O O O O O O O O O O O O O O O O O O O
+2397,Snad nevědí nic ?,O O O O
+5914,"Výprask , který jí rukama jako lopaty uštědřoval , nesla nelibě , neboť ji omezoval ve výkonu povolání .",O O O O O O O O O O O O O O O O O O O
+5097,"Weber ( 1964 b , 57 ) považuje úctu k pravdě pro absolutní etiku za nezbytnou .",B-PER O O O O O O O O O O O O O O O O
+1368,"V pátek si celý zájezd prohlédl lázně i obec , navštívil Sportcentrum v Brandýse a část zájemců se pak sešla u Pražského hradu s kronikářem k procházce Prahou .",O O O O O O O O O O O B-ORG O B-LOC O O O O O O O B-LOC I-LOC O O O O B-LOC O
+3196,Mimořádná pracovní příležitost pro Prostějov a okolí .,O O O O B-LOC O O O
+1145,"Lze si domyslit , že jeho pohřeb byl dosti okázalý .",O O O O O O O O O O O
+5261,Tato fáze trvá 4 až 9 dnů s přechodnými teplotami nad 39 stupňů Celsia a zimnicí .,O O O O O O O O O O O O B-MISC I-MISC O O O
+4563,Vždyť i náš život jsme započali v životě - hara své matky .,O O O O O O O O O O O O O
+431,"250 g čočky , 100 g cibule , 100 g uzeniny , 100 g sladkokyselé okurky , 1 červená paprika , 3 natvrdo uvařená vejce , 2 rajčata , sůl , pepř , olej , citrónová šťáva",O B-MISC O O O B-MISC O O O B-MISC O O O O O O O O O O O O O O O O O O O O O O O O O O O
+5859,"Když pak ale namazal na gól soupeři , stáhl jsem ho ze hry , "" vysvětlil Látal , podle něhož měl Palinek špatný vliv na celé mužstvo .",O O O O O O O O O O O O O O O O B-PER O O O O B-PER O O O O O O
+6472,"Každý dosahujeme svého ponaučení jinak , protože každý jsme na své úrovni růstu .",O O O O O O O O O O O O O O
+5347,"Polknout 3 kapsle denně při snídani , po dobu 2 měsíců .",O O O O O O O O O O O O
+7224,"Potrubní kompenzátory IWKA Regulátory a kompenzátory patří k nejzkušenějším a největším dodavatelům ocelových axiálních , kloubových a kardanových kompenzátorů .",O O B-MISC O O O O O O O O O O O O O O O O O
+765,Kdy se Studio GAG opět otevře ?,O O B-ORG I-ORG O O O
+8583,"Liška může hrát pouze tehdy , pokud má ocas tak dlouhý , že stojícímu hráči dosahuje na zem .",O O O O O O O O O O O O O O O O O O O
+3777,"Jakmile se od něho dílo odpoutá , dá znovu zaznít jen nepatrně utlumenému hlasu duše , jež byla provždy zbavena naděje .",O O O O O O O O O O O O O O O O O O O O O O
+4304,"Ještě před dvěma sty lety se po severoamerických prériích potulovalo asi 60 miliónů bizonů , jež prérijní indiáni po staletí lovili .",O O O O O O O O O O O O O O O O O O O O O O
+4540,"Podáváme s brambory sypanými petrželí , se slaným nákypem , plníme do slaných palačinek nebo do celovaječných omelet .",O O O O O O O O O O O O O O O O O O O
+5534,"V témže roce , kdy se ziskem 51 bodů za 33 branek a 18 asistencí prosadil na čelo střelců , v roce 1928 , získal i Hart Trophy , kterou pak vybojoval ještě v letech 1931 a 1932 .",O O O O O O O O O O O O O O O O O O O O O O O O O O B-MISC I-MISC O O O O O O O O O O O
+5780,"Stlačovaným plynem je propylén : tlak na sání 0.11 MPa , teplota na sání -38 o C , tlak na výtlaku 1.51 MPa , pohon elektromotorem o výkonu 1700 kW přes převodovku ) .",O O O O O O O O O B-MISC O O O O O O B-MISC O O O O O B-MISC O O O O O O B-MISC O O O O
+4530,Redoxní stav koenzymu Q 10 ( poměr ubichinol / ubichinon ) může sloužit jako indikátor oxidační modifikace LDL in vivo ( de Rijke et al .,O O O B-MISC I-MISC O O O O O O O O O O O O O O O O B-PER I-PER O O O
+5229,"Ze staniční budovy je rodinný domek a z bývalého kolejového rozvětvení je ponechána pouze průběžná kolej , torzo nakládkové koleje u rampy a složiště .",O O O O O O O O O O O O O O O O O O O O O O O O O
+6020,"Opakovalo se totéž : řidič spatřil mne , přibrzdil , spatřil psa a ujel .",O O O O O O O O O O O O O O O
+5784,"Také další výsledky českých závodníků jsou před srpnovým MS v Duisburgu , které je zároveň kvalifikací na OH v Atlantě , příslibem .",O O O O O O O O B-ORG O B-LOC O O O O O O B-ORG O B-LOC O O O
+7206,"jen ohledy zištnými a mravně nehodnými . 26 Po dvou letech pak ve známém nám již pojednání v Památníku České akademie z r . 1898 formuloval Pekař svůj protest proti Tomkovu kladnému hodnocení převratu bělohorského dokonce přímo : "" Náležím k těm , kteří ve velké otázce této raději souhlasí s Palackým než s Tomkem . . .",O O O O O O O O O O O O O O O O O O B-MISC I-MISC I-MISC O O O O O B-PER O O O B-PER O O O O O O O O O O O O O O O O O O O O B-PER O O B-PER O O O
+3340,"V krvi měl 2,7 promile alkoholu , "" upřesnil Just .",O O O O O O O O O B-PER O
+8818,"Ženy do 52 kg Hlinková ( VSK Košice ) , do 57 kg Soukupová ( Rumov ) , nad 57 kg Tvrdá ( Vyškov ) .",O O O B-MISC B-PER O B-ORG I-ORG O O O O O B-PER O O O O O O O O O B-LOC O O
+8517,c ) 1 . července 1999 do 30 . června 2000 ve výši 40 % . . .,O O O O O O O O O O O O O O O O O O
+1883,Zřejmě jen čirou náhodou je Ivan Ježek ( údajně bratr Tomáše Ježka ) již několik let šéfem sboru poradců generálního ředitele Poldi Stehlíka .,O O O O O B-PER I-PER O O O B-PER I-PER O O O O O O O O O B-ORG B-PER O
+8462,Brněnskou 16 vyhrál film z Německa Alimův obchod,B-ORG I-ORG O O O B-LOC B-MISC I-MISC
+2399,Vznik církve znamená stop !,O O O O O
+1229,Podle nich by měl stát zakročit přímo proti Delvitě .,O O O O O O O O B-ORG O
+7090,Nůž jednoho z nich má ostatně oběť loupežného přepadení schovaný na památku .,O O O O O O O O O O O O O
+2031,"Brno - Zdeněk Pánek , jednatel společnosti Kenap a člen představenstva Královopolské , čeká s napětím na rozhodnutí Fondu národního majetku .",B-LOC O B-PER I-PER O O O B-ORG O O O B-ORG O O O O O O B-ORG I-ORG I-ORG O
+3537,"Provedli srovnání 2 skupin pacientů , z nichž polovině ( 41 pacientů ) prováděli kontrolní gastroskopii a druhé polovině nikoliv .",O O O O O O O O O O O O O O O O O O O O O
+2812,Po svém jednání s náměstkem saúdského ministra zahraničí Mamonem Kurdím to včera řekl první náměstek ministra zahraničí A . Vondra .,O O O O O O O O B-PER I-PER O O O O O O O B-PER I-PER I-PER O
+2877,"Tak jako pasivně přijímáme řadu jiných věcí , bychom zkonzumovali i toto světově proslulé dílo .",O O O O O O O O O O O O O O O O
+2277,"Německé školní lavice i učitelku , která nemluví jejich mateřským jazykem , včera poprvé poznaly děti z Hrádku nad Nisou .",O O O O O O O O O O O O O O O O O B-LOC I-LOC I-LOC O
+8469,"Pokaždé , když budete provádět toto cvičení , budou vaše výsledky o stupeň dynamičtější .",O O O O O O O O O O O O O O O
+8899,"Zeptáte - li se dnes například , zda dotyčný nebo dotyčná očekává pozitivní vývoj politické situace v zemi , musí každý upřímně odpovědět , že nikoliv .",O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2649,Dementi a fakta MOSKVA - Oddíl zvláštních policejních jednotek včera v podvečer na tři hodiny obsadil hlavní telefonní a telegrafní ústřednu v litevském hlavním městě Vilniusu a přerušil po tuto dobu veškeré místní a meziměstské telefonní spojení .,O O O B-LOC O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O
+7416,"Jak Právu potvrdil starosta města František Bradáč ( KDU - ČSL ) , rozhodnutí zastupitelstva směřuje ke snížení počtu těchto přístrojů ve Velkém Meziříčí .",O O O O O B-PER I-PER O B-ORG I-ORG I-ORG O O O O O O O O O O O B-LOC I-LOC O
+7905,"Dvojnásobná olympijská vítězka v rychlobruslení Marianne Timmerová z Nizozemska obdržela nabídku , aby pózovala nahá pro časopis Playboy .",O O O O O B-PER I-PER O B-LOC O O O O O O O O B-ORG O
+7208,"Za nadšeného ohlasu početného publika představili Jan "" Aču "" Slepčík a Magda Slepčíková jak své vlastní , tak lidové romské písně .",O O O O O O B-PER I-PER I-PER I-PER I-PER O B-PER I-PER O O O O O O O O O
+7740,"Letošní nabídka zimní dovolené strávené na lyžích je také tento rok nepřeberná , zvláště když se jí začaly věnovat i některé velké cestovní kanceláře , které předtím podobné služby nenabízely .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+3686,Podstatou metabolických změn u nádorové kachexie jsou tedy především změny maladaptivního charakteru .,O O O O O O O O O O O O O
+5274,"Když šéfproducent dál neprojevil zájem , skončil jsem .",O O O O O O O O O
+7044,Bavili jsme se mezi sebou a muže jsme si vůbec nevšímali .,O O O O O O O O O O O O
+1338,Břicho měl nyní odkryté .,O O O O O
+2069,A opilé garnáty měla vůbec ze ze všeho nejraději .,O O O O O O O O O O
+3179,"Byly - pravda - mezi těmito muži i čestné výjimky , byly i bílé vrány .",O O O O O O O O O O O O O O O O
+3611,"( Sprchování jako pomoc k obnově senzibilizace těla , viz též kap . 8 , str . 109 n . )",O O O O O O O O O O O O O O O O O O O O O
+8713,"V osmdesátých letech již sledujeme první náznaky rozvoje kachlářství a tendence směřující k : - obnově řemeslného kachlářství - výrobě i stavbě , - tvorbě nových kamen , - tvorbě krbů inspirovaných kachlovými kamny , - stavbě kombinovaných zařízení , - rekonstrukci kamen .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+7121,Právě nerespektování verdiktu NKÚ nyní Mertlík Kárníkovi vytýká .,O O O B-ORG O B-PER B-PER O O
+6973,"Dobrý večer 18.00 Párty 18.30 Akta 97 18.50 Minuty regionu 19.00 Televizní deník 19.15 Tom a Jerry 19.30 Možnosti bez hranic ( 7 ) 20.00 Hotel Modrá hvězda , česká komedie 21.30 Zprávy 21.35 Věčný poutník ( 2 ) , Vražedné intriky 22.20 Inspektor Schimanski : Mezi námi bratry 23.55 Párty KABEL PLUS",B-MISC I-MISC O B-MISC O B-MISC I-MISC O B-MISC I-MISC O B-MISC I-MISC O B-MISC I-MISC I-MISC O B-MISC I-MISC I-MISC O O O O B-MISC I-MISC I-MISC O O O O B-MISC O B-MISC I-MISC O O O O B-MISC I-MISC O B-MISC I-MISC O B-MISC I-MISC I-MISC O B-MISC B-ORG I-ORG
+1952,"Ovšem můj otec s největším důrazem a vážností tvrdí , že ho žádný člověk , leda nevědomý nebo zaujatý , nikdy nemohl považovat za ušlechtilého muže - neboť zastává zásadu , že nikdo , kdo není skutečně ušlechtilý v srdci , nebyl , co svět světem stojí , skutečně ušlechtilý v chování .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2163,"Na dotaz Práva , zda nejsou čeští vojáci ve chvíli válečného konfliktu ohroženi také tím , že z ČR vysílá do Iráku Rádio Svobodná Evropa , Řepka uvedl : "" V tuto chvíli takové nebezpečí nehrozí , ale samozřejmě zítra to může být jinak . """,O O B-ORG O O O O O O O O O O O O O O O B-LOC O O B-LOC B-ORG I-ORG I-ORG O B-PER O O O O O O O O O O O O O O O O O O O
+1295,"Měla ho na sobě Gráfka na zájezdu do Brna na veletrh ! """,O O O O B-PER O O O B-LOC O O O O
+7899,Také v dalších rolích uvidíte známé filmové milovníky - Adinu Mandlovou ( ta si s Novým a Gollovou zahrála už v Kristiánovi ) a Antonína Novotného v jeho poslední filmové roli ( poté se vrátil ke své původní profesi chemika ) .,O O O O O O O O O B-PER I-PER O O O O B-PER O B-PER O O O B-MISC O O B-PER I-PER O O O O O O O O O O O O O O O O
+1158,Dlouze odpočíval ve špinavých putykách a na poměrně pohodlných lavičkách rozlehlého parku .,O O O O O O O O O O O O O
+1121,Pivo 10o světlé sudové 500 ml 8.02 8.05 7.99 Poštovné za dopis 20 g v tuzemsku ks 3.60 3.60 3.60,O O O O O B-MISC O O O O O O O B-MISC O O O O O O
+7221,"V celkové obchodní výměně ČR tvoří obrat s ruskou federací 6.6 procenta , na dovozu se Ruská federace podílí 9.6 procenta , ale ve vývozu z ČR jen třemi procenty .",O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O
+1618,Poznámka Karla Kříže,O B-PER I-PER
+3858,Podle agentury AFP jen v bagdádské čtvrti Sadrovo město přišlo od neděle o život 57 Iráčanů .,O O B-ORG O O O O B-LOC I-LOC O O O O O O B-PER O

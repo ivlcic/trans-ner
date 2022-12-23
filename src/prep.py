@@ -134,6 +134,8 @@ def conll2csv(conll_path: str, base_name: str, append: bool, ner_tag_idx: int, m
                         csv.write(' ')
                     if token[1] == '"':
                         csv.write('""')
+                    elif '"' in token[1]:
+                        token[1].replace('"', '""')
                     else:
                         csv.write(token[1])
                     ner_tag = token[ner_tag_idx]
@@ -310,9 +312,6 @@ def bsnlp2csv(bsnlp_path: str, base_name: str, append: bool, map_filter: Dict = 
     conll2csv(conll_fname, base_name, append, 9, map_filter)
 
 
-
-
-
 def filter_wikiann(lang: str, proc_fname: str) -> None:
     data = ''
     invalid = {"''", "'", "]]", "[[", "==", "**", "``"}
@@ -357,7 +356,7 @@ def filter_wikiann(lang: str, proc_fname: str) -> None:
         fp.write(data)
 
 
-def filter_cnec(procfname: str):
+def filter_cnec(proc_fname: str):
     # I = ORG
     # T = MISC (time) -> O
     # P = PER
@@ -366,6 +365,31 @@ def filter_cnec(procfname: str):
     # O = MISC (product)
     # A = MISC (address, number) -> O
     # B-[^ITPGMAO]{1,}$
+    data = ''
+    counter = 0
+    sent_id = 0
+    with open(os.path.join(proc_fname), 'rt', encoding='utf-8') as fp:
+        line = 'whatever'
+        while line:
+            line = fp.readline()
+            if line == '\n':
+                if counter > 0:
+                    data += '\n'
+                counter = 0
+                continue
+            if line == '':
+                continue
+            tokens = line.split('\t')
+            if counter == 0:
+                data += '# sent_id = ' + str(sent_id) + '\n'
+                sent_id += 1
+            if '@' in tokens[0] and tokens[3].endswith('M'):
+                tokens[3] = 'O'
+            data += str(counter) + '\t' + tokens[0] + '\t' + tokens[3]
+            counter += 1
+
+    with open(os.path.join(proc_fname), 'wt', encoding='utf-8') as fp:
+        fp.write(data)
     pass
 
 
@@ -394,10 +418,30 @@ def prep_data(args, confs: List[Dict]) -> None:
             with open(os.path.join(proc_fname, 'extra'), 'rt', encoding='utf-8') as fp:
                 data += "\n"
                 data += fp.read()
-            proc_fname = os.path.join(proc_fname, 'bs-wann.conll')
+            proc_fname = os.path.join(proc_fname, lang + '-wann.conll')
             with open(proc_fname, 'wt', encoding='utf-8') as fp:
                 fp.write(data)
             filter_wikiann(lang, proc_fname)
+            conll2csv(proc_fname, os.path.join(args.data_dir, target_base_name), False, ner_conll_idx, map_filter)
+        if type == 'cnec':
+            ner_conll_idx = tmmst.args.chech_param(conf, 'ner_conll_idx')
+            target_base_name = tmmst.args.chech_param(conf, 'result_name')
+            map_filter = tmmst.args.chech_param(conf, 'map_filter')
+            zip_fname = tmmst.args.chech_dir_param(conf, 'zip', args.corpora_dir)
+            zipfile.ZipFile(zip_fname).extractall(tmmst.const.default_tmp_dir)
+            proc_fname = tmmst.args.chech_dir_param(conf, 'proc_file', tmmst.const.default_tmp_dir)
+            with open(os.path.join(proc_fname, 'dtest.conll'), 'rt', encoding='utf-8') as fp:
+                data = fp.read()
+            with open(os.path.join(proc_fname, 'train.conll'), 'rt', encoding='utf-8') as fp:
+                data += "\n"
+                data += fp.read()
+            with open(os.path.join(proc_fname, 'etest.conll'), 'rt', encoding='utf-8') as fp:
+                data += "\n"
+                data += fp.read()
+            proc_fname = os.path.join(proc_fname, 'cs-cnec.conll')
+            with open(proc_fname, 'wt', encoding='utf-8') as fp:
+                fp.write(data)
+            filter_cnec(proc_fname)
             conll2csv(proc_fname, os.path.join(args.data_dir, target_base_name), False, ner_conll_idx, map_filter)
         if type == 'conll':
             zip_fname = tmmst.args.chech_dir_param(conf, 'zip', args.corpora_dir)
@@ -425,7 +469,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(
         description='NER Data preparation and normalization for Slovene, Croatian and Serbian language')
     parser.add_argument('lang', help='language of the text',
-                        choices=['sl', 'hr', 'sr', 'bs', 'mk', 'sq'])
+                        choices=['sl', 'hr', 'sr', 'bs', 'mk', 'sq', 'cs'])
     parser.add_argument(
         '-d', '--data_dir', help='Data output directory', type=tmmst.args.dir_path,
         default=tmmst.const.default_data_dir)
@@ -556,6 +600,28 @@ if __name__ == "__main__":
                     'B-per': 'B-PER', 'I-per': 'I-PER',
                     'B-misc': 'B-MISC', 'I-misc': 'I-MISC',
                     'B-deriv-per': 'B-PER', 'I-deriv-per': 'I-PER'
+                }
+            }
+        ]
+        prep_data(args, confs)
+        tmmst.data.split_data(args, confs)
+    if args.lang == 'cs':
+        confs = [
+            {
+                'type': 'cnec',
+                'zip': 'CNEC_2.0_konkol.zip',
+                'proc_file': 'CNEC_2.0_konkol',
+                'result_name': 'cs_cnec',
+                'ner_conll_idx': 2,
+                'map_filter': {
+                    'max_seq_len': 128,
+                    'B-G': 'B-LOC', 'I-G': 'I-LOC',
+                    'B-I': 'B-ORG', 'I-I': 'I-ORG',
+                    'B-M': 'B-ORG', 'I-M': 'I-ORG',
+                    'B-P': 'B-PER', 'I-P': 'I-PER',
+                    'B-O': 'B-MISC', 'I-O': 'I-MISC',
+                    'B-T': 'O', 'I-T': 'O',
+                    'B-A': 'O', 'I-A': 'O'
                 }
             }
         ]
