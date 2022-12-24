@@ -33,7 +33,9 @@ if __name__ == "__main__":
                             'hr_500k', 'hr_bsnlp', 'hr',
                             'sr_set', 'sr',
                             'bs_wann', 'bs',
-                            'mk_wann', 'mk'
+                            'mk_wann', 'mk',
+                            'sq_wann', 'sq',
+                            'cs_cnec', 'cs'
                         ])
     parser.add_argument('pretrained_model', help='Pretrained model to use for testing')
     tmmst.args.add_common_dirs(parser)
