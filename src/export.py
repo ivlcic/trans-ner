@@ -22,9 +22,9 @@ ArgNamespace = collections.namedtuple(
 )
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description='NER Export')
-    parser.add_argument('pretrained_model', help='Pretrained model to export')
-    parser.add_argument('target_model', help='Target model to export')
+    parser = argparse.ArgumentParser(description='Helper script to export model checkpoint to a directory.')
+    parser.add_argument('pretrained_model', help='Pretrained model to export.')
+    parser.add_argument('target_model', help='Target model (directory) name to export to.')
     tmmst.args.add_common_dirs(parser)
     tmmst.args.add_common_arguments(parser)
     # noinspection PyTypeChecker

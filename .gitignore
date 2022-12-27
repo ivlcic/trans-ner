@@ -5,3 +5,11 @@ tmp/*
 models
 result
 venv
+/results/doc/comment.cut
+/results/doc/atlner.xcp
+/results/doc/atlner.out
+/results/doc/atlner.log
+/results/doc/atlner.dvi
+/results/doc/atlner.blg
+/results/doc/atlner.bbl
+/results/doc/atlner.aux

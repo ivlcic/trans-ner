@@ -62,7 +62,7 @@ def _infer(mc: TrainedModelContainer, model_inputs):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
-        description='NER Neural inference script for Slovene, Croatian and Serbian language')
+        description='Simple NER Neural inference script for manual checking.')
     parser.add_argument('pretrained_model', help='Pretrained model to use for inference')
     parser.add_argument('lang', help='language of the text',
                         choices=['sl', 'hr', 'sr', 'bs', 'mk', 'sq', 'cs'])

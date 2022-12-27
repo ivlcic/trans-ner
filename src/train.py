@@ -120,6 +120,7 @@ if __name__ == "__main__":
         disable_tqdm=True,
         load_best_model_at_end=True,
         save_strategy='epoch',
+        learning_rate=args.learn_rate,
         optim='adamw_torch',
         save_total_limit=1,
         metric_for_best_model='f1',
