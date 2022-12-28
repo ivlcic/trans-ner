@@ -214,8 +214,8 @@
 %% The abstract is a short summary of the work to be presented in the
 %% article.
 \begin{abstract}
-  This paper presents analysis of Named Entity Recognition task for South-Slavic languages using pre-trained multilingual neural network models.
-  Observing the performance metrics from prior research showed, that performance of fine-tuned multilingual neural models is very close to the performance of monolingual neural models.
+  This paper presents analysis of a Named Entity Recognition task for South-Slavic languages using pre-trained multilingual neural network models.
+  Observing the performance metrics from prior research showed, that the performance of the fine-tuned multilingual neural model is very close to the performance of the monolingual one.
   This observation lead us to a question, that this paper aims to answer: Can fine-tuning of a multilingual pre-trained embeddings with other than the target language corpora improve named entity recognition for a specific language?
 \end{abstract}
 
@@ -289,7 +289,7 @@ This would most probably bring us closer to truth.
   \end{tabular}
 \end{table}
 NER tags in IOB2\cite{IOB2} format from CoNLL-2003 shared task\cite{CoNLL2003} were used as a common denominator for all corpora and experiments.
-Each corpus was first combined if split, then converted to common format, reshuffled and split to train / dev / test set in a 80 / 10 / 10 ratio.
+Each corpus was first combined if split, then converted to a common format, reshuffled and split to train / dev / test set in a 80 / 10 / 10 ratio.
 
 When the combined corpora was used we concatenated the sets without further reshuffling so, that the experiments can be repeated.
 %Prepared and converted data is available on Github for convenience and possible manual review (move to online resources?).
