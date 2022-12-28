@@ -3,7 +3,7 @@ __pycache__/
 data/*.conll
 tmp/*
 models
-result
+results/models
 venv
 /results/doc/comment.cut
 /results/doc/atlner.xcp
