@@ -296,8 +296,8 @@ Table ~\ref{tab:corpora} summarizes used corpora in experiments.
 We combined all corpora for each language to further conduct our experiments.
 The Slovene corpora was obtained from newly published combined Training corpus {SUK} 1.0\cite{SUK-1.0}
 \subsection{Data Conversion}
-First obstacle we had to overcome is different tagging of NER corpora.
-Here we decided to keep only common tags.
+First obstacle we had to overcome was a different tagging of NER corpora.
+Decision was made to keep only common tags.
 For example: BSNLP corpus uses PRO and EVT tags while WikiANN corpus is missing a MISC tag that is common to ssj500k and hr500k corpora.
 All non-common tags, including MISC, were replaced with O (outside IOB) tag except the PER, LOC and ORG tags.
 
@@ -308,14 +308,14 @@ To solve this problem we used CLASSLA\cite{ljubesic-dobrovoljc-2019-neural} sent
 The third step was to remove sentences longer than 128 tokens and convert corpora from common CoNLL format to CSV format with two fields:
 \begin{itemize}
   \item sentence: whitespace separated sentence word tokens.
-  \item NER: white space separated NER tags for each sentence word token.
+  \item ner: white space separated NER tags for each sentence word token.
 \end{itemize}
 
 The final step was to split the corpus data to train, test, dev sets.
 
 \subsection{Corpora analysis}
-Comparing the corpora showed the differences that could potentially be problematic for obtaining aligned model performance, especially considering the NER tag ratios.
-In this sense the WikiANN automatically annotated corpora structure was standing out.
+Comparing the corpora showed the differences that could potentially be problematic for obtaining aligned model performance.
+Especially considering the NER tag ratios where the WikiANN automatically annotated corpora structure was standing out (see Table ~\ref{tab:corpora_analysis} and Figure ~\ref{tab:corpora_analysis}).
 \begin{table}[H]
   \caption{Analysis of Used Corpora}
   \label{tab:corpora_analysis}
@@ -334,6 +334,7 @@ In this sense the WikiANN automatically annotated corpora structure was standing
 \end{table}
 
 \begin{figure}[h]
+  \label{fig:corpora_analysis}
   \centering
   \includegraphics[width=\linewidth]{wikiann-skew}
   \caption{WikiANN corpus skew}
@@ -342,12 +343,49 @@ In this sense the WikiANN automatically annotated corpora structure was standing
 Fortunately we were unable to detect any inconsistencies regarding performance measurements.
 
 \section{Methods}
+\subsection{Measurments}
+For the classification measurements the Seqeval library\cite{seqeval} was used.
+Although library uses CoNLL evaluation by default we did all evaluation in ``strict'' mode.
+Strict mode takes into account also the ``beginning'' and ``inside'' part of IOB when calculating measurements.
+
+\subsection{Model selection}
 For all experiments Hugging Face's transformers Python library\cite{wolf-etal-2020-transformers} was used.
-Initial baseline model tests has shown that XLM-RoBERTa (base sized model)\cite{DBLP:journals/corr/abs-1911-02116} consistently outperforms BERT multilingual base model (cased)\cite{DBLP:journals/corr/abs-1810-04805}.
-Therefore, due to task and resource limitations, we continued with our experiments using only XLM-RoBERTa base sized pre-trained model.
+Prior work used two pre-trained multilingual models from Hugging Face with best results:
+\begin{itemize}
+  \item BERT multilingual base model (cased)\cite{DBLP:journals/corr/abs-1810-04805}
+  \item XLM-RoBERTa (base sized model)\cite{DBLP:journals/corr/abs-1911-02116}
+\end{itemize}
 
-(TABLE)
+Due to task and resource limitations, we continued with our experiments using only XLM-RoBERTa base sized model,
+since the initial baseline tests showed, that XLM-RoBERTa consistently outperforms BERT model (see Table ~\ref{tab:roberta_vs_bert})
 
+\begin{table}[H]
+  \caption{XLM-RoBERTa vs BERT multilingual cased}
+  \label{tab:roberta_vs_bert}
+  \begin{tabular}{llrrrr}
+    \toprule
+    Model&Corpora&Precision&Recall&F1&Accuracy\\
+    \midrule
+    mcbert&bsnlp&0.935&0.931&0.933&0.990\\
+    xlmrb&bsnlp&0.947&0.954&0.951&0.993\\
+    mcbert&ssj500k&0.826&0.828&0.827&0.984\\
+    xlmrb&ssj500k&0.869&0.902&0.885&0.990\\
+    mcbert&bsnlp+ssj500k&0.898&0.903&0.900&0.986\\
+    xlmrb&bsnlp+ssj500k&0.929&0.931&0.930&0.990\\
+    \bottomrule
+  \end{tabular}
+\end{table}
+
+\subsection{Parameters}
+For all experiments the following hyper-parameters were used:
+\begin{itemize}
+  \item 256 max-length for tokenizer
+  \item PyTorch's AdamW algorithm with 5e-5 learning rate
+  \item 40 epochs
+  \item F1 score for best model selection
+\end{itemize}
+
+\subsection{Method}
 The selected method was to first develop a baseline models for each language and produce NER classification measurements.
 In the next steps we combined additional remaining language corpora, re-train the model and measure performance changes.
 
@@ -357,13 +395,7 @@ In the next steps we combined additional remaining language corpora, re-train th
 
 
 
-Following hyper-parameters were used for all model fine-tuning:
-\begin{itemize}
-  \item 256 max-length for tokenizer
-  \item Pytorch's AdamW algorithm with 5e-5 learning rate
-  \item 40 epochs
-  \item
-\end{itemize}
+
 
 \section{Evaluation}
 
