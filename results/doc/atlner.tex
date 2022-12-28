@@ -261,7 +261,9 @@ The problem with comparison of both prior work is that the:
 \end{itemize}
 were not strictly the same in both experiments so, one has to be really cautious when evaluating the performance metrics or deriving conclusions from it.
 \section{Data Description}
-For each language the most commonly used and as many as possible NER corpora was gathered (~\ref{tab:corpora}).
+We used the most common and established NER corpora for selected languages where possible (~\ref{tab:corpora}).
+The assumption with gathering corpora was also: the more the better.
+This would most probably bring us closer to truth.
 \begin{table}[H]
   \caption{List of Used Corpora}
   \label{tab:corpora}
@@ -285,7 +287,7 @@ For each language the most commonly used and as many as possible NER corpora was
   \bottomrule
   \end{tabular}
 \end{table}
-CoNLL-2003 shared task\cite{CoNLL2003} NER tags in IOB2\cite{IOB2} format were used as a common denominator for all corpora and experiments.
+NER tags in IOB2\cite{IOB2} format from CoNLL-2003 shared task\cite{CoNLL2003} were used as a common denominator for all corpora and experiments.
 Each corpus was first combined if split, then converted to common format, reshuffled and split to train / dev / test set in a 80 / 10 / 10 ratio.
 
 When the combined corpora was used we concatenated the sets without further reshuffling so, that the experiments can be repeated.
@@ -296,14 +298,14 @@ Table ~\ref{tab:corpora} summarizes used corpora in experiments.
 We combined all corpora for each language to further conduct our experiments.
 The Slovene corpora was obtained from newly published combined Training corpus {SUK} 1.0\cite{SUK-1.0}
 \subsection{Data Conversion}
-First obstacle we had to overcome was a different tagging of NER corpora.
-Decision was made to keep only common tags.
+First obstacle was different NER tags used in a corpora.
+Decision was made to keep only common tags: PER, LOC, ORG.
 For example: BSNLP corpus uses PRO and EVT tags while WikiANN corpus is missing a MISC tag that is common to ssj500k and hr500k corpora.
-All non-common tags, including MISC, were replaced with O (outside IOB) tag except the PER, LOC and ORG tags.
+All non-common tags, including MISC, were replaced with O (outside IOB) tag.
 
 Second obstacle was the difference in format.
-BSNLP, for instance, is such corpus that uses separate files for verbatim text and NER tags with no positional reference between one another.
-To solve this problem we used CLASSLA\cite{ljubesic-dobrovoljc-2019-neural} sentence segmentation and tokenization and custom conversion.
+BSNLP, for instance, is a corpus that uses separate files for verbatim text and NER tags with no positional reference between one another.
+To solve this problem we used CLASSLA\cite{ljubesic-dobrovoljc-2019-neural} sentence segmentation and tokenization and custom conversion script.
 
 The third step was to remove sentences longer than 128 tokens and convert corpora from common CoNLL format to CSV format with two fields:
 \begin{itemize}
@@ -311,11 +313,12 @@ The third step was to remove sentences longer than 128 tokens and convert corpor
   \item ner: white space separated NER tags for each sentence word token.
 \end{itemize}
 
-The final step was to split the corpus data to train, test, dev sets.
+The fourth and final step was to split the corpus data to train, test, dev sets.
 
 \subsection{Corpora analysis}
 Comparing the corpora showed the differences that could potentially be problematic for obtaining aligned model performance.
-Especially considering the NER tag ratios where the WikiANN automatically annotated corpora structure was standing out (see Table ~\ref{tab:corpora_analysis} and Figure ~\ref{tab:corpora_analysis}).
+Especially considering the NER tag ratios where the WikiANN automatically annotated corpora structure was standing
+out (see Table\ref{tab:corpora_analysis} and Figure\ref{fig:corpora_analysis1}).
 \begin{table}[H]
   \caption{Analysis of Used Corpora}
   \label{tab:corpora_analysis}
@@ -326,15 +329,16 @@ Especially considering the NER tag ratios where the WikiANN automatically annota
     sl&21.29&9.09\%&31.70\%&22.20\%&34.13\%\\
     hr&20.43&7.41\%&28.71\%&20.55\%&30.82\%\\
     sr&22.29&12.01\%&29.96\%&30.12\%&32.35\%\\
-    bs&7.81&36.91\%&31.65\%&29.67\%&38.67\%\\
-    mk&9.64&28.07\%&34.89\%&30.32\%&34.79\%\\
+    bs&\textbf{7.81}&\textbf{36.91\%}&31.65\%&29.67\%&38.67\%\\
+    mk&\textbf{9.64}&\textbf{28.07\%}&34.89\%&30.32\%&34.79\%\\
     \bottomrule
     \multicolumn{6}{c}{PER, LOC and ORG are ratios with respect to NER}
+    %\multicolumn{6}{r}{MISC tag is excluded}
   \end{tabular}
 \end{table}
 
 \begin{figure}[h]
-  \label{fig:corpora_analysis}
+  \label{fig:corpora_analysis1}
   \centering
   \includegraphics[width=\linewidth]{wikiann-skew}
   \caption{WikiANN corpus skew}
@@ -345,8 +349,9 @@ Fortunately we were unable to detect any inconsistencies regarding performance m
 \section{Methods}
 \subsection{Measurments}
 For the classification measurements the Seqeval library\cite{seqeval} was used.
-Although library uses CoNLL evaluation by default we did all evaluation in ``strict'' mode.
-Strict mode takes into account also the ``beginning'' and ``inside'' part of IOB when calculating measurements.
+Although library uses CoNLL evaluation by default, we rather chose ``strict'' mode evaluation.
+Strict mode takes into account also the ``beginning'' and ``inside'' part of IOB when calculating measurements,
+so NER tags must exactly match.
 
 \subsection{Model selection}
 For all experiments Hugging Face's transformers Python library\cite{wolf-etal-2020-transformers} was used.
@@ -360,18 +365,20 @@ Due to task and resource limitations, we continued with our experiments using on
 since the initial baseline tests showed, that XLM-RoBERTa consistently outperforms BERT model (see Table ~\ref{tab:roberta_vs_bert})
 
 \begin{table}[H]
-  \caption{XLM-RoBERTa vs BERT multilingual cased}
+  \caption{XLM-RoBERTa vs. BERT multilingual cased}
   \label{tab:roberta_vs_bert}
   \begin{tabular}{llrrrr}
     \toprule
     Model&Corpora&Precision&Recall&F1&Accuracy\\
     \midrule
     mcbert&bsnlp&0.935&0.931&0.933&0.990\\
-    xlmrb&bsnlp&0.947&0.954&0.951&0.993\\
+    xlmrb&bsnlp&0.947&0.954&\textbf{0.951}&0.993\\
+    \midrule
     mcbert&ssj500k&0.826&0.828&0.827&0.984\\
-    xlmrb&ssj500k&0.869&0.902&0.885&0.990\\
+    xlmrb&ssj500k&0.869&0.902&\textbf{0.885}&0.990\\
+    \midrule
     mcbert&bsnlp+ssj500k&0.898&0.903&0.900&0.986\\
-    xlmrb&bsnlp+ssj500k&0.929&0.931&0.930&0.990\\
+    xlmrb&bsnlp+ssj500k&0.929&0.931&\textbf{0.930}&0.990\\
     \bottomrule
   \end{tabular}
 \end{table}
@@ -381,35 +388,115 @@ For all experiments the following hyper-parameters were used:
 \begin{itemize}
   \item 256 max-length for tokenizer
   \item PyTorch's AdamW algorithm with 5e-5 learning rate
+  \item batch size of 20
   \item 40 epochs
   \item F1 score for best model selection
 \end{itemize}
 
 \subsection{Method}
 The selected method was to first develop a baseline models for each language and produce NER classification measurements.
-In the next steps we combined additional remaining language corpora, re-train the model and measure performance changes.
+Baseline models were fine-tuned with only one (target) language.
+Next we combined additional language corpora, re-train the model and measure performance.
 
 %Czech language was also used, because it is not as closely related as other languages to Slovene and could give us additional insights in possible performance changes.
-
-(TABLE)
-
-
-
-
-
 \section{Evaluation}
+For evaluation we used target language test set and measure performance against fine-tuned models.
+Baseline is always shown in figure's first column.
+Overall F1 score is a macro averaged F1 score over all three NER tags.
 
+\subsection{Slovene}
+
+\begin{figure}[H]
+  \label{fig:eval_sl}
+  \centering
+  \includegraphics[width=\linewidth]{eval_sl}
+\end{figure}
+
+\begin{table}[H]
+  \caption{Slovene language test set model performance}
+  \label{tab:eval_sl}
+  \begin{tabular}{llrrrr}
+    \toprule
+    Model&PER F1&LOC F1&ORG F1&Overall F1\\
+    \midrule
+    baseline sl&0.963&0.963&0.931&0.952\\
+    \midrule
+    sl.sr&0.963&0.955&0.921&0.946\\
+    sl.hr&0.962&0.96&0.924&0.948\\
+    sl.hr.sr&0.964&0.958&0.925&0.949\\
+    sl.hr.sr.bs&0.964&0.953&0.926&0.948\\
+    sl.hr.sr.bs.mk&0.962&0.952&0.926&0.947\\
+    \bottomrule
+  \end{tabular}
+\end{table}
+
+\subsection{Croatian}
+
+\begin{figure}[h]
+  \label{fig:eval_hr}
+  \centering
+  \includegraphics[width=\linewidth]{eval_hr}
+\end{figure}
+
+\begin{table}[H]
+  \caption{Croatian language test set model performance}
+  \label{tab:eval_hr}
+  \begin{tabular}{llrrrr}
+    \toprule
+    Model&PER F1&LOC F1&ORG F1&Overall F1\\
+    \midrule
+    baseline hr&0.934&0.911&0.874&0.906\\
+    \midrule
+    hr.sr&0.932&0.921&0.888&0.914\\
+    sl.hr&0.925&0.915&0.878&0.906\\
+    hr.sr.bs&0.922&0.912&0.856&0.897\\
+    sl.hr.sr&0.923&0.908&0.865&0.899\\
+    sl.hr.sr.bs&0.938&0.927&0.873&0.912\\
+    sl.hr.sr.bs.mk&0.925&0.911&0.861&0.899\\
+    \bottomrule
+  \end{tabular}
+\end{table}
+
+\subsection{Serbian}
+
+\begin{figure}[h]
+  \label{fig:eval_sr}
+  \centering
+  \includegraphics[width=\linewidth]{eval_sr}
+\end{figure}
+
+\begin{table}[H]
+  \caption{Serbian language test set model performance}
+  \label{tab:eval_sr}
+  \begin{tabular}{llrrrr}
+    \toprule
+    Model&PER F1&LOC F1&ORG F1&Overall F1\\
+    \midrule
+    baseline sr&0.962&0.979&0.914&0.954\\
+    \midrule
+    sl.sr&0.979&0.98&0.934&0.965\\
+    hr.sr&0.987&0.988&0.956&0.978\\
+    hr.sr.bs&0.982&0.987&0.945&0.973\\
+    sl.hr.sr&0.979&0.979&0.946&0.969\\
+    sl.hr.sr.bs&0.971&0.976&0.92&0.957\\
+    sl.hr.sr.bs.mk&0.988&0.978&0.942&0.97\\
+    \bottomrule
+  \end{tabular}
+\end{table}
 
 \section{Conclusion}
+We have shown that model performance is not influenced substantially when trained with other than a target language.
+Even though our initial assumption most probably doesn't hold, the result is stil positive especially when model needs to be used in a multilingual setting.
+When using multilingual model in an application, we can be quite sure that the performance would not degrade much if we would to fine-tune the model with additional languages.
 
 %%
 %% The acknowledgments section is defined using the "acks" environment
 %% (and NOT an unnumbered section). This ensures the proper
 %% identification of the section in the article metadata, and the
 %% consistent spelling of the heading.
-\begin{acks}
-To Robert, for the bagels and explaining CMYK and color spaces.
-\end{acks}
+%\begin{acks}
+%To Robert, for the bagels and explaining CMYK and color spaces.
+%\end{acks}
 
 %%
 %% The next two lines define the bibliography style to be used, and
@@ -417,40 +504,13 @@ To Robert, for the bagels and explaining CMYK and color spaces.
 \bibliographystyle{ACM-Reference-Format}
 \bibliography{atlner}
 
-
 %%
 %% If your work has an appendix, this is the place to put it.
 \appendix
 
-\section{Research Methods}
-
-\subsection{Part One}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi
-malesuada, quam in pulvinar varius, metus nunc fermentum urna, id
-sollicitudin purus odio sit amet enim. Aliquam ullamcorper eu ipsum
-vel mollis. Curabitur quis dictum nisl. Phasellus vel semper risus, et
-lacinia dolor. Integer ultricies commodo sem nec semper.
-
-\subsection{Part Two}
-
-Etiam commodo feugiat nisl pulvinar pellentesque. Etiam auctor sodales
-ligula, non varius nibh pulvinar semper. Suspendisse nec lectus non
-ipsum convallis congue hendrerit vitae sapien. Donec at laoreet
-eros. Vivamus non purus placerat, scelerisque diam eu, cursus
-ante. Etiam aliquam tortor auctor efficitur mattis.
-
 \section{Online Resources}
 
-Nam id fermentum dui. Suspendisse sagittis tortor a nulla mollis, in
-pulvinar ex pretium. Sed interdum orci quis metus euismod, et sagittis
-enim maximus. Vestibulum gravida massa ut felis suscipit
-congue. Quisque mattis elit a risus ultrices commodo venenatis eget
-dui. Etiam sagittis eleifend elementum.
-
-Nam interdum magna at lectus dignissim, ac dignissim lorem
-rhoncus. Maecenas eu arcu ac neque placerat aliquam. Nunc pulvinar
-massa et mattis lacinia.
+All the results, code and corpora can be found at \url{https://github.com/ivlcic/trans-ner}
 
 \end{document}
 \endinput
