@@ -261,7 +261,7 @@ The problem with comparison of both prior work is that the:
 \end{itemize}
 were not strictly the same in both experiments so, one has to be really cautious when evaluating the performance metrics or deriving conclusions from it.
 \section{Data Description}
-We used the most common and established NER corpora for selected languages where possible (~\ref{tab:corpora}).
+We used the most common and established NER corpora for selected languages where possible (see Table\ref{tab:corpora}).
 The assumption with gathering corpora was also: the more the better.
 This would most probably bring us closer to truth.
 \begin{table}[H]
@@ -277,7 +277,7 @@ This would most probably bring us closer to truth.
     sl&scr&18139&391526&{SentiCoref} 1.0\cite{SentiCoref-10}\\
     \midrule
     hr&bsnlp&820&18704&BSNLP 2017 and 2021\cite{piskorski-etal-2021-slav}\\
-    hr&500k&820&18704&hr500k 1.0\cite{hr500k-10}\\
+    hr&500k&24780&504227&hr500k 1.0\cite{hr500k-10}\\
     \midrule
     sr&set&3891&86726&{SETimes}.{SR} 1.0\cite{SETimes-SR-1.0}\\
     \midrule
@@ -361,7 +361,7 @@ Prior work used two pre-trained multilingual models from Hugging Face with best 
   \item XLM-RoBERTa (base sized model)\cite{DBLP:journals/corr/abs-1911-02116}
 \end{itemize}
 
-Due to task and resource limitations, we continued with our experiments using only XLM-RoBERTa base sized model,
+Due to the task and resource limitations, we continued with our experiments using only XLM-RoBERTa base sized model,
 since the initial baseline tests showed, that XLM-RoBERTa consistently outperforms BERT model (see Table ~\ref{tab:roberta_vs_bert})
 
 \begin{table}[H]
@@ -394,7 +394,7 @@ For all experiments the following hyper-parameters were used:
 \end{itemize}
 
 \subsection{Method}
-The selected method was to first develop a baseline models for each language and produce NER classification measurements.
+The selected method was first to develop a baseline model for each language and produce NER classification measurements.
 Baseline models were fine-tuned with only one (target) language.
 Next we combined additional language corpora, re-train the model and measure performance.
 
@@ -403,6 +403,7 @@ Next we combined additional language corpora, re-train the model and measure per
 For evaluation we used target language test set and measure performance against fine-tuned models.
 Baseline is always shown in figure's first column.
 Overall F1 score is a macro averaged F1 score over all three NER tags.
+We excluded Bosnian and Macedonian language analysis, due to time and resource constraints and were also chosen for exclusion because of their corpora structure.
 
 \subsection{Slovene}
 
@@ -412,10 +413,14 @@ Overall F1 score is a macro averaged F1 score over all three NER tags.
   \includegraphics[width=\linewidth]{eval_sl}
 \end{figure}
 
+The Slovene test set shows surprising model stability.
+This stability comes assumingly from larger corpora compared to others.
+It might be that the quality of the corpora plays a crucial role in this observation.
+
 \begin{table}[H]
   \caption{Slovene language test set model performance}
   \label{tab:eval_sl}
-  \begin{tabular}{llrrrr}
+  \begin{tabular}{lrrrrr}
     \toprule
     Model&PER F1&LOC F1&ORG F1&Overall F1\\
     \midrule
@@ -426,12 +431,20 @@ Overall F1 score is a macro averaged F1 score over all three NER tags.
     sl.hr.sr&0.964&0.958&0.925&0.949\\
     sl.hr.sr.bs&0.964&0.953&0.926&0.948\\
     sl.hr.sr.bs.mk&0.962&0.952&0.926&0.947\\
+    \midrule
+    avg. dist.&0.00071&0.00695&0.00634&0.00433\\
     \bottomrule
   \end{tabular}
 \end{table}
 
+If we observe the average distance from the baseline we can se that it is only near half percent.
+
 \subsection{Croatian}
 
+Croatian language test set shows grater variability when tested with different models.
+Greatest variability can be observed on the ORG tag.
+It might be that the other corpora is influencing variability since we can observe the largest drop from the baseline when the Bosnian language is included in the fine-tuning.
+Yet again we can se that the average distance from the baseline id between 0.5\% and 1\%.
 \begin{figure}[h]
   \label{fig:eval_hr}
   \centering
@@ -453,12 +466,16 @@ Overall F1 score is a macro averaged F1 score over all three NER tags.
     sl.hr.sr&0.923&0.908&0.865&0.899\\
     sl.hr.sr.bs&0.938&0.927&0.873&0.912\\
     sl.hr.sr.bs.mk&0.925&0.911&0.861&0.899\\
+    \midrule
+    avg. dist.&0.00757&0.00554&0.00977&0.00624\\
     \bottomrule
   \end{tabular}
 \end{table}
 
 \subsection{Serbian}
-
+Serbian language test set is the only one that increased its performance measurements with respect to its baseline.
+Its average distance in performance measurements from the baseline is from approximately 0.5\% to 2.5\%.
+The main suspect for this phenomena is the Serbian corpora size - it's the smallest included in this analysis.
 \begin{figure}[h]
   \label{fig:eval_sr}
   \centering
@@ -480,12 +497,14 @@ Overall F1 score is a macro averaged F1 score over all three NER tags.
     sl.hr.sr&0.979&0.979&0.946&0.969\\
     sl.hr.sr.bs&0.971&0.976&0.92&0.957\\
     sl.hr.sr.bs.mk&0.988&0.978&0.942&0.97\\
+    \midrule
+    avg. dist.&0.01885&0.00372&0.02603&0.01504\\
     \bottomrule
   \end{tabular}
 \end{table}
 
 \section{Conclusion}
-We have shown that model performance is not influenced substantially when trained with other than a target language.
+We have shown that the model performance is not influenced substantially when trained with other than a target language.
 Even though our initial assumption most probably doesn't hold, the result is stil positive especially when model needs to be used in a multilingual setting.
 When using multilingual model in an application, we can be quite sure that the performance would not degrade much if we would to fine-tune the model with additional languages.
 
@@ -510,7 +529,7 @@ When using multilingual model in an application, we can be quite sure that the p
 
 \section{Online Resources}
 
-All the results, code and corpora can be found at \url{https://github.com/ivlcic/trans-ner}
+All the results including the ones not presented in this paper, together with code and corpora can be found online at \url{https://github.com/ivlcic/trans-ner}.
 
 \end{document}
 \endinput
