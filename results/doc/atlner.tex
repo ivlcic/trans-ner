@@ -46,10 +46,11 @@
 %%
 %%
 \documentclass[sigconf]{acmart}
-\usepackage{hyperref}
 \usepackage{graphicx}
 \usepackage{geometry}
-%\usepackage{float}
+\usepackage{hyperref}
+\usepackage{color}
+\hypersetup{colorlinks=true,linkcolor=blue}
 \geometry{a4paper}
 %\citestyle{acmauthoryear}
 
@@ -529,7 +530,10 @@ When using multilingual model in an application, we can be quite sure that the p
 
 \section{Online Resources}
 
-All the results including the ones not presented in this paper, together with code and corpora can be found online at \url{https://github.com/ivlcic/trans-ner}.
+All the measurement results including the ones not presented in this paper, together with code and corpora can be found online at
+{\color{blue}\href{https://github.com/ivlcic/trans-ner}{Github}}.
+A more user friendly results are also available as a
+{\color{blue}\href{https://docs.google.com/spreadsheets/d/16UaPR-qneNN8mlzjNkjc9kdry2eQl4J84t3EfDOtBj0/edit?usp=sharing}{Spreadsheet}}.
 
 \end{document}
 \endinput

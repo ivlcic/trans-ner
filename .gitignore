@@ -5,6 +5,7 @@ tmp/*
 models
 results/models
 venv
+out
 /results/doc/comment.cut
 /results/doc/atlner.xcp
 /results/doc/atlner.out
