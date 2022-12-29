@@ -418,7 +418,7 @@ For the evaluation we used target language test set, and measure performance aga
 Overall F1 score, used in the evaluation tables and figures, is a macro averaged F1 score over all three NER tags.
 
 We excluded Bosnian and Macedonian language analysis, due to time and resource constraints.
-Their corpora structure also influenced this decision, but nevertheless, we included them in the evaluation, to see if something interesting would emerge.
+Their corpora structure also influenced this decision, but nevertheless, we included them in the evaluation of other languages, to see if something interesting would emerge.
 
 Average distance from the baseline was used as a measure, to show overall variability of different models tested wih same test set.
 \subsection{Slovene}
@@ -463,7 +463,7 @@ If we observe the average distance from the baseline, in the table's last row, w
 Croatian language test set shows greater variability when tested with different models.
 The greatest variability can be observed on the ORG tag.
 It might be that the other corpora training is influencing variability.
-We can se that the average distance from the baseline is between 0.5\% and 1\%.
+We can see that the average distance from the baseline is between 0.5\% and 1\%.
 \begin{figure}[h]
   \caption{Croatian language test set model performance}
   \label{fig:eval_hr}
@@ -533,7 +533,7 @@ Especially when target language is presented with enough training data.
 Fine-tuning with other languages may be beneficial only for the ``low resource'' languages.
 
 Our initial assumption doesn't hold, but the result is stil positive when model needs to be used in a multilingual setting.
-When using multilingual model in an application, we can be quite sure that the performance would not degrade much if we would to fine-tune the model with additional languages.
+When using multilingual model in an application, we can be quite sure that the performance would not degrade much if we would to fine-tune the model with additional language corpora.
 
 %%
 %% The acknowledgments section is defined using the "acks" environment
