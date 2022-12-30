@@ -218,6 +218,7 @@
   This paper analyzes a Named Entity Recognition task for South-Slavic languages using the pre-trained multilingual neural network models.
   Observing the performance metrics from prior research showed that the performance of the fine-tuned multilingual neural model is very close to the performance of the monolingual one.
   This observation leads us to a question that this paper aims to answer: Can the fine-tuning of multilingual pre-trained embeddings, other than the target language corpora, improve named entity recognition for a specific language?
+  We show that the model performance is not influenced substantially, especially if the target language has rich Named Entity training corpora.
 \end{abstract}
 
 %%
@@ -256,14 +257,11 @@ The prior work mentioned above has shown that the monolingual NER model performa
 Additionally, the Clipping industry project multilingual model was fine-tuned with other language corpora from the same - South-Slavic family.
 
 The question that naturally arises from prior work and this paper tries to answer is this: Did the fine-tuning with related languages influence the performance of a multilingual model?
-The problem with comparing both prior works is that the:
-\begin{itemize}
-\item corpus preprocessing
-\item pre-trained models
-\item hyper-parameters
-\item performance measures
-\end{itemize}
-were different in both experiments, so one has to be cautious when evaluating the performance metrics or deriving conclusions from them.
+The problem with comparing both prior works is that the: corpus preprocessing, pre-trained models, hyper-parameters, performance measures were different in both experiments, so one has to be cautious when evaluating the performance metrics or deriving conclusions from them.
+
+First, we present the corpora we used and how we preprocessed them, followed by their analysis.
+Next, we continue with a method where we first introduce the measures, models, hyper-parameters, and software used.
+Finally, we finish this paper by evaluating the results and presenting conclusions.
 
 \section{Data Description}
 \label{sec:data-description}
@@ -309,7 +307,7 @@ All non-common tags, including MISC, were replaced with O (outside IOB).
 
 The second obstacle was the difference in format.
 BSNLP corpus, for instance, uses separate files for verbatim text and NER tags, with no positional reference between one another.
-To solve this problem, we used CLASSLA~\cite{ljubesic-dobrovoljc-2019-neural} sentence segmentation and tokenization with a custom conversion script.
+We used CLASSLA~\cite{ljubesic-dobrovoljc-2019-neural} sentence segmentation and tokenization with a custom conversion script to solve this problem.
 
 The third step was to remove sentences longer than 128 tokens and convert corpora from standard CoNLL format to CSV format with two fields:
 \begin{itemize}
