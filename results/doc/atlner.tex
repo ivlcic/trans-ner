@@ -50,10 +50,13 @@
 \usepackage{graphicx}
 \usepackage{geometry}
 \usepackage{hyperref}
-\usepackage{color}
+\usepackage{color, soul}
 \hypersetup{colorlinks=true,linkcolor=blue}
 \geometry{a4paper}
 %\citestyle{acmauthoryear}
+
+% for comments
+\newcommand{\mpu}[1]{\hl{\textbf{MP:} #1}}
 
 %%
 %% \BibTeX command to typeset BibTeX logo in the docs
@@ -134,31 +137,19 @@
 %% used to denote shared contribution to the research.
 \author{Nikola Ivačič}
 %\authornote{Both authors contributed equally to this research.}
-\email{nikola.ivacic@gmail.com}
+% \email{nikola.ivacic@gmail.com}
 %\orcid{1234-5678-9012}
 %\author{G.K.M. Tobin}
 %\authornotemark[1]
 %\email{webmaster@marysville-ohio.com}
-\affiliation{%
-  \institution{Jožef Stefan Institute\\
-  Jamova cesta 39}
-  \streetaddress{Jamova cesta 39}
-  \city{Ljubljana}
-  \country{Slovenia}
-  \postcode{1000}
-}
+
 
 \author{Hanh Tran}
-\affiliation{%
-  \institution{Jožef Stefan Institute\\
-  Jamova cesta 39}
-  \streetaddress{Jamova cesta 39}
-  \city{Ljubljana}
-  \country{Slovenia}
-  \postcode{1000}}
-
 \author{Boshko Koloski}
-\affiliation{%
+\author{Senja Pollak}
+\author{Marko Pranjić}
+\author{Nada Lavrač}
+\affiliation{
   \institution{Jožef Stefan Institute\\
   Jamova cesta 39}
   \streetaddress{Jamova cesta 39}
@@ -167,41 +158,15 @@
   \postcode{1000}
 }
 
-\author{Senja Pollak}
-\affiliation{%
- \institution{Jožef Stefan Institute\\
-  Jamova cesta 39}
-  \streetaddress{Jamova cesta 39}
-  \city{Ljubljana}
-  \country{Slovenia}
-  \postcode{1000}}
-
-\author{Marko Pranjić}
-\affiliation{%
-  \institution{Jožef Stefan Institute\\
-  Jamova cesta 39}
-  \streetaddress{Jamova cesta 39}
-  \city{Ljubljana}
-  \country{Slovenia}
-  \postcode{1000}}
-
 \author{Matthew Purver}
-\affiliation{%
+\affiliation{
   \institution{School of Electronic Engineering and Computer Science\\
   Queen Mary University of London}
   \streetaddress{Mile End Road\\
    London E1 4NS, UK}
   \city{London}
-  \country{UK}}
-
-\author{Nada Lavrač}
-\affiliation{%
-  \institution{Jožef Stefan Institute\\
-  Jamova cesta 39}
-  \streetaddress{Jamova cesta 39}
-  \city{Ljubljana}
-  \country{Slovenia}
-  \postcode{1000}}
+  \country{UK}
+}
 
 %%
 %% By default, the full list of authors will be used in the page
@@ -216,8 +181,8 @@
 %% article.
 \begin{abstract}
   This paper analyzes a Named Entity Recognition task for South-Slavic languages using the pre-trained multilingual neural network models.
-  Observing the performance metrics from prior research showed that the performance of the fine-tuned multilingual neural model is very close to the performance of the monolingual one.
-  This observation leads us to a question that this paper aims to answer: Can the fine-tuning of multilingual pre-trained embeddings, other than the target language corpora, improve named entity recognition for a specific language?
+  Observing performance metrics from prior research showed that the performance of the fine-tuned multilingual neural model is very close to the performance of the monolingual one.
+  This observation leads us to a question that this paper aims to answer: Can the fine-tuning of multilingual pre-trained embeddings, without using the target dataset itself, improve named entity recognition for a specific language?
   We show that the model performance is not influenced substantially, especially if the target language has rich Named Entity training corpora.
 \end{abstract}
 
@@ -244,9 +209,9 @@
 
 \section{Introduction}
 \label{sec:introduction}
-Multilingual neural models simplify scalability and applications where many languages are needed for the NLP task.
+Multilingual neural models simplify scalability and applications where many languages are needed for the Natural Language Processing (NLP) task.
 Getting the performance of a multilingual neural model as close as possible to the performance of a monolingual one can be very beneficial.
-Named Entity Recognition (NER) is also one of the cornerstones of the Natural Language Processing (NPL) tasks in many text processing systems.
+Named Entity Recognition (NER) is also one of the cornerstones of the NLP tasks in many text processing systems.
 
 We observed two prior works:
 \begin{itemize}
@@ -256,8 +221,8 @@ We observed two prior works:
 The prior work mentioned above has shown that the monolingual NER model performance for the Slovene language is practically equal to that of a multilingual one.
 Additionally, the Clipping industry project multilingual model was fine-tuned with other language corpora from the same - South-Slavic family.
 
-The question that naturally arises from prior work and this paper tries to answer is this: Did the fine-tuning with related languages influence the performance of a multilingual model?
-The problem with comparing both prior works is that the: corpus preprocessing, pre-trained models, hyper-parameters, performance measures were different in both experiments, so one has to be cautious when evaluating the performance metrics or deriving conclusions from them.
+The question that naturally arises from prior work and this paper tries to answer is this: Did the fine-tuning with related languages influence the performance of a multilingual model compared to fine-tuning only in the target language?
+The problem with comparing both prior works is that the: corpus preprocessing, pre-trained models, hyper-parameters, and performance measures were different in both experiments, so one has to be cautious when evaluating the performance metrics or deriving conclusions from them.
 
 First, we present the corpora we used and how we preprocessed them, followed by their analysis.
 Next, we continue with a method where we first introduce the measures, models, hyper-parameters, and software used.
@@ -265,37 +230,77 @@ Finally, we finish this paper by evaluating the results and presenting conclusio
 
 \section{Data Description}
 \label{sec:data-description}
+In this section, we first present all the corpora used. Then, we continue with the description of the conversion of these datasets to the expected format and conclude with the corpora structure analysis.
+
 We used the most common and established NER corpora for selected languages (see Table~\ref{tab:corpora}).
 The assumption and strategy for gathering corpora were also: ``the more, the better.''
+%\begin{table}[H]
+  %\caption{List of Used Corpora \hl{define what each column represents -}}
+  %\label{tab:corpora}
+  %\begin{tabular}{llrrl}
+    %\toprule
+    %Lang.&Abbr.&Sentences&Tokens&Name\\
+    %\midrule
+
+    %\multicolumn{4}{}{}
+    %sl&bsnlp&18106&400291&BSNLP 2017/21~\cite{piskorski-etal-2021-slav}\\
+    %sl&500k&9483&193611&ssj500k 2.3~\cite{ssj500k-23}\\
+    %sl&ewsd&2024&31233&{ELEXIS}-{WSD} 1.0~\cite{ELEXIS-WSD-10}\\
+    %sl&scr&18139&391526&{SentiCoref} 1.0~\cite{SentiCoref-10}\\
+    %\midrule
+    %hr&bsnlp&820&18704&BSNLP 2017 and 2021~\cite{piskorski-etal-2021-slav}\\
+    %hr&500k&24780&504227&hr500k 1.0 ~ \cite{hr500k-10}\\
+    %\midrule
+    %sr&set&3891&86726&{SETimes}.{SR} 1.0~\cite{SETimes-SR-1.0}\\
+    %\midrule
+    %bs&wann&8917&199378&WikiANN - PAN-X~\cite{rahimi-etal-2019-massively}\\
+    %\midrule
+    %mk&wann&16227&156467&WikiANN - PAN-X~\cite{rahimi-etal-2019-%massively}\\
+%  \bottomrule
+%  \end{tabular}
+%\end{table}
+
 \begin{table}[H]
-  \caption{List of Used Corpora}
+  \caption{List of Used Corpora - shows each corpus with an abbreviated name used in this paper, followed by the number of sentences, the number of tokens it contains, and lastly, its long name.}
   \label{tab:corpora}
-  \begin{tabular}{llrrl}
+  \begin{tabular}{lrrl}
     \toprule
-    Lang.&Abbr.&Sentences&Tokens&Name\\
+    Corpus&Sentences&Tokens&Long Name\\
     \midrule
-    sl&bsnlp&18106&400291&BSNLP 2017/21~\cite{piskorski-etal-2021-slav}\\
-    sl&500k&9483&193611&ssj500k 2.3~\cite{ssj500k-23}\\
-    sl&ewsd&2024&31233&{ELEXIS}-{WSD} 1.0~\cite{ELEXIS-WSD-10}\\
-    sl&scr&18139&391526&{SentiCoref} 1.0~\cite{SentiCoref-10}\\
+    \multicolumn{4}{c}{Slovenian} \\
     \midrule
-    hr&bsnlp&820&18704&BSNLP 2017 and 2021~\cite{piskorski-etal-2021-slav}\\
-    hr&500k&24780&504227&hr500k 1.0\~cite{hr500k-10}\\
+    bsnlp&18106&400291&BSNLP 2017/21~\cite{piskorski-etal-2021-slav}\\
+    500k&9483&193611&ssj500k 2.3~\cite{ssj500k-23}\\
+    ewsd&2024&31233&{ELEXIS}-{WSD} 1.0~\cite{ELEXIS-WSD-10}\\
+    scr&18139&391526&{SentiCoref} 1.0~\cite{SentiCoref-10}\\
     \midrule
-    sr&set&3891&86726&{SETimes}.{SR} 1.0~\cite{SETimes-SR-1.0}\\
+    \multicolumn{4}{c}{Croatian} \\
     \midrule
-    bs&wann&8917&199378&WikiANN - PAN-X~\cite{rahimi-etal-2019-massively}\\
+    bsnlp&820&18704&BSNLP 2017 and 2021~\cite{piskorski-etal-2021-slav}\\
+    500k&24780&504227&hr500k 1.0 ~ \cite{hr500k-10}\\
     \midrule
-    mk&wann&16227&156467&WikiANN - PAN-X~\cite{rahimi-etal-2019-massively}\\
+    \multicolumn{4}{c}{Serbian} \\
+    \midrule
+    set&3891&86726&{SETimes}.{SR} 1.0~\cite{SETimes-SR-1.0}\\
+    \midrule
+    \multicolumn{4}{c}{Bosnian} \\
+    \midrule
+    wann&8917&199378&WikiANN - PAN-X~\cite{rahimi-etal-2019-massively}\\
+    \midrule
+    \multicolumn{4}{c}{Macedonian} \\
+    \midrule
+    wann&16227&156467&WikiANN - PAN-X~\cite{rahimi-etal-2019-massively}\\
   \bottomrule
   \end{tabular}
 \end{table}
 We used NER tags in IOB2~\cite{IOB2} format from the CoNLL-2003 shared task~\cite{CoNLL2003} as a common denominator for all corpora and experiments.
 Each corpus was first combined if split, then converted to a common format, reshuffled, and split to train/dev/test set in an 80/10/10 ratio.
 
+%\mpu{might be nice to give an actual example of one or two sentences with NER tags. I know NER is a very standard task these days, but it always feels slightly uncomfortable to have a NLP paper where you don't show what the actual language data looks like, or what the task actually is}
+
 We produced combined corpora by concatenating the sets without further reshuffling so that the experiments could be repeated.
 
-The Slovene corpora were obtained from BSNLP and parts of a newly published combined Training corpus {SUK} 1.0~\cite{SUK-1.0}
+The Slovene corpora were obtained from BSNLP, and parts of a newly published combined Training corpus {SUK} 1.0~\cite{SUK-1.0}
 %Prepared and converted data is available on Github for convenience and possible manual review (move to online resources?).
 
 \subsection{Data Conversion}
@@ -315,19 +320,29 @@ The third step was to remove sentences longer than 128 tokens and convert corpor
   \item NER: white space separated NER tags for each sentence word token.
 \end{itemize}
 
+\begin{table}[H]
+  \caption{Example whitespace separated sentence word tokens with corresponding IOB2 NER tags.}
+  \label{tab:ner_example}
+  \begin{tabular}{llllll}
+    \toprule
+    Obtoženka&Asia&Bibi&zapustila&Pakistan\\
+    \midrule
+    O&B-PER&I-PER&O&B-LOC\\
+    \bottomrule
+  \end{tabular}
+\end{table}
 The fourth and final step was splitting the corpus data into train, test, and dev sets.
 
 \subsection{Corpora analysis}
 \label{subsec:corpora-analysis}
 Comparing the corpora showed the differences that could potentially be problematic for obtaining aligned model performance.
-Especially considering the NER tag ratios where the WikiANN automatically annotated corpora structure was standing
-out (see Table~\ref{tab:corpora_analysis} and Figure~\ref{fig:corpora_analysis}).
+Especially considering the NER tag ratios where the WikiANN automatically annotated corpora structure was standing out (see Table~\ref{tab:corpora_analysis} and Figure~\ref{fig:corpora_analysis}).
 \begin{table}[H]
-  \caption{Analysis of Combined Corpora}
+  \caption{Analysis of Combined Corpora - shows each language's combined corpora number of tokens per sentence, followed by the number of NER tags per token. Finally, the PER, LOC, and ORG columns show the ratios with respect to all NER tags.}
   \label{tab:corpora_analysis}
   \begin{tabular}{lrrrrr}
     \toprule
-    lang&tok.\ / sent.&NER / tok.&PER&LOC&ORG\\
+    Lang.&tok.\ per sent.&NER per tok.&PER&LOC&ORG\\
     \midrule
     sl&21.29&9.09\%&31.70\%&22.20\%&34.13\%\\
     hr&20.43&7.41\%&28.71\%&20.55\%&30.82\%\\
@@ -335,60 +350,40 @@ out (see Table~\ref{tab:corpora_analysis} and Figure~\ref{fig:corpora_analysis})
     bs&\textbf{7.81}&\textbf{36.91\%}&31.65\%&29.67\%&38.67\%\\
     mk&\textbf{9.64}&\textbf{28.07\%}&34.89\%&30.32\%&34.79\%\\
     \bottomrule
-    \multicolumn{6}{c}{PER, LOC and ORG are ratios with respect to NER}
-    %\multicolumn{6}{r}{MISC tag is excluded}
   \end{tabular}
 \end{table}
 
 \begin{figure}[h]
-  \caption{WikiANN corpus skew}
-  \label{fig:corpora_analysis}
   \centering
   \includegraphics[width=\linewidth]{wikiann-skew}
+  \caption{WikiANN corpus skew}
+  \label{fig:corpora_analysis}
 \end{figure}
 
 Fortunately, we were unable to detect any inconsistencies regarding performance measurements.
 
 \section{Methods}
 \label{sec:methods}
+%\hl{Always try to add an introduction on what will be discussed in the following section. }
+In the following section, we will introduce the hypothesis and discuss the methods used for testing it.
+
+We hypothesize that the NER classification F1-score increases when we fine-tune the pre-trained multilingual model with an additional, related language.
+
+%\mpu{there's no clear statement of what your objective is: what is the hypothesis you are testing, and how. This is probably the right place.}
+\subsection{Method}
+\label{subsec:method}
+The selected method was first to select the pre-trained embeddings, train the baseline model for each language and produce NER classification measurements.
+Baseline models were fine-tuned with only one - target language.
+Next, we combined additional language corpora, re-trained the model, and again measured performance against the target language test set.
+
+We used the Hugging Face's transformers Python library~\cite{wolf-etal-2020-transformers} for all the experiments.
 
 \subsection{Measurements}
 \label{subsec:measurements}
-For the classification measurements, the Seqeval library~\cite{seqeval} was used.
+For all classification measurements, the Seqeval library~\cite{seqeval} was used.
 Although the library uses CoNLL evaluation by default, we chose ``strict'' mode evaluation.
 When calculating measurements, the strict mode also considers the IOB tag's ``beginning'' and ``inside'' parts.
 Therefore the NER tags must match exactly.
-
-\subsection{Model selection}
-\label{subsec:model-selection}
-We used the Hugging Face's transformers Python library~\cite{wolf-etal-2020-transformers} for all the experiments.
-Prior work used two pre-trained multilingual models from Hugging Face (among others), which produced the best results:
-\begin{itemize}
-  \item BERT multilingual base model (cased)~\cite{DBLP:journals/corr/abs-1810-04805}
-  \item XLM-RoBERTa (base sized model)~\cite{DBLP:journals/corr/abs-1911-02116}
-\end{itemize}
-
-Due to the task and resource limitations, we continued with our experiments using only XLM-RoBERTa base sized model,
-since the initial baseline tests showed that XLM-RoBERTa consistently outperforms the BERT model (see Table~\ref{tab:roberta_vs_bert})
-
-\begin{table}[H]
-  \caption{XLM-RoBERTa vs. BERT multilingual cased}
-  \label{tab:roberta_vs_bert}
-  \begin{tabular}{llrrrr}
-    \toprule
-    Model&Corpora&Precision&Recall&F1&Accuracy\\
-    \midrule
-    mcbert&bsnlp&0.935&0.931&0.933&0.990\\
-    xlmrb&bsnlp&0.947&0.954&\textbf{0.951}&0.993\\
-    \midrule
-    mcbert&ssj500k&0.826&0.828&0.827&0.984\\
-    xlmrb&ssj500k&0.869&0.902&\textbf{0.885}&0.990\\
-    \midrule
-    mcbert&bsnlp+ssj500k&0.898&0.903&0.900&0.986\\
-    xlmrb&bsnlp+ssj500k&0.929&0.931&\textbf{0.930}&0.990\\
-    \bottomrule
-  \end{tabular}
-\end{table}
 
 \subsection{Parameters}
 \label{subsec:parameters}
@@ -398,33 +393,92 @@ For all the experiments, we used the following hyper-parameters:
   \item PyTorch's AdamW algorithm with 5e-5 learning rate
   \item batch size of 20
   \item 40 epochs
-  \item F1 score for best model selection and training progression.
+  \item F1-score for best model selection and training progression.
 \end{itemize}
 
-\subsection{Method}
-\label{subsec:method}
-The selected method was first to train the baseline model for each language and produce NER classification measurements.
-Baseline models were fine-tuned with only one - target language.
-Next, we combined additional language corpora, re-train the model, and again measured performance against the target language test set.
+
 
 \section{Evaluation}
 \label{sec:evaluation}
-We used a target language test set for the evaluation and measured performance against the fine-tuned models.
+In the following section, we define the F1-score we used for evaluation, and then we present the experiment results: the evaluation of the pre-trained multilingual model, followed by the evaluation
+of fine-tuning for each language.
 
-The overall F1 score, used in the evaluation tables and figures, is a macro-averaged F1 score over all three NER tags.
+\subsection{Evaluation measure}
+For the evaluation of the classification models, we used the traditional F-measure or balanced F-score, which is the harmonic mean of precision and recall:
+\begin{equation*}
+    \text{F1-score} = 2  \cdot \frac{Precision \cdot Recall}{Precision +  Recall}
+\end{equation*}
+The Precision and Recall are defined as:
+\begin{equation*}
+\begin{split}
+    \text{Precision} = \frac{TP}{TP + FP}
+\end{split}
+\quad\quad
+\begin{split}
+    \text{Recall} = \frac{TP}{TP + FN}
+\end{split}
+\end{equation*}
+given that:
+\begin{itemize}
+  \item FP: a NER tag that is predicted but not present in the test.
+  \item FN: a NER tag present in the test but missing in our prediction.
+  \item TP: a NER tag that is correctly predicted.
+\end{itemize}
+
+%We used a target language test set for the evaluation and measured performance against the fine-tuned models.
+The overall F1-score, used in the evaluation tables and figures, is a macro-averaged F1-score over all three NER tags.
+Macro-averaged F1-score is computed using the arithmetic mean of all the per-class F1 scores:
+\begin{equation*}
+    \text{Macro-averaged F1-score} = \frac{1}{n}\sum_{i=1}^{n} F1_i
+\end{equation*}
+where $F1_i$ is the F1-score for $i-th$ NER tag.
+
+The average distance from the baseline was used as a measure to show the overall variability of different models tested with the same test set.
 
 Due to time and resource constraints, we excluded Bosnian and Macedonian language analysis.
 Their corpora structure also influenced this decision, but we included them in evaluating other languages to see if something interesting would emerge.
 
-The average distance from the baseline was used as a measure to show the overall variability of different models tested with the same test set.
+\subsection{Pre-trained model selection}
+\label{subsec:model-selection}
+Prior work used two pre-trained multilingual models from Hugging Face (among others), which produced the best results:
+\begin{itemize}
+  \item BERT multilingual base model (cased)~\cite{DBLP:journals/corr/abs-1810-04805}
+  \item XLM-RoBERTa (base sized model)~\cite{DBLP:journals/corr/abs-1911-02116}
+\end{itemize}
+
+Due to the task and resource limitations, we continued with our experiments using only XLM-RoBERTa base sized model
+since the initial baseline tests showed that XLM-RoBERTa consistently outperforms the BERT model (see Table~\ref{tab:roberta_vs_bert}).
+
+\begin{table}[H]
+  \caption{XLM-RoBERTa vs. BERT multilingual cased}
+  \label{tab:roberta_vs_bert}
+  \begin{tabular}{llrrrr}
+    \toprule
+    Corpora&Precision&Recall&F1&Accuracy\\
+    \midrule
+    \multicolumn{5}{c}{BERT} \\
+    \midrule
+    bsnlp&0.935&0.931&0.933&0.990\\
+    ssj500k&0.826&0.828&0.827&0.984\\
+    bsnlp+ssj500k&0.898&0.903&0.900&0.986\\
+    \midrule
+    \multicolumn{5}{c}{XLM-RoBERTa} \\
+    \midrule
+    bsnlp&0.947&0.954&\textbf{0.951}&0.993\\
+    ssj500k&0.869&0.902&\textbf{0.885}&0.990\\
+    bsnlp+ssj500k&0.929&0.931&\textbf{0.930}&0.990\\
+    \bottomrule
+  \end{tabular}
+\end{table}
+
 \subsection{Slovene}
 \label{subsec:slovene}
 
 \begin{figure}[H]
-  \caption{Slovene language test set model performance}
-  \label{fig:eval_sl}
   \centering
   \includegraphics[width=\linewidth]{eval_sl}
+  \caption{Slovene language test set model performance} %\hl{Sorting the bars in a barchart with respect of the dataset is not much informative - since we are visually asked to compare same colored bars that will always be spatially distant from one another. Consider grouping the bars by the metric rather than the dataset. }}
+  \label{fig:eval_sl}
 \end{figure}
 
 The Slovene test set shows surprising model stability.
@@ -461,10 +515,10 @@ We can observe the most significant variability on the ORG tag.
 It might be that the other corpora training is influencing variability.
 We can see that the average distance from the baseline is between 0.5\% and 1\%.
 \begin{figure}[h]
-  \caption{Croatian language test set model performance}
-  \label{fig:eval_hr}
   \centering
   \includegraphics[width=\linewidth]{eval_hr}
+  \caption{Croatian language test set model performance}
+  \label{fig:eval_hr}
 \end{figure}
 
 \begin{table}[H]
@@ -492,13 +546,13 @@ We can see that the average distance from the baseline is between 0.5\% and 1\%.
 \label{subsec:serbian}
 The Serbian language test set is the only one that increased its performance measurements regarding its baseline.
 Its average distance in performance measurements from the baseline is from approximately 0.5\% to 2.5\%.
-The main suspect for this phenomenon is the Serbian corpora size.
-It's the smallest included in this analysis and the most easily influenced by other corpora.
+The main suspect for this phenomenon is the Serbian corpora size. %\hl{this is an interesting insight, would you dare to draw a plot (or ranking) of the F1-Score divided by the LOGARITHM of the number of training instances per language, maybe we can support this claim strongly) }
+It is the smallest included in this analysis and the most easily influenced by other corpora.
 \begin{figure}[h]
-  \caption{Serbian language test set model performance}
-  \label{fig:eval_sr}
   \centering
   \includegraphics[width=\linewidth]{eval_sr}
+  \caption{Serbian language test set model performance}
+  \label{fig:eval_sr}
 \end{figure}
 
 \begin{table}[H]
@@ -525,10 +579,11 @@ It's the smallest included in this analysis and the most easily influenced by ot
 \section{Conclusion}
 \label{sec:conclusion}
 We have shown that the model performance is not influenced substantially when trained with other than a target language.
-This assumption seems true when we have enough training data for the target language.
+%This assumption \mpu{it's not an `assumption' (something you must assume in order to do your experiment), but a `hypothesis' (something that your experiment tests)} seems true \mpu{`true' is also a dangerous word to use in science. Better to say the hypothesis has (or has not) been upheld} when we have enough training data for the target language.
+%This hypothesis has been upheld.
 Fine-tuning with other languages may benefit only the ``low resource'' languages.
 
-Our initial assumption doesn't hold, but the result is still positive when we use the model in a multilingual setting.
+Our initial hypothesis has not been upheld, but the result is still beneficial:
 When using a multilingual model in an application, the performance would not degrade much if we fine-tune the model with additional language corpora from the same family.
 
 
