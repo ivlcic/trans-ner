@@ -1,5 +1,6 @@
 default_tmp_dir = 'tmp'
 default_data_dir = 'data'
+default_bsnlp_data_dir = 'data_bsnlp'
 default_models_dir = 'models'
 default_corpora_dir = 'corpora'
 
