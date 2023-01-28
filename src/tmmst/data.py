@@ -2,11 +2,12 @@ import json
 import logging
 import os
 import classla
+import stanza
 
 import tmmst.const
 import tmmst.args
 from typing import List, Dict
-
+from stanza.utils.conll import CoNLL
 import numpy as np
 import pandas as pd
 
@@ -33,6 +34,22 @@ def get_classla_tokenizer(lang: str):
     if not os.path.exists(os.path.join(classla_dir, lang)):
         classla.download(lang, classla_dir)
     return classla.Pipeline(lang, dir=classla_dir, processors="tokenize", download_method=2)
+
+
+def get_stanza_tokenizer(lang: str):
+    stanza_dir = os.path.join(tmmst.const.default_tmp_dir, 'stanza')
+    if not os.path.exists(stanza_dir):
+        os.makedirs(stanza_dir)
+    if not os.path.exists(os.path.join(stanza_dir, lang)):
+        stanza.download(lang, stanza_dir)
+    return stanza.Pipeline(lang, dir=stanza_dir, processors="tokenize", download_method=2)
+
+
+def to_conll(doc):
+    if hasattr(doc, "to_conll"):
+        return doc.to_conll()
+    else:
+        return CoNLL.doc2conll_text(doc)
 
 
 def split_data(args, confs: List[Dict]) -> None:

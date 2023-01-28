@@ -82,6 +82,14 @@ def add_seq_to_stats(stats: Dict, seq: List, sentence_id: str, sentence: str) ->
         stats['longest_seq'] = seq_len
 
 
+def parse_mwt_token(r: str) -> List[str]:
+    mwt = r.split('-')
+    result = []
+    for x in range(int(mwt[0]), int(mwt[1]) + 1):
+        result.append(str(x))
+    return result
+
+
 # noinspection DuplicatedCode
 def conll2csv(conll_path: str, base_name: str, append: bool, ner_tag_idx: int, map_filter: Dict[str, Any] = None):
     if map_filter is None:
@@ -129,6 +137,7 @@ def conll2csv(conll_path: str, base_name: str, append: bool, ner_tag_idx: int, m
                     sentence = {'id': None, 'tokens': [], 'text': ''}
                     continue
                 csv.write('"')
+                mwt = []
                 for token in sentence['tokens']:
                     if ner_tags:
                         csv.write(' ')
@@ -138,9 +147,19 @@ def conll2csv(conll_path: str, base_name: str, append: bool, ner_tag_idx: int, m
                         token[1].replace('"', '""')
                     else:
                         csv.write(token[1])
+                    if "-" in token[0]:
+                        mwt = parse_mwt_token(token[0])
+                    if token[0] in mwt:
+                        mwt.remove(token[0])
+                        continue
                     ner_tag = token[ner_tag_idx]
                     if 'NER' in ner_tag:
                         ner_tag = re.findall(r'.*NER=([^|]+)', ner_tag)
+                        if not ner_tag or len(ner_tag) <= 0:
+                            logger.warning('Unable to parse NER tag at [%s:%s]', sentence['id'], sentence['text'])
+                        ner_tag = ner_tag[0].strip()
+                    if 'ner' in ner_tag:
+                        ner_tag = re.findall(r'.*ner=([^|]+)', ner_tag)
                         if not ner_tag or len(ner_tag) <= 0:
                             logger.warning('Unable to parse ner tag at [%s:%s]', sentence['id'], sentence['text'])
                         ner_tag = ner_tag[0].strip()
@@ -241,7 +260,7 @@ def bsnlp_process_raw_record(record: Dict, map_filter: Dict):
                         token_list[j]._ner = 'I-' + ner_tag['tag']
     if count == 0 and len(record['a_ner_t']) > 0:
         logger.warning('No NER matched in [%s] with annotations in [%s]!', record['r_fname'], record['a_fname'])
-    record['conll'] = '# new_doc_id = ' + record['topic'] + '-' + record['id'] + '\n' + doc.to_conll()
+    record['conll'] = '# new_doc_id = ' + record['topic'] + '-' + record['id'] + '\n' + tmmst.data.to_conll(doc)
 
 
 def bsnlp_create_records(bsnlp_path: str, lang: str, map_filter: Dict = None) -> Dict[str, Dict[str, Any]]:

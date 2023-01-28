@@ -1,0 +1,86 @@
+index,sentence,ner
+522,"Počas predvolebnej kampane Trump vyhlasoval , že sa bude snažiť sprostredkovať konečnú dohodu medzi Izraelom a Palestínčanmi , ale riešenie o koexistencii dvoch štátov v danom priestore explicitne nepodporil .",O O O B-PER O O O O O O O O O O B-LOC O B-PER O O O O O O O O O O O O O
+806,"Toto mu spôsobili jeho výroky | TVnoviny . sk Skupina známych amerických hercov a režisérov spustila internetovú petíciu , ktorou odsudzujú výroky miliardára a realitného magnáta Donalda Trumpa , jedného z uchádzačov o nomináciu Republikánskej strany za kandidáta do volieb prezidenta USA .",O O O O O O B-ORG I-ORG O O O O O O O O O O O O O O O O O O B-PER I-PER O O O O O O B-ORG I-ORG O O O O O B-LOC O
+500,"Iniciátorom tohto programu bol George W . Bush , ktorý bol prezidentom práve počas útokov na newyorské dvojičky z 11 . septembra .",O O O O B-PER I-PER I-PER I-PER O O O O O O O O O O O O O O O
+649,"Danko : Európa musí držať spolu , musíme byť súdržní .",I-PER O B-LOC O O O O O O O O
+804,"Politico by Trumpa volilo 45 percent Američanov , Clintonovú 47 percent , čo predpovedá veľmi tesný súboj .",B-MISC O B-PER O O O B-PER O B-PER O O O O O O O O O
+651,"Merkelová : Musíme vychádzať z toho , že išlo o teroristický útok .",O O O O O O O O O O O O O
+324,Európska komisia prijala smernicu o zbraniach :,B-ORG I-ORG O O O O O
+69,Úrad vlády SR,B-ORG I-ORG I-ORG
+811,""" Zažili sme už ( od Trumpa ) nenávistnú a selektívnu rétoriku , ktorá zaznela na jeho predvolebných zhromaždeniach , kde boli ľudia ( z iného politického tábora ) bití , ohrozovaní či vyvedení políciou .",O O O O O O B-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+49,"V rámci prioritnej osi 3 zameranej na podporu riadenia rizík , riadenie mimoriadnych udalostí a odolnosti proti mimoriadnym udalostiam ovplyvneným zmenou klímy je z toho vyčlenených 260 , 9 mil . eur .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+535,Doma som knižku doslova zhltla za pár dní a založila do knižnice .,O O O O O O O O O O O O O
+292,Naše rýchle a efektívne vyšetrovanie zlúčení závisí na presnosti informácií poskytnutých zaujatými firmami .,O O O O O O O O O O O O O O
+839,"V prieskume agentúry Reuters z 9 . augusta sa za Hillary Clinton vyslovilo 42 percent Američanov , za Dinalda Trumpa 35 percent , čo by naznačovalo , že Hillary Clinton vyšuje náskok nad republikánskym kandidátom .",O O O B-ORG O O O O O O B-PER I-PER O O O B-PER O O B-PER I-PER O O O O O O O O B-PER I-PER O O O O O O
+663,"Obama udelil milosť 78 ľuďom , ďalším skrátil tresty .",I-PER O O O O O O O O O
+407,Práve ten postupuje v rámci amerických primárok v úspešnom ťažení .,O O O O O O O O O O O
+319,Prešetrovanie EK sa týkalo manipulácie finančných kontraktov spojených s úrokovou sadzbou Euribor v rokoch 2005 až 2008 .,O B-ORG O O O O O O O O O O O O O O O O
+161,"Vám prinášame reportáž z nášho posledného tohtoročného podujatia a výsledky septembrovej uzávierky 2016 , zvyšok je zameraný na rok 2017 .",O O O O O O O O O O O O O O O O O O O O O
+774,"Jeho posolstvá boli prijaté a dôkazom toho je moment plný podpory , ktorého sme svedkom .",O O O O O O O O O O O O O O O O
+316,"Európska komisárka pre hospodársku súťaž Margrethe Vestagerová uviedla , že tieto tri banky si nelegálne vymieňali citlivé informácie .",O O O O O B-PER I-PER O O O O O O O O O O O O
+747,Napríklad v roku 2013 preniesla späť do Spojených štátov výrobu počítačov Mac .,O O O O O O O O O O O B-MISC O
+798,Denník New York,O B-ORG I-ORG
+563,"Publikovaním príspevku do diskusie potvrdzujete , že ste si pravidlá preštudovali a porozumeli im .",O O O O O O O O O O O O O O O
+831,Volebné hlasy .,O O O
+7,Rezort dopravy potom požiadal prijímateľov eurofondov o reakciu .,O O O O O O O O O
+624,"Možno sa na to pozerať akokoľvek , ale v každom prípade to hodnotím ako neobyčajný výkon a prirovnávam ho k chudobnému gréckemu chlapcovi , menom Aristoteles Onassis , ktorý sa v USA stal podobne jedným z nabohatších ľudí na svete .",O O O O O O O O O O O O O O O O O O O O O O O O O B-PER I-PER O O O O B-LOC O O O O O O O O O
+66,Slovensko koordinuje prioritnú oblasť 4 ( ochrana vôd ) s Maďarskom a prioritnú oblasť 7 ( vedomostná spoločnosť ) so Srbskom,B-LOC O O O O O O O O O B-LOC O O O O O O O O O B-LOC
+117,"EK tvrdí , že členské táty by mali predísť vydávaniu dokladov totožnosti na základe falonej identity , a riadiť sa odporúčaniami , ktoré vydal Európsky policajný úrad ( Europol ) . tátom odporúča , aby si vymenili skúsenosti pri používaní biometrických údajov v dokladoch , lepie monitorovali miesta vydávania dokladov a zabránili krádeži vzorových dokumentov .",B-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+338,"Zdravie , demografické zmeny a kvalita života .",O O O O O O O O
+698,"Donald Trump - flexibilný miliardár Ambície , motivácia , vytrvalosť odhodlanie .",B-PER I-PER O O O O O O O O O O
+537,"Toto leto sme išli na našu úžasnú dovolenku , kde si beriem so sebou niekoľko kníh .",O O O O O O O O O O O O O O O O O
+738,"V roku 2011 sa Steve Jobs vyjadril , že „ tieto pracovné miesta sa už nevrátia "" .",O O O O B-PER I-PER O O O O O O O O O O O O
+94,EK bola spočiatku zložená z dvoch členov väčších členských štátov a po jednom z menších .,B-ORG O O O O O O O O O O O O O O O
+323,"V rámci rovnakého vyšetrovania Európska komisia pred tromi rokmi uložila pokuty v celkovej sume 1 , 04 mld . eur bankám Barclays , Deutsche Bank , RBS a Société Générale .",O O O O B-ORG I-ORG O O O O O O O O O O O O O O O B-ORG O B-ORG I-ORG O B-ORG O B-ORG I-ORG O
+377,"Ten je síce možný , ale podľa politológov nepravdepodobný .",O O O O O O O O O O
+569,Foto : Wikimedia Commons 21 . 12 .2015 ; ( rak ),O O O O O O O O O O O O
+788,"V jej rámci pracujem s autenticitou : ľudí nenaprávam , vediem ich k tomu , aby rečou tela vyjadril to , čo chcú a zároveň ostali sami sebou .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+719,Vsadil aj na hotely a kasína .,O O O O O O O
+430,"Trump plánuje osekať tak dane pre fyzické , ako aj právnické osoby .",B-PER O O O O O O O O O O O O
+258,Komisia dnes navrhla zvýšiť prevádzkovú efektívnosť a účinnosť Schengenského informačného systému ( SIS ) .,O O O O O O O O B-MISC I-MISC I-MISC O B-MISC O O
+58,Na záver fóra prevezme predsedníctvo Dunajskej stratégie maďarský minister zahraničných vecí a obchodu Péter Szijjártó od ministra zahraničných vecí a európskych záležitostí SR Miroslava Lajčáka .,O O O O O B-MISC I-MISC O O O O O O B-PER I-PER O O O O O O O B-LOC B-PER I-PER O
+710,Vlastná cesta .,O O O
+254,Oficiálna tlačová správa :,O O O O
+652,A .,B-PER I-PER
+542,"A pretože je teraz úžasná online doba , i hneď som si cez internet kúpila ďalšie dve knižky od Donalda Trumpa vo forme e-knihy , ktoré som ihneď začala čítať a zapisovala poznámky .",O O O O O O O O O O O O O O O O O O O B-PER I-PER O O O O O O O O O O O O O
+383,To má dať málo obývaným tátom trochu viac slova v rozhodovaní .,O O O O O O O O O O O O
+147,"Sumy , ktoré nám Brusel blokuje : - ministerstvo pôdohospodárstva 12 , 17 a 11 , 4 miliónov eur . - ministerstvo zdravotníctva 13 , 34 milióna eur . - ministerstvo školstva viac ako 9 miliónov eur Plošná korekcia .",O O O O B-LOC O O O B-ORG I-ORG O O O O O O O O O O O B-ORG I-ORG O O O O O O O B-ORG I-ORG O O O O O O O O
+656,"Putin odsúdil vraždu ruského veľvyslanca v Ankare , ktorá mala podľa neho poškodiť rusko-turecké vzťahy .",I-PER O O O O O B-LOC O O O O O O O O O
+473,"Jeho podnikateľské projekty však neboli vždy bezproblémové - má za sebou štyri bankroty , ale vždy sa mu podarilo podnikanie reštrukturalizovať .",O O O O O O O O O O O O O O O O O O O O O O
+346,"Je predsedom a generálnym riaditeľom Trump Organization , ktorá sa zaoberá nehnuteľnosťami .",O O O O O B-ORG I-ORG O O O O O O
+89,obrátiť na Európsky súdny dvor .,O O B-ORG I-ORG I-ORG O
+558,Vážení čitatelia - diskutéri .,O O O O O
+222,Opätovné vydanie alebo rozširovanie obsahu tejto správy bez predchádzajúceho písomného súhlasu SITA a . s . a zmluvných agentúr je výslovne zakázané .,O O O O O O O O O O O B-ORG I-ORG I-ORG I-ORG I-ORG O O O O O O O
+858,"Rád si udržiavam prehľad a rád sa s vami podelím o novinky , či "" hinty "" zo spomínaných oblastí .",O O O O O O O O O O O O O O O O O O O O O
+741,"„ Máme v tejto krajine úžasných ľudí : inteligentných , znalých a energických . . .",O O O O O O O O O O O O O O O O
+490,"Ak si nebudete veriť , neuveria vám ani ostatní .",O O O O O O O O O O
+529,Ale kto je v skutočnosti Donald Trump ?,O O O O O B-PER I-PER O
+61,"Stretnutiu ministrov bude predsedať minister školstva , vedy výskumu a športu SR Peter Plavčan .",O O O O O O O O O O O B-LOC B-PER I-PER O
+202,Hovorkyňa Európskej komisie ( EK ),O B-ORG I-ORG O B-ORG O
+54,"Kvalita životného prostredia je možné nájsť na webovom sídle ministerstva www.minzp.sk v časti „ Služby a Infoservis /Projekty EÚ “ , alebo na webovom sídle",B-MISC I-MISC I-MISC O O O O O O O O O O O O O O O O O O O O O O
+808,"Podpísali ju herci Harry Belafonte , Danny Glover , Kerry Washingtonová , Jane Fonda a Rosanna Arquettová , či režisér Jonathan Demme .",O O O B-PER I-PER O B-PER I-PER O B-PER I-PER O B-PER I-PER O B-PER I-PER O O O B-PER I-PER O
+279,Lídri EÚ sa v piatok dohodli na úprave vzťahov medzi Londýnom a Bruselom na základe požiadaviek britského premiéra Davida Camerona .,O B-LOC O O O O O O O O B-LOC O B-LOC O O O O O B-PER I-PER O
+274,"Ja mám iba jeden plán , a tým je Spojené kráľovstvo v zjednotenej Európe . """,O O O O O O O O O B-LOC I-LOC O O B-LOC O O
+754,"Uchádzač o post prezidenta za Republikánsku stranu sa otvorene vyjadruje , že plne podporuje Putinove kroky v Sýrii a jeho radikálny prístup k organizácii ISIS , ktorá vedie militantnú politiku džihádskeho charakteru .",O O O O O B-ORG I-ORG O O O O O O O B-PER O O B-LOC O O O O O O B-ORG O O O O O O O O
+617,"Ona chcela ostať doma , ale Friedrich nesmel .",O O O O O O B-PER O O
+427,"„ Takýto zdroj neistoty môže firmy viesť k pozastaveniu investičných rozhodnutí , “ dodáva .",O O O O O O O O O O O O O O O
+621,Elisabeth sa už viac nevydala .,B-PER O O O O O
+165,Podpora aktivít zameraných na filmové vzdelávanie,O O O O O O
+795,Oscar-winner Meryl,O B-PER
+761,"Sám neverí jeho vyjadreniam o tom , že Asad je príčinou krízy vo svojej krajine .",O O O O O O O O B-PER O O O O O O O
+693,"Musíte vědět , co pro to udělat .",O O O O O O O O
+349,"Vďaka jeho reality show , The Apprentice , na americkom televíznom kanáli NBC , sa stal Trump ešte slávnejším .",O O O O O B-MISC I-MISC O O O O O B-ORG O O O B-PER O O O
+101,Európska komisia navrhla opatrenia na boj proti falšovaniu dokladov Európska komisia navrhla opatrenia na boj proti falšovaniu dokladov .,B-ORG I-ORG O O O O O O O B-ORG I-ORG O O O O O O O O
+35,Operačný program,O O
+344,venovaná vírusu ZIKA :,O O B-MISC O
+124,"Reštrukturalizácia Váhostavu vzbudzuje podozrenia nielen na Slovensku , ale aj v európskych inštitúciách .",O B-ORG O O O O B-LOC O O O O O O O
+416,"Možnosť , že vo voľbách vyhrá Donald Trump je vysoká .",O O O O O O B-PER I-PER O O O
+423,A to viacerými spôsobmi .,O O O O O
+121,Európska komisia sa zaoberá mojim podnetom vo veci Váhostavu | Ivan Štefanec,B-ORG I-ORG O O O O O O B-ORG O O O
+141,"Kontroly však zistili pochybenia , a preto Európska komisia peniaze z eurofondov Slovensku zablokovala .",O O O O O O O B-ORG I-ORG O O O B-LOC O O
+603,"Každý ale otvorene povie , že by bolo obrovskou poctou pre dedinu , keby ich niekedy v budúcnosti prišiel ich slávny "" krajan "" navštíviť a pozrel si miesto , kde má svoje korene a z ktorého jeho starý otec odchádzal do USA chudobný ako kostolná myš .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O O
+467,"Neskôr študoval na Fordhamskej univerzite , odtiaľ prešiel na Whartonovu školu pri Pensylvánskej univerzite , kde študoval ekonómiu .",O O O B-ORG I-ORG O O O O B-ORG I-ORG O B-ORG I-ORG O O O O O
+725,"Najväčšia Trumpova sláva vzišla z pôsobenia v šoubiznise , kde sa táto osoba ukázala svetu viac .",O B-PER O O O O O O O O O O O O O O O
+431,"Výdavkové škrty by síce tento nárast čiastočne kompenzovali , no podľa amerického nezávislého analytického centra",O O O O O O O O O O O O O O O
+20,NASES : Nešlo o optiku .,B-ORG O O O O O
+305,"Orgánom EK sa rozdeľuje do takzvaných generálnych riaditeľstiev , ktoré sú akousi analógiu ministerstvám .",O B-ORG O O O O O O O O O O O O O

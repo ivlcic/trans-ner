@@ -1,0 +1,860 @@
+sentence,ner
+"Optiku pre školy preveruje Európska komisia .",O O O O B-ORG I-ORG O
+"Hrozí vracanie eurofondov | Živé .sk Európska komisia ( EK ) preveruje štátnu pomoc a verejné obstarávanie okolo projektu Digitálne učivo na dosah , v rámci ktorého ministerstvo školstva a úrad vlády zavádzali optický internet do vyše 200 škôl .",O O O O O O B-ORG I-ORG O B-ORG O O O O O O O O O B-MISC I-MISC I-MISC I-MISC O O O O B-ORG I-ORG O B-ORG I-ORG O O O O O O O O
+"Počítal s rozpočtom 29 , 4 milióna eur vrátane DPH .",O O O O O O O O O O O
+"Informáciu priniesol server e Trend .sk , ktorý získal prezentáciu zo zasadnutia monitorovacieho výboru ministerstva dopravy , ktoré je riadiacim orgánom nového operačného programu Integrovaná infraštruktúra .",O O O O O O O O O O O O O O B-ORG I-ORG O O O O O O O O B-MISC I-MISC O
+"Prebiehanie auditu potvrdila i vedúca tlačového oddelenia zastúpenia EK na Slovensku .",O O O O O O O O B-ORG O B-LOC O
+"Možno štvrtina , všetko aj nič .",O O O O O O O
+"Európski úradníci ešte v auguste zaslali na Slovensko „ varovný list “ .",O O O O O O O B-LOC O O O O O
+"Rezort dopravy potom požiadal prijímateľov eurofondov o reakciu .",O O O O O O O O O
+"Prijímateľom a kompetenčne príslušnou inštitúciou bolo ministerstvo školstva .",O O O O O O B-ORG I-ORG O
+"Úrad vlády je prostredníctvom Národnej agentúry pre sieťové a elektronické služby ( NASES ) prevádzkovateľom siete Govnet .",B-ORG I-ORG O O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG O B-ORG O O O B-MISC O
+"Štátu teraz hrozí , že bude musieť vrátiť 25 percent získaných peňazí .",O O O O O O O O O O O O O
+"Ide pritom o scenár označený ako „ realistický “ .",O O O O O O O O O O
+"Vylúčená nie je ani možnosť 100-percentnej korekcie – Európska únia by tak projekt reálne nepreplatila .",O O O O O O O O B-LOC I-LOC O O O O O O
+"Rovnako ale nie je ani potvrdenie , že k pochybeniam na strane slovenských úradov nakoniec nedošlo .",O O O O O O O O O O O O O O O O O
+"Rezort školstva sa na konci roka 2015 chválil , že sa podarilo pripojiť 218 škôl , vykopalo sa 700 km a použilo cez 1 000 km optických káblov a 3 500 koncových zariadení .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Súčasne vyzvali podpredsedu vlády pre investície a informatizáciu Petra Pellegriniho , aby dohliadol na prešetrenie existujúcich sťažností voči projektu a v prípade ich opodstatnenosti dohliadol na zabezpečenie nápravy .",O O O O O O O O B-PER I-PER O O O O O O O O O O O O O O O O O O O
+"Vicepremiér v júni na konferencii",O O O O O
+"Itapa reagoval , že má záujem , aby nedošlo k narušeniu hospodárskej súťaže a neboli z verejných financií suplované veci , ktoré má robiť biznis .",B-MISC O O O O O O O O O O O O O O O O O O O O O O O O O
+"Niektoré firmy vzniesli námietky na Generálne riaditeľstvo pre hospodársku súťaž Európskej komisie len voči prípravnej fáze projektu , iné voči realizácii a niekoľko spoločností sa ohradilo voči logike projektu všeobecne .",O O O O O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG O O O O O O O O O O O O O O O O O O O
+"Čo si myslí podpredseda vlády Peter Pellegrini o bielych miestach ( otázka začína v čase 1 :17 ) :",O O O O O B-PER I-PER O O O O O O O O O O O O
+"NASES : Nešlo o optiku .",B-ORG O O O O O
+"NASES sa vo vyjadrení pre Živé . sk bránil , že projekt nebol zameraný na pokrývanie bielych miest , teda lokalít bez rýchleho internetu , ale bola to privátna sieť rezortu školstva .",B-ORG O O O O B-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O
+"„ Jeho cieľom je vytvorenie eGov služieb , ktoré umožnia každej zapojenej škole primerane rýchly a kvalitný prístup k digitálnemu vzdelávaciemu obsahu , “ napísal hovorca Martin Dorčák .",O O O O O O O O O O O O O O O O O O O O O O O O O O B-PER I-PER O
+"Spoločnosti obvinili štát aj z toho , že chystá výstavbu sietí mimo bielych miest aj v rámci projektu Broadband , ktorý sa presunul do nového programového obdobia .",O O O O O O O O O O O O O O O O O O B-MISC O O O O O O O O O
+"Doteraz sa spracovala len projektovoinžinierska dokumentácia za necelých 12 , 4 milióna eur .",O O O O O O O O O O O O O O
+"Pellegrini pre",B-PER O
+"Živé . sk povedal , že diskusií na tému bielych miest už bolo dosť .",B-ORG I-ORG O O O O O O O O O O O O O
+"Tento rok chce ukončiť akékoľvek rozhovory na tému a budúci rok spustiť projekt tak , aby na konci volebného obdobia zo Slovenska nepokryté miesta zmizli .",O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O
+"Pripomeňme , že k zoznamu lokalít sa mali vyjadrovať aj operátori – a to tak , či ich plánujú pokryť vo vlastnej réžii .",O O O O O O O O O O O O O O O O O O O O O O O O
+"SLORD > Európska komisia pozýva k formovaniu novej Európskej rady pre inovácie Európska komisia vyzýva najúspešnejsích a najlepších inovátorov Európy ku vstupu do High Level Group , ktorá bude poskytovať rady pre koncepciu novovznikajúcej Európskej rady pre inovácie ( European Innovation Council - EIC ) .",O O B-ORG I-ORG O O O O B-ORG I-ORG O O B-ORG I-ORG O O O O O B-LOC O O O B-ORG I-ORG I-ORG O O O O O O O O B-ORG I-ORG O O O B-ORG I-ORG I-ORG O B-ORG O O
+"Európsky komisár pre výskum , vedy a inovácie Carlos",O O O O O O O O B-PER
+"Moedas prejavil záujem vytvoriť túto inštitúciu už v júni 2015 .",I-PER O O O O O O O O O O
+"Cieľom je zvýšiť dopad európskych výskumných a inovačných programov podporou inovatívnych start-upov a podporou SMEs , aby boli schopné rásť na podniky schopné celosvetovej konkurencie .",O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Viac informácií na stránke",O O O O
+"Európska komisia schválila",B-ORG I-ORG O
+"Operačný program",O O
+"Kvalita životného prostredia - Ministerstvo životného prostredia Slovenskej republiky Európska komisia schválila",B-MISC I-MISC I-MISC O B-ORG I-ORG I-ORG I-ORG I-ORG B-ORG I-ORG O
+"Operačný program Kvalita životného prostredia na programové obdobie 2014 – 2020 .",O O B-MISC I-MISC I-MISC O O O O O O O
+"Jeho riadiacim orgánom je Ministerstvo životného prostredia SR .",O O O O B-ORG I-ORG I-ORG I-ORG O
+"Slovensku sa tým otvorila možnosť čerpať v novom programovom období finančné prostriedky z Európskych štrukturálnych a investičných fondov v objeme takmer 3 , 138 miliardy eur .",B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Spolu s národným spolufinancovaním , ktoré predstavuje približne 1 , 17 miliardy eur , tak operačný program bude vytvárať finančný rámec pre poskytnutie podpory vo výške viac ako 4 , 308 miliardy eur . „ Schválením Operačného programu Kvalita životného prostredia sa nám otvára možnosť využiť zdroje Európskej únie v prospech obyvateľov Slovenska zlepšiť ich životné prostredie a zvýšiť kvalitu života .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-MISC I-MISC I-MISC O O O O O O B-LOC I-LOC O O O B-LOC O O O O O O O O O
+"Tieto prostriedky nám umožnia napríklad lepšie obyvateľov chrániť pred povodňami , alebo odstraňovať environmentálne záťaže .",O O O O O O O O O O O O O O O O
+"Nový operačný program je kvalitný dokument , ktorému predchádzala náročná práca a zložité rokovania . “ skonštatoval minister životného prostredia Peter Žiga .",O O O O O O O O O O O O O O O O O O O O B-PER I-PER O
+"Hlavným cieľom programu , je podpora udržateľného a efektívneho využívania prírodných zdrojov , zabezpečujúceho ochranu životného prostredia , aktívnu adaptáciu na zmenu klímy a podporu energeticky efektívneho nízkouhlíkového hospodárstva .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Na implementácii Operačného programu Kvalita životného prostredia sa spolu s Ministerstvom životného prostredia SR ako riadiacim orgánom budú podieľať sprostredkovateľské orgány - Slovenská agentúra životného prostredia , Ministerstvo vnútra SR a Slovenská inovačná a energetická agentúra .",O O O O B-MISC I-MISC I-MISC O O O B-ORG I-ORG I-ORG I-ORG O O O O O O O O B-ORG I-ORG I-ORG I-ORG O B-ORG I-ORG I-ORG O B-ORG I-ORG I-ORG I-ORG I-ORG O
+"Program je rozdelený do piatich prioritných osí .",O O O O O O O O
+"Z Kohézneho fondu budú môcť získať podporu aktivity v prioritných osiach 1 a 2 zamerané na udržateľné využívanie prírodných zdrojov prostredníctvom rozvoja environmentálnej infraštruktúry ( 1 , 441 mld eur ) a na aktivity v oblasti adaptácie na nepriaznivé dôsledky zmeny klímy so zameraním na ochranu pred povodňami ( 419 , 34 mil .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"eur ) .",O O O
+"Z Európskeho fondu regionálneho rozvoja budú podporované aktivity v rámci prioritných osí 3 , 4 a 5 v celkovej výške viac ako 1 , 276 mld . eur .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"V rámci prioritnej osi 3 zameranej na podporu riadenia rizík , riadenie mimoriadnych udalostí a odolnosti proti mimoriadnym udalostiam ovplyvneným zmenou klímy je z toho vyčlenených 260 , 9 mil . eur .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Na podporu aktivít prioritnej osi 4 v oblasti energeticky efektívneho nízkouhlíkového hospodárstva vo všetkých sektoroch je alokovaných 938 , 88 mil . eur a 77 mil .",O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"eur predstavujú zdroje na technickú pomoc v rámci prioritnej osi 5 .",O O O O O O O O O O O O
+"O finančnú pomoc budú môcť žiadať subjekty verejného i súkromného sektora , teda nielen obce , samosprávne kraje a orgány štátnej správy , ale aj široké spektrum združení , neziskových organizácií , pôsobiacich v oblastiach podpory operačného programu , ale aj fyzické a právnické osoby , oprávnené na podnikanie vo vymedzených oblastiach .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Informácie o Operačnom programe",O O O O
+"Kvalita životného prostredia je možné nájsť na webovom sídle ministerstva www.minzp.sk v časti „ Služby a Infoservis /Projekty EÚ “ , alebo na webovom sídle",B-MISC I-MISC I-MISC O O O O O O O O O O O O O O O O O O O O O O
+"Úrad vlády SR a Európska komisia pripravujú 5 . výročné fórum Stratégie EÚ pre dunajský región | Úrad vlády SR V dňoch 3 . - 4 . novembra 2016 v Bratislave sa v priestoroch nového Slovenského národného divadla uskutoční 5 . výročné fórum Stratégie EÚ pre dunajský región .",B-ORG I-ORG I-ORG O B-ORG I-ORG O O O O O B-MISC I-MISC I-MISC I-MISC I-MISC O B-ORG I-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O O O B-MISC I-MISC I-MISC I-MISC I-MISC O
+"Organizuje ho Slovenská republika ako predsedajúca krajina tejto formy spolupráce prostredníctvom Úradu vlády SR ako národného koordinátora stratégie spolu s Európskou komisiou . Účasť na fóre prisľúbili : predseda vlády SR Robert Fico , podpredseda Európskej komisie pre Energetickú úniu Maroš Šefčovič , eurokomisár pre vzdelávanie , kultúru , mládež a šport Tibor Navracsics a ďalší hostia .",O O B-LOC I-LOC O O O O O O O B-ORG I-ORG I-ORG O O O O O O B-ORG I-ORG O O O O O O O B-ORG I-ORG B-PER I-PER O O B-ORG I-ORG O O O B-PER I-PER O O O O O O O O O O B-PER I-PER O O O O
+"Okrem nich sa očakáva účasť ministrov Petra Plavčana a Lászlóa Sólymosa , ako aj predsedu Medzinárodnej komisie pre ochranu rieky Dunaj ( ICPDR ) Petra J . Kalasa .",O O O O O O B-PER I-PER O B-PER I-PER O O O O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG O B-ORG O B-PER I-PER I-PER I-PER O
+"Na záver fóra prevezme predsedníctvo Dunajskej stratégie maďarský minister zahraničných vecí a obchodu Péter Szijjártó od ministra zahraničných vecí a európskych záležitostí SR Miroslava Lajčáka .",O O O O O B-MISC I-MISC O O O O O O B-PER I-PER O O O O O O O B-LOC B-PER I-PER O
+"Počas dvojdňového fóra s názvom Innovative Flows - Water , Knowledge and Innovation in the Danube Region Inovačné toky - voda , vedomosti a inovácie v dunajskom regióne absolvuje očakávaných 700 účastníkov viacero spoločných platforiem , ale najmä workshopov na témy : znalostná spoločnosť , kvalifikovaní ľudia , konkurencieschopný región , vodné hospodárstvo , spoločné inovácie , voda a poľnohospodárstvo , ideálny model nadnárodnej spolupráce a pod .",O O O O O B-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC B-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"V prvý deň fóra sa uskutoční v hoteli Sheraton aj stretnutie 14 ministrov zodpovedných za výskum a inovácie z dunajského regiónu , ktorí budú hľadať konkrétne možnosti vzájomnej spolupráce .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Stretnutiu ministrov bude predsedať minister školstva , vedy výskumu a športu SR Peter Plavčan .",O O O O O O O O O O O B-LOC B-PER I-PER O
+"Stratégia EÚ pre dunajský región ( EUSDR alebo dunajská stratégia ) bola schválená Európskou radou v roku 2011 ako druhá z radu makroregionálnych stratégií .",O B-LOC O O O O B-MISC O B-MISC I-MISC O O O B-ORG I-ORG O O O O O O O O O O
+"Prvou bola stratégia pre baltský región a v súčasnosti sú schválené ďalšie dve stratégie – jadransko-jónska a alpská .",O O O O O O O O O O O O O O O O O O O
+"Partnerskými krajinami Slovenska , zapojenými do dunajskej stratégie sú : Nemecko ( Bavorsko , Bádensko- Würtembersko ) , Rakúsko , Česko , Slovensko , Maďarsko , Slovinsko , Chorvátsko , Srbsko , Bulharsko , Rumunsko , Bosna a Hercegovina , Čierna Hora , Moldavsko a Ukrajina ( 5 oblastí ) .",O O B-LOC O O O B-MISC I-MISC O O B-LOC O B-LOC O O O O O B-LOC O B-LOC O B-LOC O B-LOC O B-LOC O B-LOC O B-LOC O B-LOC O B-LOC O B-LOC I-LOC I-LOC O B-LOC I-LOC O B-LOC O B-LOC O O O O O
+"Dunajská stratégia predstavuje politický nástroj regionálnej politiky EÚ , ktorého cieľom je koncentrovať úsilie partnerských štátov na riešenie spoločných problémov regiónu . Implementácia dunajskej stratégie je založená na práci v rámci 11 prioritných oblastí , ktoré sú koordinované dvojicou krajín .",B-MISC I-MISC O O O O O B-LOC O O O O O O O O O O O O O O O B-MISC I-MISC O O O O O O O O O O O O O O O O
+"Slovensko koordinuje prioritnú oblasť 4 ( ochrana vôd ) s Maďarskom a prioritnú oblasť 7 ( vedomostná spoločnosť ) so Srbskom",B-LOC O O O O O O O O O B-LOC O O O O O O O O O B-LOC
+"Prvé výročné fórum dunajskej stratégie sa konalo v roku 2012 v nemeckom Regensburgu za účasti nemeckej kancelárky A . Merkelovej .",O O O B-MISC I-MISC O O O O O O O B-LOC O O O O B-PER I-PER O O
+"Viacero ministrov na národnej úrovni sa zúčastnilo aj na ostatnom fóre , ktoré sa uskutočnilo v Ulme minulý rok .",O O O O O O O O O O O O O O O O B-LOC O O O
+"Úrad vlády SR",B-ORG I-ORG I-ORG
+"Európska komisia kriticky hodnotí naše zdravotníctvo | HPI - Stredoeurópsky inštitút pre zdravotnú politiku Európska komisia ( EK ) vydala hodnotiacu správu [pdf] o Slovensku .",B-ORG I-ORG O O O O O B-ORG O B-ORG I-ORG I-ORG I-ORG I-ORG B-ORG I-ORG O B-ORG O O O O O O B-LOC O
+"Venuje sa v nej aj zdravotníctvu .",O O O O O O O
+"Komisia poukazuje na nečinnosť rezortu , ako i na rizikové projekty .",O O O O O O O O O O O O
+"Health Policy Institute ( HPI ) sa s hodnotením EK stotožňuje .",B-ORG I-ORG I-ORG O B-ORG O O O O B-ORG O O
+"Správa uvádza tri indikátory , ktorými popisuje neefektívnosť slovenského zdravotníctva : vysoký počet návštev u lekára ( 11 , 0 vs . 6 , 8 v EÚ , Eurostat 2011 ) nízka obložnosť akútnych postelí ( 67 , 3 % vs . 74 , 6 % , OECD 2012 ) vysoký počet akútnych postelí ( 4 , 5 vs . 3 , 6 / 1 000 obyvateľov , Eurostat )",O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O B-ORG O O O O O O O O O O O O O O O O O O B-ORG O O O O O O O O O O O O O O O O O O O O B-ORG O
+"Komisia považuje za problematické oblasti , na ktoré opakovane upozorňuje aj HPI : prieťahy pri zavádzaní DRG , suboptimálna alokácia peňazí medzi nemocnicami , nedostatok transparentnosti ; chýbajúce dáta ; integrované zdravotné centrá prínosy tohto modelu sú neisté ; stratégia sa príliš úzko sústredí na výstavbu infraštruktúry ; nevhodné rozdelenie zdrojov a ďalšie nedostatky ohrozujú úspech projektu ; len pomalý presun kompetencií na všeobecných lekárov ; e Health chýbajú akékoľvek hmatateľné výsledky ; dlhy nemocníc nejestvujú opatrenia , ktoré by podporovali finančné riadenie nemocníc ; pretrvávajúc nedostatky vo verejnom obstarávaní v dôsledku chýbajúcich systémových opatrení , vedenia a dohľadu .",O O O O O O O O O O O B-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Uvedené výzvy si vyžadujú víziu a politické odhodlanie tvorcov zdravotnej politiky .",O O O O O O O O O O O O
+"Pred parlamentnými voľbami 2016 sa toho zrejme nedočkáme .",O O O O O O O O O
+"Ak sa chcete prihlásiť k odberu newsletteru , zadajte svoju e-mailovú adresu do poľa pod týmto textom a stlačte tlačidlo .",O O O O O O O O O O O O O O O O O O O O O
+"Európska komisia | Inštitúcie | Orgány a inštitúcie | Euro Encyklopédia | Europskaunia Európska komisia .",B-ORG I-ORG O O O O O O O O O O B-ORG B-ORG I-ORG O
+"Európska komisia je politicky nezávislá , kolegiálna inštitúcia , ktorej poslaním je brániť záujmy Európskej únie .",B-ORG I-ORG O O O O O O O O O O O O B-LOC I-LOC O
+"Vzhľadom na fakt , že EK má takmer exkluzívne právo navrhovať legislatívu , je považovaná za motor európskej integrácie .",O O O O O B-ORG O O O O O O O O O O O O O O
+"Pre Radu ministrov a Európsky parlament pripravuje legislatívne návrhy .",O O O O B-ORG I-ORG O O O O
+"Zároveň má kontrolnú a správnu úlohu .",O O O O O O O
+"EK má na starosti prípravu spoločných politík , prípravu rozpočtu a jeho spravovania .",B-ORG O O O O O O O O O O O O O
+"Ako strážkyňa dohôd zároveň dohliada na rešpektovanie európskej legislatívy .",O O O O O O O O O O
+"V prípade jej porušovania môže členské štáty varovať alebo potrestať .",O O O O O O O O O O O
+"EK sa môže so žiadosťou na finančné sankcie",B-ORG O O O O O O O
+"V snahe o účinné presadzovanie rozpočtového dohľadu v eurozóne bol stanovený systém sankcií na posilnenie presadzovania preventívnej a nápravnej časti Paktu stability a rastu .",O O O O O O O O O O O O O O O O O O O O O O O O O
+"obrátiť na Európsky súdny dvor .",O O B-ORG I-ORG I-ORG O
+"Nominácia .",O O
+"EK navrhuje Rada EÚ po dohode s členskými štátmi na funkčné obdobie piatich rokov .",B-ORG O B-ORG I-ORG O O O O O O O O O O O
+"Navrhnutí členovia komisie musia prejsť schvaľovacím procesom pred poslancami Európskeho parlamentu , ktorý má právomoc Komisiu neschváliť .",O O O O O O O O O O O O O O O O O O
+"Zloženie .",O O
+"EK bola spočiatku zložená z dvoch členov väčších členských štátov a po jednom z menších .",B-ORG O O O O O O O O O O O O O O O
+"Situácia sa zmenila po rozšíreniach keď sa pomer zmenil na jedného komisára za krajinu .",O O O O O O O O O O O O O O O
+"Túto zmenu zaviedla do zloženia komisie dohoda z Nice .",O O O O O O O O B-LOC O
+"Francúzsko a ďalšie veľké krajiny únie vyjadrili nespokojnosť s modelom , v ktorom mal štát ako Malta rovnaký vplyv ako Nemecko .",B-LOC O O O O O O O O O O O O O O O B-LOC O O O B-LOC O
+"Každá krajina má jedného komisára , ktorý je zodpovedný za určitú oblasť .",O O O O O O O O O O O O O
+"K poslednej zmene v zložení Komisie došlo po pristúpení Chorvátska v júli 2013 .",O O O O O O O O O B-LOC O O O O
+"Súčasným predsedom EK je bývalý portugalský premiér",O O B-ORG O O O O
+"Európska komisia navrhla opatrenia na boj proti falšovaniu dokladov Európska komisia navrhla opatrenia na boj proti falšovaniu dokladov .",B-ORG I-ORG O O O O O O O B-ORG I-ORG O O O O O O O O
+"EK tým chce prispieť k budovaniu tzv . bezpečnostnej únie a podporiť boj proti terorizmu a organizovanému zločinu i ochranu hraníc .",B-ORG O O O O O O O O O O O O O O O O O O O O O
+"Ilustračné foto",O O
+"Foto : TASR .",O O B-ORG O
+"Brusel 8 . decembra ( TASR ) Európska komisia ( EK ) dnes prijala akčný plán s odporúčaniami pre členské táty EÚ , ako zabrániť falovaniu cestovných dokladov .",O O O O O B-ORG O B-ORG I-ORG O B-ORG O O O O O O O O O O B-LOC O O O O O O O
+"EK tým chce prispieť k budovaniu tzv . bezpečnostnej únie a podporiť boj proti terorizmu a organizovanému zločinu i ochranu hraníc .",B-ORG O O O O O O O O O O O O O O O O O O O O O
+""" Zabezpečenie cestovných dokladov a preukazov totožnosti je kľúčové v boji proti terorizmu a organizovanému zločinu .",O O O O O O O O O O O O O O O O O
+"Akčný plán EK navrhuje členským tátom opatrenia , ktoré umožňujú efektívnejí boj proti falovaniu dokladov , lepiu ochranu hraníc a zvládanie migrácie , "" uviedol eurokomisár pre migráciu , vnútorné záležitosti a občianstvo Dimitris Avramopulos .",O O B-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PER I-PER O
+"Akčný plán je zameraný na cestovné doklady vydané členskými tátmi EÚ občanom Únie a tretích tátov .",O O O O O O O O O O B-LOC O O O O O O
+"Členovia EÚ nesú naďalej plnú zodpovednosť za vydávanie dokladov totožnosti .",O B-LOC O O O O O O O O O
+"Pri vydávaní cestovných dokladov musia táty spĺňať bezpečnostné tandardy stanovené na európskej úrovni .",O O O O O O O O O O O O O O
+"K téme sa vyjadril Julian King , eurokomisár pre bezpečnostnú úniu .",O O O O B-PER I-PER O O O O O O
+""" Vieme , že teroristi použili sfalované dokumenty , aby mohli nepozorovane cestovať po EÚ .",O O O O O O O O O O O O O O B-LOC O
+"Viacero naich bezpečnostných systémov , ako je napríklad Schengenský informačný systém , sa spolieha na dobre zabezpečené cestovné a identifikačné doklady .",O O O O O O O O O O O O O O O O O O O O O O
+"Preto musia európske agentúry aj členské táty spolupracovať , aby zvýili zabezpečenie dokladov , "" uviedol King .",O O O O O O O O O O O O O O O O B-PER O
+"Akčný plán navrhuje opatrenia v tyroch oblastiach .",O O O O O O O O
+"EK tvrdí , že členské táty by mali predísť vydávaniu dokladov totožnosti na základe falonej identity , a riadiť sa odporúčaniami , ktoré vydal Európsky policajný úrad ( Europol ) . tátom odporúča , aby si vymenili skúsenosti pri používaní biometrických údajov v dokladoch , lepie monitorovali miesta vydávania dokladov a zabránili krádeži vzorových dokumentov .",B-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"EK apeluje na Európsky parlament a členské táty EÚ , aby prijali návrh na jednotné a lepie zabezpečené víza a povolenia na pobyt pre občanov tretích tátov , čo by malo predísť falovaniu týchto dokumentov .",B-ORG O O B-ORG I-ORG O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Akčný plán obsahuje návrh , aby sa vetky ukradnuté , stratené aj znehodnotené dokumenty systematicky zaznamenávali v databázach Schengenského informačného systému a Interpolu .",O O O O O O O O O O O O O O O O O O B-MISC I-MISC I-MISC O B-ORG O
+"Hoci existujú určité právne prekážky , v princípe podporuje individuálne členstvo Britov v EÚ …",O O O O O O O O O O O O O B-LOC O
+"Európska komisia sa zaoberá mojim podnetom vo veci Váhostavu | Ivan Štefanec",B-ORG I-ORG O O O O O O B-ORG O O O
+"V apríli som vyzval komisárku pre hospodársku súťaž Margrethe Vestagerovú na preskúmanie štátnej pomoci , ktorú vláda Slovenskej republiky plánuje poskytnúť spoločnosti Váhostav .",O O O O O O O O B-PER I-PER O O O O O O O B-LOC I-LOC O O O B-ORG O
+"Európska komisia potvrdila , že sa bude mojim podnetom zaoberať .",B-ORG I-ORG O O O O O O O O O
+"Reštrukturalizácia Váhostavu vzbudzuje podozrenia nielen na Slovensku , ale aj v európskych inštitúciách .",O B-ORG O O O O B-LOC O O O O O O O
+"Ak chceme byť dôveryhodnými partnermi , nemôže naša vláda akoukoľvek formou preferovať jednu spoločnosť pred inými , najmä ak ide o firmu s nejasnou vlastníckou štruktúrou .",O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Ako člen Výboru pre vnútorný trh si dobre uvedomujem , aké následky môže mať deformovanie voľnej súťaže štátnymi zásahmi .",O O O O O O O O O O O O O O O O O O O O
+"Investori , ktorí uvažujú o príchode na Slovensko môžu byť zneistení a v konečnom dôsledku tým utrpí naša zamestnanosť a hospodársky rast .",O O O O O O O B-LOC O O O O O O O O O O O O O O O
+"Preto som komisárke Vestagerovej zaslal na posúdenie plné znenie novely obchodného zákonníka .",O O O B-PER O O O O O O O O O
+"Prijatie svojho podnetu Európskou komisiou považujem za ďalší dôkaz nekompetencie vlády Roberta Fica .",O O O B-ORG I-ORG O O O O O O B-PER I-PER O
+"Strana Smer-SD nezvládla čerpanie eurofondov , vystavuje Slovensko hrozbe medzinárodných arbitráží a teraz nám hrozia aj sankcie za nedovolenú štátnu pomoc spriatelenej firme .",O B-ORG O O O O O B-LOC O O O O O O O O O O O O O O O O
+"Zo skúseností vieme , že Robert Fico od svojho konania ustúpi len pod tlakom občanov , alebo európskych inštitúcií .",O O O O O B-PER I-PER O O O O O O O O O O O O O
+"Dúfam , že si rýchlo uvedomí možné následky svojho konania a po konzultáciách so živnostníkmi a ďalšími veriteľmi nájde iné riešenie problému Váhstavu .",O O O O O O O O O O O O O O O O O O O O O O B-ORG O
+"Európska komisia nám zablokovala eurofondy .",B-ORG I-ORG O O O O
+"Hrozí , že platiť budeme my | Ekonomika | Noviny . sk BRATISLAVA / Európska komisia nám zablokovala eurofondy .",O O O O O O O O O B-ORG I-ORG O B-LOC O B-ORG I-ORG O O O O
+"Peniaze z Bruselu k nám neprichádzajú od decembra minulého roka .",O O B-LOC O O O O O O O O
+"Kontroly odhalili viaceré nezrovnalosti a preto peniaze stopli .",O O O O O O O O O
+"Na to , aby sa rozbehnuté projekty mohli dokončiť , peniaze uvoľnila vláda .",O O O O O O O O O O O O O O
+"Teraz je na rozhodnutí EK , či nám ich Brusel preplatí .",O O O O B-ORG O O O O B-LOC O O
+"Ak nie , milióny eur pôjdu z nášho rozpočtu .",O O O O O O O O O O
+"Ministerstvo zdravotníctva , ministerstvo školstva , pôdohospodárstva , zdravotníctva - tieto rezorty rozbehli a v niektorých prípadoch už aj dokončili projekty , na ktoré mali byť použité peniaze z eurofondov .",B-ORG I-ORG O B-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Kontroly však zistili pochybenia , a preto Európska komisia peniaze z eurofondov Slovensku zablokovala .",O O O O O O O B-ORG I-ORG O O O B-LOC O O
+"Čakanie na preplatenie .",O O O O
+""" Na krajinu , ktorá má pozastavené čerpanie sa pozerá , že tam nie je niečo v poriadku , "" povedal predseda BSK Pavol Frešo .",O O O O O O O O O O O O O O O O O O O O O O B-ORG B-PER I-PER O
+"Podľa ministerstva zdravotníctva však napríklad ich projekty nijako neutrpeli a všetky sú už dokončené .",O B-ORG I-ORG O O O O O O O O O O O O
+"Peniaze totiž uvoľnila vláda a teraz budeme čakať , či nám ich Brusel preplatí .",O O O O O O O O O O O O B-LOC O O
+"Ide o miliónové čiastky .",O O O O O
+"Sumy , ktoré nám Brusel blokuje : - ministerstvo pôdohospodárstva 12 , 17 a 11 , 4 miliónov eur . - ministerstvo zdravotníctva 13 , 34 milióna eur . - ministerstvo školstva viac ako 9 miliónov eur Plošná korekcia .",O O O O B-LOC O O O B-ORG I-ORG O O O O O O O O O O O B-ORG I-ORG O O O O O O O B-ORG I-ORG O O O O O O O O
+""" EK pozastavila žiadosti o platbu v operačnom systéme zdravotníctvo v celkovej výške 13 , 34 miliónov eur . "" povedala hovorkyňa ministerstva zdravotníctva Stanislava Luptáková .",O B-ORG O O O O O O O O O O O O O O O O O O O O B-ORG I-ORG B-PER I-PER O
+"Podľa Petry Masácovej , ktorá spravuje eurofondy pre Bratislavský samosprávny kraj , sa môže stať , že o peniaze prídeme .",O B-PER I-PER O O O O O B-LOC I-LOC I-LOC O O O O O O O O O O
+""" Môže sa stať , že ak tie pochybenie vo verejnom obstarávaní , na ktoré je poukazované budú tak veľké a tak závažné , že Slovenská republika dostane takzvanú plošnú korekciu , "" vysvetľuje hovorkyňa na eurofondy Petra Masácová .",O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC I-LOC O O O O O O O O O O B-PER I-PER O
+"Hovorkyňa podpredsedu vlády pre investície a informátizáciu tvrdí , že rozpočet ohrozený nie je .",O O O O O O O O O O O O O O O
+""" Pozastavenie platieb je jav , ktorý sa vyskytol už viackrát , po odstránení problémov boli platby odblokované a štátne zdroje tak nie sú ohrozené , "" povedala Beáta Dupaľová Ksenzsighová , hovorkyňa podpredsedu vlády pre investície a informatizáciu .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PER I-PER I-PER O O O O O O O O O
+"Pozrite si reportáž redaktorky Klaudie Suchomel Guzovej .",O O O O B-PER I-PER I-PER O
+"Európska komisia - Spišská regionálna rozvojová agentúra Európska komisia na svojich stránkach zverejnila výzvu na predkladanie projektov v rámci programu Európa pre občanov .",B-ORG I-ORG O B-ORG I-ORG I-ORG I-ORG B-ORG I-ORG O O O O O O O O O O O B-MISC I-MISC I-MISC O
+"Projekty možno predkladať do 1 . 3 . 2017 a to do 12 hodiny .",O O O O O O O O O O O O O O O
+"Komisia súbežne s výzvou zverejnila aj tohtoročný pracovný program plus jeho dodatok a programového sprievodcu . . .",O O O O O O O O O O O O O O O O O O
+"Úrad splnomocnenca vlády SR pre rozvoj občianskej spoločnosti v spolupráci s – Foster Europe , Foundation for strong European Regions a Danube Civil Society Forum ( DCSF ) zrealizovali dňa 21 . 10 . 2016 v Bratislave informačný workshop s názvom Dunajská stratégia – National Participation . . .",O O O B-LOC O O O O O O O O B-ORG I-ORG O B-ORG I-ORG I-ORG I-ORG I-ORG O B-ORG I-ORG I-ORG I-ORG O B-ORG O O O O O O O O O B-LOC O O O O O O O O O O O O
+"Európska komisia schválila “ európsky zbor solidarity ” , ktorá je najnovšou iniciatívou Európskej únie určenou mladým ľuďom vo veku 18-30 rokov , hlavne tým , ktorí sú nezamestnaní alebo nie sú v zamestnaní , vzdelávaní ani odbornej príprave ( NEET ) .",B-ORG I-ORG O O O O O O O O O O O B-LOC I-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Ponúka príležitosť . . .",O O O O O
+"V decembrovom newslettri",O O O
+"Vám prinášame reportáž z nášho posledného tohtoročného podujatia a výsledky septembrovej uzávierky 2016 , zvyšok je zameraný na rok 2017 .",O O O O O O O O O O O O O O O O O O O O O
+"Pozri si v prehliadači .",O O O O O
+"EKB",O
+"Newsletter december . . .",O O O O O
+"Podpora aktivít zameraných na filmové vzdelávanie",O O O O O O
+"Projekty zavádzajúce mechanizmy na zlepšenie spolupráce medzi iniciatívami zameranými na filmové vzdelávanie v Európe s cieľom zvýšiť efektívnosť a európsky rozmer daných iniciatív a vyvíjať nové a inovatívne projekty , obzvlášť . . .",O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O
+"Podpora odborných audiovizuálnych podujatí obchodného charakteru ( audiovizuálne trhy ) , používania online nástrojov a spoločných európskych propagačných činností .",O O O O O O O O O O O O O O O O O O O O
+"Uzávierka predkladania projektov : 2 . február 2017",O O O O O O O O
+"Viac informácií .",O O O
+"Agentúra EACEA dňa 1 . 12 .2016 zverejnila na svojej web stránke výsledky septembrovej uzávierky .",O B-ORG O O O O O O O O O O O O O O
+"Tieto sú nasledovné : – Družobné mestá , opatrenie 2 .1 – výsledky ( http://bit.ly/2gTZwt5) – Siete medzi mestami , opatrenie 2 .2 – výsledky ( http://bit.ly/2gYHFUt)",O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Celkovo bolo podporených . . .",O O O O O O
+"Európska komisia zverejnila Výzvu na predkladanie návrhov – EACEA 40/2016 v rámci programu Erasmus+ ( centralizované projekty ) „ KA3 – Partnerstvá v oblasti OVP – podnikanie zamerané na vzdelávanie prácou a učňovstvo ” ( 2016/C 384/06 ) .",B-ORG I-ORG O O O O O O B-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Uzávierka bude 17 . januára 2017 Viac . . .",O O O O O O O O O O
+"Európska komisia chce zaviesť elektronický systém kontroly cestujúcich - 24hod . sk Brusel 16 . novembra ( TASR ) - Európska komisia ( EK ) predložila dnes návrh na vytvorenie Cestovného a informačného autorizačného systému EÚ ( ETIAS ) , ktorého cieľom je zhromažďovať informácie o všetkých cestujúcich , ktorí do krajín Európskej únie cestujú bez víz .",B-ORG I-ORG O O O O O O O B-ORG I-ORG I-ORG O O O O O B-ORG O O B-ORG I-ORG O B-ORG O O O O O O B-MISC I-MISC I-MISC I-MISC I-MISC I-MISC O B-MISC O O O O O O O O O O O O O O B-LOC I-LOC O O O O
+"Prípravu tohto návrhu už v septembri avizoval predseda EK Jean-Claude Juncker .",O O O O O O O O B-ORG B-PER I-PER O
+"Vo svojej Správe o Únii upozornil , že členské krajiny musia vedieť , kto prekračuje ich hranice , a dodal , že nový automatizovaný autorizačný systém určí , kto bude môcť cestovať do Európy .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O
+"Týmto spôsobom budeme vedieť , kto cestuje do Európy , skôr než sa sem dostane , "" skonštatoval Juncker .",O O O O O O O O B-LOC O O O O O O O O O O O
+"Podľa návrhu bude ETIAS zhromažďovať informácie o miliónoch cestujúcich , ktorí cestujú bez víz do krajín Európy , čo má vopred zabrániť nelegálnej migrácii a bezpečnostným kontrolám .",O O O B-MISC O O O O O O O O O O O O B-LOC O O O O O O O O O O O
+"Sfunkčnenie systému prispeje k efektívnejšiemu riadeniu vonkajších hraníc EÚ a zlepší vnútornú bezpečnosť , čo znamená návrat k normálnemu režimu bez kontrol na vnútorných hraniciach Schengenu .",O O O O O O O O B-LOC O O O O O O O O O O O O O O O O B-LOC O
+"Európsky týždenník",O O
+"Politico na svojom internetovom serveri dnes upozornil , že európska verzia amerického systému ESTA bude od neeurópskych občanov pri bezvízovom vstupe do Schengenu požadovať poplatok vo výške piatich eur .",B-ORG O O O O O O O O O O O O B-MISC O O O O O O O O B-LOC O O O O O O O
+"A to po vyplnení príslušného elektronického formulára - cez počítač alebo mobilnú aplikáciu - a s platnosťou na obdobie piatich rokov .",O O O O O O O O O O O O O O O O O O O O O O
+"Konečné rozhodnutia o udelení alebo zamietnutí vstupu budú aj naďalej prijímať hraničné služby jednotlivých štátov , ale ETIAS bude spravovaný agentúrou Európskej pohraničnej a pobrežnej stráže v spolupráci s členskými štátmi a Europolom .",O O O O O O O O O O O O O O O O O B-MISC O O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG O O O O O O B-ORG O
+"Systém ETIAS je súčasťou európskej agendy o bezpečnosti , ktorú exekutíva EÚ prijala 28 . apríla 2015 a ktorá stanovuje hlavné opatrenia na zabezpečenie účinnej reakcie EÚ na terorizmus a bezpečnostné hrozby v priestore EÚ v období rokov 2015-2020 .",O B-MISC O O O O O O O O O B-LOC O O O O O O O O O O O O O O B-LOC O O O O O O O B-LOC O O O O O
+"Zdroj : Teraz .sk , spravodajský portál tlačovej agentúry",O O O O O O O O O
+"Európska komisia na oficiálnej návšteve Slovenska | Itapa „ Stretnutia predsedu Európskej komisie Jeana-Claudea Junckera a ostatných komisárov s vrcholnými slovenskými predstaviteľmi odštartujú slovenské predsedníctvo v Rade Európskej únie .",B-ORG I-ORG O O O B-LOC O B-ORG O O O B-ORG I-ORG B-PER I-PER O O O O O O O O O O O B-ORG I-ORG I-ORG O
+"Celá návšteva má za cieľ dobre nastaviť spoluprácu slovenského predsedníctva a Európskej komisie na najbližších šesť mesiacov .",O O O O O O O O O O O B-ORG I-ORG O O O O O
+"Verím , že túto prvú výzvu vynikajúco zvládneme a Slovensko bude skvelým kormidelníkom v Rade Európskej únie . ” hovorí Dušan Chrenek , vedúci Zastúpenia Európskej komisie na Slovensku .",O O O O O O O O O B-LOC O O O O B-ORG I-ORG I-ORG O O O B-PER I-PER O O O B-ORG I-ORG O B-LOC O
+"Vo štvrtok 30 . júna 2016 večer sa predseda Európskej komisie Jean- Claude Juncker a ďalší komisári stretli s prezidentom Slovenskej republiky Andrejom Kiskom a predsedom vlády SR Robertom Ficom .",O O O O O O O O O B-ORG I-ORG O O O O O O O O O B-LOC I-LOC B-PER I-PER O O O B-LOC B-PER I-PER O
+"Celé kolégium európskych komisárov zasadne už dnes 1 . júla 2016 v Bratislave .",O O O O O O O O O O O O B-LOC O
+"Uskutočnia sa rokovania s členmi vlády Slovenskej republiky .",O O O O O O B-LOC I-LOC O
+"Tieto rokovania budú prebiehať v štyroch tematických celkoch : vonkajšie vzťahy , bezpečnosť , migrácia a spravodlivosť ; energetická a klimatická politika , doprava a prírodné zdroje ; rast , konkurencieschopnosť a vnútorný trh , rozpočet Európskej únie , ekonomická a monetárna únia a sociálna agenda .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC I-LOC O O O O O O O O O
+"Predseda Európskej komisie Jean-Claude Juncker sa stretne aj s predsedom Národnej rady Slovenskej republiky Andrejom Dankom .",O B-ORG I-ORG B-PER I-PER O O O O O B-ORG I-ORG I-ORG I-ORG B-PER I-PER O
+"Následne sa celé kolégium komisárov zúčastní stretnutia s poslancami Národnej Rady Slovenskej republiky , ktoré sa bude venovať aktuálnym výzvam v Európskej únii : migrácia , Schengenský priestor , Európska susedská politika , ako aj úloha národných parlamentov v oblasti Energetickej únie a energetickej bezpečnosti v EÚ .",O O O O O O O O O B-ORG I-ORG I-ORG I-ORG O O O O O O O O B-LOC I-LOC O O O O O O O O O O O O O O O O O O O O O O O B-LOC O
+"Európska komisia :",B-ORG I-ORG O
+"V gréckych utečeneckých táboroch je ‘neobhájiteľná’ situácia | Konzervatívny výber Európska komisia kritizuje , že migranti bývajú v stanoch aj keď sú vonku mrazy a sneh .",O O O O O O O O B-ORG I-ORG B-ORG I-ORG O O O O O O O O O O O O O O O
+"Atény 9 . januára ( SITA ) – Európska komisia dnes vyhlásila , že podmienky pre utečencov na gréckych ostrovoch a v ďalších táboroch , kde sú ubytovaní v stanoch aj napriek krutému mrazivému počasiu , sú “ neobhájiteľné .",B-LOC O O O O B-ORG O O B-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Husté sneženie zasiahlo rozsiahle časti Grécka , vrátane ostrovy vo východnej oblasti Egejského mora , na ktorých sú uviaznuté tisíce utečencov .",O O O O O B-LOC O O O O O O B-LOC I-LOC O O O O O O O O
+"Hovorca vládneho krízového výboru pre migráciu Jorgos Kyritsis povedal pre grécku televíziu Skai , že v stanoch na ostrovoch je stále ubytovaných necelých tisíc ľudí .",O O O O O O B-PER I-PER O O O O O O O O O O O O O O O O O O
+"Kruté počasie predpovedali meteorológovia dostatočne dopredu a vláda sa teraz dostala pod paľbu kritiky za to , že nekonala dosť rýchlo , aby pre všetkých utečencov zabezpečila primerané ubytovanie .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Hovorkyňa Európskej komisie ( EK )",O B-ORG I-ORG O B-ORG O
+"Natasha Bertaudová uviedla , že EK “ si je vedomá , že súčasná situácia je neobhájiteľná , ale takisto musíme jasne povedať , ” že za podmienky v prijímacích centrách nesú zodpovednosť grécke úrady .",B-PER I-PER O O O B-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Európska komisia navrhla zásadnú zmenu zdaňovania firiem SITA | 25 . 10 . 2016 .",B-ORG I-ORG O O O O O B-ORG O O O O O O O
+"Európska komisia ( EK ) predstavila plán zmeny systému zdaňovania spoločností v rámci jednotného trhu EÚ .",B-ORG I-ORG O B-ORG O O O O O O O O O O O B-LOC O
+"Cieľom je , aby zdaňovanie príjmov právnických osôb bolo spravodlivé a v prospech hospodárskeho rastu , uviedla komisia vo vyhlásení .",O O O O O O O O O O O O O O O O O O O O O
+"Takzvaný Spoločný konsolidovaný základ dane z príjmov právnických osôb ( Common Consolidated Corporate Tax Base - CCCTB ) má uľahčiť podnikanie na jednotnom trhu a slúžiť ako účinný nástroj proti vyhýbaniu sa daňovým povinnostiam .",O B-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC O B-MISC I-MISC I-MISC I-MISC I-MISC O B-MISC O O O O O O O O O O O O O O O O O O
+"V prípade zavedenia CCCTB budú mať spoločnosti po prvýkrát jednotný súbor pravidiel na výpočet zdaniteľného zisku v celej EÚ .",O O O B-MISC O O O O O O O O O O O O O O B-LOC O
+"Návrh má zabezpečiť , aby firmy s celkovými príjmami prevyšujúcimi 750 miliónov eur ročne platili dane tam , kde skutočne vytvárajú zisky .",O O O O O O O O O O O O O O O O O O O O O O O
+"Sadzby dane z príjmov právnických osôb nie sú súčasťou návrhu CCCTB , keďže tie sú aj naďalej oblasťou patriacou pod zvrchovanosť členských štátov .",O O O O O O O O O O B-MISC O O O O O O O O O O O O O
+"Informovalo o tom Zastúpenie Európskej komisie v SR .",O O O O B-ORG I-ORG O B-LOC O
+"Podpredseda EK a komisár pre euro a sociálny dialóg Valdis Dombrovskis konštatoval , že súčasný systém dane z príjmov právnických zvýhodňuje dlhové financovanie na úkor kapitálového financovania .",O B-ORG O O O O O O O B-PER I-PER O O O O O O O O O O O O O O O O O
+"Obmedzenie takéhoto zvýhodňovania , ktoré škodí hospodárskemu rastu a investíciám , by znamenalo dôležitý krok smerom k plánovanej únii kapitálových trhov v EÚ , spresnil Dombrovskis .",O O O O O O O O O O O O O O O O O O O O O O B-LOC O O B-PER O
+"Obnoveným návrhom CCCTB komisia reaguje naraz na obavy podnikov aj na obavy občanov , dodal komisár pre hospodárske a finančné záležitosti Pierre Moscovici .",O O B-MISC O O O O O O O O O O O O O O O O O O B-PER I-PER O
+""" Spoločnosti ( v rámci EÚ ) potrebujú jednoduchšie daňové pravidlá .",O O O O O B-LOC O O O O O O
+"Zároveň potrebujeme posilniť náš boj proti vyhýbaniu sa daňovým povinnostiam , ktorý znamená skutočnú zmenu , "" zdôraznil komisár .",O O O O O O O O O O O O O O O O O O O O
+"Proces zavádzania CCCTB plánuje komisia rozdeliť do dvoch krokov .",O O B-MISC O O O O O O O
+"Brusel očakáva , že na spoločnom daňovom základe sa dokážu členské štáty dohodnúť rýchlo , čím sprístupnia hlavné výhody pre podniky a členské štáty .",B-LOC O O O O O O O O O O O O O O O O O O O O O O O O
+"Krátko nato by sa mala zaviesť konsolidácia , ktorá by umožnila využívať všetky výhody dokončeného systému .",O O O O O O O O O O O O O O O O O
+"© 2016 , Autorské práva SITA a . s . a zmluvné agentúry .",O O O O O B-ORG I-ORG I-ORG I-ORG I-ORG O O O O
+"Všetky práva vyhradené .",O O O O
+"Opätovné vydanie alebo rozširovanie obsahu tejto správy bez predchádzajúceho písomného súhlasu SITA a . s . a zmluvných agentúr je výslovne zakázané .",O O O O O O O O O O O B-ORG I-ORG I-ORG I-ORG I-ORG O O O O O O O
+"Európska komisia udelila trom bankám pokutu 485 miliónov eur - Ekonomika - TERAZ . sk Brusel 7 . decembra ( TASR ) - Európska komisia ( EK ) udelila bankám Crédit Agricole , HSBC a JPMorgan Chase pokutu v celkovej výške 485 miliónov eur , uviedla dnes komisia .",B-ORG I-ORG O O O O O O O O O O B-ORG I-ORG I-ORG B-LOC O O O O B-ORG O O B-ORG I-ORG O B-ORG O O O B-ORG I-ORG O B-ORG O B-ORG I-ORG O O O O O O O O O O O O
+"Dôvodom bola manipulácia s referenčnou úrokovou sadzbou Euro Interbank Offered Rate ( Euribor ) kartelom siedmich bánk v rokoch 2005 až 2008 .",O O O O O O O O O O O O O O O O O O O O O O O
+""" Banky musia dodržiavať pravidlá hospodárskej súťaže EÚ rovnako ako ktorékoľvek iné firmy operujúce na jednotnom európskom trhu , "" vyhlásila v Bruseli komisárka EÚ pre hospodársku súťaž Margrethe Vestagerová .",O O O O O O O B-LOC O O O O O O O O O O O O O O B-LOC O B-LOC O O O B-PER I-PER O
+"Ostatné banky , ktoré boli súčasťou kartelu , teda Barclays , Deutsche Bank , RBS a Société Générale v decembri 2013 priznali svoje pochybenia a akceptovali vyrovnanie .",O O O O O O O O O B-ORG O B-ORG I-ORG O B-ORG O B-ORG I-ORG O O O O O O O O O O
+"Zvyšné tri banky , ktoré teraz dostali pokutu , sa vtedy k dohode nepripojili .",O O O O O O O O O O O O O O O
+"Dnešným rozhodnutím sa skončilo vyšetrovanie kartelu , ktorý v rokoch 2005 až 2008 manipuloval sadzbu Euribor , dodala Vestagerová .",O O O O O O O O O O O O O O O O O O B-PER O
+"Európska komisia navrhuje zásadnú zmenu zdaňovania firiem - Ekonomika - Webnoviny . sk BRATISLAVA 25 . októbra ( WebNoviny . sk ) - Európska komisia ( EK ) v utorok predstavila plán zmeny systému zdaňovania spoločností v rámci jednotného trhu EÚ .",B-ORG I-ORG O O O O O O O O B-ORG I-ORG O B-LOC O O O O B-ORG I-ORG O O O B-ORG I-ORG O B-ORG O O O O O O O O O O O O O B-LOC O
+"Cieľom je , aby zdaňovanie príjmov právnických osôb bolo spravodlivé a v prospech hospodárskeho rastu , uviedla komisia vo vyhlásení .",O O O O O O O O O O O O O O O O O O O O O
+"Takzvaný Spoločný konsolidovaný základ dane z príjmov právnických osôb ( Common Consolidated Corporate Tax Base - CCCTB ) má uľahčiť podnikanie na jednotnom trhu a slúžiť ako účinný nástroj proti vyhýbaniu sa daňovým povinnostiam .",O B-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC O B-MISC I-MISC I-MISC I-MISC I-MISC O B-MISC O O O O O O O O O O O O O O O O O O
+"V prípade zavedenia CCCTB budú mať spoločnosti po prvýkrát jednotný súbor pravidiel na výpočet zdaniteľného zisku v celej EÚ .",O O O B-MISC O O O O O O O O O O O O O O B-LOC O
+"Firmy by mali dane platiť tam , kde tvoria zisky Návrh má zabezpečiť , aby firmy s celkovými príjmami prevyšujúcimi 750 miliónov eur ročne platili dane tam , kde skutočne vytvárajú zisky .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Sadzby dane z príjmov právnických osôb nie sú súčasťou návrhu CCCTB , keďže tie sú aj naďalej oblasťou patriacou pod zvrchovanosť členských štátov .",O O O O O O O O O O B-MISC O O O O O O O O O O O O O
+"Informovalo o tom Zastúpenie Európskej komisie v SR .",O O O O B-ORG I-ORG O B-LOC O
+"Podpredseda EK a komisár pre euro a sociálny dialóg Valdis Dombrovskis konštatoval , že súčasný systém dane z príjmov právnických zvýhodňuje dlhové financovanie na úkor kapitálového financovania .",O B-ORG O O O O O O O B-PER I-PER O O O O O O O O O O O O O O O O O
+"Obmedzenie takéhoto zvýhodňovania , ktoré škodí hospodárskemu rastu a investíciám , by znamenalo dôležitý krok smerom k plánovanej únii kapitálových trhov v EÚ , spresnil Dombrovskis .",O O O O O O O O O O O O O O O O O O O O O O B-LOC O O B-PER O
+"Návrh reaguje na obavy podnikov i občanov Obnoveným návrhom CCCTB komisia reaguje naraz na obavy podnikov aj na obavy občanov , dodal komisár pre hospodárske a finančné záležitosti Pierre Moscovici .",O O O O O O O O O B-MISC O O O O O O O O O O O O O O O O O O B-PER I-PER O
+""" Spoločnosti ( v rámci EÚ ) potrebujú jednoduchšie daňové pravidlá .",O O O O O B-LOC O O O O O O
+"Zároveň potrebujeme posilniť náš boj proti vyhýbaniu sa daňovým povinnostiam , ktorý znamená skutočnú zmenu , "" zdôraznil komisár .",O O O O O O O O O O O O O O O O O O O O
+"Proces zavádzania CCCTB plánuje komisia rozdeliť do dvoch krokov .",O O B-MISC O O O O O O O
+"Brusel očakáva , že na spoločnom daňovom základe sa dokážu členské štáty dohodnúť rýchlo , čím sprístupnia hlavné výhody pre podniky a členské štáty .",B-LOC O O O O O O O O O O O O O O O O O O O O O O O O
+"Krátko nato by sa mala zaviesť konsolidácia , ktorá by umožnila využívať všetky výhody dokončeného systému .",O O O O O O O O O O O O O O O O O
+"IAB Slovakia Európska komisia zverejnila návrh nového zákona na ochranu autorských práv - IAB Slovakia Európska komisia zverejnila návrh nového zákona na ochranu autorských práv .",B-ORG I-ORG B-ORG I-ORG O O O O O O O O O B-ORG I-ORG B-ORG I-ORG O O O O O O O O O
+"Brusel , 14 . septembra 2016 .",B-LOC O O O O O O
+"Európska komisia zverejnila 14 . septembra 2016 v rámci stratégie jednotného digitálneho trhu finálnu verziu návrhu zákona o “ copyright ” , ktorý prináša modernizáciu pravidiel týkajúcich sa autorských práv vydavateľov .",B-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Nový zákon upravuje autorské práva vydavateľov v digitálnom priestore .",O O O O O O O O O O
+"Prezident European Newspaper Publishers’ Association ( ENPA )",O B-ORG I-ORG I-ORG I-ORG O B-ORG O
+"Carlo Perrone",B-PER I-PER
+": „ Dnešný návrh Európskej komisie je historicky významným momentom v boji za práva vydavateľov na európskej úrovni .",O O O O B-ORG I-ORG O O O O O O O O O O O O O
+"Zákon umožní vydavateľom ochrániť a zhodnocovať vlastný redakčný obsah v digitálnom priestore , čo prinesie väčšiu pluralitu médií , slobodu tlače a kultúrnu diverzitu . “",O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Cieľom novej legislatívnej úpravy je férovejší trh pre online obsah a snahou je , aby autori , umelci či tvorcovia boli spravodlivo zaplatení za svoju prácu , za tvorbu autentického obsahu a zároveň mali možnosť chrániť svoje diela .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"IAB Slovakia , ktorej členmi sú najväčší slovenskí vydavatelia z online prostredia , iniciatívu Európskej komisie v oblasti ochrany autorských práv vydavateľov monitoruje .",B-ORG I-ORG O O O O O O O O O O O O B-ORG I-ORG O O O O O O O O
+"Oficiálna tlačová správa :",O O O O
+"Európska komisia | Europe Direct Trenčín Prisťahovalectvo a terorizmus sa naďalej považujú za najväčšie výzvy , ktorým EÚ čelí , aj keď na nepatrne nižšej úrovni ako pri poslednom prieskume z jari 2016 .",B-ORG I-ORG O B-ORG I-ORG I-ORG O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O
+"Podpora priorít a politík Európskej únie zostáva výrazná a od jari 2016 sa ešte zvýšila .",O O O O B-LOC I-LOC O O O O O O O O O O
+"To sú dva kľúčové výsledky posledného štandardného prieskumu Eurobarometra , ktoré boli dnes uverejnené spolu s osobitným prieskumom Eurobarometra „ Budúcnosť Európy “ .",O O O O O O O O O O O O O O O O O O O O O O O O
+"Komisia dnes navrhla zvýšiť prevádzkovú efektívnosť a účinnosť Schengenského informačného systému ( SIS ) .",O O O O O O O O B-MISC I-MISC I-MISC O B-MISC O O
+"Tento cieľ sa uvádza v oznámení o ďalšom napredovaní k dosiahnutiu účinnej a udržateľnej bezpečnostnej únie v EÚ a potvrdil ho aj predseda Komisie Juncker vo svojom prejave o stave Únie .",O O O O O O O O O O O O O O O O O B-LOC O O O O O O B-PER O O O O O O O
+"Najnovší ročný prieskum vývoja v oblasti zamestnanosti a sociálnej situácie v Európe prináša povzbudivé výsledky .",O O O O O O O O O O O B-LOC O O O O
+"Najnovší prieskum Eurostatu ukázal , že 14 percent Európanov ešte nikdy nepoužilo internet , pričom na Slovensku je to 15 percent .",O O B-ORG O O O O O B-PER O O O O O O O B-LOC O O O O O
+"Pre porovnanie najviac , až tretina obyvateľstva , doteraz nepoužila internet v Bulharsku , kým naopak v Dánsku a Luxembursku sú to len 2 percentá ľudí .",O O O O O O O O O O O O B-LOC O O O O B-LOC O B-LOC O O O O O O O
+"Internetové návyky sa líšia aj medzi generáciami : zatiaľ čo internet používa pravidelne 96 percent mladých vo veku 16 – 24 rokov , v kategórii starších ľudí vo veku od 55 do 74 rokov je to len vyše polovica ( 57 % ) .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Dnes v kontexte Asociačnej rady medzi Európskou úniou a Ukrajinou sa uskutočnilo aj stretnutie medzi podpredsedom Európskej komisie pre Energetickú úniu Marošom Šefčovičom , prvým podpredsedom vlády Ukrajiny Stepanom Kubivom a podpredsedom Európskej investičnej banky Vazilom Hudákom .",O O O O O O B-LOC I-LOC O B-LOC O O O O O O B-ORG I-ORG O O O B-PER I-PER O O O O B-LOC B-PER I-PER O O B-ORG I-ORG I-ORG B-PER I-PER O
+"Európska komisia údajne nemá plán",B-ORG I-ORG O O O
+"B pre prípad odchodu Británie z EÚ | TVnoviny . sk Európska komisia nemá pripravený nijaký "" plán B "" pre prípad , že by Briti v júni odhlasovali odchod krajiny z EÚ .",O O O O B-LOC O B-LOC O B-ORG I-ORG O B-ORG I-ORG O O O O O O O O O O O O B-PER O O O O O O B-LOC O
+"Výkonný orgán tohto bloku sa zároveň hodlá zdržať vstupovania do kampane predchádzajúcej referendu , uviedol v nedeľu komisár EÚ pre hospodárske a menové záležitosti Pierre Moscovici .",O O O O O O O O O O O O O O O O O O B-LOC O O O O O B-PER I-PER O
+"Informovala o tom agentúra Reuters .",O O O O B-ORG O
+"Briti budú 23 . júna v referende hlasovať , či krajina zostane členom EÚ .",B-PER O O O O O O O O O O O O B-LOC O
+"Na otázku francúzskej televíznej stanice France 5 , čo mieni únia robiť , ak sa Británia rozhodne pre odchod , Moscovici uviedol : "" Nie , nie a nie , neexistuje žiadny plán B .",O O O O O B-ORG I-ORG O O O O O O O O B-LOC O O O O B-PER O O O O O O O O O O O O O O
+"Počítať s katastrofickými scenármi nám nijako nepomôže .",O O O O O O O O
+"O pláne",O O
+"B začneme hovoriť v deň , keď už nebudeme môcť veriť v náš plán A .",O O O O O O O O O O O O O O O O
+"Ja mám iba jeden plán , a tým je Spojené kráľovstvo v zjednotenej Európe . """,O O O O O O O O O B-LOC I-LOC O O B-LOC O O
+"Moscovici ďalej povedal , že Európska komisia sa nezapojí do referendovej kampane .",B-PER O O O O B-ORG I-ORG O O O O O O
+"Zdôvodnil to tým , že akékoľvek angažovanie sa v tejto záležitosti by mohlo mať opačný účinok .",O O O O O O O O O O O O O O O O O
+""" Nejsť do kampane a nesnažiť sa vnútiť voľbu suverénnemu ľudu je podľa mňa rozumné .",O O O O O O O O O O O O O O O O
+"Referendá sú nebezpečné , a to najmä pre európske otázky , "" dodal .",O O O O O O O O O O O O O O
+"Lídri EÚ sa v piatok dohodli na úprave vzťahov medzi Londýnom a Bruselom na základe požiadaviek britského premiéra Davida Camerona .",O B-LOC O O O O O O O O B-LOC O B-LOC O O O O O B-PER I-PER O
+"Za odchod Británie z Európskej únie pred referendom hodlá agitovať starosta Londýna Boris Johnson , ktorý svoje rozhodnutie oficiálne potvrdil v nedeľu s tým , že to bolo "" bolestne ťažké "" .",O O B-LOC O B-LOC I-LOC O O O O O B-LOC B-PER I-PER O O O O O O O O O O O O O O O O O O O
+"Británia je členom únie od roku 1973 , vtedy sa však toto zoskupenie ešte nazývalo Európske hospodárske spoločenstvo ( EHS ) .",B-LOC O O O O O O O O O O O O O O B-ORG I-ORG I-ORG O B-ORG O O
+"Briti už v roku 1975 veľkou väčšinou rozhodli v referende o zotrvaní v EHS .",B-PER O O O O O O O O O O O O B-ORG O
+"Európska komisia : Facebook mohol automaticky prepájať dáta z WhatsApp už od roku 2014 | TOUCHIT EK obviňuje Facebook zo zatajovania informácií , za čo firme hrozí pokuta vo výške 180 miliónov dolárov .",B-ORG I-ORG O B-ORG O O O O O B-ORG O O O O O B-ORG B-ORG O B-ORG O O O O O O O O O O O O O O O
+"Pri vyšetrovaní spojenia Facebooku a WhatsApp Európskou komisiou v roku 2014",O O O B-ORG O B-ORG B-ORG I-ORG O O O
+"Facebook tvrdil , že nemá možnosť automaticky prepájať dáta medzi dvoma službami .",B-ORG O O O O O O O O O O O O
+"Teraz , keď Facebook začal zdieľať dáta medzi WhatsApp a Facebookom , sa EK znovu na celú problematiku pozrela a tvrdí , že Facebook mal túto možnosť už od kúpy WhatsAppu v roku 2014 , len to zatajil .",O O O B-ORG O O O O B-ORG O B-ORG O O B-ORG O O O O O O O O O B-ORG O O O O O O B-ORG O O O O O O O O
+"Ak sa ukáže , že EK má pravdu a Facebook zatajoval informácie pri vyšetrovaní , jednalo by sa o porušenie regulácií EÚ pri zlučovaní spoločností .",O O O O O B-ORG O O O B-ORG O O O O O O O O O O O B-LOC O O O O
+"Nebolo by to prvý krát , čo Facebook klamal o svojich sledovacích aktivitách .",O O O O O O O B-ORG O O O O O O
+"Komisárka Margrethe",O B-PER
+"Vestager povedala : „ Firmy sú povinné podať komisii presné informácie počas vyšetrovania ich zlučovania .",I-PER O O O O O O O O O O O O O O O
+"Musia túto povinnosť brať vážne .",O O O O O O
+"Naše rýchle a efektívne vyšetrovanie zlúčení závisí na presnosti informácií poskytnutých zaujatými firmami .",O O O O O O O O O O O O O O
+"V tomto prípade komisia dospela k predbežnému záveru , že nám Facebook poskytol nesprávne či zavádzajúce informácie počas vyšetrovania jeho akvizície WhatsAppu .",O O O O O O O O O O O B-ORG O O O O O O O O O B-ORG O
+"Facebook má teraz príležitosť sa k veci vyjadriť . “",B-ORG O O O O O O O O O
+"Facebook má čas na vyjadrenie do 31 . januára 2017 .",B-ORG O O O O O O O O O O
+"Ak sa ukáže , že naozaj klamal počas vyšetrovania v roku 2014 , môže dostať pokutu vo výške 1 % z ročných príjmov , teda zhruba 180 miliónov dolárov .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"A ešte sa len ukáže , čo toto vyšetrovanie bude v konečnom dôsledku znamenať pre zdieľanie dát medzi WhatsAppom a Facebookom na pôde Európskej únie .",O O O O O O O O O O O O O O O O O O B-ORG O B-ORG O O B-LOC I-LOC O
+"Zdroj :",O O
+"Osobný profil Európska komisia | Aktuality . sk | Aktuality . sk EK",O O B-ORG I-ORG O B-ORG I-ORG O O B-ORG I-ORG O B-ORG
+"Navrhuje legislatívu EÚ , kontroluje jej dodržiavanie v členských štátoch EÚ .",O O B-LOC O O O O O O O B-LOC O
+"Taktiež zastupuje úniu voči členským krajinám aj navonok .",O O O O O O O O O
+"Z prevažnej časti je spravovateľom rozpočtu EÚ .",O O O O O O B-LOC O
+"Na čele EK je predseda ( Barroso ) , ktorý je navrhnutý Európskou radou a potvrdený musí byť Európskym parlamentom .",O O B-ORG O O O B-PER O O O O O B-ORG I-ORG O O O O B-ORG I-ORG O
+"Ostatní členovia ( komisári ) sú spoločne menovaní Radou Európskej únie , prezidentom Európskej komisie a potvrdení Európskym parlamentom .",O O O O O O O O B-ORG I-ORG I-ORG O O B-ORG I-ORG O O B-ORG I-ORG O
+"Orgánom EK sa rozdeľuje do takzvaných generálnych riaditeľstiev , ktoré sú akousi analógiu ministerstvám .",O B-ORG O O O O O O O O O O O O O
+"Každé generálne riaditeľstvo sa venuje vybranej problematike , na jeho čele je generálny riaditeľ , ktorý podlieha priamo konkrétnemu komisárovi .",O O O O O O O O O O O O O O O O O O O O O
+"Európska komisia skúsi stanoviť emisné limity aj pre kamióny | Ekonomika | TREND .sk Komisia urýchli prácu na možnostiach uskutočnenia tandardov pre ťažké nákladné vozidlá a zaháji verejnú konzultáciu s cieľom pripraviť pôdu pre legislatívny návrh , “ píe sa podľa agentúry v dokumente .",B-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Európska únia v súčasnosti na rozdiel od krajín ako Japonsko , Čína , Kanada či USA neuplatňuje limity na emisie kamiónov .",B-LOC I-LOC O O O O O O O B-LOC O B-LOC O B-LOC O B-LOC O O O O O O
+"Nákladné vozidlá pritom vytvárajú približne tvrtinu emisií v rámci cestnej dopravy a tento podiel môže podľa komisie do roku 2030 ete narásť .",O O O O O O O O O O O O O O O O O O O O O O O
+"Zástupcovia európskych automobiliek ako Daimler , Renault či Volkswagen limity pre kamióny zatiaľ odmietajú .",O O O O B-ORG O B-ORG O B-ORG O O O O O O
+"Argumentovali tým , že je ťažké stanoviť jednotný tandard pre vozidlá s rôznou veľkosťou a tvarom a že už aj bez toho znížili týmto vozidlám emisie uhlíka .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Niekoľko členských tátov EÚ vak vlani komisiu vyzvalo , aby začala rieiť aj problémy s kamiónmi .",O O O B-LOC O O O O O O O O O O O O O
+"Európska komisia si posvietila na banky .",B-ORG I-ORG O O O O O
+"Za manipulácie dostanú miliónové pokuty | Aktuálne .sk Európska komisia si posvietila na banky .",O O O O O O O O B-ORG I-ORG O O O O O
+"Za manipulácie dostanú miliónové pokuty BRUSEL - Európska komisia ( EK ) uložila bankám JPMorgan , HSBC a Credit Agricole pokuty v celkovej sume 485 mil . eur , pretože dospela k záveru , že tieto tri peňažné ústavy uzavreli dohodu s cieľom manipulovať cenu finančných produktov založených na úrokových sadzbách .",O O O O O B-LOC O B-ORG I-ORG O B-ORG O O O B-ORG O B-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Európska komisárka pre hospodársku súťaž Margrethe Vestagerová uviedla , že tieto tri banky si nelegálne vymieňali citlivé informácie .",O O O O O B-PER I-PER O O O O O O O O O O O O
+"Zdroj : TASR/AP .",O O O O
+"Európska komisárka pre hospodársku súťaž Margrethe Vestagerová uviedla , že tieto tri banky si nelegálne vymieňali citlivé informácie a uzavreli kartelovú dohodu s cieľom dosahovať zisk na trhu špecializovaných finančných produktov .",O O O O O B-PER I-PER O O O O O O O O O O O O O O O O O O O O O O O O O
+"Prešetrovanie EK sa týkalo manipulácie finančných kontraktov spojených s úrokovou sadzbou Euribor v rokoch 2005 až 2008 .",O B-ORG O O O O O O O O O O O O O O O O
+"Americkej banke JPMorgan Chase EK udelila pokutu vo výške 337 mil . eur .",O O B-ORG I-ORG B-ORG O O O O O O O O O
+"Francúzsky peňažný ústav",O O O
+"Credit Agricole dostal pokutu 114 , 6 mil . eur a britskú banku HSBC komisia pokutovala sumou 33 , 6 mil . eur .",O O O O O O O O O O O O O B-ORG O O O O O O O O O O
+"V rámci rovnakého vyšetrovania Európska komisia pred tromi rokmi uložila pokuty v celkovej sume 1 , 04 mld . eur bankám Barclays , Deutsche Bank , RBS a Société Générale .",O O O O B-ORG I-ORG O O O O O O O O O O O O O O O B-ORG O B-ORG I-ORG O B-ORG O B-ORG I-ORG O
+"Európska komisia prijala smernicu o zbraniach :",B-ORG I-ORG O O O O O
+"Obmedzenia majú zabrániť terorizmu a útokom | Topky . sk Exekutíva EÚ navrhla revíziu súčasných pravidiel o strelných zbraniach 18 . novembra 2015 .",O O O O O O O B-ORG I-ORG O O B-LOC O O O O O O O O O O O O
+"Jej zámerom bolo legálne sťažiť získanie rýchlopalných zbraní v rámci EÚ , umožniť lepšie sledovanie legálne držaných strelných zbraní a znížiť riziko ich presunu na čierny trh posilnením spolupráce v tejto oblasti medzi členskými štátmi .",O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O
+"Predseda EK Jean-Claude Juncker v tejto súvislosti povedal , že komisia "" tvrdo bojovala "" za presadenie ambicióznej dohody , ktorá znižuje riziko streľby na školách a v letných táboroch .",O B-ORG B-PER I-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Dohoda zároveň predchádza teroristickým útokom s legálne držanými zbraňami .",O O O O O O O O O O
+""" Samozrejme by sme si priali ísť ešte ďalej , ale som si istý , že aj súčasná dohoda je medzníkom v oblasti kontroly zbraní v EÚ , "" uviedol Juncker v správe pre médiá .",O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O O B-PER O O O O O
+"Dočasná politická dohoda medzi inštitúciami EÚ zachováva väčšinu z toho , čo EK pôvodne navrhovala .",O O O O O B-LOC O O O O O O B-ORG O O O
+"Ide napríklad o zákaz automatických strelných zbraní premenených na poloautomatické , začlenenie zberateľov a múzeí so strelnými zbraňami do pôsobnosti európskej smernice , reguláciu používania výstražných a akustických zbraní , reguláciu internetového predaja zbraní , reguláciu predaja znefunkčnených zbraní a ďalšiu výmenu informácií v tejto oblasti medzi členskými štátmi .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Komisia vyjadrila ľútosť , že niektoré body pôvodného návrhu Európskeho parlamentu a Rady EÚ neboli podporené .",O O O O O O O O O B-ORG I-ORG O B-ORG I-ORG O O O
+"Komisia navrhovala úplný zákaz predaja najnebezpečnejších poloautomatických strelných zbraní vrátane všetkých poloautomatických zbraní AK47 alebo AR15 , ako aj zákaz predaja útočných zbraní súkromným zberateľom .",O O O O O O O O O O O O O B-MISC O B-MISC O O O O O O O O O O
+"Komisia takisto ľutuje , že kapacita zásobníkov nebola obmedzená na maximum desať nábojov pre všetky poloautomatické strelné zbrane .",O O O O O O O O O O O O O O O O O O O
+"Vzhľadom na to , že celkový legislatívny balík predstavuje zlepšenie v porovnaní so súčasnou situáciou , EK oznámila , že prijíma dosiahnutý medziinštitucionálny kompromis .",O O O O O O O O O O O O O O O O B-ORG O O O O O O O O
+"Podľa EK nová smernica o strelných zbraniach spolu s technickými predpismi požadujúcimi prísne harmonizované normy pre deaktiváciu strelných zbraní ( platné od apríla 2016 ) povedie k zníženiu počtu nebezpečných , ale legálne držaných zbraní , ktoré sa môžu dostať do rúk zločincom a teroristom .",O B-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Horizont 2020 > Európska komisia naliehavo žiada o podporu pre výskum vírusu Zika Európska rada pre výskum ( ERC ) Akcie Marie Skłodowska-Curie",B-MISC I-MISC O B-ORG I-ORG O O O O O O O B-MISC O O O O O B-ORG O O B-MISC I-MISC
+"Zdravie , demografické zmeny a kvalita života .",O O O O O O O O
+"Zika vírus bol vyhlásený 1 . februára 2016",B-MISC O O O O O O O
+"Svetovou zdravotníckou organizáciou ohrozením verejného zdravia v medzinárodnom kontexte .",B-ORG I-ORG I-ORG O O O O O O O
+"Európska komisia vyčleňuje 10 miliónov Euro na urgentný výskum vírusu Zika pre podozrenie v súvislosti s vzostupom prípadov vážnych vrodených chýb mozgu po celej Latinskej Amerike .",B-ORG I-ORG O O O O O O O O B-MISC O O O O O O O O O O O O O B-LOC I-LOC O
+"Ak sa potvrdí táto súvislosť , tieto prostriedky by mohli byť použité v boji proti vírusu Zika , napríklad , vytvorením diagnostiky a testovaním potenciálnej liečby alebo vakcín .",O O O O O O O O O O O O O O O O B-MISC O O O O O O O O O O O O
+"poskytuje niekoľko možností financovať projekty : €40 miliónov vo výzve , ktorá zahŕňa aj výskum vírusu ZIKA ; € 10 million pre , vrátane komárov , ktoré šíria Zika vírus ; Program ERA-NET v rámci FP7 : – network medzinárodných grantových agentúr riadený EK zameraný na identifikáciu výskumných priorít a prevenciu duplikácií vo financovaní výskumu .",O O O O O O O O O O O O O O O O B-MISC O O O O O O O O O O O B-MISC O O O B-MISC O O B-MISC O O O O O O O B-ORG O O O O O O O O O O O O
+"venovaná vírusu ZIKA :",O O B-MISC O
+"Donald Trump | ČSFD . cz Donald John Trump je americký obchodný magnát , televízna osobnosť a autor .",B-PER I-PER O O O O B-PER I-PER I-PER O O O O O O O O O O
+"Je predsedom a generálnym riaditeľom Trump Organization , ktorá sa zaoberá nehnuteľnosťami .",O O O O O B-ORG I-ORG O O O O O O
+"Trump je tiež zakladateľom spoločnosti Trump Entertainment Resorts , ktorá prevádzkuje mnoho kasín a hotelov po celom svete .",B-PER O O O O B-ORG I-ORG I-ORG O O O O O O O O O O O
+"Podľa zoznamu Forbes 400 je Donald Trump 134 . najbohatší človek v USA .",O O B-MISC I-MISC O B-PER I-PER O O O O O B-LOC O
+"Vďaka jeho reality show , The Apprentice , na americkom televíznom kanáli NBC , sa stal Trump ešte slávnejším .",O O O O O B-MISC I-MISC O O O O O B-ORG O O O B-PER O O O
+"Donald Trump zrejme strávi Vianoce na Floride - 24hod . sk Washington 16 . decembra ( TASR ) - Nastávajúci prezident Spojených štátov",B-PER I-PER O O B-MISC O B-LOC O B-ORG I-ORG I-ORG B-LOC O O O O B-ORG O O O O O O
+"Donald Trump zrejme strávi vianočné sviatky v známom letovisku Palm Beach na Floride .",B-PER I-PER O O O O O O O B-LOC I-LOC O B-LOC O
+"Myslia si to viaceré floridské médiá .",O O O O O O O
+"Pobrežná stráž na Floride totiž vyhlásila od dnes 16 . decembra do 3 . januára bezpečnostnú zónu v okolí Mar-a-Lago Club , Trumpovho sídla v Palm Beach .",O O O B-LOC O O O O O O O O O O O O O O O B-LOC I-LOC O B-PER O O B-LOC I-LOC O
+"Trump tam strávil aj Deň vďakyvzdania a bezpečnostné opatrenia boli vtedy podobné .",B-PER O O O B-MISC I-MISC O O O O O O O
+"Floridské médiá si preto tipujú , že budúci prezident tam zavíta znovu .",O O O O O O O O O O O O O
+"Noviny vyšli vo štvrtok s titulkami ako : "" Donald Trump by mohol stráviť Vianoce v Palm Beach "" , "" Strávi Trump Vianoce v Palm Beach ? """,O O O O O O O O O B-PER I-PER O O O B-MISC O B-LOC I-LOC O O O O B-PER B-MISC O B-LOC I-LOC O O
+""" Začína to vyzerať , že nastávajúci prezident Trump strávi sviatky v Palm Beach "" či "" Nastávajúci prezident by tu mohol byť na sviatky "" .",O O O O O O O O B-PER O O O B-LOC I-LOC O O O O O O O O O O O O O
+"Pobrežná stráž novinárom neprezradila , pre koho bezpečnostné opatrenia zaviedla .",O O O O O O O O O O O
+"Uviedla len , že sú "" nevyhnutné na ochranu VIP a sprevádzajúcich osôb , verejnosti a okolitých vôd pred teroristickými činmi , sabotážou a inými podvratnými činmi "" .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Narušenie bezpečnostnej zóny môže mať za následok pokutu 88 . 000 dolárov , alebo aj väzenie na maximálne 12 rokov .",O O O O O O O O O O O O O O O O O O O O O
+"Donald Trump na Floridu dnes skutočne cestuje , a to na ďakovné zhromaždenie do Orlanda .",B-PER I-PER O B-LOC O O O O O O O O O O B-LOC O
+"V sobotu má rovnaké podujatie v štáte Alabama .",O O O O O O O B-LOC O
+"Zatiaľ neprezradil , či sa odtiaľ vráti na Floridu , respektíve , kde plánuje stráviť Vianoce .",O O O O O O O O B-LOC O O O O O O B-MISC O
+"Pobrežné mesto",O O
+"Palm Beach je obľúbenou dovolenkovou destináciou a na Floride je teraz hlavná turistická sezóna .",B-LOC I-LOC O O O O O O B-LOC O O O O O O
+"Honosné historické sídlo",O O O
+"Mar-a-Lago má vyše sto izieb a Donald Trump ho kúpil v roku 1985 za údajne sedem miliónov dolárov .",B-LOC O O O O O B-PER I-PER O O O O O O O O O O O
+"Potom ho zrenovoval a dnes je podľa magazínu Fortune okázalým palácom s hodnotou 200 miliónov dolárov .",O O O O O O O O B-ORG O O O O O O O O
+"Jeho súčasťou je aj privátny klub a kúpele , ktoré Tumpovi vlani zarobili 15 , 6 milióna dolárov .",O O O O O O O O O O B-PER O O O O O O O O
+"Denník New York",O B-ORG I-ORG
+"Times prirovnal Mar-a-Lago k Versailles a vláda ho vyhlásila za národnú historickú pamiatku .",I-ORG O B-LOC O B-LOC O O O O O O O O O
+"Zdroj : Teraz .sk , spravodajský portál tlačovej agentúry",O O O O O O O O O
+"infospravy .",B-ORG I-ORG
+"sk",O
+"V Spojených tátoch sa dnes schádza Zbor voliteľov , ktorý definitívne potvrdí budúceho prezidenta .",O O O O O O O O O O O O O O O
+"Američania , ktorí nemajú radi Donalda Trumpa , stále dúfajú v zázrak .",B-PER O O O O B-PER I-PER O O O O O O
+"Ten je síce možný , ale podľa politológov nepravdepodobný .",O O O O O O O O O O
+"Voľby prezidenta sa konali pred vye mesiacom , 8 . novembra , a odvtedy sa ako o budúcom prezidentovi hovorí o Donaldovi Trumpovi .",O O O O O O O O O O O O O O O O O O O O O B-PER I-PER O
+"Hoci väčina voličov hlasovala za Hillary Clintonovú , víťazom volieb sa stal Donald Trump .",O O O O O B-PER I-PER O O O O O B-PER I-PER O
+"Hlasy voličov sa totiž podľa amerického volebného systému v každom táte pretavujú do hlasov voliteľov a tých získal viac Trump .",O O O O O O O O O O O O O O O O O O O B-PER O
+"Voliteľov je 538 a väčinou ide o členov strán .",O O O O O O O O O O
+"Počet voliteľov v každom táte je určený počtom obyvateľov tátu , plus každý tát má ďalích dvoch .",O O O O O O O O O O O O O O O O O O
+"To má dať málo obývaným tátom trochu viac slova v rozhodovaní .",O O O O O O O O O O O O
+"táty by podľa tvorcov tohto systému nemali mať pri výbere prezidenta slabé slovo len preto , že majú málo obyvateľov .",O O O O O O O O O O O O O O O O O O O O O
+"Volitelia vždy hlasujú až niekoľko týždňov po tom , ako hlasovali voliči .",O O O O O O O O O O O O O
+"V týchto voľbách to pripadlo na 19 . decembra .",O O O O O O O O O O
+"Volitelia za zaväzujú hlasovať za toho kandidáta , ktorý v ich táte vyhral v hlasovaní voličov .",O O O O O O O O O O O O O O O O O
+"V minulosti sa ale niekoľkokrát stalo , že hlasovali inak .",O O O O O O O O O O O
+"Za poruenie záväzku im nehrozí nič vážne .",O O O O O O O O
+"Mnohí Američania dúfajú , že i dnes volitelia zvrátia výsledok hlasovania voličov .",O B-PER O O O O O O O O O O O
+"Niektorým sa nepáči Donald Trump , iní kritizujú volebný systém .",O O O B-PER I-PER O O O O O O
+"Argumentujú tým , že Hilllary Clintonová získala o takmer tri milióny hlasov voličov viac , a preto by mala byť prezidentkou .",O O O O B-PER I-PER O O O O O O O O O O O O O O O O
+"Donald Trump získal 306 z 538 voliteľov , pričom minimum potrebné na výhru je 270 .",B-PER I-PER O O O O O O O O O O O O O O
+"Na to , aby volitelia zvrátili výsledok hlasovania občanov , by dnes muselo 37 z 306 Trumpových voliteľov hlasovať za jeho súperku .",O O O O O O O O O O O O O O O O O O O O O O O
+"Podľa informácií amerických médií vak o tom uvažuje len niekoľko z nich .",O O O O O O O O O O O O O
+"Zbor voliteľov sa dnes neschádza ako zbor na jednom mieste , ale volitelia v každom táte sa zídu a budú hlasovať v Kapitole daného tátu , teda v sídle zákonodarcov tátu .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Hlasy voliteľov spočíta 6 . januára Kongres .",O O O O O O B-ORG O
+"Nový prezident bude inaugurovaný 20 . januára .",O O O O O O O O
+"TASR .",B-ORG O
+"Víťazom amerických prezidentských volieb sa stal Donald Trump – Priekopník Približne 200 miliónov potenciálnych amerických voličov rozhodlo o novom prezidentovi Spojených štátov , volebné miestnosti zavreli dnes o 05 : 00 SEČ .",O O O O O O B-PER I-PER O O O O O O O O O O O O B-LOC I-LOC O O O O O O O O O O O
+"Hlavný súboj o Biely dom sa odohral medzi dvoma hlavnými protagonistami – kandidátkou Demokratickej strany Hillary Clintonovou a kandidátom republikánov Donaldom Trumpom .",O O O B-LOC I-LOC O O O O O O O O B-ORG I-ORG B-PER I-PER O O O B-PER I-PER O
+"Trump sa stal víťazom po tom , ako podľa priebežne zverejňovaných výsledkov získal aj hlasy desiatich voliteľov v štáte Wisconsin , čo spolu s ďalšími ziskami znamená , že presiahol hranicu 270 voliteľov .",B-PER O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O
+"Tí majú zvolenie newyorského magnáta potvrdiť 19 . decembra , na čo bude môcť Trump 20 . januára vystriedať v Bielom dome dosluhujúceho Baracka Obamu .",O O O O O O O O O O O O O O B-PER O O O O O B-LOC I-LOC O B-PER I-PER O
+"Republikán Donald Trump bude v poradí 45 . prezidentom USA . Zdroj a foto : tasr .",O B-PER I-PER O O O O O O B-LOC O O O O O B-ORG O
+"Je Donald Trump rizikom pre ekonomiku ?",O B-PER I-PER O O O O
+"Takto to vidí Coface - o Poistení .sk",O O O B-ORG O O O O
+"Práve ten postupuje v rámci amerických primárok v úspešnom ťažení .",O O O O O O O O O O O
+"Jeho silácke vyhlásenia už vyrobili rozruch nielen u domácej verejnej mienky , ale aj vo svete .",O O O O O O O O O O O O O O O O O
+"Čo by však jeho prípadné víťazstvo v prezidentských voľbách v USA mohlo spraviť s americkou ekonomikou ?",O O O O O O O O O O B-LOC O O O O O O
+"Víťazstvá , ktoré si v ostatnom čase magnát Donald Trump pripisuje , ho posúvajú bližšie k prezidentskej nominácii za Republikánsku stranu .",O O O O O O O O B-PER I-PER O O O O O O O O O B-ORG I-ORG O
+"Hoci ešte nemá víťazstvo v hrsti a stále ho čaká viacero prekážok na ceste do Bieleho domu ( stále je v prieskumoch až za Hillary Clintonovou a Berniem Sandersom ) , Trumpov vzostup prináša zároveň úvahy , či jeho potenciálne zvolenie nebude mať negatívny vplyv na americkú ekonomiku .",O O O O O O O O O O O O O O O B-LOC I-LOC O O O O O O O B-PER I-PER O B-PER I-PER O O B-PER O O O O O O O O O O O O O O O O O
+"Tá pritom už koncom vlaňajška prejavovala známky oslabovania .",O O O O O O O O O
+"„ Odpoveď je áno , ak urobí to , čo sľubuje .",O O O O O O O O O O O O
+"Ale zároveň treba povedať , že existujúce protiľahlé sily umožňujú do určitej miery zmierniť akékoľvek negatívne dopady , “ hovorí Julien Marcilly , hlavný ekonóm spoločnosti Coface , globálneho lídra v poistení pohľadávok firiem a riadení kreditného rizika .",O O O O O O O O O O O O O O O O O O O O B-PER I-PER O O O O B-ORG O O O O O O O O O O O O
+"Čo Donaldovi Trumpovi nahráva .",O B-PER I-PER O O
+"Možnosť , že vo voľbách vyhrá Donald Trump je vysoká .",O O O O O O B-PER I-PER O O O
+"V prvom rade vedie u Republikánov , čo potvrdil aj Super utorok ( 11 amerických štátov malo primárky ) a kde si zabezpečil 316 republikánskych delegátov , kým Ted Cruz 226 a Marco Rubio 106 . John Kasich a BenC arson ďaleko zaostali .",O O O O O B-ORG O O O O O O O O O O O O O O O O O O O O O O B-PER I-PER O O B-PER I-PER O O B-PER I-PER O O O O O O
+"Trump tak vyhral v desiatich z 15 štátov .",B-PER O O O O O O O O
+"Po víkende má na svojom konte spolu 384 hlasov delegátov , no stále je ďaleko od cieľa a musí vyhrať 1237 hlasov delegátov , aby získal nomináciu za Republikánsku stranu .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-ORG I-ORG O
+"Hoci podľa prieskumov zaostáva aj za dvomi hlavnými demokratickými kandidátmi , no nie s veľkým rozdielom , najmä pokiaľ ide o Hilary Clintonovú , ktorá je nateraz u Demokratov ťahúňom .",O O O O O O O O O O O O O O O O O O O O O B-PER I-PER O O O O O B-ORG O O
+"Riziká a zhoršená podnikateľská dôvera .",O O O O O O
+"Napriek tomu , ak by Trump vyhral , mohla by sa zhoršiť tak spotrebiteľská , ako aj podnikateľská dôvera , “ varuje Marcilly .",O O O O O B-PER O O O O O O O O O O O O O O O O B-PER O
+"A to viacerými spôsobmi .",O O O O O
+"„ V tvrdom súboji sa niektorí kandidáti , Donalda Trumpa nevynímajúc , snažia zapôsobiť často negatívnymi komentármi na americkú ekonomiku a tým zanechávať dojem , že je v horšom stave , než skutočne je .",O O O O O O O O B-PER I-PER O O O O O O O O O O O O O O O O O O O O O O O O O
+"To , samozrejme , môže viesť k následnému splneniu takýchto proroctiev , najmä ak prestanú spotrebitelia míňať a firmy investovať , “ konštatuje ekonóm Coface .",O O O O O O O O O O O O O O O O O O O O O O O O B-ORG O
+"Rovnako sa Trump podľa neho ukazuje rizikovým faktorom pre finančné trhy , ktoré sú od začiatku roka už i tak dosť volatilné .",O O B-PER O O O O O O O O O O O O O O O O O O O O
+"„ Takýto zdroj neistoty môže firmy viesť k pozastaveniu investičných rozhodnutí , “ dodáva .",O O O O O O O O O O O O O O O
+"Ak by sa Donald Trump stal prezidentom a splnil by to , čo sľúbil , do úvahy prichádza niekoľko rizík .",O O O B-PER I-PER O O O O O O O O O O O O O O O O
+"„ Tým prvým je masívny nárast verejného dlhu .",O O O O O O O O O
+"Trump plánuje osekať tak dane pre fyzické , ako aj právnické osoby .",B-PER O O O O O O O O O O O O
+"Výdavkové škrty by síce tento nárast čiastočne kompenzovali , no podľa amerického nezávislého analytického centra",O O O O O O O O O O O O O O O
+"Tax Police Center by Trumpov daňový plán mohol v nasledujúcich dvadsiatich rokoch zvýšiť verejný dlh v porovnaní s HDP o 80 % , “ hovorí Julien Marcilly .",B-ORG I-ORG I-ORG O B-PER O O O O O O O O O O O O O O O O O O O O B-PER I-PER O
+"Tvrdé vyhlásenia smerom k Číne .",O O O O B-LOC O
+"Varujúci je aj nárast protekcionizmu .",O O O O O O
+"Trump mal už napríklad aj tvrdé vyhlásenie smerom k Číne .",B-PER O O O O O O O O B-LOC O
+"Podľa The New York Times plánuje zaviesť 45 % tarifu na import z Číny .",O B-ORG I-ORG I-ORG I-ORG O O O O O O O O O O
+"Hoci neskôr poprel , že by to bol povedal , noviny zverejnili nahrávku .",O O O O O O O O O O O O O O
+"„ V dlhodobom horizonte majú takéto protekcionistické vyjadrenia veľmi negatívny efekt na ekonomiku .",O O O O O O O O O O O O O O
+"Z krátkodobého hľadiska je to však mix efektov v závislosti od sektora , “ konštatuje ekonóm Coface .",O O O O O O O O O O O O O O O O B-ORG O
+"Napríklad na sektor výroby , ktorú ovplyvňuje silný dolár a nárast dovozu z Číny ( najmä oceľ ) .",O O O O O O O O O O O O O O O O O O O
+"Na druhej strane sektory , ktoré závisia od vstupov z dovozu - stavebníctvo , maloobchod , by tlak vysokých cien pocítili okamžite .",O O O O O O O O O O O O O O O O O O O O O O O
+"„ Hoci firmy už drasticky orezali marže , vysoké spotrebiteľské ceny môžu vplývať na kúpyschopnosť domácností , “ hodnotí .",O O O O O O O O O O O O O O O O O O O O
+"Aj zreteľné oslabenie imigrácie ( či vzdelanej alebo nevzdelanej pracovnej sily ) by narušilo dlhodobý rast a vyhliadky ziskovosti firiem so snahou zdvihnúť aj mzdy , najmä keď je pracovný trh oslabený .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"„ Hoci dopad kúpyschopnosti domácnosti je jasný ( 70 % HDP ) a vyššie platy by ju posilnili , starnutie populácie by bez nových migrantov takýto trend oslabilo , “ zdôrazňuje Julien Marcilly .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PER I-PER O
+"Hocako , spomenuté riziká by sa zmiernili , ak by Donald Trump neurobil to , čo sľubuje .",O O O O O O O O O O B-PER I-PER O O O O O O
+"A to by nebolo po prvý raz , čo by sa to stalo .",O O O O O O O O O O O O O O
+"A takýto rozkol medzi sľubmi a realitou nie je výnimočný , najmä pri súčasnom delení moci v USA .",O O O O O O O O O O O O O O O O O B-LOC O
+"Víťazom amerických prezidentských volieb sa stal Donald Trump | Info .sk Víťazom amerických prezidentských volieb sa stal republikánsky prezidentský kandidát Donald Trump .",O O O O O O B-PER I-PER O O O O O O O O O O O O B-PER I-PER O
+"Porazil svoju demokratickú protikandidátku Hillary Clintonovú .",O O O O B-PER I-PER O
+"Informovala o tom dnes agentúra AP .",O O O O O B-ORG O
+"Trump sa stal víťazom po tom , ako podľa priebežne zverejňovaných výsledkov získal aj hlasy desiatich voliteľov v štáte Wisconsin , čo spolu s ďalšími ziskami znamená , že presiahol hranicu 270 voliteľov .",B-PER O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O
+"Tí majú zvolenie newyorského magnáta potvrdiť 19 . decembra , na čo bude môcť Trump 20 . januára vystriedať v Bielom dome dosluhujúceho Baracka Obamu .",O O O O O O O O O O O O O O B-PER O O O O O B-LOC I-LOC O B-PER I-PER O
+"Kandidátka Demokratickej strany na post prezidenta USA Hillary Clintonová zatelefonovala dnes svojmu republikánskemu súperovi Donaldovi Trumpovi , pričom priznala porážku v utorkových prezidentských voľbách .",O B-ORG I-ORG O O O B-LOC B-PER I-PER O O O O O B-PER I-PER O O O O O O O O O
+"Informovala o tom spravodajská stanica CNN . Republikán Donald Trump bude v poradí 45 . prezidentom USA . PREZIDENT : Blahoželám Donaldovi Trumpovi k víťazstvu vo voľbách .",O O O O O B-ORG O O B-PER I-PER O O O O O O B-LOC O O O O B-PER I-PER O O O O O
+"Blahoželám Donaldovi Trumpovi k víťazstvu vo voľbách .",O B-PER I-PER O O O O O
+"Takto reagoval slovenský prezident Andrej Kiska na informáciu o tom , že 45 . americkým prezidentom bude republikánsky kandidát Donald Trump .",O O O O B-PER I-PER O O O O O O O O O O O O O B-PER I-PER O
+""" Spojené štáty sú dôležitý partner a spojenec Slovenska aj Európskej únie a považujem za dôležité , že to tak zostane aj v budúcnosti , "" dodal prezident Kiska .",O B-LOC I-LOC O O O O O B-LOC O B-LOC I-LOC O O O O O O O O O O O O O O O O B-PER O
+"PROFIL DONALDA TRUMPA .",O B-PER I-PER O
+"Americký podnikateľ , realitný investor a televízna osobnosť Donald Trump kandidoval na post prezidenta Spojených štátov vo voľbách 2016 za Republikánsku stranu .",O O O O O O O O B-PER I-PER O O O O B-LOC I-LOC O O O O B-ORG I-ORG O
+"Je predsedom a generálnym riaditeľom spoločnosti Trump Organization je tiež zakladateľom firmy Trump Entertainment Resorts , podnikajúcej v oblasti kasín a siete hotelov po celom svete .",O O O O O O B-ORG I-ORG O O O O B-ORG I-ORG I-ORG O O O O O O O O O O O O
+"Republikán kandidujúci pod heslom",O O O O
+""" Urobme Ameriku opäť veľkou "" je politickým nováčikom , ktorý nikdy nezastával nijakú politickú funkciu .",O O B-LOC O O O O O O O O O O O O O O
+"Napriek početným slovným útokom , urážkam a chybám v úsudku počas kampane skončil s veľkým náskokom na čele pôvodne 17-člennej skupiny uchádzačov o republikánsku prezidentskú nomináciu .",O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Donald Trump sa narodil 14 . júna 1946 v newyorskej štvrti Queens ako štvrté z piatich detí .",B-PER I-PER O O O O O O O O O B-LOC O O O O O O
+"Ako 13-ročného ho poslali do vojenskej školy , ktorá mala usmerniť jeho neutíchajúcu energiu .",O O O O O O O O O O O O O O O
+"Popri získavaní akademického vzdelania zbieral i úspechy v športe : hral v univerzitnom futbalovom aj basketbalovom tíme .",O O O O O O O O O O O O O O O O O O
+"Neskôr študoval na Fordhamskej univerzite , odtiaľ prešiel na Whartonovu školu pri Pensylvánskej univerzite , kde študoval ekonómiu .",O O O B-ORG I-ORG O O O O B-ORG I-ORG O B-ORG I-ORG O O O O O
+"Po promócii v roku 1968 nastúpil do otcovej firmy obchodujúcej s nehnuteľnosťami .",O O O O O O O O O O O O O
+"V roku 1974 sa stal jej riaditeľom a pomenoval ju Trump Organization .",O O O O O O O O O O B-ORG I-ORG O
+"Následne investoval do hotelov , kasín a luxusných bytov .",O O O O O O O O O O
+"Jeho majetok dosiahol miliardovú hodnotu vďaka rozličným podnikateľským aktivitám , ktoré zahŕňali napríklad súťaže krásy ( Miss Universe ) , úspešnú televíznu realitnú šou Apprentice či autorstvo viacerých predávaných kníh , v ktorých radí , ako dosiahnuť úspech v živote a podnikaní .",O O O O O O O O O O O O O O O O B-ORG I-ORG O O O O O O B-MISC O O O O O O O O O O O O O O O O O O
+"Má tiež vlastnú značku luxusného nábytku i oblečenia .",O O O O O O O O O
+"Jeho podnikateľské projekty však neboli vždy bezproblémové - má za sebou štyri bankroty , ale vždy sa mu podarilo podnikanie reštrukturalizovať .",O O O O O O O O O O O O O O O O O O O O O O
+"V rokoch 1977-1991 bol Donald Trump ženatý s českou emigrantkou Ivanou Zelníčkovou , s ktorou má synov Donalda ( 1977 ) a Erica ( 1984 ) a dcéru Ivanku ( 1981 ) .",O O O O B-PER I-PER O O O O B-PER I-PER O O O O O B-PER O O O O B-PER O O O O O B-PER O O O O
+"Jeho druhou manželkou bola v rokoch 19931999 Marla Maplesová - z tohto manželstva sa narodila dcéra Tiffany ( 1993 ) .",O O O O O O O B-PER I-PER O O O O O O O B-PER O O O O
+"Od roku 2005 je Trump ženatý s Melaniou Knaussovou , s ktorou má syna Barrona ( 2006 ) .",O O O O B-PER O O B-PER I-PER O O O O O B-PER O O O O
+"Kontroverzný Newyorčan",O O
+"Donald Trump má od roku 2007 svoju hviezdu na hollywoodskom Chodníku slávy , ktorú mu v októbri 2016 poškodil kladivom a krompáčom vandal .",B-PER I-PER O O O O O O O O O O O O O O O O O O O O O O
+"Trump bol dvakrát za spomínanú šou Apprentice nominovaný na cenu Emmy ( 2004 , 2005 ) .",B-PER O O O O O B-MISC O O O B-MISC O O O O O O
+"O možnej kandidatúre na šéfa Bieleho domu hovoril viac ako desať rokov .",O O O O O B-LOC I-LOC O O O O O O
+"Svoju kandidatúru na post prezidenta USA za Republikánsku stranu oznámil v júni 2015 .",O O O O O B-LOC O B-ORG I-ORG O O O O O
+"V priebehu roka postupne získaval popularitu v prieskumoch , keď otvoril témy ako múr na hranici s Mexikom , ilegálna imigrácia všeobecne alebo dočasný zákaz imigrácie moslimov do USA .",O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O B-LOC O
+"Okrem toho sľúbil znížiť dane a zreformovať zdravotníctvo a školstvo .",O O O O O O O O O O O
+"Citaty . sk ~ Citáty od Donald Trump Citáty Donald Trump ( * 14 . jún 1946 , New York ) je americký obchodný magnát , televízna osobnosť a autor .",B-ORG I-ORG O O O O B-PER I-PER O B-PER I-PER O O O O O O O B-LOC I-LOC O O O O O O O O O O O
+"Je predsedom a generálnym riaditeľom Trump Organization , ktorá sa zaoberá nehnuteľnosťami .",O O O O O B-ORG I-ORG O O O O O O
+"Trump je tiež zakladateľom spoločnosti Trump Entertainment Resorts , ktorá prevádzkuje mnoho kasín a hotelov po celom svete .",B-PER O O O O B-ORG I-ORG I-ORG O O O O O O O O O O O
+"Podľa zoznamu Forbes 400 Donald Trump je dnes 134 . najbohatší človek v USA .",O O B-MISC I-MISC B-PER I-PER O O O O O O O B-LOC O
+"Vďaka jeho reality show , The Apprentice , na americkom televíznom kanáli NBC , sa stal Trump ešte slávnejším .",O O O O O B-MISC I-MISC O O O O O B-ORG O O O B-PER O O O
+"Verte si !",O O O
+"Ak si nebudete veriť , neuveria vám ani ostatní .",O O O O O O O O O O
+"Premýšlajte o sebe ako o armáde jedného muža !",O O O O O O O O O
+"Donald Trump .",B-PER I-PER O
+"Trump si musí nacvičiť aj reakciu na teroristické útoky Washington 20 . decembra ( TASR ) – Víťazstvo Donalda Trumpa v prezidentských voľbách potvrdil v pondelok aj Zbor voliteľov a nastupujúci prezident tak môže v pokoji pokračovať v prípravách na prevzatie funkcie .",B-PER O O O O O O O O B-LOC O O O O B-ORG O O O B-PER I-PER O O O O O O O O O O O O O O O O O O O O O O O
+"Zostáva mu na to presne mesiac .",O O O O O O O
+"Inaugurovaný bude 20 . januára a za pracovný stôl v Bielom dome si sadne 21 . januára .",O O O O O O O O O O B-LOC I-LOC O O O O O O
+"Dovtedy musí stihnúť nielen zostaviť svoj kabinet , ale aj pripraviť sa na najhoršie – na prípadný teroristický útok na Spojené štáty .",O O O O O O O O O O O O O O O O O O O O B-LOC I-LOC O
+"Pripravenosť vedenia krajiny na teroristické útoky je od udalostí z 11 . septembra 2001 nesmierne dôležitá .",O O O O O O O O O O O O O O O O O
+"Dôraz je na ňu kladený aj počas odovzdávania prezidentskej funkcie .",O O O O O O O O O O O
+"Biely dom preto organizuje pre nastávajúceho prezidenta bezpečnostné cvičenie .",B-LOC I-LOC O O O O O O O O
+"Iniciátorom tohto programu bol George W . Bush , ktorý bol prezidentom práve počas útokov na newyorské dvojičky z 11 . septembra .",O O O O B-PER I-PER I-PER I-PER O O O O O O O O O O O O O O O
+"Keď funkciu v januári 2009 odovzdával Barackovi Obamovi , pripravil mu len týždeň pred inauguráciou bezpečnostné cvičenie .",O O O O O O B-PER I-PER O O O O O O O O O O
+"Konalo sa priamo v Bielom dome a simulovalo sériu explózií vo viacerých amerických mestách .",O O O O B-LOC I-LOC O O O O O O O O O
+"Budúci prezident si tak vyskúšal , ako to počas takejto kritickej situácie vyzerá , a čo treba robiť .",O O O O O O O O O O O O O O O O O O O
+"Bezpečnostní experti Barackovi Obamovi a jeho poradcom vysvetlili , ako treba počas takýchto útokov reagovať .",O O B-PER I-PER O O O O O O O O O O O O
+"Barack Obama sa rozhodol v programe pokračovať a pre Donalda Trumpa pripravil dve cvičenia .",B-PER I-PER O O O O O O O B-PER I-PER O O O O
+"Jedno bolo naplánované na december , druhé na január .",O O O O O O O O O O
+"Biely dom zatiaľ neuviedol , či sa decembrové cvičenie už konalo , respektíve ako Donald Trump na pozvánku na cvičenie reagoval .",B-LOC I-LOC O O O O O O O O O O O O B-PER I-PER O O O O O O
+"Bezpečnostným expertom a spravodajským službám už spôsobil budúci prezident vrásky na čele tým , že odmietol ich denné hlásenia o aktuálnej situácii , ktoré sú pre amerického prezidenta už desaťročia bežnou súčasťou pracovného dňa .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Trump argumentoval tým , že nepotrebuje každý deň počúvať to isté .",B-PER O O O O O O O O O O O
+"Donald Trump nepovažuje osady za problém | UZZNO",B-PER I-PER O O O O O B-ORG
+"Novozvolený americký prezident",O O O
+"Donald Trump si nemyslí , že by rozširovanie židovských miest , ktoré Izrael buduje v Judei a Šomrone by sa malo odsudzovať .",B-PER I-PER O O O O O O O O O O B-LOC O O B-LOC O B-LOC O O O O O
+"Trump ich nepovažuje ani za prekážku pre mier na Blízkom východe .",B-PER O O O O O O O O B-LOC I-LOC O
+"Uviedol to pre izraelský Galei Cahal Jason Greenblatt , ktorého Trump povolal do funkcie hlavného poradcu pre Izrael .",O O O O B-PER I-PER I-PER I-PER O O B-PER O O O O O O B-LOC O
+"Tento Greenblattov výrok môže predznamenávať odklon od dlhoročnej politiky Spojených štátov , ktoré si mysleli , že izraelská výstavba na územiach obsadených Izraelom po vojne v roku 1967 sťažuje dosiahnutie mierovej zmluvy s Palestínčanmi .",O B-PER O O O O O O O B-LOC I-LOC O O O O O O O O O O O B-LOC O O O O O O O O O O B-PER O
+"Izrael a Spojené štáty sú blízkymi spojencami , ale vzťahy medzi dosluhujúcim prezidentom USA Barackom Obamom a izraelským premiérom Benjaminom Netanjahuom boli často napäté najmä kvôli izraelskej politike voči Palestínčanom .",B-LOC O B-LOC I-LOC O O O O O O O O O B-LOC B-PER I-PER O O O B-PER I-PER O O O O O O O O B-PER O
+"Netanjahua a Trumpa spájajú priateľské vzťahy , ktoré sa teraz zrejme ešte prehĺbia .",O O B-PER O O O O O O O O O O O
+"Podľa Greenblattovho vyjadrenia pre Times of Israel sa nová americká vláda bude snažiť vyriešiť izraelsko-palestínsky konflikt , ale bez toho , aby na niektorú z jeho strán vyvíjala tlak .",O B-PER O O B-ORG I-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O O O
+""" Myslím , že ( Trump ) podporí Izrael tak , ako to nerobila Obamova vláda , "" uviedol Greenblatt .",O O O O O B-PER O O B-LOC O O O O O B-PER O O O O B-PER O
+"Podľa jeho názoru sa Trump bude pokúšať pomôcť Izraelu uzavrieť mier s Palestínčanmi .",O O O O B-PER O O O O O O O B-PER O
+""" Bude tam , aby ich viedol , nie aby ich nútil k mieru proti ich vôli , "" dodal Greenblatt .",O O O O O O O O O O O O O O O O O O O O B-PER O
+"Počas predvolebnej kampane Trump vyhlasoval , že sa bude snažiť sprostredkovať konečnú dohodu medzi Izraelom a Palestínčanmi , ale riešenie o koexistencii dvoch štátov v danom priestore explicitne nepodporil .",O O O B-PER O O O O O O O O O O B-LOC O B-PER O O O O O O O O O O O O O
+"msz .",O O
+"Podľa Greenblatta sa riešenie izraelsko-palestínskeho konfliktu stane pre Trumpa prioritou za predpokladu , že "" to bude priorita aj pre Izraelčanov a Palestínčanov "" .",O B-PER O O O O O O B-PER O O O O O O O O O O O B-PER O B-PER O O
+""" Nebude ich nútiť k mieru proti ich vôli , to musí vyjsť od nich , "" dodal .",O O O O O O O O O O O O O O O O O O O
+"Donald Trump : Myslete na velké cíle a dobre se bavte , Nikdy sa nevzdávaj Čo si predstavíš keď sa povie meno Donlad Trump ? Ja vplyvom medií a informácií z vonka , som vždy mala predstavu , že je to boháč , ktorý nevie , čo zo sebou a , že kde môže tam sa ukazuje .",B-PER I-PER O O O O O O O O O O O O O O O O O O O O O B-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Moje vnímanie tohto človeka bolo zabalené do predsudkov .",O O O O O O O O O
+"Predsudkov a povrchných informácii pri sledovaní televízie , článkov v časopisoch , v rozhlase a v ďalších médiách , v ktorých sú vyhľadávané škandály , chyby a prešľapy človeka , ktorý je slávny či už preto , že má peniaze alebo je umelcom .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Ale kto je v skutočnosti Donald Trump ?",O O O O O B-PER I-PER O
+"Veľmi rada chodím do kníhkupectva , kde hľadám inšpiráciu .",O O O O O O O O O O
+"Alebo si idem kúpiť konkrétnu knihu , na ktorú som dostala odporúčanie .",O O O O O O O O O O O O O
+"A tak to bolo aj pred dvomi rokmi .",O O O O O O O O O
+"Hľadala som niečo , čo ma osloví a všimla som si knihu kde bolo meno Donald Trump , ale čo ma lákalo viac , bol nadpis , TRUMP NIKDY SA NEVZDÁVAJ , tak som knižku zobrala , sadla si do malej kaviarničky a listovala .",O O O O O O O O O O O O O O O B-PER I-PER O O O O O O O O O O B-PER O O O O O O O O O O O O O O O O O
+"Prečítala som pár stránok a všimla som si , že kdekoľvek som knižku otvorila , oslovili ma slová , príbeh a samotný postoj až tak , že som si knižku ihneď kúpila .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Doma som knižku doslova zhltla za pár dní a založila do knižnice .",O O O O O O O O O O O O O
+"Nič viac .",O O O
+"Toto leto sme išli na našu úžasnú dovolenku , kde si beriem so sebou niekoľko kníh .",O O O O O O O O O O O O O O O O O
+"Už však nechodím do kníhkupectva , ale do mojej plnej knižnice v pracovni , kde si náhodne vyberám knižky , ktoré si chcem znovu prečítať .",O O O O O O O O O O O O O O O O O O O O O O O O O O
+"No náhodne , nič nie je náhoda …",O O O O O O O O
+"Siahla som na policu , kde mám knižky o motivácii a inspirácii a vybrala som knižku TRUMP NIKDY SA NEVZDÁVAJ .",O O O O O O O O O O O O O O O O B-PER O O O O
+"Zapísala som si všetky postrehy .",O O O O O O
+"A pretože je teraz úžasná online doba , i hneď som si cez internet kúpila ďalšie dve knižky od Donalda Trumpa vo forme e-knihy , ktoré som ihneď začala čítať a zapisovala poznámky .",O O O O O O O O O O O O O O O O O O O B-PER I-PER O O O O O O O O O O O O O
+"Až pri čítaní týchto kníh som zistila , kto je vlastne Donald Trump .",O O O O O O O O O O O B-PER I-PER O
+"To , ako všetko vybudoval iba svojou vášňou , prácou , postojom , vierou , zdolávaním prekážok , ktoré vždy boli pre neho výzvou .",O O O O O O O O O O O O O O O O O O O O O O O O O
+"Vždy vedel , že je niekoľko riešení a môj obraz o ňom sa razom zmenil .",O O O O O O O O O O O O O O O O
+"Začala som čítať všetky jeho knihy a z každej kapitoly som si zapísala vetu , slovo , nápad alebo riešenie , ktoré som začala aj používať .",O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Dnes čítam jeho ďalšiu užasnú knihu , ktorá má zaujímavý a hravý nadpis : “ Myslite na veľké ciele a dobre sa zabávajte ” .",O O O O O O O O O O O O O O O O O O O O O O O O O
+"Donald Trump si vybral ministrov | Nový Čas Donald Trump chce za nového ministra financií vymenovať 53-ročného investičného bankára , filmového producenta a politického sponzora Stevena Mnuchina .",B-PER I-PER O O O O B-ORG I-ORG B-PER I-PER O O O O O O O O O O O O O O O B-PER I-PER O
+"Napísala to agentúra AP s odvolaním sa na nemenovaný zdroj z prostredia republikánov .",O O O B-ORG O O O O O O O O B-ORG O
+"Mnuchinovu nomináciu by mal Trump oficiálne oznámiť v stredu .",B-PER O O O B-PER O O O O O
+"Päťdesiattriročný finančník",O O
+"Mnuchin bez predchádzajúcich skúseností vo vládnej funkcii má za sebou 17 rokov pôsobenia v investičnej banke Goldman Sachs .",B-PER O O O O O O O O O O O O O O O B-ORG I-ORG O
+"V Trumpovej predvolebnej kampani mal na starosti finančné operácie .",O O O O O O O O O O
+"Počas tohto obdobia sa podľa AP zblížil s Trumpom i jeho rodinou .",O O O O O B-ORG O O B-PER O O O O
+"Trump si ďalej z radov republikánskych politických veteránov vybral aj svojho favorita na post nového ministra dopravy .",B-PER O O O O O O O O O O O O O O O O O
+"Do tejto funkcie plánuje obsadiť 63-ročnú Elaine Chaovú , bývalú ministerku práce a manželku lídra republikánskej väčšiny v Senáte a senátora za štát Kentucky Mitcha McConnella .",O O O O O O B-PER I-PER O O O O O O O O O O B-ORG O O O O B-LOC B-PER I-PER O
+"Donald Trump je definitívne zvolený za prezidenta - Hlavné správy Varovanie .",B-PER I-PER O O O O O O O O O O
+"Vážení čitatelia - diskutéri .",O O O O O
+"Podľa zákonov Slovenskej republiky sme povinní na požiadanie orgánov činných v trestnom konaní poskytnúť im všetky informácie zozbierané o vás systémom ( IP adresu , mail , vaše príspevky atď . )",O O B-LOC I-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Prosíme vás preto , aby ste do diskusie na našej stránke nevkladali také komentáre , ktoré by mohli naplniť skutkovú podstatu niektorého trestného činu uvedeného v Trestnom zákone .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Najmä , aby ste nezverejňovali príspevky rasistické , podnecujúce k násiliu alebo nenávisti na základe pohlavia , rasy , farby pleti , jazyka , viery a náboženstva , politického či iného zmýšľania , národného alebo sociálneho pôvodu , príslušnosti k národnosti alebo k etnickej skupine a podobne .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Viac o povinnostiach diskutéra sa dozviete v pravidlách portálu , ktoré si je každý diskutér povinný naštudovať a ktoré nájdete tu .",O O O O O O O O O O O O O O O O O O O O O O
+"Publikovaním príspevku do diskusie potvrdzujete , že ste si pravidlá preštudovali a porozumeli im .",O O O O O O O O O O O O O O O
+"ENERGIE-PORTAL .",B-ORG I-ORG
+"SK | Donald Trump bojuje s veternými mlynmi .",O O B-PER I-PER O O O O O
+"Ozajstnými Americký prezidentský kandidát",O O O O
+"Donald Trump sa mal v pláne zastaviť výstavbu veternej farmy blízkosti jeho golfového rezortu v Aberdeene .",B-PER I-PER O O O O O O O O O O O O O B-LOC O
+"Britský Najvyšší súd však jeho snahy zamietol .",O O O O O O O O
+"Foto : Wikimedia Commons 21 . 12 .2015 ; ( rak )",O O O O O O O O O O O O
+"Trumpova organizácia označila rozhodnutie ako malomyseľné a obmedzené .",B-PER O O O O O O O O
+"Stavebné povolenie pre výstavbu 11 turbín v blízkosti Trumpovho golfového rezortu v Aberdeenshire bolo udelené už v roku 2013 .",O O O O O O O O B-PER O O O B-LOC O O O O O O O
+"Trump odvtedy bojuje proti tomuto rozhodnutiu .",B-PER O O O O O O
+"Minulý týždeň bolo odvolanie zamietnuté sudcami v Londýne - Trump tak už tretíkrát stratil argumenty .",O O O O O O O B-LOC O B-PER O O O O O O
+"Hovorca organizácie povedal , že verdikt je "" mimoriadne nešťastný "" a upozornil , že nová veterná farma môže "" zničiť bukový Aberdeen Bay . """,O O O O O O O O O O O O O O O O O O O O O O B-LOC I-LOC O O
+"Hovorca tiež dodal : "" História odsúdi tých , ktorí sa podieľali na tomto rozsudku , veľmi nepriaznivo .",O O O O O O O O O O O O O O O O O O O
+"Výsledok odhaľuje pochabú , malichernú a obmedzenú mentalitu , ktorá ovláda nebezpečný experiment súčasnej škótskej vlády vo veternej energii . """,O O O O O O O O O O O O O O O O O O O O O
+"Miliardár , ktorý je ikonou súkromného vlastníctva , by mohol pokračovať v spore obrátením sa na Európsky súdny dvor .",O O O O O O O O O O O O O O O O B-ORG I-ORG I-ORG O
+"© PROPERTY & ENVIRONMENT s . r . o .",O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+"Autorské práva sú vyhradené a vykonáva ich vydavateľ .",O O O O O O O O O
+"Výrobná hala pri Bratislave vlani zvýšila kapacitu na zhruba 20 mil .",O O O B-LOC O O O O O O O O
+"eur , väčšina produktov smeruje na export a 10 % na domáci trh .",O O O O O O O O O O O O O O
+"Automobilky Nissan Motor , Renault a Mitsubishi",O B-ORG I-ORG O B-ORG O B-ORG
+"Motors plánujú vytvoriť spoločnú platformu pre elektromobilitu a spolupracovať pri vývoji .",I-ORG O O O O O O O O O O O
+"Výsledkom majú byť elektromobily , ktoré dokážu cenovo konkurovať autám so spaľovacími motormi .",O O O O O O O O O O O O O O
+"Hlavné mesto Holandska , v súlade s novou stratégiou vlády , chce znížiť závislosť na zemnom plyne do roku 2050 .",O O B-LOC O O O O O O O O O O O O O O O O O O
+"Budúci ?",O O
+"USA prezident Donald Trump je polovičný Nemec .",B-LOC O B-PER I-PER O O B-PER O
+"Má korene pri Rýne | noveslovo .",O O O B-LOC O B-ORG I-ORG
+"sk",O
+"Navštívil som dedinku , kde sa narodili starí rodičia Donalda Trumpa - Elisabeth a Friedrich Trump .",O O O O O O O O O B-PER I-PER O B-PER O B-PER I-PER O
+"Nie je však v USA , ako by si myslel takmer každý Európan .",O O O O B-LOC O O O O O O O B-PER O
+"Leží len niekoľko kilometrov od Rýna , na úpätí nádherného rozľahlého pohoria Pfälzerwald ( Falcká vrchovina , 1600 km štvorc . , najväčšia celoplošne zalesnená vrchovina Nemecka ) , ktoré veľmi rád navštevoval a poľoval tam už slávny franský kráľ , Karol Veľký - otec Európy , ako ho označujú Nemci - v ôsmom storočí .",O O O O O B-LOC O O O O O O B-LOC O B-LOC I-LOC O O O O O O O O O O B-LOC O O O O O O O O O O O O O O B-PER I-PER O O B-LOC O O O O B-PER O O O O O
+"Volá sa Kallstadt a nachádza sa v známej nemeckej vinárskej oblasti , len 18 kilometrov od Ludwigshafenu , druhého najväčšieho mesta Porýnia-Falcka .",O O B-LOC O O O O O O O O O O O O O B-LOC O O O O B-LOC O
+"Je to veľmi malebná svojrázna dedinka , kde žije 1 200 ľudí .",O O O O O O O O O O O O O
+"Ak by neexistoval Kallstadt , tak by Amerika bola ostala bez svojho absolútneho unikátu , ako možného budúceho prezidenta USA - Donalda Trumpa , muža , ktorý miluje krásu slovanských žien a ktorý má len slová opovrhovania pre Angelu Merkel .",O O O B-LOC O O O B-LOC O O O O O O O O O O O B-LOC O B-PER I-PER O O O O O O O O O O O O O O O B-PER I-PER O
+"V súčasnosti je ženatý so Slovinkou Melániou , ktorá sa narodila v roku 1970 v Sevnici a v Ľubľani študovala architektúru .",O O O O O O B-PER O O O O O O O O B-LOC O O B-LOC O O O
+"Neskôr odišla ako modelka do USA .",O O O O O B-LOC O
+"Ak sa Trump stane prezidentom USA , tak bude prvou americkou First Lady , ktorá sa nenarodila v Amerike .",O O B-PER O O B-LOC O O O O O O O O O O O O B-LOC O
+"Dedinku pod najúchvatnejšími horami Falcka mal veľmi rád aj dlhoročný kancelár , Helmut Kohl , rodák z Ludwigshafenu , ktorý tam často chodieval , veď zo svojho domu v Oggersheime to mal len na skok .",O O O O B-LOC O O O O O O O B-PER I-PER O O O B-LOC O O O O O O O O O O O B-LOC O O O O O O
+"A dedinčanom z Kallstadtu sa veľmi páčilo , že hovoril s nimi v ich ťažko zrozumiteľnom dialekte .",O O O B-LOC O O O O O O O O O O O O O O
+"Dozvedel som sa od miestnych ľudí , že napríklad Trumpovo meno v ňom znie Drumb .",O O O O O O O O O B-PER O O O O B-PER O
+"Samozrejme , že o svojom svetoznámom "" Drumbovi "" vie každý v Kallstadte a všetci sú na neho hrdí , aj keď nie každý to otvorene prizná .",O O O O O O O B-PER O O O O B-LOC O O O O O O O O O O O O O O O
+"Každý ale otvorene povie , že by bolo obrovskou poctou pre dedinu , keby ich niekedy v budúcnosti prišiel ich slávny "" krajan "" navštíviť a pozrel si miesto , kde má svoje korene a z ktorého jeho starý otec odchádzal do USA chudobný ako kostolná myš .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O O
+"Donald Trump v Kallstadte nikdy nebol , za to tam ale bol pred rokmi na návšteve jeden jeho blízky príbuzný z USA .",B-PER I-PER O B-LOC O O O O O O O O O O O O O O O O O B-LOC O
+"Migračná historka Friedricha Trumpa z dedinky",O O B-PER I-PER O O
+"Kallstadt sa začala v roku 1885 .",B-LOC O O O O O O
+"Treba podčiarknuť , že zdravú drzosť , odvahu k riziku , priebojnosť a nebojácnosť musel jeho vnuk Donald zdediť od svojho nemeckého starého otca .",O O O O O O O O O O O O O O O O O B-PER O O O O O O O
+"Ten vyrazil len ako 16-ročný , celkom na vlastnú päsť , v jedno skoré ráno na ďalekú cestu , len sám , do ďalekej Ameriky .",O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O
+"Ako sa dostal z Hamburgu loďou až do New Yorku , či mal odniekiaľ na drahý lístok alebo sa dal najať na loď ako Schiffsjunge - plavčík - to ostalo tajomstvom aj v Kallstadte .",O O O O B-LOC O O O B-LOC I-LOC O O O O O O O O O O O O O O O O O O O O O O O B-LOC O
+"Jeden jeho príbuzný z falckej dedinky však vie , že v New Yorku sa začal prebíjať najprv ako pomocník holiča , aby už o niekoľko rokov bol šéfom malého hotela na západnom pobreží USA .",O O O O O O O O O O O B-LOC I-LOC O O O O O O O O O O O O O O O O O O O O B-LOC O
+"K prvým väčším peniazom prišiel už ako tridsaťročný medzi zlatokopmi na rieke Yukon , kde si otvoril lokál , ktorý mu veľmi vynášal .",O O O O O O O O O O O O B-LOC O O O O O O O O O O O
+"Svoje peniaze investoval úspešne do pozemkov v Manhattane , ktoré boli v tom čase takmer zadarmo .",O O O O O O O B-LOC O O O O O O O O O
+"Po rokoch však ich ceny doslova vystrelili do závratných výšok , To bol základ obrovského bohatstva rodiny Trumpov a dnes tam stoja aj palácové stavby miliardára Donalda Trumpa .",O O O O O O O O O O O O O O O O O B-PER O O O O O O O O B-PER I-PER O
+"Friedricha Trumpa to však po čase ťahalo domov , do rodnej dedinky pod horami , kde sa rodilo skvelé falcké víno .",B-PER I-PER O O O O O O O O O O O O O O O O O O O O
+"Ale predovšetkým chcel videť svoju Jugendliebe , krásnu Elisabeth , ktorá bola ešte slobodná a s ktorou si písal .",O O O O O O O O B-PER O O O O O O O O O O O
+"Krátko po návrate si ju vzal za ženu .",O O O O O O O O O
+"Ona chcela ostať doma , ale Friedrich nesmel .",O O O O O O B-PER O O
+"Kráľovstvo Bayern , kam vtedy patril Kallstadt , vyhlásil jeho občianstvo za neplatné , lebo emigroval do USA .",O B-LOC O O O O B-LOC O O O O O O O O O O B-LOC O
+"Mladomanželia napokon po mesiaci odišli za oceán .",O O O O O O O O
+"Po niekoľkých rokoch však Friedrich ochorel a zomrel .",O O O O B-PER O O O O
+"Elisabeth sa už viac nevydala .",B-PER O O O O O
+"Založila si Immobilien-firmu E . Trump § Son , základ neskoršieho obrovského finančného impéria Donalda Trumpa .",O O O B-ORG I-ORG I-ORG I-ORG I-ORG O O O O O O B-PER I-PER O
+"To je v krátkosti story o Donaldovi Trumpovi a o jeho neuveriteľnom vzostupe k obrovskému bohatstvu i k politickej moci .",O O O O O O B-PER I-PER O O O O O O O O O O O O O
+"Možno sa na to pozerať akokoľvek , ale v každom prípade to hodnotím ako neobyčajný výkon a prirovnávam ho k chudobnému gréckemu chlapcovi , menom Aristoteles Onassis , ktorý sa v USA stal podobne jedným z nabohatších ľudí na svete .",O O O O O O O O O O O O O O O O O O O O O O O O O B-PER I-PER O O O O B-LOC O O O O O O O O O
+"Po tom , ako som sa v Kallstadte dozvedel mnoho o pôvode a živote Donalda Trumpa - z čoho som tu napísal len niečo - tak mám pre neho oveľa viac sympatíí , ako som mal predtým .",O O O O O O O B-LOC O O O O O O B-PER I-PER O O O O O O O O O O O O O O O O O O O O O O
+"A ak sa bude rozhodovať len medzi ním a Hillary Clinton , tak jednoznačne budem držať palce jemu .",O O O O O O O O O B-PER I-PER O O O O O O O O
+"A v Kallstadte tak budú robiť všetci .",O O B-LOC O O O O O
+"Som spisovateľ a publicista .",O O O O O
+"V SR som vydal 19 kníh a mnoho rôznych článkov , publikoval som aj v Nemecku a v iných západných krajinách .",O B-LOC O O O O O O O O O O O O O B-LOC O O O O O O
+"Moja literárna tvorba sa vyznačuje veľkou rôznorodosťou literárneho žánru .",O O O O O O O O O O
+"Na Slovensku som mal vlastnú edíciu o kozme , vyšli mi tam dva dvojdielne historické romány ( téma starý Egypt a Veľká Morava ) , psychologický román , póezia , kniha o najväčších génioch západnej civilizácie i knihy politicko-filozofickej faktografie .",O B-LOC O O O O O O O O O O O O O O O O O B-MISC O B-MISC I-MISC O O O O O O O O O O O O O O O O O O
+"Moja prvá kniha Tajomstvá a proroctvá kozmu vyšla v roku 1993 .",O O O B-MISC I-MISC I-MISC I-MISC O O O O O
+"V roku 2005 som ukončil publikovanie kníh v SR dielom Kozmos , duch a vedomie .",O O O O O O O O B-LOC O B-MISC I-MISC I-MISC I-MISC I-MISC O
+"V roku 2006 som dostal veľmi atraktívnu ponuku z Južnej Ameriky ( kde som ako mladý muž prežil niekoľko rokov a vybudoval si výborné kontakty i pevné priateľstvá ) a od toho roku vychádzajú všetky moje ďalšie publikácie v hojnom počte už len tam .",O O O O O O O O O B-LOC I-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"V súčasnosti vediem v Nemecku Juhoamericke tlačové centrum .",O O O O B-LOC B-ORG I-ORG I-ORG O
+"ONLINE : Prieskumy sa mýlili , víťazom amerických volieb je Donald Trump | Televízia TA3",O O O O O O O O O O B-PER I-PER O O B-ORG
+"Po útoku kamiónom na vianočné trhy v berlínskej štvrti Charlottenburg zahynulo 12 ľudí , 48 je zranených .",O O O O O O O O O B-LOC O O O O O O O O
+"Polícia predpokladá , že útok na berlínskych vianočných trhoch bol úmyselný .",O O O O O O O O O O O O
+"V kamióne našli mŕtvolu poľského kamionistu , ktorého zrejme pred útokom zavraždili .",O O O O O O O O O O O O O
+"Podozrivý Navid B . , ktorého zadržali po útokoch , vinu poprel .",O B-PER I-PER I-PER O O O O O O O O O
+"Polícia pripustila , že neútočil on .",O O O O O O O
+"Útočník z Berlína sa zrejme s ukoristeným kamiónom snažil učiť jazdiť hodiny pred útokom .",O O B-LOC O O O O O O O O O O O O
+"Medzi obeťami by podľa ministerstva zahraničia nemali byť Slováci .",O O O O O O O O B-PER O
+"Česko aj Rakúsko ale aj Slovensko v reakcii na útok posilnili bezpečnostné opatrenia .",B-LOC O B-LOC O O B-LOC O O O O O O O O
+"R . Kaliňák :",B-PER I-PER I-PER O
+"Zvýšila sa prítomnosť polície v uliciach , informáciu o bezprostrednom ohrození Slovenska nemáme .",O O O O O O O O O O O B-LOC O O
+"R . Fico : Útok výrazne zmení postoj niektorých štátov k migrácii .",B-PER I-PER I-PER O O O O O O O O O O
+"A .",B-PER I-PER
+"Danko : Európa musí držať spolu , musíme byť súdržní .",I-PER O B-LOC O O O O O O O O
+"A .",B-PER I-PER
+"Merkelová : Musíme vychádzať z toho , že išlo o teroristický útok .",O O O O O O O O O O O O O
+"A .",B-PER I-PER
+"Kiska vrátil parlamentu novelu zákona o slobode náboženskej viery a postavení cirkví .",I-PER O O O O O O O O O O O O
+"Vodiči by mali byť opatrní , meteorológovia varujú pred poľadovicou na celom území Slovenska .",O O O O O O O O O O O O O B-LOC O
+"V .",B-PER I-PER
+"Putin odsúdil vraždu ruského veľvyslanca v Ankare , ktorá mala podľa neho poškodiť rusko-turecké vzťahy .",I-PER O O O O O B-LOC O O O O O O O O O
+"Niekoľko hodín po atentáte na ruského veľvyslanca zadržali muža , ktorý strieľal pri ambasáde USA .",O O O O O O O O O O O O O O B-LOC O
+"Muž , ktorý postrelil v mešite vo švajčiarskom Zürichu troch ľudí , je podľa polície mŕtvy .",O O O O O O O O B-LOC O O O O O O O O
+"D .",B-PER I-PER
+"Trump podľa očakávaní získal potrebný počet hlasov voliteľov a definitívne sa stane prezidentom Spojených štátov .",I-PER O O O O O O O O O O O O B-LOC I-LOC O
+"Americký prezident",O O
+"B .",B-PER I-PER
+"Obama udelil milosť 78 ľuďom , ďalším skrátil tresty .",I-PER O O O O O O O O O
+"Čína vrátila Pentagónu zhabaný podmorský dron .",B-LOC O B-ORG O O O O
+"Ch . Lagardeová zostane šéfkou MMF aj po verdikte súdu , ktorý ju uznal vinnou z nedbanlivosti .",B-PER I-PER O O O O O O O O O O O O O O O O
+"Ekvádor zasiahla séria zemetrasení , zomreli najmenej dvaja ľudia .",B-LOC O O O O O O O O O
+"Šalamúnove ostrovy v Pacifiku postihlo zemetrasenie so silou 6 , 7 stupňa , cunami nehrozí .",B-LOC I-LOC O B-LOC O O O O O O O O O O O O
+"ÚPSVR :",B-ORG O
+"Miera evidovanej nezamestnanosti v novembri klesla na 8 , 78 % . Talianska vláda si plánuje požičať 20 miliárd eur na stabilizáciu problémových bánk .",O O O O O O O O O O O O O O O O O O O O O O O O O
+"NHL : Philadelphia - Nashville 1 :2 pp a sn , Toronto - Anaheim 2 :3 , St . Louis - Edmonton 2 :3 pp /za hostí Sekera 0+1/ , Arizona - Calgary 2 :4 . Hokej – príprava , Cornwall : SR 20 – Švédsko 20 3 :4 . Lyžovanie - SP :",B-ORG O B-ORG O B-ORG O O O O O O B-ORG O B-ORG O O O B-ORG I-ORG I-ORG O B-ORG O O O O O B-PER O O B-ORG O B-ORG O O O O O O O B-LOC O B-ORG I-ORG O B-ORG I-ORG O O O O O O O
+"Obrovský slalom žien v Courchevel zrušili pre silný vietor .",O O O O B-LOC O O O O O
+"NBA - Indiana - Washington 107 :105 , Chicago - Detroit 113 : 82 , Minnesota - Phoenix 115 :108 , Oklahoma City - Atlanta 108 :110 , Denver - Dallas 117 :107 . Noc : Zamračené , ojedinele slabé sneženie alebo mrznúce mrholenie .",B-ORG O B-ORG O B-ORG O O O B-ORG O B-ORG O O O O B-ORG O B-ORG O O O B-ORG I-ORG O B-ORG O O O B-ORG O B-ORG O O O O O O O O O O O O O O
+"Najnižšia nočná teplota -2 až -7 °C . Streda : Zamračené , ojedinele slabé sneženie alebo mrznúce mrholenie .",O O O O O O O O O O O O O O O O O O O
+"Najvyššia denná teplota -4 až 1 ° C .",O O O O O O O O O
+"Martinus . sk > Knihy od : Donald J . Trump",B-ORG I-ORG O O O O O B-PER I-PER I-PER I-PER
+"Svet bojuje s vysokou nezamestnanosťou a ekonomikou , ktorá potrebuje na svoje oživenie nové pracovné miesta .",O O O O O O O O O O O O O O O O O
+"Mnohí sa spoliehajú na svoju vládu , no je zrejmé , že žiadna vláda nie je schopná vytvoriť skutočné pracovné miesta . . .",O O O O O O O O O O O O O O O O O O O O O O O O
+"(",O
+"Počas svojej kariéry zažil Donald Trump závratné výšky aj pády .",O O O O B-PER I-PER O O O O O
+"V tejto knihe otvorene rozpráva o svojich najväčších výzvach , najhorších chvíľach a najtvrdších bojoch - a ako tieto prekážky premenil na úspechy . . .",O O O O O O O O O O O O O O O O O O O O O O O O O O
+"(",O
+"Mentalita niektorých ľudí , čo si automaticky nárokujú na starostlivosť zamestnávateľa či štátu , je nákazlivá .",O O O O O O O O O O O O O O O O O
+"Mnohí dnes čakajú , že v starobe či chorobe sa niekto o nich postará .",O O O O O O O O O O O O O O O
+"Autori knihy vás chcú naučiť byť bohatými . . .",O O O O O O O O O O
+"(",O
+"Tato kniha začíná výčtem jednoho týdne v Trumpově životě .",O O O O O O O B-PER O O
+"Ukazuje nám Trumpa v akci .",O O O O O O
+"Máme možnost vidět jak funguje den po dni , jak vede svůj život , jak si povídá s přáteli a rodinou , jak se střetává s nepřáteli , jak efektivně kupuje špičková kasina . . .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"(",O
+"Slavná kniha amerického prezidentského kandidáta , kde říká : „ Nastal čas navrátit Ameriku jejím právoplatným majitelům – americkému lidu .",O O O O O O O O O O O O O O O O O O O O O
+"Nehodlám hrát tutéž hru , jakou hrají politikové už dlouhá desetiletí – je (",O O O O O O O O O O O O O O
+"Nestačí jen chtít .",O O O O
+"Musíte vědět , co pro to udělat .",O O O O O O O O
+"Realitní magnát",O O
+"Donald Trump vám ukáže , jak myslí miliardář , jaký mít přístup k penězům , ke své kariéře a k životu .",B-PER I-PER O O O O O O O O O O O O O O O O O O O O
+"Také vás naučí , jak působit na lidi - jakým způsobem je opravit nebo konstruktvně . . .",O O O O O O O O O O O O O O O O O O
+"(",O
+"Donald Trump - flexibilný miliardár Ambície , motivácia , vytrvalosť odhodlanie .",B-PER I-PER O O O O O O O O O O
+"Aj tieto vlastnosti sú charakteristické pre všetkých obchodníkov , ktorí dokázali úspešne napredovať a zveľadiť svoj majetok vďaka schopnosti presadiť sa vo svete financií .",O O O O O O O O O O O O O O O O O O O O O O O O O
+"Medzi takýchto ľudí patrí aj dobre známy Donald Trump , ktorého bohatstvo ho radí k najbohatším mužom Ameriky .",O O O O O O O B-PER I-PER O O O O O O O O B-LOC O
+"Meno Donald Trump sa preslávilo po celom svete a v súčasnosti patrí k najúspešnejším ľuďom nielen vo svete obchodu .",O B-PER I-PER O O O O O O O O O O O O O O O O O
+"Úspech tohto muža siaha do viacerých sfér , takže nie náhodou sa považuje za flexibilného miliardára , ktorý dokáže pôsobiť v niekoľkých oblastiach súčasne a plnohodnotne sa starať o napredovanie svojich aktivít .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"To by malo byť dostatočnou motiváciou pre všetkých obchodníkov , ktorí sa chcú inšpirovať úspešnými ľuďmi .",O O O O O O O O O O O O O O O O O
+"Trumpove začiatky .",B-PER O O
+"Podľa slovFreda Trumpa , Donaldovho otca , bol jeho syn šikovný a cieľavedomý hneď v mladom veku .",O O O O O O O O O O O O O O O O O O
+"Vynikal v športe , literatúre a vďaka otcovi spoznal aj svet realít , ktorý sa stal jeho vstupnou bránou k úspechu .",O O O O O O O O O O O O O O O O O O O O O O
+"Po absolvovaní štúdia ekonómie začal Donald pracovať v otcovej spoločnosti Trump Organization , ktorá sa venovala obchodu s nehnuteľnosťami .",O O O O O B-PER O O O O B-ORG I-ORG O O O O O O O O
+"Prostredníctvom nej uskutočnil mladý Donald svoj prvý väčší projekt , ktorým bola obnova bytového komplexu Swifton Village v Cincinnati .",O O O O B-PER O O O O O O O O O O B-LOC I-LOC O B-LOC O
+"Spoločnosť zarobila jeho predajom 6 miliónov dolárov .",O O O O O O O O
+"Vlastná cesta .",O O O
+"Donald sa v otcovej firme neohrial dlho a po niekoľkých rokoch založil vlastnú spoločnosť .",B-PER O O O O O O O O O O O O O O
+"Náplňou jeho práce bolo takisto obchodovanie s nehnuteľnosťami , akurát že stratégia rozvoja bola odlišná .",O O O O O O O O O O O O O O O O
+"Donald vstúpil na trh v Manhattane a začal sa orientovať na objekty , ktorých cena za meter štvorcový sa pohybovala v tisícoch dolárov .",B-PER O O O O B-LOC O O O O O O O O O O O O O O O O O O
+"To mu prinášalo rýchlu expanziu , ktorú premenil v narastanie bohatstva .",O O O O O O O O O O O O
+"Najznámejšie Trumpove stavby : Trump Tower .",O B-PER O O B-LOC I-LOC O
+"Trump Building .",B-LOC I-LOC O
+"Trump World Tower .",B-LOC I-LOC I-LOC O
+"Trump International Hotel & Tower .",B-LOC I-LOC I-LOC I-LOC I-LOC O
+"Vsadil aj na hotely a kasína .",O O O O O O O
+"Súčasťou Trumpovej finančnej stratégie bola flexibilita , čoho výsledkom bolo investovanie vo viacerých oblastiach .",O B-PER O O O O O O O O O O O O O
+"Na základe toho vybudoval pod značkou Trump Entertainment Resorts nadnárodnú sieť hotelov a kasín .",O O O O O O B-ORG I-ORG I-ORG O O O O O O
+"Najznámejšími objektmi sú napríklad Trump Plaza alebo Trump Taj Mahal , ktoré ročne navštívia milióny ľudí .",O O O O B-LOC I-LOC O B-LOC I-LOC I-LOC O O O O O O O
+"V hotelierstve však nebol taký úspešný a v porovnaní s realitným sektorom mu vynášalo oveľa menej .",O O O O O O O O O O O O O O O O O
+"Trump v šoubiznise .",O O O O
+"Najväčšia Trumpova sláva vzišla z pôsobenia v šoubiznise , kde sa táto osoba ukázala svetu viac .",O B-PER O O O O O O O O O O O O O O O
+"Jeho realitná šow The Apprentice vysielaná na kanáli NBC , ktorá odštartovala v roku 2003 , získala mnoho priaznivcov po celej USA .",O O O B-MISC I-MISC O O O B-ORG O O O O O O O O O O O O B-LOC O
+"Miliardárska mediálna hviezda účinkovala aj vo filmoch , napríklad v známom rodinnom príbehu Sám doma 2 .",O O O O O O O O O O O O O B-MISC I-MISC I-MISC O
+"Každý miliardár mal svoju vlastnú cestu za úspechom , ktorá je plná individuálnych zážitkov a špeciálnych skúseností .",O O O O O O O O O O O O O O O O O O
+"Iné to nebolo ani u Donalda Trumpa , veď aj tento muž musel nájsť odhodlanie vstúpiť do sveta obchodu a hľadať účinné spôsoby , vďaka ktorým sa mohol dopracovať k svojim víziám .",O O O O O B-PER I-PER O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Podobne ako u iných obchodníkov to prinášalo aj kritické chvíle .",O O O O O O O O O O O
+"Trump postupne nazbieral dlhy , no jeho úspech sa stal realitou aj napriek prekážkam .",O O O O O O O O O O O O O O O
+"Vďaka tomu patrí k mnohým zrelým obchodníkom , ktorí môžu byť príkladom pre ďalších .",O O O O O O O O O O O O O O O
+"Zdroje : trump . com , imdb . com , financnici .",O O B-ORG I-ORG I-ORG O O O O O B-ORG I-ORG
+"cz",O
+"PC Revue | Donald Trump chce donútiť",B-ORG I-ORG O B-PER I-PER O O
+"Apple preniesť späť výrobu do USA Donald Trump chce donútiť Apple preniesť späť výrobu do USA .",B-ORG O O O O B-LOC B-PER I-PER O O B-ORG O O O O B-LOC O
+"Apple pred niekoľkými presunul značnú časť svojej výroby za hranice USA , a to zrejme navždy .",B-ORG O O O O O O O O O B-LOC O O O O O O
+"V roku 2011 sa Steve Jobs vyjadril , že „ tieto pracovné miesta sa už nevrátia "" .",O O O O B-PER I-PER O O O O O O O O O O O O
+"No miliardár Donald Trump si myslí , že sa mu ich podarí dostať späť .",O O B-PER I-PER O O O O O O O O O O O
+"Vo svojom nedávnom prejave na Liberty University dosť pritvrdil svoju rétoriku , keď hovoril o vytváraní budúcich pracovných miest .",O O O O O B-ORG I-ORG O O O O O O O O O O O O O
+"„ Máme v tejto krajine úžasných ľudí : inteligentných , znalých a energických . . .",O O O O O O O O O O O O O O O O
+"Prinútime Apple začať vyrábať tie jeho čertovské počítače a veci v tejto krajine , a nie v iných . """,O B-ORG O O O O O O O O O O O O O O O O O O
+"Pravda , Donald Trump nemôže len tak otočiť vypínačom , aby sa niečo také stalo .",O O B-PER I-PER O O O O O O O O O O O O
+"Už pred viacerými rokmi navrhoval , aby Apple preniesol svoju výrobu zasa domov .",O O O O O O O B-ORG O O O O O O
+"Už v kampani pred prezidentskými voľbami v roku 2012 sa vyjadril , že by bola „ veľká vec "" , keby CEO Applu Tim Cook začal stavať továrne v USA .",O O O O O O O O O O O O O O O O O O O O O O B-ORG B-PER I-PER O O O O B-LOC O
+"Nie je vylúčené , že vedúca technologická spoločnosť vytvorí pracovné miesta vo výrobe aj doma .",O O O O O O O O O O O O O O O O
+"Napríklad v roku 2013 preniesla späť do Spojených štátov výrobu počítačov Mac .",O O O O O O O O O O O B-MISC O
+"Apple je však závislý od medzinárodných dodávateľských reťazcov a osvedčených zahraničných výrobcov .",B-ORG O O O O O O O O O O O O
+"Vzdať sa ich by pre spoločnosť znamenalo vzdať sa svojich ziskov .",O O O O O O O O O O O O
+"A na to by bolo treba oveľa viac ako len ostré slová Donalda Trumpa .",O O O O O O O O O O O O B-PER I-PER O
+"Donald Trump stojí za ruským postojom voči ISIS KROKY WASHINGTON",B-PER I-PER O O O O O B-ORG O B-LOC
+"“ Tých , ktorí chcú nahradiť Asada , nikto nepozná .",O O O O O O B-PER O O O O
+"Neustále sa angažujeme v zahraničí a staviame sa za ľudí , ktorí sú nakoniec ešte horší než tí , ktorí boli na ich mieste predtým , ” tvrdí Donald Trump , ako kritik amerického diplomatického prístupu voči problematike v Sýrii .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PER I-PER O O O O O O O O O B-LOC O
+"Uchádzač o post prezidenta za Republikánsku stranu sa otvorene vyjadruje , že plne podporuje Putinove kroky v Sýrii a jeho radikálny prístup k organizácii ISIS , ktorá vedie militantnú politiku džihádskeho charakteru .",O O O O O B-ORG I-ORG O O O O O O O B-PER O O B-LOC O O O O O O B-ORG O O O O O O O O
+"“ Ak chce Rusko bojovať proti islamistom , mali by sme mu to umožniť , ” dal najavo svoj názor , či mieni podporovať spojencov sýrskeho prezidenta Bašára Asada .",O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O B-PER I-PER O
+"Je presvedčený , že by sa i Spojené štáty mali začať snažiť bojovať proti teroristickej skupine , ktorú nedefinoval ako “ umiernenú ” i tým , že by nikto nemal stáť v ceste postupu Rusov pri ich momentálnych nekompromisných protiopatreniach .",O O O O O O O B-LOC I-LOC O O O O O O O O O O O O O O O O O O O O O O O O O B-PER O O O O O O
+"Je presvedčený , že je chybou , že sa tak v Líbyi , ako i v Iraku násilne zvrhol režim .",O O O O O O O O O O O B-LOC O O O O B-LOC O O O O
+"Ak by sa tak podľa neho nestalo , bol by daný región oveľa stabilnejší .",O O O O O O O O O O O O O O O
+"Dôsledkom napadnutia krajín NATO je iba to , že Líbyu a Irak uvrhli do totálneho chaosu .",O O O B-ORG O O O O O B-LOC O B-LOC O O O O O
+"Trump je kritikom politiky súčasného amerického prezidenta Baracka Obamu a jeho názory na ruské postupy v Sýrii tvrdo odmieta .",B-PER O O O O O O B-PER I-PER O O O O O O O B-LOC O O O
+"Sám neverí jeho vyjadreniam o tom , že Asad je príčinou krízy vo svojej krajine .",O O O O O O O O B-PER O O O O O O O
+"Trumpove vyjadrenia si získali vysoké sympatie a vedú v predvolebných prieskumoch , hoci sú v niektorých prípadoch naozaj na hrane diplomatickosti .",B-PER O O O O O O O O O O O O O O O O O O O O O
+"Donald Trump to vie aj pokojne a otvorene | Bodytalks 39 . týždeň vo svete s BodyTalks .",B-PER I-PER O O O O O O O B-ORG O O O O O O B-ORG O
+"Muž známy agresívnymi gestami a výraznou , živou mimikou , je miláčikom analytikov body language .",O O O O O O O O O O O O O O O O
+"Je výkladnou skriňou prototypov gest .",O O O O O O
+"No tentokrát sa nám predstavil inak .",O O O O O O O
+"Je toto skutočný Trump ?",O O O B-PER O
+"Pri spoločnej modlitbe má otvorené dlane a ramená .",O O O O O O O O O
+"Dokonca jednu ponúknutú ruku pevne uchopil až na predlaktí .",O O O O O O O O O O
+"Obaja aktéri sa tak ocitajú v intenzívnejšom kontakte .",O O O O O O O O O
+"Tým všetkým jasne komunikuje : otváram sa , prijímam a žiadnemu dotyku ani požehnaniu sa nebránim .",O O O O O O O O O O O O O O O O O
+"Tento deň bol pre politika úspešný .",O O O O O O O
+"Viete prečo ?",O O O
+"Jeho posolstvá boli prijaté a dôkazom toho je moment plný podpory , ktorého sme svedkom .",O O O O O O O O O O O O O O O O
+"Vpustil do svojej osobnej zóny neznámych ľudí a nič z jeho reči tela nenaznačuje , že sa cíti byť ohrozený ich blízkosťou alebo názorovým nesúladom .",O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Ak by to celé bola len hra a svoje okolie by skutočne neprijal , namiesto sklonenia hlavy by sa hrudníkom odťahoval vzad .",O O O O O O O O O O O O O O O O O O O O O O O
+"Tiež by sa mu aktivizovali iné svaly na tvári .",O O O O O O O O O O
+"Zavreté viečka , vrásky na čele , napätie svalov okolo očí , nosa a úst naznačujú sústredenie .",O O O O O O O O O O O O O O O O O O
+"Modlitba je teda skutočná .",O O O O O
+"Možno sa vo vnútri modlí za svoje víťazstvo , ktovie .",O O O O O O O O O O O
+"Vzájomná podpora vo vašich životoch .",O O O O O O
+"Oporu prijímajte aj rozdávajte bez pochybností .",O O O O O O O
+"Sme totiž nielen bytosti fyzické a psychické , ale aj vzťahové a navzájom sa potrebujeme .",O O O O O O O O O O O O O O O O
+"To nie je prejavom slabošstva , ale základný princíp bytia .",O O O O O O O O O O O
+"Prajem vám veľmi sociálny zvyšok týždňa !",O O O O O O O
+"Som odborníčka na neverbálnu komunikáciu .",O O O O O O
+"Za viac než 20 rokov praxe som vyvinula vlastnú metodiku VEDOMÁ REČ TELA .",O O O O O O O O O O O O O O
+"V jej rámci pracujem s autenticitou : ľudí nenaprávam , vediem ich k tomu , aby rečou tela vyjadril to , čo chcú a zároveň ostali sami sebou .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Ak máte otázky k reči tela vás či niekoho iného , napíšte mi .",O O O O O O O O O O O O O O
+"Meryl Streepová zažiarila ako Donald Trump NEW YORK , BRATISLAVA .",B-PER I-PER O O B-PER I-PER B-LOC I-LOC O B-LOC O
+"Dala si na seba oranžový make-up , biele vlasy , vypchala si brucho , na bielu košeľu si dala červenú kravatu a prekvapila aj organizátorov .",O O O O O O O O O O O O O O O O O O O O O O O O O O
+"V otvorenom divadle Shakespeare in the park v New Yorku predviedla v pondelok večer dokonalého Donalda Trumpa .",O O O B-LOC I-LOC I-LOC I-LOC O B-LOC I-LOC O O O O O B-PER I-PER O
+"Trojnásobná držiteľka Oscara , ktorá je najčastejšie nominovanou herečkou na zlatú sošku , zaspievala pieseň z muzikálu Kiss Me , Kate .",O O B-MISC O O O O O O O O O O O O O O B-MISC I-MISC I-MISC I-MISC O
+"V pesničke , v ktorej sa dávajú rady ako urobiť dojem na ženu , Streepová pozmenila text v neprospech Trumpa , ktorý častokrát reaguje na ženy ako hulvát a dobre imitovala jeho gestá .",O O O O O O O O O O O O O O B-PER O O O O B-PER O O O O O O O O O O O O O O
+"Oscar-winner Meryl",O B-PER
+"Streep dresses up as Donald Trump to perform in play in NYC . — ABC News ( @ABC )",I-PER O O O B-PER I-PER O O O O O B-LOC O O B-ORG I-ORG O O O
+"K Streepovej sa počas vystúpenia pridala americká herečka a jej kolegyňa z muzikálu Mama Mia Christine Baranski , ktorá bola prezlečená za Hillary Clintonovú .",O B-PER O O O O O O O O O O O B-MISC I-MISC B-PER I-PER O O O O O B-PER I-PER O
+"Denník New York",O B-ORG I-ORG
+"Times napísal , že bola v tejto úlohe „ viac ako dôveryhodná “ s našpúlenými perami , visiacim bruchom a autentickým hlasom .",I-ORG O O O O O O O O O O O O O O O O O O O O O O
+"Meryl Streepová prekvapila svojím vystúpením , ale nie kritikou republikánskeho kandidáta .",B-PER I-PER O O O O O O O O O O
+"Oskarová herečka je podporovateľkou demokratickej kandidátky , bývalej prvej dámy a exministerky zahraničných vecí Hillary Clintonovej .",O O O O O O O O O O O O O O B-PER I-PER O
+"Donald Trump za republikánov a Clintonová sa demokratov sa stretnú v prezidentských voľbách .",B-PER I-PER O B-ORG O B-PER O B-ORG O O O O O O
+"Podľa májového prieskumu serveru",O O O O
+"Politico by Trumpa volilo 45 percent Američanov , Clintonovú 47 percent , čo predpovedá veľmi tesný súboj .",B-MISC O B-PER O O O B-PER O B-PER O O O O O O O O O
+"Donald Trump si zavaril .",B-PER I-PER O O O
+"Toto mu spôsobili jeho výroky | TVnoviny . sk Skupina známych amerických hercov a režisérov spustila internetovú petíciu , ktorou odsudzujú výroky miliardára a realitného magnáta Donalda Trumpa , jedného z uchádzačov o nomináciu Republikánskej strany za kandidáta do volieb prezidenta USA .",O O O O O O B-ORG I-ORG O O O O O O O O O O O O O O O O O O B-PER I-PER O O O O O O B-ORG I-ORG O O O O O B-LOC O
+"Iniciátormi petície sú autorka divadelnej hry Monológy vagíny Eve Enslerová , producentka dokumentárnych filmov Jodie Evansová a vysokoškolská učiteľka práva Kimberlé Crenshawová .",O O O O O O B-MISC I-MISC B-PER I-PER O O O O B-PER I-PER O O O O B-PER I-PER O
+"Podpísali ju herci Harry Belafonte , Danny Glover , Kerry Washingtonová , Jane Fonda a Rosanna Arquettová , či režisér Jonathan Demme .",O O O B-PER I-PER O B-PER I-PER O B-PER I-PER O B-PER I-PER O B-PER I-PER O O O B-PER I-PER O
+"Stop nenávisti , zbavme sa Trumpa .",O O O O O B-PER O
+"Nutnosť spustiť podpisovú kampaň , nazvanú Stop Hate Dump Trump ( Stop nenávisti , zbavme sa Trumpa ) , zdôvodnili želaním ponúknuť Američanom možnosť , aby boli vypočutí a mohli reagovať v situácii , keď Trump úspešne pokračuje vo svojom predvolebnom ťažení , pričom sa nezdáva preňho pre neho typickej rétoriky plnej nenávisti a rozdeľujúcej spoločnosť .",O O O O O O O O O B-PER O O O O O O B-PER O O O O O B-PER O O O O O O O O O O O O B-PER O O O O O O O O O O O O O O O O O O O
+""" Zažili sme už ( od Trumpa ) nenávistnú a selektívnu rétoriku , ktorá zaznela na jeho predvolebných zhromaždeniach , kde boli ľudia ( z iného politického tábora ) bití , ohrozovaní či vyvedení políciou .",O O O O O O B-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Toto nie je ako vo filme .",O O O O O O O
+"To je realita , "" uviedla Crenshawová .",O O O O O O B-PER O
+"Trump od začiatku predvolebnej kampane šokuje svojimi názormi .",B-PER O O O O O O O O
+"Signatári vo vyhlásení , ktoré je na webovej stránke stophatedumptrump .com , upozorňujú ostatných politikov a médiá , že zľahčovaním Trumpových výrokov - akoby šlo o zábavu a normálnu vec - berú na seba diel zodpovednosti za vypovedané slová a ich dôsledky .",O O O O O O O O O B-MISC I-MISC O O O O O O O O O B-PER O O O O O O O O O O O O O O O O O O O O O O
+"Na internete je aj iná petícia , ktorou jej signatári chcú primať veľké firmy , aby ukončili obchodné vzťahy s Trumpovými spoločnosťami .",O O O O O O O O O O O O O O O O O O O O B-PER O O
+"Túto petíciu už podporilo 85 . 513 ľudí .",O O O O O O O O O
+"Trump prakticky od začiatku predvolebnej kampane v debatách šokuje svojimi názormi : vyjadril sa napríklad v tom zmysle , že veľkú časť imigrantov z Mexika žijúcich v USA tvoria zločinci a násilníci .",B-PER O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O B-LOC O O O O O
+"Vyhlásil tiež , že v prípade svojho zvolenia za amerického prezidenta zabráni cudzincom moslimského vierovyznania vo vstupe na územie USA .",O O O O O O O O O O O O O O O O O O O B-LOC O
+"Tento svoj nápad označil za jeden zo spôsobov boja s terorizmom .",O O O O O O O O O O O O
+"Donald Trump vyzval černošských voličov , aby ho volili | Zahraničie | Noviny . sk DIMONDALE / Donald Trump , kontroverzný republikánsky kandidát na prezidenta , sa začal snažiť o hlasy černošských voličov .",B-PER I-PER O O O O O O O O O O B-ORG I-ORG O B-LOC O B-PER I-PER O O O O O O O O O O O O O O O
+"Na predvolebnom zhromaždení v michiganskom",O O O O O
+"Dimondale ich priamo vyzval , aby nevolili demokratov a dali šancu jemu .",B-LOC O O O O O O B-ORG O O O O O
+"Podľa agentúry AP kritizoval demokratov , že hlasy čiernych Američanov považujú za isté .",O O B-ORG O B-ORG O O O O B-PER O O O O
+""" Dnes žiadam o hlas každého občana afroamerického pôvodu v tejto krajine , ktorý si praje lepší budúcnosť , "" povedal na zhromaždení na predmestí Lansingu , kde ale žije prevažne biele obyvateľstvo .",O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O
+"Zároveň podotkol , že černošskí voliči nemajú čo stratiť , keď ho budú voliť .",O O O O O O O O O O O O O O O
+""" Žijete v biede , nemáte dobré školy , nemáte prácu , 58 percent vašich detí nemá zamestnanie - čo môžete do hája stratiť ? , "" povedal na ich adresu .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Doterajšie prieskumy podľa agentúry AP ukazujú , že kandidátka demokratov Hillary Clinton má medzi černošskou populáciou výrazný náskok .",O O O O B-ORG O O O O B-ORG B-PER I-PER O O O O O O O
+"Súčasný demokratický prezident Barack",O O O B-PER
+"Obama získal pri znovuzvolení v rooku 2012 podporu zhruba 93 percent všetkých černošských voličov .",I-PER O O O O O O O O O O O O O O
+"Volebné hlasy .",O O O
+"Trump už v minulosti obvinil Hillary Clinton , že Afroameričanov vidí "" len ako volebné hlasy , nie ako ľudské bytosti , ktoré si zaslúžia lepšiu budúcnosť """,B-PER O O O O B-PER I-PER O O B-PER O O O O O O O O O O O O O O O O O O
+". Teraz dodal , že černošskí obyvatelia sa na mnohých miestach , napríklad v priemyselných mestách ako Detroit , stali utečencami vo vlastnej krajine .",O O O O O O O O O O O O O O O O O B-LOC O O O O O O O
+""" To je tak ignorantské , až to volá do neba , "" reagovala Hillary Clinton na Twitteri .",O O O O O O O O O O O O O O B-PER I-PER O B-MISC O
+"Jej hovorca neskôr vydal vyhlásenie , že Trump ukazuje , že o afroamerickej komunite vôbec nič nevie , pokiaľ ju vykresľuje ako chudobnú a nezamestnanú .",O O O O O O O B-PER O O O O O O O O O O O O O O O O O O
+""" Donald Trump sa pýta , čo môže afroamerická komunita stratiť , ak ho bude voliť .",O B-PER I-PER O O O O O O O O O O O O O O
+"Odpoveď znie , že môže stratiť všetko pre muža , ktorý spochybňuje občianstvo prvého afroamerického prezidenta , uctieva bielych rasistov a bol žalovaný za diskrimináciu farebných , "" uviedol vo vyhlásení Marlon Marshall , člen kampane Hillary Clinton .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PER I-PER O O O B-PER I-PER O
+"Hillary vyhráva .",B-PER O O
+"V prieskume agentúry Reuters z 9 . augusta sa za Hillary Clinton vyslovilo 42 percent Američanov , za Dinalda Trumpa 35 percent , čo by naznačovalo , že Hillary Clinton vyšuje náskok nad republikánskym kandidátom .",O O O B-ORG O O O O O O B-PER I-PER O O O B-PER O O B-PER I-PER O O O O O O O O B-PER I-PER O O O O O O
+"10 . 08 . 2016 12 :52 Zahraničie",O O O O O O O O
+"To , že Hillary Clinton mieri do Bieleho domu , napísal vo svojom kamentári holandský denník de Volkskrant , podľa ktorého Trumpovi zásadne chýba disciplína .",O O O B-PER I-PER O O B-LOC I-LOC O O O O O O O B-ORG I-ORG O O O B-PER O O O O
+""" Neodolá pokušeniu osobných tvrdých útokov na súpera a v dôsledku toho uráža celé voličské skupiny "" .",O O O O O O O O O O O O O O O O O O
+"Kanadský web pre imigráciu spadol po tom , čo Donald Trump vyhral voľby | TOUCHIT",O O O O O O O O O B-PER I-PER O O O B-ORG
+"Posledné prezidentské voľby v USA sú bezpochyby historické z viacerých dôvodov .",O O O O B-LOC O O O O O O O
+"Donald Trump bol zvolený ako 45 . prezident",B-PER I-PER O O O O O O
+"Spojených štátov .",B-LOC I-LOC O
+"Toto víťazstvo bude mať rozsiahle zmeny vo nielen vo finančnej sfére , ale aj vo vzťahu ku svetu .",O O O O O O O O O O O O O O O O O O O
+"Zaujímavý incident nastal počas volieb , resp . k ich záveru v utorok večer , keď už bol viac než isté , že Donald Trump vyhrá .",O O O O O O O O O O O O O O O O O O O O O O O B-PER I-PER O O
+"Padli totiž kanadské webové stránky pre imigráciu ( aktuálne stále tento výpadok pretrváva ) .",O O O O O O O O O O O O O O O
+"Mnohí Američania , ktorí nie sú spokojní s výsledkom chcú totiž opustiť krajinu a presťahovať sa do Kanady .",O B-PER O O O O O O O O O O O O O O O B-LOC O
+"Či sa aj tak naozaj začne diať ukáže čas .",O O O O O O O O O O
+"Kanada samotná ponúka dva rôzne spôsoby ako sa usídliť legálne v krajine a to , že môžete požiadať o trvalý pobyt v krajine , alebo sa môžete sa stať priamo občanom Kanady .",B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O
+"Dokonca aj oficiálny twitter Kanady posiela správu obyvateľom USA :",O O O O B-LOC O O O B-LOC O
+"Na odľahčenie témy , aj samotní Kanaďania vyjadrujú podporu , ktorú kombinujú so zdravým humorom a dávajú rôzne príspevky s hashtagom #WhatYouDoNotKnowAboutCanada .",O O O O O O B-PER O O O O O O O O O O O O O O O O
+"Tieto udalosti dokonca predpovedali aj Simpsonovci :",O O O O O B-MISC O
+"Som fanúšikom open source riešení , preto sa budem snažiť prinášať články najmä z tejto oblasti a robiť tým osvetu slobodnému softvéru .",O O O O O O O O O O O O O O O O O O O O O O O
+"Technológie ako také ma vždy lákali .",O O O O O O O
+"Rád si udržiavam prehľad a rád sa s vami podelím o novinky , či "" hinty "" zo spomínaných oblastí .",O O O O O O O O O O O O O O O O O O O O O

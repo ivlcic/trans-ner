@@ -9,7 +9,9 @@ ner_tags = {
     'B-PER': 0, 'I-PER': 0,
     'B-LOC': 0, 'I-LOC': 0,
     'B-ORG': 0, 'I-ORG': 0,
-    'B-MISC': 0, 'I-MISC': 0
+    'B-MISC': 0, 'I-MISC': 0,
+    'B-EVT': 0, 'I-EVT': 0,
+    'B-PRO': 0, 'I-PRO': 0,
 }
 
 ner_tags_list = [k for k, v in ner_tags.items()]

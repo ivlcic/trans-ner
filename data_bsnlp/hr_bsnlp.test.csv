@@ -1,0 +1,83 @@
+index,sentence,ner
+592,ISIS i drugi islamski teroristi kontinuirano kolju kršćane u njihovim zajednicama i religioznim mjestima kao dio svojeg globalnog džihada .,B-ORG O O O O O O O O O O O O O O O O O O O
+328,""" Unatoč obnovljenim naporima , dogovor o provedbi odluke Ustavnog suda iz 2010. još nije postignut i nakon osam godina građani Mostara i dalje ne mogu konzumirati svoja demokratska prava .",O O O O O O O O O B-ORG I-ORG O O O O O O O O O O B-LOC O O O O O O O O O
+227,"Europska komisija novim planom želi popuniti rupe u zakonima EU u vezi s dobrobiti životinja , nudeći bolju zaštitu životinjama i osvješćujući potrošače da mudro kupuju .",B-ORG I-ORG O O O O O O O B-LOC O O O O O O O O O O O O O O O O O
+171,"Europska Komisija odlučila je uvesti privremene antidampinške carine na uvoz dva proizvoda od čelika iz Kine , brzo reagirajući na nepošteno tržišno natjecanje , koristivši u potpunosti raspoložive instrumente propisane u EU antidampinškim regulativama .",B-ORG I-ORG O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O B-LOC O O O
+56,"Za svakodnevno funkcioniranje Komisije odgovorni su njezini administrativni dužnosnici , stručnjaci , prevoditelji , tumači i tajničko osoblje : otprilike 25.000 europskih službenika .",O O O B-ORG O O O O O O O O O O O O O O O O O O O O
+46,Iz navedenog možemo zaključiti da imenovanje Komisije podsjeća na konstituiranje vlade u pojedinim državama .,O O O O O O B-ORG O O O O O O O O
+79,"Prezaduženost se obično javlja nakon neočekivane promjene razine primanja zbog iznenadne nezaposlenosti ili povećanih izdataka zbog bolesti , odnosno prevelike potrošnje koja je iznad mogućnosti pojedine osobe i njezine obitelji .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+391,"Odobrenja vrijede deset godina , a na sve proizvode proizvedene od tih genetski modificiranih organizama primjenjivat će se stroga pravila EU-a o označivanju i sljedivosti .",O O O O O O O O O O O O O O O O O O O O B-LOC O O O O O
+198,Smatra da su metode istraživanja tržišta koje koristi EK nepoštene .,O O O O O O O O B-ORG O O
+705,"Mi ne vjerujemo ljudima koji nisu nikad čekali u redu , pogriješili pin triput ili bili u minusu .",O O O O O O O O O O O O O O O O O O O
+208,U Bruxellesu smatraju kako je jo 2014. postojala mogućnost automatskog spajanja računa Facebookovih korisnika koji su imali račun i na WhatsAppu .,O B-LOC O O O O O O O O O O B-ORG O O O O O O O B-ORG O
+444,"Raspon vina uključuje crvena , bijela , rosé i pjenušava vina , a sva su ukrašena s Trumpovim imenom .",O O O O O O O O O O O O O O O O O B-PER O O
+45,"Nakon što je odobrena , nova Komisija može službeno započeti s radom .",O O O O O O B-ORG O O O O O O
+414,OK izjava .,O O O
+660,Mjesecima Donald Trump kritizira Kinu i optužuje ju za nelojalnu konkurenciju u području trgovine .,O B-PER I-PER O B-LOC O O O O O O O O O O
+364,"Dobitnica iz Hrvatske , novinarka Jutarnjeg lista i tjednika Globus Dora Koretić , nagrađena je za članak pod naslovom Na život pod hidžabom u Zagrebu “ , u kojem je čitateljima predstavila dvije uspjene žene muslimanske vjeroispovijedi , neuroznanstvenicu Lejlu Ferhatović Hamzić i studenticu matematike Neiru Hadžismajlović .",O O B-LOC O O B-ORG I-ORG O O B-ORG B-PER I-PER O O O O O O O B-MISC I-MISC I-MISC I-MISC I-MISC I-MISC O O O O O O O O O O O O O O B-PER I-PER O O O O O O O
+434,"Trumpu , koji je bogatstvo stekao nasljedstvom i potom ga održavao na način kojim se koriste Apple , Microsoft i svi ostali , u utrci za predsjednika dobio je napad empatije pa odjednom suosjeća s radnom klasom .",B-PER O O O O O O O O O O O O O O O B-ORG O B-ORG O O O O O O O O O O O O O O O O O O O
+109,"Obrazovanje potrošača je , dakle , priznato pravo europskih potrošača i cilj koji se želi zajednički postići sa strane država članica Europske unije .",O O O O O O O O O O O O O O O O O O O O O B-LOC I-LOC O
+664,Zašto Donald Trump ne smije biti idući američki predsjednik ?,O B-PER I-PER O O O O O O O
+38,Komisija se sastoji od po jednog predstavnika iz svake države članice .,B-ORG O O O O O O O O O O O
+706,"Poslovi bankrotiraju , a Trump je netaknut .",O O O O B-PER O O O
+268,Hrvatska nije ratificirala Protokol o pristupanju EU-a Međunarodnoj konvenciji Eurocontrola .,B-LOC O O B-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC O
+626,"Proteklih godinu i više dana Donald Trump i Hillary Clinton malim su koracima uvodili prvo američki narod , a posljedično i ljude ostatka planeta u jednu energetsku predstavu koja se odvijala na vrhu svijeta .",O O O O O B-PER I-PER O B-PER I-PER O O O O O O O O O O O O O O O O O O O O O O O O O
+325,Ustavni sud BiH proglasio je u studenom 2010. neustavnim odredbe Izbornog zakona BiH koje se odnose na Grad Mostar .,B-ORG I-ORG I-ORG O O O O O O O B-MISC I-MISC I-MISC O O O O B-LOC I-LOC O
+484,"Donald Trump , čovjek živopisne frizure i besprijekornih odijela , u kampanji je učinio stvari koje bi uništile bilo kojeg drugog kandidata .",B-PER I-PER O O O O O O O O O O O O O O O O O O O O O
+84,Materijalni položaj tih osoba zbog krize gotovo da se nije pogoršao .,O O O O O O O O O O O O
+270,"Hrvatska nije ratificirala Protokol o pristupanju EU-a Međunarodnoj konvenciji Eurocontrola , potpisan 2002. godine , niti je položila ispravu o njegovoj ratifikaciji .",B-LOC O O B-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC O O O O O O O O O O O O O
+267,Europska komisija prijavila Hrvatsku Europskom sudu .,B-ORG I-ORG O B-LOC B-ORG I-ORG O
+606,U ovim opasnim političkim zbivanjima Hrvatska je ključni kotačić i jezičac na vagi između američke ili ruske prevlasti na domaćem terenu .,O O O O O B-LOC O O O O O O O O O O O O O O O O
+517,"Podsjetimo , Trump je nedavno optužio bivšu misicu Aliciju Machado da navodno ima snimku seksa .",O O B-PER O O O O O B-PER I-PER O O O O O O
+351,Bilo je ne jednom da su sami branitelji pomagali lažnim braniteljima da dobiju penziju .,O O O O O O O O O O O O O O O
+205,"Kao to je poznato , WhatsApp je od 2014. u vlasnitvu Facebooka koji ga je kupio za 22 milijarde dolara .",O O O O O B-ORG O O O O O B-ORG O O O O O O O O O
+435,No nije ih pridobio jednom rečenicom već onime što je uslijedilo poslije .,O O O O O O O O O O O O O
+92,Svjetska mreža edukatora .,O O O O
+116,Kroz Europski semestar Europska komisija koordinira i potiče dizajn i provedbu reformskih javnih politika s državama članicama EU .,O B-MISC I-MISC B-ORG I-ORG O O O O O O O O O O O O B-LOC O
+465,"Utrka za predsjednika države oštetila je republikanskoga kandidata Donalda Trumpa za 800 milijuna dolara u samo godinu dana , piše časopis Forbes i dodaje da je mogul nekretnina pao za 35 mjesta na popisu najbogatijih Amerikanaca .",O O O O O O O O B-PER I-PER O O O O O O O O O O O B-ORG O O O O O O O O O O O O O B-PER O
+481,"Trump se u kampanji nije bojao reći bilo što , ali uistinu bilo što .",B-PER O O O O O O O O O O O O O O
+635,"Kao što nije slučajno da je prije nekoliko godina djevojčica po imenu Bridge Anne d ’ Avignon ( 12 ) iz SAD-a , analizirajući više od milijun imena došla do spoznaje da su svi američki predsjednici ( osim jednog ) u izravnoj genetskoj vezi s britanskim kraljem Ivanom iz dinastije Plantagenet , poznatijem kao Ivan Bez Zemlje ( engl .",O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O B-PER O O B-ORG O O O B-PER I-PER I-PER O O O
+764,Ranije objavljeno : Rano jutros se čini da će Donald Trump postati novi predsjednik SAD-a !,O O O O O O O O O B-PER I-PER O O O B-LOC O
+229,"Postupnost , rupe u zakonu i njegovo neprovođenje u nekim zemljama razlog su što se prema životinjama ne odnosi u skladu sa standardima EU .",O O O O O O O O O O O O O O O O O O O O O O O B-LOC O
+348,"Predsjednik Komisije Jean Claude Juncker je već navijestio da je protiv promašenog bacanja novca , a davanje novaca lažnim braniteljima to svakako je .",O B-ORG B-PER I-PER I-PER O O O O O O O O O O O O O O O O O O O
+188,"Istovremeno , Komisija postojano radi na svom akcijskom planu za rješavanje problema prekapacitiranosti u sektoru čelika koristeči bilateralne i multilateralne kontakte s europskim partnerima .",O O B-ORG O O O O O O O O O O O O O O O O O O O O O O
+300,"Zajednički kontroliraju mađarsko poduzeće Duna Dráva Cement ( DDC ) koje , među ostalim , upravlja tvornicom sivog cementa u mjestu Kakanj u Bosni i Hercegovini .",O O O O B-ORG I-ORG I-ORG O B-ORG O O O O O O O O O O O O B-LOC O B-LOC I-LOC I-LOC O
+771,"Ljute se na nju što ne peče kolačiće , ne sviđa im se kako se odijeva i kako govori .",O O O O O O O O O O O O O O O O O O O O
+417,Ostavlja iza sebe velike rasne podjele pritom optužujući druge za to .,O O O O O O O O O O O O
+399,Svrha je rasprave također prikupljanje podataka i miljenja svih zainteresiranih strana koje treba uzeti u obzir prilikom pripreme zakonskih prijedloga Europske komisije .,O O O O O O O O O O O O O O O O O O O O B-ORG I-ORG O
+320,Sjedite Komisije nalazi se u Bruxellesu i Luxembourgu .,O B-ORG O O O B-LOC O B-LOC O
+508,Sa slovenskom manekenkom Melanijom Knavs vjenčao se 2005. i također imaju jedno dijete .,O O O B-PER I-PER O O O O O O O O O
+277,"Moramo osigurati najprikladnija sredstva za otkrivanje i zaustavljanje sumnjivih financijskih tokova te za podupiranje suradnje tijela kaznenog progona kako bismo bolje štitili sigurnost europskih građana ” , izjavio je prvi potpredsjednik Europske komisije Frans Timmermans .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-ORG I-ORG B-PER I-PER O
+798,"Prosječni Amerikanac naučen je na pojednostavljivanje i funkcionira u svijetu KISS principa ( skraćenica za "" Keep it simple stupid ! "" , grubo prevedeno "" Ne kompliciraj , glupane ! "" I tu dolazimo do Donalda Trumpa .",O B-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PER I-PER O
+601,"Nigel Farage se sam razotkrio kao poslušnik ruskih geopolitičkih strategija , jer je postigavši svoj cilj otkidanja Velike Britanije od Europske Unije ( koji uvelike ide u korist ruskim apetitima na europskom tlu ) , izgubio interes za političke ciljeve vlastite domovine i krenuo izvršavati nove političke zadatke , koje mu očito postavlja “ big KGB boss ” iz Kremlja , Vladimir Putin .",B-PER I-PER O O O O O O O O O O O O O O O B-LOC I-LOC O B-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O B-PER I-PER O
+248,EUROPSKA KOMISIJA O TUŽBI BANKE PROTIV HRVATSKE : ‘ Arbitražni sud u Washingtonu će to odbaciti ! ’ – Net.hr,B-ORG I-ORG O O O O B-LOC O O O O O B-LOC O O O O O O B-ORG
+340,"RISE HLAB se sastoji od četiri grupe : Otvorena znanost , Otvorene inovacije , Otvoreno prema svijetu i Ekonomija otvorena prema znanosti i tržištu .",B-ORG B-ORG O O O O O O B-ORG I-ORG O B-ORG I-ORG O B-ORG I-ORG I-ORG O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG O
+737,"Imamo tako izjave da dječje cjepivo uzrokuje autizam , pa da vjetroelektrane truju ljude i sva sila sličnih gluparija .",O O O O O O O O O O O O O O O O O O O O
+40,"Imenuje se svakih pet godina , u roku od šest mjeseci od izbora za Europski parlament .",O O O O O O O O O O O O O O B-ORG I-ORG O
+572,Trump kaže da će od njega odustati ako se vjetroelektrane sagrade .,B-PER O O O O O O O O O O O
+350,"Ako je u ovom slučaju lopov lažni branitelj , onda svi oni koji znaju da si je "" sredio penziju "" , a šutjeli su , moraju biti uhićeni zbog pomaganja u zlodjelu .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+123,Izvješće Europske komisije je zapravo poticaj da Hrvatska završi svoju tranziciju prema tržišnom gospodarstvu .,O B-ORG I-ORG O O O O B-LOC O O O O O O O
+575,"Predviđeno je postavljanje 11 vjetroturbina novog modela , snage 8,4 MW , što će biti značajno i za dalje predviđene gradnje pučinskih vjetroelektrana u sjeveroistočnom Atlantiku .",O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O
+614,Donald Trump korak bliže utrci za predsjednika SAD-a,B-PER I-PER O O O O O B-LOC
+154,"Hrvatska je 1. srpnja 2015. , dvije godine nakon ulaska u EU , aplicirala za ulazak u schengensku zonu u kojoj se građani članica mogu kretati bez zaustavljanja na granicama , a Pelješki most trebao bi osigurati lakšu kontrolu te proširene zone kada jednom Hrvatska postane člancia ' schengena ' .",B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC I-LOC O O O O O O O O O O B-LOC O O O O O O
+439,"Zato nailazi kod radne klase , barem one u republikanskom dijelu SAD-a .",O O O O O O O O O O O B-LOC O
+314,"Izbor svih povjerenika , uključujući predsjednika , mora odobriti Europski parlament .",O O O O O O O O O B-ORG I-ORG O
+586,"Trump : “ Islamski teroristi kolju kršćane po cijelom svijetu , stanje je sve gore , moramo ih izbrisati s lica zemlje ! ”",B-PER O O O O O O O O O O O O O O O O O O O O O O O
+21,"Hrvatska još nije osigurala automatsku razmjenu podatka o DNK , otiscima prstiju te registraciji vozila .",B-LOC O O O O O O O O O O O O O O O
+107,Obrazovanje potrošača i Europska komisija,O O O B-ORG I-ORG
+36,"Zajedno s Parlamentom i Vijećem ministara , osnovana je 1950-ih u okviru osnivačkih ugovora EU-a .",O O B-ORG O B-ORG I-ORG O O O O O O O O B-LOC O
+539,"Osim živopisnih frizura , vole i svašta stavljati na čelo : Kerum hladne šnite pršuta , a Trump kitnjasti rep od vjeverice .",O O O O O O O O O O O B-PER O O O O O B-PER O O O O O
+677,Vjeruje u vječnu ljubav .,O O O O O
+358,"Ovo je razdoblje u kojem svim moramo otići korak dalje u međusobnom razumijevanju , promatrati svijet kroz oči jednog od naih susjeda ili rođaka , kako bismo se borili protiv straha i čak mržnje među ljudima .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+521,Poraz je javno priznala demokratska kandidatkinja Hilary Clinton .,O O O O O O B-PER I-PER O
+315,"Kada preuzmu dužnost , povjerenici i predsjednik i dalje odgovaraju Parlamentu , koji jedini može smijeniti Komisiju .",O O O O O O O O O O B-ORG O O O O O B-ORG O
+115,Europska komisija donosi Izvješće za Hrvatsku 2016. – S detaljnim preispitivanjem sprječavanju i ispravljanju makroekonomskih neravnoteža .,B-ORG I-ORG O B-MISC I-MISC I-MISC I-MISC O O O O O O O O O O
+271,Eurocontrol je međuvladina organizacija koja okuplja više od 40 država zadužena za sigurnost zračne plovidbe .,B-ORG O O O O O O O O O O O O O O O
+731,Izvor :,O O
+464,Donald Trump pao na listi američkih bogataša,B-PER I-PER O O O O O
+507,Imaju jedno dijete .,O O O O
+134,Ostatak bi platili hrvatski građani . “ To je ono što hrvatske vlasti žele .,O O O O O O O O O O O B-LOC O O O
+97,Rano uključivanje kreditora i / ili vjerovnika pokazalo se kao jako korisna mjera .,O O O O O O O O O O O O O O
+53,"Komisija se sastaje jednom tjedno , obično srijedom , u Bruxellesu .",B-ORG O O O O O O O O O B-LOC O
+594,DONALD TRUMP I NIGEL FARAGE : RUSKI CIRKUS U AMERIČKOM DVORIŠTU,B-PER I-PER O B-PER I-PER O O O O O O
+786,"Predsjednik SAD-a jednom je već bio glumac Ronald Reagan , a sad nas čeka Donald Trump .",O B-LOC O O O O O B-PER I-PER O O O O O B-PER I-PER O

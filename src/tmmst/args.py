@@ -40,6 +40,12 @@ def add_common_arguments(parser) -> None:
         '--no_misc', help='Remove MISC tag (replace i with "O").', action='store_true', default=False
     )
     parser.add_argument(
+        '--pro', help='Enable Product (PRO) tag.', action='store_true', default=False
+    )
+    parser.add_argument(
+        '--evt', help='Enable Event (EVT) tag.', action='store_true', default=False
+    )
+    parser.add_argument(
         '-c', '--limit_cuda_device', help='Limit ops to specific cuda device.', type=int, default=None
     )
 
@@ -75,4 +81,8 @@ def get_tags_to_remove(args) -> List[str]:
     del_misc = []
     if hasattr(args, 'no_misc') and args.no_misc:
         del_misc = ['B-MISC', 'I-MISC']
+    if not hasattr(args, 'pro') or not args.pro:
+        del_misc = ['B-PRO', 'I-PRO']
+    if not hasattr(args, 'evt') or not args.evt:
+        del_misc = ['B-EVT', 'I-EVT']
     return del_misc

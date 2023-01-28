@@ -1,0 +1,821 @@
+sentence,ner
+"Europska komisija predstavila treći godišnji program rada - Vijesti - 057 info - Zadar",B-ORG I-ORG O O O O O O O O O O O O
+"Europska komisija predstavila treći godišnji program rada",B-ORG I-ORG O O O O O
+"Program rada Komisije za sljedeću godinu strogo je usredotočen na postizanje rezultata u 10 prioritetnih područja u skladu s političkim smjernicama i u cilju rjeavanja najvećih izazova s kojima je Europa danas suočena .",O O B-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O O
+"Na temelju programa rada Komisija , Europski parlament i Vijeće sada će započeti rad na zajedničkoj izjavi o usuglaenim ciljevima i prioritetima za 2017. kako bi se prijedlozi pretvorili u konkretne mjere te postigli rezultati za građane .",O O O O B-ORG O B-ORG I-ORG O B-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"U ovom programu rada predložena je 21 ključna inicijativa , kao i 18 novih prijedloga u okviru programa REFIT u cilju poboljanja kvalitete postojećeg zakonodavstva EU-a i osiguravanja svrsishodnosti naih propisa .",O O O O O O O O O O O O O O O O O O B-ORG O O O O O O B-LOC O O O O O O
+"Da bi se postizanje rezultata zadržalo u žaritu , u programu rada utvrđena su 34 prioritetna prijedloga u postupku , koje je Komisija podnijela u zadnje dvije godine i čije bi brzo prihvaćanje u Parlamentu i Vijeću znatno pridonijelo poboljanju stanja na terenu .",O O O O O O O O O O O O O O O O O O O O O O B-ORG O O O O O O O O O O O B-ORG O B-ORG O O O O O O O
+"Ove godine predloženo je povlačenje 19 zakonodavnih prijedloga koji vie nisu aktualni , a izvan snage će se stavit 16 zastarjelih zakonodavnih akata .",O O O O O O O O O O O O O O O O O O O O O O O O
+"Povećati će se napori u pogledu primjene propisa u irokom rasponu politika , među ostalim i u području jedinstvenog tržita i okolia , jer ni najbolji propis nije koristan ako se na terenu ne postižu opipljivi rezultati .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Između ostalog Komisija je danas objavila planove o preustroju oporezivanja trgovačkih drutava na jedinstvenom tržitu i tako utvrdila pravedan sustav poreza na dobit kojim se potiče rast .",O O B-ORG O O O O O O O O O O O O O O O O O O O O O O O O O
+"Konsolidirana osnovica poreza na dobit ) ( CCCTB ) prilagođena je u okviru ireg paketa reformi poreza na dobit .",O O O O O O O B-MISC O O O O O O O O O O O O
+"Njome će se subjektima na jedinstvenom tržitu olakati poslovanje i sniziti trokovi te će biti moćan mehanizam protiv izbjegavanja plaćanja poreza .",O O O O O O O O O O O O O O O O O O O O O O
+"Vie informacija pronađite na stranicama Informacijskog centra Europe Direct Zadar (",O O O O O B-ORG I-ORG I-ORG I-ORG I-ORG O
+"HRT : Europska komisija uputila prigovore Hrvatskoj",O O B-ORG I-ORG O O B-LOC
+"Nakon što je objavila rujanski paket povreda propisa po državama članicama , u slučaju naše zemlje Europska komisija je utvrdila povrede u nekoliko sektora .",O O O O O O O O O O O O O O O O B-ORG I-ORG O O O O O O O
+"Smatraju da kasnimo s razvojem digitalnog tržišta i da bi troškovi brzog interneta trebali biti 30 % niži .",O O O O O O O O O O O O O O O O O O O
+"Komisija je uputila službenu opomenu Hrvatskoj jer još nije prenijela te mjere u svoje zakonodavstvo .",B-ORG O O O O B-LOC O O O O O O O O O O
+"Komisija poziva Hrvatsku i da ukine diskriminatorna pravila u pogledu ribolovnih dozvola .",B-ORG O B-LOC O O O O O O O O O O
+"Godišnje ribolovne dozvole izdaju se samo osobama s prebivalištem u Hrvatskoj , dok drugi mogu dobiti jedino dozvole koje vrijede do 30 dana .",O O O O O O O O O O B-LOC O O O O O O O O O O O O O
+"Posjetitelji koji žele loviti ribu cijelu godinu , moraju kupiti 12 mjesečnih dozvola , što je 16 puta skuplje od godišnje dozvole .",O O O O O O O O O O O O O O O O O O O O O O O
+"Komisija tu praksu smatra diskriminatornom i neusklađenom s Direktivom o uslugama .",B-ORG O O O O O O O B-MISC I-MISC I-MISC O
+"Hrvatsku se uz Grčku , Irsku , Italiju i Portugal poziva da poboljša razmjenu informacija radi borbe protiv terorizma .",B-LOC O O B-LOC O B-LOC O B-LOC O B-LOC O O O O O O O O O O
+"Hrvatska još nije osigurala automatsku razmjenu podatka o DNK , otiscima prstiju te registraciji vozila .",B-LOC O O O O O O O O O O O O O O O
+"Predsjednik HDZ-a Andrej Plenković izjavio je kako pitanje upozorenja treba rješavati tehnička Vlada , a da će se o tome očitovati kada za to dođe vrijeme .",O B-ORG B-PER I-PER O O O O O O O O B-ORG O O O O O O O O O O O O O O
+"To neka rješava trenutna tehnička vlada .",O O O O O B-ORG O
+"Imaju sve ovlasti za to , kao što kvalitetno rade u korespondenciji s Europskom komisijom kada je riječ o zakonu o konverziji kredita u švicarskim francima , a kada dođe vrijeme vrlo ćemo jasno dati svoj stav , izjavio je Plenković .",O O O O O O O O O O O O O B-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O O O O O B-PER O
+"Na isto pitanje ministar financija Zdravko Marić odgovorio je da je pitanje što tehnička , ali i bilo koja druga vlada tu može učiniti .",O O O O O B-PER I-PER O O O O O O O O O O O O O B-ORG O O O O
+"Mi smo tržišno-socijalno gospodarstvo .",O O O O O
+"Vlada nastoji u onom segmentu za koji je zadužena i gdje je odgovornost njena , dakle prije svega u poreznom i neporeznom dijelu , napraviti porezno rasterećenje i mislim da će to biti jasan signal i poruka i ostalim segmentima hrvatskog gospodarstva da mogu napraviti dodatni iskorak i krenuti u tom smjeru .",B-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Mislim da su ove preporuke koje smo dobili od EK jasan signal među ostalim i na tom području , izjavio je Marić .",O O O O O O O O O B-ORG O O O O O O O O O O O B-PER O
+"Uz Hrvatsku , EK je upozorila Austriju , Belgiju , Bugarsku , Cipar , Češku , Estoniju , Finsku , Francusku , Grčku , Mađarsku , Latviju , Litvu , Luksemburg , Nizozemsku , Portugal , Slovačku , Sloveniju i Veliku Britaniju .",O B-LOC O B-ORG O O B-LOC O B-LOC O B-LOC O B-LOC O B-LOC O B-LOC O B-LOC O B-LOC O B-LOC O B-LOC O B-LOC O B-LOC O B-LOC O B-LOC O B-LOC O B-LOC O B-LOC O B-LOC I-LOC O
+"Ne obavijeste li te zemlje Komisiju o mjerama koje su poduzele za usklađivanje nacionalnog zakonodavstva s pravom EU-a , EK može odlučiti da ih , u skladu s pravilima EU-a o povredama propisa , uputi Sudu EU-a , kao i predložiti novčane kazne .",O O O O O B-ORG O O O O O O O O O O O B-LOC O B-ORG O O O O O O O O O B-LOC O O O O O B-ORG I-ORG O O O O O O O
+"Svim europskim kućanstvima , u ruralnim ili gradskim područjima , trebala bi biti dostupna povezivost s brzinom preuzimanja od najmanje 100 Mb / s , s mogućnošću prelaska na Gb / s , a sva gradska područja te veće prometnice i željezničke linije trebali bi imati neprekinutu pokrivenost za 5 G , petu generaciju sustavâ bežične komunikacije .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"IUS-INFO - Europska komisija",B-MISC O B-ORG I-ORG
+"Tijekom procesa ratifikacije Hrvatska će biti informirana i konzultirana o novim zakonima koji se budu donosili u Europskoj uniji i u tom razdoblju moći će dati svoj doprinos u oblikovanju tih zakona i propisa .",O O O B-LOC O O O O O O O O O O O O O B-LOC I-LOC O O O O O O O O O O O O O O O O
+"Stoga smatramo da je u tom periodu važno upoznati se s glavnim institucijama Europske unije , a „ primus inter pares “ svakako je Europska komisija .",O O O O O O O O O O O O O B-LOC I-LOC O O O O O O O O O B-ORG I-ORG O
+"Europska komisija političko je i glavno izvršno tijelo Europske unije .",B-ORG I-ORG O O O O O O B-LOC I-LOC O
+"Zajedno s Parlamentom i Vijećem ministara , osnovana je 1950-ih u okviru osnivačkih ugovora EU-a .",O O B-ORG O B-ORG I-ORG O O O O O O O O B-LOC O
+"Sjedište Komisije je u Bruxellesu , ali ima urede u Luksemburgu , zastupništva u svim državama članicama Unije te delegacije u glavnim gradovima širom svijeta .",O B-ORG O O B-LOC O O O O O B-LOC O O O O O O B-LOC O O O O O O O O
+"Komisija se sastoji od po jednog predstavnika iz svake države članice .",B-ORG O O O O O O O O O O O
+"Danas ima 27 članova ( povjerenika ) koji djeluju kao kolegij , odnosno odluke ne donose pojedini povjerenici , nego cijela Komisija glasovanjem .",O O O O O O O O O O O O O O O O O O O O O B-ORG O O
+"Imenuje se svakih pet godina , u roku od šest mjeseci od izbora za Europski parlament .",O O O O O O O O O O O O O O B-ORG I-ORG O
+"Postupak započinje tako da se vlade država članica usluglase o imenovanju novoga predsjednika Komisije , a njega potom odobrava Parlament .",O O O O O O O O O O O O O B-ORG O O O O O B-ORG O
+"Predsjednik Komisije zatim , u raspravi s vladama država članica , odabire ostale članove Komisije .",O B-ORG O O O O O O O O O O O O B-ORG O
+"Predsjednik Komisije odlučuje koji će povjerenik biti odgovoran za koje političko područje i raspodjeljuje odgovornosti tijekom mandata Komisije .",O B-ORG O O O O O O O O O O O O O O O B-ORG O
+"Parlament intervjuira svakoga člana i daje svoje mišljenje u vezi s cijelim sastavom .",B-ORG O O O O O O O O O O O O O
+"Nakon što je odobrena , nova Komisija može službeno započeti s radom .",O O O O O O B-ORG O O O O O O
+"Iz navedenog možemo zaključiti da imenovanje Komisije podsjeća na konstituiranje vlade u pojedinim državama .",O O O O O O B-ORG O O O O O O O O
+"Komisija je također i politički odgovorna Parlamentu koji ima ovlast izglasati joj nepovjerenje usvajanjem odluke o cenzuri .",B-ORG O O O O O B-ORG O O O O O O O O O O O
+"Predsjednik Komisije može zatražiti ostavku pojedinog člana Komisije , ali potrebno je da takvu odluku potvrde drugi povjerenici .",O B-ORG O O O O O B-ORG O O O O O O O O O O O
+"Komisija sudjeluje na svim sjednicama Parlamenta na kojima pojašnjava i opravdava svoje programe .",B-ORG O O O O B-ORG O O O O O O O O
+"Ona također redovito odgovara na pisane i usmene upite zastupnika Europskoga parlamenta .",O O O O O O O O O O B-ORG I-ORG O
+"Zadaće Komisije definirane su",O B-ORG O O
+", a četiri najvažnije su : Lisabonskim ugovorom - predlaže zakonodavstvo Parlamentu i Vijeću ; - upravlja i provodi programe i proračun Unije ; - provodi europsko zakonodavstvo ( zajedno sa Sudom Europskih zajednica ) ; - zastupa Europsku uniju na međunarodnoj razini , primjerice pregovaranjem o sporazumima između EU-a i drugih zemalja .",O O O O O O B-MISC I-MISC O O O B-ORG O B-ORG O O O O O O O O B-LOC O O O O O O O O B-ORG I-ORG I-ORG O O O O B-LOC I-LOC O O O O O O O O O B-LOC O O O O
+"Komisija se sastaje jednom tjedno , obično srijedom , u Bruxellesu .",B-ORG O O O O O O O O O B-LOC O
+"Svaku točku dnevnog reda predstavlja povjerenik zadužen za to političko područje , a cijeli sastav potom donosi zajedničku odluku .",O O O O O O O O O O O O O O O O O O O O
+"Sastanak Europske komisije .",O B-ORG I-ORG O
+"Za svakodnevno funkcioniranje Komisije odgovorni su njezini administrativni dužnosnici , stručnjaci , prevoditelji , tumači i tajničko osoblje : otprilike 25.000 europskih službenika .",O O O B-ORG O O O O O O O O O O O O O O O O O O O O
+"Osoblje Komisije organizirano je u odjele pod nazivom "" Opće uprave "" ( DG ) i "" službe "" ( kao što je Pravna služba ) .",O B-ORG O O O O O O O B-ORG I-ORG O O B-ORG O O O O O O O O O B-ORG I-ORG O O
+"Svaka Opća uprava odgovorna je za određeno političko područje i na njezinu se čelu nalazi glavni direktor koji odgovara jednom od povjerenika .",O B-ORG I-ORG O O O O O O O O O O O O O O O O O O O O
+"Cjelokupnu koordinaciju vrši Glavno tajništvo koje upravlja tjednim sastancima Komisije .",O O O B-ORG I-ORG O O O O B-ORG O
+"Na njezinu čelu nalazi se glavni tajnik koji odgovara izravno predsjedniku .",O O O O O O O O O O O O
+"Opće uprave pripremaju i sastavljaju zakonodavne prijedloge , no ti prijedlozi postaju službeni tek kad ih "" usvoji "" Komisija na svojim tjednim sastancima .",B-ORG I-ORG O O O O O O O O O O O O O O O O O B-ORG O O O O O
+"Budući da je priprema europskog zakonodavstva prilično složen posao koji zahtjeva upućenost u mnoga tehnička i stručna pitanja , te s obzirom na razlike između država članica , Komisija surađuje s odborima sastavljenim od stručnjaka predstavnika država članica u postupku koji se naziva komitologija .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-ORG O O O O O O O O O O O O O O O O
+"Europska Komisija smatra se „ najeuropskijom “ institucijom , budući da njezini članovi , iako državljani članica EU , ne predstavljaju u tom tijelu države , već promiču interese EU , pri čemu im je zajamčena potpuna neovisnost .",B-ORG I-ORG O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O B-LOC O O O O O O O O O
+"Dakako , neovisnost povjerenika vrlo je diskutabilna budući da ih većina dolazi iz političkih krugova svoje zemlje koja ih i imenuje , međutim jednom kad postanu povjerenici Komisije , smatraju se službenicima Europske unije i država ih ne može opozvati .",O O O O O O O O O O O O O O O O O O O O O O O O O O O B-ORG O O O O B-LOC I-LOC O O O O O O O
+"Danijela Damjanović , dipl. iur.",B-PER I-PER O O O
+"EUROPSKA KOMISIJA DALA VLADI ULTIMATUM OKO INE ' Imate dva mjeseca da odustanete od zlatne dionice ili ćemo vas tužiti ' - Jutarnji List",B-ORG I-ORG O B-ORG O O B-ORG O O O O O O O O O O O O O O O B-ORG I-ORG
+"Europska komisija je u četvrtak zatražila od Hrvatske da izmijeni zakon o privatizaciji Ine-Industrije nafte , jer se njime krši sloboda kretanja kapitala i sloboda poslovnog nastana , a što je obveza koju je Hrvatska preuzela još 2010. tijekom pristupnih pregovora u poglavlju Sloboda kretanja kapitala .",B-ORG I-ORG O O O O O B-LOC O O O O O O O O O O O O B-MISC I-MISC I-MISC O O O O O O O O O O O B-LOC O O O O O O O O B-MISC I-MISC I-MISC O
+"Komisija je Hrvatskoj poslala obrazloženo mišljenje , što je drugi korak u pokretanju postupka za povredu europskih propisa .",B-ORG O B-LOC O O O O O O O O O O O O O O O O
+"Ako Hrvatska u roku od dva mjeseca Zakon o privatizaciji Ine ne uskladi s pravom EU-a , Komisija može odlučiti uputiti predmet Sudu EU-a .",O B-LOC O O O O O B-MISC I-MISC I-MISC I-MISC O O O O B-LOC O B-ORG O O O O B-ORG I-ORG O
+"Komisija navodi da je Ina najveće hrvatsko poduzeće za opskrbu energijom , djelomično u vlasništvu hrvatske Vlade .",B-ORG O O O B-ORG O O O O O O O O O O B-LOC B-ORG O
+"Prema Zakonu o privatizaciji Ine državi su dodijeljene posebne ovlasti u tom poduzeću , uključujući pravo na veto u slučaju odluka društva koje se odnose na prodaju dionica / imovine u vrijednosti koja prelazi određeni prag .",O B-MISC I-MISC I-MISC I-MISC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Posljedica toga je situacija da dioničari ne mogu utjecati na važne odluke društva razmjerno svojim udjelima , što može odvratiti potencijalne ulagače od ulaganja u Inu .",O O O O O O O O O O O O O O O O O O O O O O O O O B-ORG O
+"Komisija smatra da takve posebne ovlasti predstavljaju ograničenje slobodnog kretanja kapitala i slobode poslovnog nastana , koje se na temelju Ugovora o funkcioniranju EU-a ne može opravdati .",B-ORG O O O O O O O O O O O O O O O O O O O B-MISC I-MISC I-MISC I-MISC O O O O
+"Iako je zaštita sigurnosti opskrbe energijom cilj kojim bi se mogla opravdati ograničenja sloboda navedenih u Ugovoru o funkcioniranju EU , čini se da bezuvjetno pravo veta koje je država dobila prema Zakonu o privatizaciji Ine nadilazi ono što je nužno i proporcionalno za postizanje tog cilja , ističe Komisija .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-MISC I-MISC I-MISC I-MISC O O O O O O O O O O O O O B-ORG O
+"Europska komisija : Financijsko obrazovanje za prevenciju prezaduženosti |",B-ORG I-ORG O O O O O O O
+"Zbog ozbiljnih problema koje izaziva osobna prezaduženost , Europska komisija predložila je sustav sprječavanja i ublažavanja osobne prezaduženosti * koji se sastoji od prevencije , rješavanje problema koji nastaju na tržištu , pomaganja , rješavanje i rehabilitacije dužnika .",O O O O O O O O B-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Prevencija obuhvaća financijsko obrazovanje i osposobljavanje usmjereno na razvoj financijske pismenosti , odgovorno pozajmljivanje te ranu uključenost kreditora i / ili vjerovnika .",O O O O O O O O O O O O O O O O O O O O O O O
+"Prema Europskoj komisiji , financijska pismenost je izuzetno važna i s tim opismenjavanjem treba započeti u osnovnim školama , a savjetovanje u vezi duga podrazumijeva pružanje nezavisne i holističke usluge u kojoj će se poštivati osobnost i dignitet prezadužene osobe .",O B-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Prezaduženost se obično javlja nakon neočekivane promjene razine primanja zbog iznenadne nezaposlenosti ili povećanih izdataka zbog bolesti , odnosno prevelike potrošnje koja je iznad mogućnosti pojedine osobe i njezine obitelji .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Značajan utjecaj naravno imaju i važni životni događaji poput razvoda braka ili dugotrajne veze , tako da pogođene osobe moraju gotovo iznova započeti s organizacijom života .",O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Posebno se u prezaduženost lako ulazi u uvjetima gospodarske krize , kada se smanjuju mogućnosti zapošljavanja , snižava se dohodak i ograničava prostor za dopunsku zaradu .",O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Nepovoljan utjecaj krize na prezaduženost vjerojatno se najviše očituje na pritisnuti srednji sloj , odnosno osobe koje su u doba gospodarskog prosperiteta razmjerno lako otplaćivale kredite i pokrivale nastale obveze , a sada to ne mogu činiti i nemaju pravo na materijalne oblike socijalne pomoći .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Njihov je položaj bitno drukčiji od onog kojeg imaju osobe s malim ili neredovitim prihodima , pa stoga nisu ni mogle uzimati kredite , a imale su pravo na različite oblike socijalne pomoći .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Materijalni položaj tih osoba zbog krize gotovo da se nije pogoršao .",O O O O O O O O O O O O
+"Financijsko obrazovani potrošači – najbolji su potrošači .",O O O O O O O O
+"Financijska pismenost je izuzetno važna i s tim opismenjavanjem treba započeti u osnovnim školama a kao posebno područje financijske pismenosti , Europska komisija navodi razvoj individualne odgovornosti u planiranju izdvajanja za otplatu budućeg kredita i troškova .",O O O O O O O O O O O O O O O O O O O O O B-ORG I-ORG O O O O O O O O O O O O O O
+"Financijska je pismenost važna zbog toga što financijski obrazovani potrošači pridonose učinkovitoj sinergiji financijskog i realnog sektora što ima pozitivan učinak na cjelokupni gospodarski rast i razvoj .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"S druge strane , važnost financijske pismenosti leži i u tome što smanjuje rizike individualnih pogrešnih odluka te se time smanjuje pojedinačno i ukupno siromaštvo i socijalna isključenost .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Izvori financiranja nacionalnih kampanja širenja financijske pismenosti u javnom sektoru su nadležna ministarstva financija i / ili gospodarstva , regulatori financijskih usluga te središnje banke .",O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Isto tako , javni obrazovni sustav , kao dio javnog sektora , od osnovne i srednje škole do visokog obrazovanja , također treba biti uključen u proces širenja financijske pismenosti putem edukacijskih programa na redovitoj ili povremenoj bazi .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Tu su također i različite gospodarske i obrtničke komore ili udruženja koja mogu imati interes u financijskom i štednom opismenjavanju stanovništva kao i udruge civilnog društva .",O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Svjetska mreža edukatora .",O O O O
+"U cilju unapređenja financijske pismenosti stanovništva , OECD je osnovao Međunarodnu mrežu za financijsko obrazovanje ( International Network on Financial Education – INFE ) koju čini oko 150 institucija iz 100 zemalja .",O O O O O O O B-ORG O O B-ORG I-ORG I-ORG I-ORG I-ORG O B-ORG I-ORG I-ORG I-ORG I-ORG O B-ORG O O O O O O O O O O
+"Mreža svake druge godine organizira konferencije , razmjene informacija i mišljenja te rasprave o programima , inicijativama , problemima s podacima i istraživanjima na temu financijske edukacije .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Osim toga mreža se zalaže za priznavanje međunarodnih standarda vezanih uz financijsku pismenost te osigurava vodiče , upute i koordinaciju za one koji se tek uključuju u programe financijskog obrazovanja .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Rehabilitacija dužnika .",O O O
+"Rano uključivanje kreditora i / ili vjerovnika pokazalo se kao jako korisna mjera .",O O O O O O O O O O O O O O
+"Kao posebno dobar primjer može se istaknuti britanska Savjetodavna služba za financije i proračun .",O O O O O O O O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG O
+"Služba je predviđena za pojedince i obitelji , najčešće s niskim dohotkom , koji trebaju pomoć oko osobnih financija .",O O O O O O O O O O O O O O O O O O O O
+"Usluga je besplatna za korisnike i povjerljiva .",O O O O O O O O
+"Slični programi razvijeni su u Austriji i Njemačkoj .",O O O O O B-LOC O B-LOC O
+"U Finskoj i Nizozemskoj , postoji i zakonodavna obveza lokalnih vlasti za pružanje savjeta u pogledu prezaduženosti .",O B-LOC O B-LOC O O O O O O O O O O O O O O
+"Takve se usluge obično financiraju iz javnih izvora i uglavnom su besplatne za korisnika .",O O O O O O O O O O O O O O O
+"U Belgiji pozitivan utjecaj ima Zakon o kolektivnom podmirenju duga i to tako što osoba zadužena kod različitih vjerovnika obraća se za pomoć opunomoćenom i stručnom posredniku koji stupa u kontakt sa svim vjerovnicima i zajedno pronalaze rješenje problema .",O B-LOC O O O B-MISC I-MISC I-MISC I-MISC I-MISC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Kao pozitivan primjer , može se navesti Fond protiv prezaduženosti koji duži niz godina uspješno posluje u Belgiji .",O O O O O O O B-ORG I-ORG I-ORG O O O O O O O B-LOC O
+"Svaki vjerovnik uplaćuje u Fond u skladu s izračunima ukupnih nepodmirenih obveza , a prikupljena sredstva služe za pokriće troškova medijatora i drugih savjetodavnih tijela uključenih u smanjivanje prezaduženosti * Rad je nastao uz potporu Hrvatske zaklade za znanost u okviru projekta 6558 Business and Personal Insolvency – the Ways to Overcome Excessive Indebtednes .",O O O O B-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-ORG I-ORG I-ORG I-ORG O O O O B-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC O
+"Obrazovanje potrošača i Europska komisija",O O O B-ORG I-ORG
+"Među njima , Europska Unija je obrazovanje potrošača uključila u dio općih ciljeva zaštite potrošača ( članak 153 , Ugovor iz Amsterdama , 1997 ) .",O O O O B-LOC O O O O O O O O O O O O O O B-MISC I-MISC I-MISC O O O O
+"Obrazovanje potrošača je , dakle , priznato pravo europskih potrošača i cilj koji se želi zajednički postići sa strane država članica Europske unije .",O O O O O O O O O O O O O O O O O O O O O B-LOC I-LOC O
+"Europska komisija je također definisalo digitalne kompetencije kao jedan od ključnih aspekata cjeloživotnog učenja .",B-ORG I-ORG O O O O O O O O O O O O O
+"S Lisabonskim ugovorom u 2007 , osim članka 12. o zaštiti potrošača , članak 169 ugovora propisuje da "" Unija će doprinijeti zaštiti zdravlja , sigurnosti i gospodarskih interesa potrošača , promicanju potrošačima pravo na informiranje , obrazovanje i pravo na organiziranje potrošača kako bi zaštitili svoj ​​ interes . """,O B-MISC I-MISC O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Potrošačka Agenda objavljena u proljeće 2012 je najavila da će Europska komisija izraditi "" interaktivnu platformu za razmjenu najboljih praksi i distribuciju potrošača obrazovnih materijala među nastavnicima i drugim stručnjacima koji rade sa učenicima 12 - 18 godine starosti , uključujući i materijale za digitalnu pismenost , novih medijskih tehnologija i održivoj potrošnji . """,B-MISC I-MISC O O O O O O O O B-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Europska komisija - Izvješće za Hrvatsku 2016. - CEA",B-ORG I-ORG O B-MISC I-MISC I-MISC I-MISC O B-ORG
+"Europska komisija – Izvješće za Hrvatsku 2016.",B-ORG I-ORG O B-MISC I-MISC I-MISC I-MISC
+"Europska komisija donosi Izvješće za Hrvatsku 2016. – S detaljnim preispitivanjem sprječavanju i ispravljanju makroekonomskih neravnoteža .",B-ORG I-ORG O B-MISC I-MISC I-MISC I-MISC O O O O O O O O O O
+"Kroz Europski semestar Europska komisija koordinira i potiče dizajn i provedbu reformskih javnih politika s državama članicama EU .",O B-MISC I-MISC B-ORG I-ORG O O O O O O O O O O O O B-LOC O
+"Europska komisija kroz Izvješće za Hrvatsku 2016. donosi preciznu analizu hrvatskih makroekonomskih neravnoteža .",B-ORG I-ORG O B-MISC I-MISC I-MISC I-MISC O O O O O O O
+"Mogu se vidjeti i vrlo bolne činjenice iza kojih stoje određeni ( para ) birokratski partikularni interesi , koji se često predstavljaju kao “ javni interes ” .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Temeljem analize , Hrvatska donosi nacionalni program reformi .",O O O B-LOC O O O O O
+"Izvješće za Hrvatsku 2016. je prilika da se definiraju novi prioriteti javnih politika u Hrvatskoj i počnu provoditi ozbiljne institucionalne reforme .",B-MISC I-MISC I-MISC I-MISC O O O O O O O O O O B-LOC O O O O O O O
+"Izvješće Europske komisije trebalo bi biti prvoklasno štivo već u srednjim školama ( a pogotovo na fakultetima ) , u svim političkim strankama , tijelima javne uprave i drugih dionicima koji utječu na upravljanje promjenama u društvu .",O B-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Samo uz novi mentalitet možemo stvarati bolje odluke i mjere koje će poboljšati kvalitetu institucija i time stvoriti bolje prilike za stvaranje vrijednosti .",O O O O O O O O O O O O O O O O O O O O O O O O
+"Izvješće Europske komisije je zapravo poticaj da Hrvatska završi svoju tranziciju prema tržišnom gospodarstvu .",O B-ORG I-ORG O O O O B-LOC O O O O O O O
+"I kad se to dogodi , reforme će ostati stalni izazov kako bi država izgradila okvir za slobodnije poslovanje , s manje prepreka i tereta koje je uzrokovala prekomjerna birokracija .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"CEA se zalaže za povećanje tržišne slobode , sustavnu deregulaciju i snažno rezanje birokracije , kako bi država bila što manja i efikasnija .",B-ORG O O O O O O O O O O O O O O O O O O O O O O O
+"Prekomjerni fiskalni , parafiskalni i regulatorni nameti i tereti nisu opravdani jer ozbiljno narušavaju slobodu tržišta i prilike za stvaranje vrijednosti .",O O O O O O O O O O O O O O O O O O O O O O
+"Zato smatramo da država treba dati svoj maksimum da se potakne nesputana i slobodna",O O O O O O O O O O O O O O
+"Europska komisija čeka zahtjev za financiranje Pelješkog mosta , Hrvatska tvrdi da je u izradi",B-ORG I-ORG O O O O B-LOC I-LOC O B-LOC O O O O O
+"Vijesti.hr",B-MISC
+"Vlada , kako prošla tako i nova , vjeruje da će Europska komisija financirati 85 posto Pelješkog mosta .",O O O O O O O O O O O B-ORG I-ORG O O O B-LOC I-LOC O
+"Ostatak bi platili hrvatski građani .",O O O O O O
+"Europska komisija , izvršno tijelo Europske unije , čeka iz Hrvatske zahtjev za financiranje Pelješkog mosta najavljenog hrvatskim građanima prije 13 godina , a vlada u Zagrebu kaže da je zahtjev u izradi , ali ne iznosi procjene kada bi mogao naći u Bruxellesu .",B-ORG I-ORG O O O B-LOC I-LOC O O O B-LOC O O O B-LOC I-LOC O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O B-LOC O
+"Hrvatska vlada , kako prošla tako i nova , vjeruje da će Europska komisija financirati 85 posto od oko 2 milijarde kuna vrijednog mosta s okolnim cestama u sklopu svoje politike smanjivanja nejednakosti među europskim regijama .",B-LOC O O O O O O O O O O O B-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O O O
+"Ostatak bi platili hrvatski građani . “ To je ono što hrvatske vlasti žele .",O O O O O O O O O O O B-LOC O O O
+"U ovom trenutku ne možemo potvrditi taj omjer jer još čekamo službenu prijavu projekta sa studijom izvedivosti ” , kaže u Bruxellesu osoba iz Europske komisije koja radi na financiranju projekata u Hrvatskoj te dodaje : “ Nemam informaciju kada bi smo mogli dobiti prijavu ” .",O O O O O O O O O O O O O O O O O O O O O B-LOC O O B-ORG I-ORG O O O O O O B-LOC O O O O O O O O O O O O O O
+"Druga osoba iz istog ureda bila je rekla u listopadu 2015. kako ondje očekuju zaprimanje prijave početkom 2016. godine , što se nije ostvarilo .",O O O O O O O O O O O O O O O O O O O O O O O O O
+"Premda nema roka , prijava u Bruxelles mora stići do 2020. godine kada završava aktualno sedmogodišnje razdoblje u kojem se iz europskih fondova financiraju manje razvijene regije u bloku 28 zemalja .",O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O
+"Hrvatskoj je na raspolaganju 51,7 milijardi kuna ( 6,8 milijardi eura ) od čega bi dio trebao otići na povezivanje hrvatskog juga gradnjom 2,4 kilometra dugog mosta između kopna i poluotoka Pelješca zaobilazeći BiH .",B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O B-LOC O
+"Korištenje tog novca ovisit će o prijavama u kojima je potrebno uvjeriti europske tehnokrate u izvedivost projekata i njihovu korisnost .",O O O O O O O O O O O O O O O O O O O O O
+"U ministarstvu regionalnog razvoja i fondova EU-a kažu kako će prijavu poslati u Bruxelles čim ju dobiju od Ministarstva pomorstva , prometa i infrastrukture .",O O O O O O B-LOC O O O O O O B-LOC O O O O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG O
+"David Radas iz kabineta tehničkog ministra pomorstva Olega Butkovića kaže kako “ ne mogu predviđati nikakve rokove ” za slanje prijave u Europsku komisiju .",B-PER I-PER O O O O O B-PER I-PER O O O O O O O O O O O O O B-ORG I-ORG O
+"Ministarstvo pomorstva je u srpnju dostavilo aplikaciju u Beč regionalnom timu zaduženom za zajedničku asistenciju podršci projekata u europskim regijama ( JASPERS ) .",B-ORG I-ORG O O O O O O B-LOC O O O O O O O O O O O O B-ORG O O
+"To je kontrolno tijelo preko kojega mora proći prijava . “ Njihovo mišljenje očekuje se najkasnije do sredine studenog ” , napisao je u e-mailu Radas .",O O O O O O O O O O O O O O O O O O O O O O O O O B-PER O
+"To mišljenje , u sklopu potvrde o pripremljenosti projekta , otići će nakon toga na pregled kvalitete neimenovanim “ nezavisnim stručnjacima ” .",O O O O O O O O O O O O O O O O O O O O O O O
+"Nakon njihove izjave prijava odlazi u Ministarstvo regionalnog razvoja koje ju zatim šalje u Bruxelles Europskoj komisiji . “ Oba ministarstva su u potpunosti osigurala stručnu administrativnu podršku nositelju projekta , Hrvatskim cestama , vezanu za postupak pripreme i otprave aplikacije u daljnju proceduru prema Europskoj komisiji .",O O O O O O B-ORG I-ORG I-ORG O O O O O B-LOC B-ORG I-ORG O O O O O O O O O O O O O O B-ORG I-ORG O O O O O O O O O O O O B-ORG I-ORG O
+"Sva dokumentacija poslana je u roku ” , napominje Radas .",O O O O O O O O O B-PER O
+"Hrvatske ceste , kompanija u 100 postotnom državnom vlasništvu , raspisala je 21. lipnja natječaj za prikupljanje ponuda građevinskih poduzeća zainteresiranih za gradnju čiji radovi u prvoj fazi koštaju 1,75 milijardi kuna .",B-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"No on je zaustavljen 7. listopada zbog žalbe sudionika na natječaju .",O O O O O O O O O O O O
+"Prema pisanju Večernjeg lista žalili su se Viadukt i tvrtka iz Kine na natječajnu dokumentaciju . “ Šteta što žalbe odugovlače postupak javne nabave , međutim takva je procedura ” , kaže Nikola Dobroslavić , župan Dubrovačko-neretvanske županije i član HDZ-a . “ Ponuditelji se bore za svoje interese i pokušavaju za sebe izboriti najbolju poziciju .",O O B-ORG I-ORG O O O B-ORG O O O B-LOC O O O O O O O O O O O O O O O O O O O O B-PER I-PER O O B-LOC I-LOC O O B-ORG O O O O O O O O O O O O O O O O
+"Sa svoje strane moramo učiniti sve da se primjedbe rješavaju u što kraćem roku i da se što prije dođe do najkvalitetnijeg izvodača radova ” .",O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Ministar Butković je 20. lipnja rekao kako bi radovi mogli krenuti početkom 2017. “ Vjerujem da je to realno .",O B-PER O O O O O O O O O O O O O O O O O O
+"Cijela vlada je ustvrdila kako je ovaj projekt najveći prioritet pa očekujem kako će se sve faze realizacije projekta odvijati prema planiranoj dinamici ” , kaže Dobroslavić .",O O O O O O O O O O O O O O O O O O O O O O O O O O B-PER O
+"Kada Hrvatska pošalje službenu prijavu , Komisija će imati tri mjeseca za odgovor čime bi konačno trebala biti poznata sudbina mosta što ga je još u kampanji 2003. obećavala HDZ-ova vlada tadašnjeg premijera Ive Sanadera .",O B-LOC O O O O B-ORG O O O O O O O O O O O O O O O O O O O O O O B-ORG O O O B-PER I-PER O
+"Hrvatska je 1. srpnja 2015. , dvije godine nakon ulaska u EU , aplicirala za ulazak u schengensku zonu u kojoj se građani članica mogu kretati bez zaustavljanja na granicama , a Pelješki most trebao bi osigurati lakšu kontrolu te proširene zone kada jednom Hrvatska postane člancia ' schengena ' .",B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC I-LOC O O O O O O O O O O B-LOC O O O O O O
+"Aktualna izbjeglička i migrantska kriza u Europi , koja paralizira schengenski režim slobodnog kretanja ljudi , neće se odraziti na europsko financiranje gradnje Pelješkog mosta , rekla je osoba iz Europske komisije . “ Ne financiramo političke , već razvojne regionalne projekte ” , napominje .",O O O O O O O O O O O O O O O O O O O O O O O B-LOC I-LOC O O O O O B-ORG I-ORG O O O O O O O O O O O O O O
+"Hrvatska traži maksimalni iznos novca , odnosno 85 posto vrijednosti mosta s okolnim cestama .",B-LOC O O O O O O O O O O O O O O
+"Bude li taj iznos manji morat će pronaći dodatna sredstva u proračunu .",O O O O O O O O O O O O O
+"Dobroslavić , voditelj hrvatske delegacije od devet članova u Odboru regija , tijelu EU-a u kojem sjede regionalni i lokalni predstavnici iz 28 zemalja Unije , vjeruje ipak kako će hrvatskim novcem biti financirano 15 posto mosta . “ To je uobičajeni omjer financiranja .",B-PER O O B-LOC O O O O O B-ORG I-ORG O O B-LOC O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O
+"Vjerujem da će tako biti i odobreno ” , kaže .",O O O O O O O O O O O
+"Ministarstvo regionalnoga razvoja i fondova Europske unije - Europska komisija Hrvatskoj odobrila više od 7 milijuna eura za izgradnju mosta na rijeci Savi kod Svilaja",B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG O B-ORG I-ORG B-LOC O O O O O O O O O O O B-LOC O B-LOC
+"Nakon što je 14. rujna 2016. godine u Općini Odžak svečano položen kamen temeljac za početak radova na izgradnji mosta na rijeci Savi kod Svilaja , ovaj tjedan Europska komisija potpisala je i poslala Hrvatskoj ugovor kojim potvrđuje sufinanciranje mosta u iznosu većem od 7 milijuna eura Ukupna vrijednost ovog međunarodnog mosta , koji će zajednički izgraditi Republika Hrvatska i Bosna i Hercegovina , iznosi 22.308.022,34 eura .",O O O O O O O O O O O O O O O O O O O O O O B-LOC O B-LOC O O O B-ORG I-ORG O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O B-LOC I-LOC O B-LOC I-LOC I-LOC O O O O O
+"Sukladno Sporazumu između Vlade Republike Hrvatske i Vijeća ministara Bosne i Hercegovine svaka država financira 50 % ugovorene vrijednosti radova .",O B-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC O O O O O O O O O
+"Hrvatska je financiranje svog dijela mosta osigurala putem Instrumenta za povezivanje Europe ( CEF - Connecting Europe Facility ) i kroz kredit Europske investicijske banke za preostali iznos .",B-LOC O O O O O O O B-ORG I-ORG I-ORG I-ORG O B-ORG O B-ORG I-ORG I-ORG O O O O B-ORG I-ORG I-ORG O O O O
+"Most je sastavni dio međunarodnog pan-europskog cestovnog koridora 5 C - Budimpešta-Beli Manastir-Osijek-Sarajevo-Ploče te je dio europske mreže autocesta koja sjever Europe povezuje s Jadranom .",O O O O O O O O B-LOC I-LOC I-LOC I-LOC I-LOC O O O O O O O O B-LOC O O B-LOC O
+"Ovaj projekt od velike je važnosti za BiH i Hrvatsku jer spaja dvije države i povezuje ih s europskom mrežom autocesta .",O O O O O O O B-LOC O B-LOC O O O O O O O O O O O O
+"Izgradnja mosta otvara nove mogućnosti stanovnicima s obje strane Save , ali je i dokaz jako dobre suradnje između susjednih država “ , izjavio je ministar regionalnoga razvoja i fondova Europske unije Tomislav Tolušić CEF je financijski instrument Europske unije kroz koji države članice mogu ulagati u izgradnju nove te unaprjeđenje postojeće prometne , energetske i telekomunikacijske infrastrukture na devet koridora Osnovne mreže Transeuropske prometne mreže .",O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O B-LOC I-LOC B-PER I-PER B-ORG O O B-ORG B-LOC I-LOC O O O O O O O O O O O O O O O O O O O O O B-MISC I-MISC I-MISC I-MISC I-MISC O
+"Uz pomoć sredstava iz CEF-a stvarat će se međusobno povezane mreže širom Europe što će doprinijeti ekonomskom rastu te socijalnoj i teritorijalnoj koheziji unutar Europske unije .",O O O O B-ORG O O O O O O O B-LOC O O O O O O O O O O O B-LOC I-LOC O
+"U financijskom razdoblju 2014. 2020. državama članicama je iz CEF-a na raspolaganju 26 milijardi eura za ulaganja u prometnu infrastrukturu , od čega je Hrvatskoj na raspolaganju 456 milijuna eura .",O O O O O O O O O B-ORG O O O O O O O O O O O O O O B-LOC O O O O O O
+"Poseban naglasak ovaj Instrument stavlja na otklanjanje uskih grla , osiguravanje održivih i efikasnih prometnih sustava na duži rok , na unapređenje integracije i povezivanja različitih prometnih grana te povećanje interoperabilnosti .",O O O B-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Europska komisija uvodi antidampinške carine na kineske proizvode od čelika",B-ORG I-ORG O O O O O O O O
+"Europska Komisija odlučila je uvesti privremene antidampinške carine na uvoz dva proizvoda od čelika iz Kine , brzo reagirajući na nepošteno tržišno natjecanje , koristivši u potpunosti raspoložive instrumente propisane u EU antidampinškim regulativama .",B-ORG I-ORG O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O B-LOC O O O
+"Mjere se odnose toplo valjani plosnati čelik i teške ploče od čelika , a donesene su gotovo pet tjedna prije krajnjeg roka .",O O O O O O O O O O O O O O O O O O O O O O O
+"U slučaju toplo valjanog plosnatog čelika , uvođenje antidampinških carina rezultat je istrage koja je pokrenuta prije nego se materijalna šteta na tržištu EU mogla materijalizirati .",O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O O
+"Tu je korišten tržišno kontrolni instrument pod nazivom "" prijeteća šteta "" .",O O O O O O O O O O O O O
+"Što se tiče teških čeličnih ploča , njihov uvoz još od kolovoza podliježe službenoj registraciji , a temeljem toga carine mogu biti primjenjene i retroaktivno u konačnoj fazi .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Istraživanja koja je provela Komisija potvrdila su kako su kineski proizvodi prodani u Europi po iznimno niskim , dampinškim cijenama .",O O O O B-ORG O O O O O O O O B-LOC O O O O O O O
+"Kako bi proizvođačima u EU omogućila potreban "" prostor za disanje "" Komisija je uvela antidampinške carine od 65,1 % do 73,7 % na teške ploče od čelika , te od 13,2 % di 22,6 % na toplo valjani plosnati čelik .",O O O O B-LOC O O O O O O O B-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Očekuje se da će ti postupci vratiti profitabilnost europskih proizvođača i spriječiti daljnju štetu na tržištu EU .",O O O O O O O O O O O O O O O O B-LOC O
+"U narednih će šest mjeseci Komisija odlučiti hoće li potvrditi ove mjere za razdoblje od sljedećih nekoliko godina .",O O O O O B-ORG O O O O O O O O O O O O O
+"Komisija će u tom roku također odlučiti hoće li se retroaktivno naplatiti antidampinška carina na teške ploče od čelika koje su u EU uvezene od kolovoza do listopada ove godine .",B-ORG O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O
+"To je moguće zahvaljujući ranijom registracijom uvoza aktiviranom tijekom razdoblja istrage .",O O O O O O O O O O O O
+"Europska unija trenutno provodi do sada nezabilježen broj zaštitnig trgovinskih mjere kako bi zaštitila domaće proizvođače od nepoštenih cijena proizvoda iz čelika iz uvoza .",B-LOC I-LOC O O O O O O O O O O O O O O O O O O O O O O O
+"Radi se o ukupno 37 antidampinških i anti-subvencijskih mjera , od kojih se čak 15 odnose na proizvode podrijetlom iz Kine .",O O O O O O O O O O O O O O O O O O O O B-LOC O
+"Komisija također provodi još istraživanja tržišta za dvanaest čeličnih proizvoda , uključujući i ove dvije za koje su donijete privremene zaštitne mjere .",B-ORG O O O O O O O O O O O O O O O O O O O O O O
+"Komisija nastoji koristiti rspoložive instrumenata trgovinske zaštite u maksimalnoj mogućoj mjeri , ali je jednako tako potrebno ojačati ove mehanizme kako bi se efikasnije primjenjivali u stvarnosti preteći trenutno stanje globalizacije .",B-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Ponovila je i poziv za potporu zemalja članica za prijedlog o modernizaciji trgovine obrane instrumenata EU-a iz 2013. godine , osobito pravilo "" manjim carinama "" .",O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O
+"To bi omogućilo EU da može propisati veće carine na dampinške proizvode .",O O O B-LOC O O O O O O O O O
+"Istovremeno , Komisija postojano radi na svom akcijskom planu za rješavanje problema prekapacitiranosti u sektoru čelika koristeči bilateralne i multilateralne kontakte s europskim partnerima .",O O B-ORG O O O O O O O O O O O O O O O O O O O O O O
+"Vrlo je bitno da Kina prihvaća postaviti mehanizam za praćenje prevelikih proizvodnih kapaciteta , te da Globalni forum o višku proizvodnih kapaciteta u čeličnoj industriji postane stvarnost kako bi se povećala razmjena informacija i suradnja na globalnoj razini .",O O O O B-LOC O O O O O O O O O O O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG O O O O O O O O O O O O O O
+"Europska unija , kao i svi ostali članovi WTO-a , u situacijama nepoštenih trgovinskih praksi ima pravo koristiti se koristi obrambenim instrumentima kako bi se uspostavili jednaki uvjeti za sve sudionike europskog tržišta .",B-LOC I-LOC O O O O O O B-ORG O O O O O O O O O O O O O O O O O O O O O O O O O
+"Upotreba ovih instrumenata regulirana je strogim zakonskim okvirom i pravilima EU .",O O O O O O O O O O B-LOC O
+"Poštujući propisana pravila , a u skladu s akcijskim planom koji je donijela u ožujku ove godine , Komisija nastoji očuvati radna mjesta u europskom čeličnom sektoru koja su ugrožena globalnom prekapacitiranošću u industriji čelika .",O O O O O O O O O O O O O O O O O O B-ORG O O O O O O O O O O O O O O O O O
+"Što se tiče čeličnih proizvoda na koje se primjenjuju posljednje antidampinške mjere , toplo valjani plosnati čelik je glavni materijal za izradu raznih proizvoda od čelika s dodanom vrijednošću , počevši od hladno valjanih proizvoda od čelika .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Krajnji korisnici kupuju ove proizvode za različite potrebe , uključujući građevinarstvo ( šuplji profili ) , brodogradnju , tlačne posude itd.",O O O O O O O O O O O O O O O O O O O O O
+"Teške čelične ploče imaju veliki raspon primjene u cijelom gospodarstvu , uključujući brodogradnju , zgrade , mostove , vjetroelektrane , posude pod tlakom , cjevovode , naftne platforme i tešku opremu , poput bagera i slične teške mehanizacije .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Kina kaže da su antidampinške mjere koje je uvela EU nepoštene .",B-LOC O O O O O O O O B-LOC O O
+"Kinesko ministarstvo trgovine izrazilo je žaljenje , ali i zabrinutost zbog najnovijih antidmapinških mjera koje je Europska unija donijela za proizvode od čelika iz Kine .",O O O O O O O O O O O O O O O O B-LOC I-LOC O O O O O O B-LOC O
+"Smatra da su metode istraživanja tržišta koje koristi EK nepoštene .",O O O O O O O O B-ORG O O
+""" Metode istraživanja koje koristi EU u praksi su one koje se koriste za zemlje ne-tržišne ekonomije , te su nepoštene i nerazumne i ozbiljno štete interesima kineskih poduzeća "" - objavljeno je na stranici kineskog ministarstva trgovine .",O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+""" Bezobzirni trgovinski protekcionizam i pogrešne metode koje ograničavaju pošteno tržišno natjecanje nisu pravilan način za razvoj čelične industrije u Europskoj uniji . "" Ministarstvo je osim toga napomenulo kako kineski čelični proizvodi sudjeluju s manje od 5 % na europskom tržištu čelika , te ne predstavljaju ozbiljnu prijetnju europskoj industriji .",O O O O O O O O O O O O O O O O O O O O B-LOC I-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Uzrok problema u europskoj industriji čelika nije u trgovini , već u slabom gospodarskom rastu , zaključuju iz Kine .",O O O O O O O O O O O O O O O O O O B-LOC O
+"Europska komisija poručila Facebooku : Prevarili ste nas - Poslovni dnevnik",B-ORG I-ORG O B-ORG O O O O O B-MISC I-MISC
+"Zbog netočnih informacija oko tehničkih detalja spajanja računa korisnika WhatsAppa i Facebooka , Europska je komisija ( EK ) zaprijetila najvećoj drutvenoj mreži da će je kazniti u iznosu jedan posto godinjih prihoda , odnosno 179 milijuna dolara .",O O O O O O O O O B-ORG O B-ORG O B-ORG I-ORG I-ORG O B-ORG O O O O O O O O O O O O O O O O O O O O O
+"Problem je izbio u kolovozu kada je WhatsApp objavio da će promijeniti uvjete zatite privatnosti korisnika jer će s Facebookom podijeliti podatke o brojevima telefona svojih korisnika .",O O O O O O O B-ORG O O O O O O O O O O O B-ORG O O O O O O O O
+"Kao to je poznato , WhatsApp je od 2014. u vlasnitvu Facebooka koji ga je kupio za 22 milijarde dolara .",O O O O O B-ORG O O O O O B-ORG O O O O O O O O O
+"Objava promjene zatite privatnosti izazvala je provjeru europskih agencija za zatitu osobnih podataka .",O O O O O O O O O O O O O O
+"Međutim , u priopćenju povjerenice za tržino natjecanje Margrethe Vestager objavljenog u utorak navodi se kako je Facebook u dokumentima predanima u svrhu procjene utjecaja preuzimanja na tržino natjecanje naveo kako je tehnički nemoguće spojiti račune korisnika na pouzdan način .",O O O O O O O O B-PER I-PER O O O O O O O B-ORG O O O O O O O O O O O O O O O O O O O O O O O
+"U Bruxellesu smatraju kako je jo 2014. postojala mogućnost automatskog spajanja računa Facebookovih korisnika koji su imali račun i na WhatsAppu .",O B-LOC O O O O O O O O O O B-ORG O O O O O O O B-ORG O
+""" Preliminarno miljenje Komisije jest da nam je Facebook dao netočne ili zbunjujuće podatke tijekom procjene akvizicije WhatsAppa "" , ističe se u priopćenju koje prenosi Reuters .",O O O B-ORG O O O O B-ORG O O O O O O O O B-ORG O O O O O O O O B-ORG O
+"Komisija je dodala kako u procjeni utjecaja na tržino natjecanje nije uzela u obzir samo informaciju o nemogućnsoti spajanja računa .",B-ORG O O O O O O O O O O O O O O O O O O O O
+"Podsjetimo , ta je akvizicija s europske strane odobrena bezuvjetno .",O O O O O O O O O O O
+"Američka tehnoloka kompanija mora do 31. siječnja iduće godine poslati očitovanje na optužbe EK.",O O O O O O O O O O O O O O
+"U slučaju da se sumnje EK potvrde , najvećoj drutvenoj mreži prijeti kazna do jedan posto prihoda iz lanjske godine .",O O O O O B-ORG O O O O O O O O O O O O O O O
+"Facebook u tom slučaju ima pravo žalbe Europskom sudu pravde koji je nekoliko puta i sruio odluku izvrnog tijela Europske unije .",B-ORG O O O O O O B-ORG I-ORG I-ORG O O O O O O O O O B-LOC I-LOC O
+"Ipak , Komisija neće povući svoje odobrenje kupnje WhatsAppa .",O O B-ORG O O O O O B-ORG O
+"Glasnogovornica Facebooka je poručila kako je kompanija konstantno pružala precizne informacije o svojim tehničkim mogućnostima i planovima .",O B-ORG O O O O O O O O O O O O O O O O
+""" Uvjereni smo da će cjeloviti pregled činjenica potvrditi da je Facebook djelovao u dobroj vjeri "" , istaknula je glasnogovornica kompanije .",O O O O O O O O O O O B-ORG O O O O O O O O O O O
+"U odvojenom slučaju zabrinutosti europske agencije za zatitu osobnih podataka Facebook je objavio da će prestati dijeliti podatke o korisnicima sa WhatsAppom .",O O O O O B-ORG I-ORG I-ORG I-ORG I-ORG B-ORG O O O O O O O O O O B-ORG O
+"Tužene mreže .",O O O
+"Uloga u masakru u Orlandu Obitelji tri mukarca koji su ubijeni u klubu Pulse u Orlandu tužili su Facebook , Twitter i Google zbog njihove uloge u irenju islamističke ideologije , regrutiranju džihadista i prikupljanju novca za terorističke organizacije .",O O O O B-LOC O O O O O O O O B-ORG O B-LOC O O B-ORG O B-ORG O B-ORG O O O O O O O O O O O O O O O O O
+"U tužbi se navodi kako su te tri kompanije pružile "" materijalnu podrku koja je bila instrument za irenje ISIS-a "" , prenosi Reuters .",O O O O O O O O O O O O O O O O O O O B-ORG O O O B-ORG O
+"Podsjetimo , u lipnju je Omar Mateen koji je tvrdio da je pripadnik ISIS-a u gay klubu Pulse ubio 49 ljudi , a 53 ranio .",O O O O O B-PER I-PER O O O O O O B-ORG O O O B-ORG O O O O O O O O
+"Radilo se o najvećem masovnom ubojstvu u modernoj američkoj povijesti .",O O O O O O O O O O O
+"Twitter i Google nisu komentirali tužbu dok je Facebook naveo kako su usmjereni na uslugu gdje se korisnici osjećaju sigurno .",B-ORG O B-ORG O O O O O B-ORG O O O O O O O O O O O O
+"Europska komisija najavila strategiju o dobrobiti životinja - EU",B-ORG I-ORG O O O O O O B-LOC
+"Europska komisija najavila strategiju o dobrobiti životinja .",B-ORG I-ORG O O O O O O
+"Europska komisija novim planom želi popuniti rupe u zakonima EU u vezi s dobrobiti životinja , nudeći bolju zaštitu životinjama i osvješćujući potrošače da mudro kupuju .",B-ORG I-ORG O O O O O O O B-LOC O O O O O O O O O O O O O O O O O
+"Zakoni EU u vezi s humanim odnosom prema životinjama ne provode se kako bi trebalo .",O B-LOC O O O O O O O O O O O O O O
+"Postupnost , rupe u zakonu i njegovo neprovođenje u nekim zemljama razlog su što se prema životinjama ne odnosi u skladu sa standardima EU .",O O O O O O O O O O O O O O O O O O O O O O O B-LOC O
+"Uzgajivači u zemljama koje zakone provode nalaze se konkurentski zakinutima .",O O O O O O O O O O O
+"Komisija namjerava krenuti s rjeavanjem tih problema kroz novu strategiju za držanje životinja .",B-ORG O O O O O O O O O O O O O
+"Uzgajivači će dobiti veće potpore za ispunjavanje standarda za njihov smjetaj , kakvi se traže zakonima EU .",O O O O O O O O O O O O O O O O B-LOC O
+"Kupcima će biti od koristi i povećana transparentnost i bolje informacije o dobrobiti životinja .",O O O O O O O O O O O O O O O
+"Jednostavnija i razumljivija pravila .",O O O O O
+"Komisija u sklopu strategije razmatra predlaganje razumljivijeg zakona o smjetaju životinja da se popune preostale rupe u trenutnom zakonodavstvu .",B-ORG O O O O O O O O O O O O O O O O O O O
+"Njime se želi i : pružiti vie informacija potroačima da lake shvate to zapravo znače deklaracije o dobrobiti životinja na etiketama proizvoda . prilagoditi pravila tako da zaista budu životinjama od koristi . poboljati obuku ljudi koji se neposredno bave životinjama .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Poboljanja kroz razdoblje od četiri godine .",O O O O O O O
+"Dio je strategije pokretanje i niza mjera koje će se postupno uvoditi kroz iduće četiri godine .",O O O O O O O O O O O O O O O O O
+"Na primjer , trenutni će zakoni biti provedeni radi poboljanja ispunjenja .",O O O O O O O O O O O O
+"Na raspolaganje će biti stavljeno vie podataka o visokim standardima EU za dobrobit životinja .",O O O O O O O O O O B-LOC O O O O
+"Ove se godine očekuju planovi za regulaciju klanja životinja , uz zakone ili smjernice o prijevozu životinja .",O O O O O O O O O O O O O O O O O O
+"Ove će se godine poduzeti i koraci za poboljanje uvjeta držanja krmača , sa smjernicama o svinjama općenito , to dolazi na red iduće godine .",O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Prijedlog o općoj dobrobiti životinja razmotrit će se 2014.",B-MISC I-MISC I-MISC I-MISC I-MISC O O O O
+"Zadržavanje konkurentnosti .",O O O
+"Kako bi europski uzgajivači ostali konkurentni u odnosu na uvoz iz inozemstva , EU vrijednosti glede smjetaja životinja bit će promovirane u inozemstvu i vie će se poraditi na razvoju međunarodnih standarda .",O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O
+"Bolje iskoritavanje istraživanja .",O O O O
+"Diljem EU bit će rairena mreža referalnih centara koji će omogućiti bolja istraživanja u vezi s dobrobiti životinja , a rezultati će biti na raspolaganju uzgajivačima .",O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O
+"EUROPSKA KOMISIJA O TUŽBI BANKE PROTIV HRVATSKE : ‘ Arbitražni sud u Washingtonu će to odbaciti ! ’ – Net.hr",B-ORG I-ORG O O O O B-LOC O O O O O B-LOC O O O O O O B-ORG
+"Iako je stisnula Hrvatsku da pronađe rješenje s bankama oko konverzije , Europska komisija smatra da tužba banke Unicredit na arbitražnom sudu u Washingtonu nema težinu , doznaju",O O O B-LOC O O O O O O O O B-ORG I-ORG O O O O B-ORG O O O O B-LOC O O O O
+"“ Arbitražni sud ne bi se trebao smatrati nadležnim za te ugovore , te u skladu s tim ne bi trebalo biti nikakvih naknada ” , odgovorili iz hrvatskog predstavništva Europske komisije .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-ORG I-ORG O
+"Unicredit Austrija je tužio Hrvatsku i traži navodno više od tri milijardi kuna odštete zbog konverzije kredita u francima .",B-ORG I-ORG O O B-LOC O O O O O O O O O O O O O O O
+"Osnova za njihovu tužbu je međusobni ugovor o zaštiti ulaganja između Austrije i Hrvatske .",O O O O O O O O O O O B-LOC O B-LOC O
+"Europska komisija takve ugovore ne priznaje za svoje članice !",B-ORG I-ORG O O O O O O O O
+"Vladino pismo Europskoj komisiji – tajna ! “ Komisija sustavno i kontinuirano upozorava da bilateralni ugovori između država članica EU nisu u skladu s pravom EU .",O O B-ORG I-ORG O O O O B-ORG O O O O O O O O O O B-LOC O O O O O B-LOC O
+"U lipnju 2015.",O O O
+"EK je pokrenula postupke protiv pet država članica , Austrije , Nizozemske , Rumunjske , Slovačke i Češke , tražeći da takve ugovore raskinu ” , kažu u Europskoj komisiji .",B-ORG O O O O O O O O B-LOC O B-LOC O B-LOC O B-LOC O B-LOC O O O O O O O O O O B-ORG I-ORG O
+"Već postoje presude arbitražnog suda u Washingtonu na temelju bilateralnih ugovora dvije članice .",O O O O O O B-LOC O O O O O O O
+"Iako su tužitelji dobili spor protiv država , Europska komisija je sve poništila i tražila povrat novca baš jer ne priznaje međusobne ugovore , nego samo zajedničko , europsko pravo .",O O O O O O O O B-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O
+"Vlada je inače u srijedu poslala Europskoj komisiji svoj stav oko konverzije .",B-ORG O O O O O B-ORG I-ORG O O O O O
+"Ministar financija Zdravko Marić danima je ponavljao kako ne može ništa komentirati o sadržaju pisma koje pišu Europskoj komisiji .",O O B-PER I-PER O O O O O O O O O O O O O B-ORG I-ORG O
+"O tome se u srijedu raspravljalo na zatvorenom dijelu sjednice te su sadržaj pisma naznačili kao – ograničeno za javnost – te kasnije dali šturo objašnjenje u kojem stoji : “ Odgovor koji je Vlada utvrdila bit će proslijeđen Europskoj komisiji , a uobičajeno je da se sadržaj korespondencije s Europskom komisijom u ovakvim slučajevima javno ne objavljuje ” .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-ORG O O O O B-ORG I-ORG O O O O O O O O O B-ORG I-ORG O O O O O O O O
+"Bivši ministar Boris Lalovac ne vidi razog za toliku tajnost o sadržaju pisma . “ Radi se o mišljenju Vlade koja treba braniti svoj stav i nikako mi nije jasno zašto bi se neki ministar toga sramio , zašto bi se sramio da brani stav svoje zemlje ” , čudi se bivši ministar . ‘ Vlada radi suprotno nacionalnim interesima ’ I u Udruzi Franak nezadovoljni su odnosom Vlade prema njima , a i građanima .",O O B-PER I-PER O O O O O O O O O O O O O O O B-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-ORG O O O O O O O B-ORG I-ORG O O O B-ORG O O O O O O O
+"Goran Aleksić kaže kako su se ponudili vladi da im pomognu sastaviti odgovor jer su ipak najupućeniji u slučaj kontaminiranih kredita , no naišli su na opće ignoriranje . “ Vlada radi netransparentno i suprotno nacionalnim interesima .",B-PER I-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-ORG O O O O O O O
+"Nema razloga da pismo bude tajna i da se ograničava saznanje o samom sadržaju .",O O O O O O O O O O O O O O O
+"Povjerenstvo za informiranje je inače naložilo da nas vlada mora informirati po ovom pitanju o svemu što rade , a oni su se opet ogradili ” , kaže Aleksić .",B-ORG I-ORG I-ORG O O O O O B-ORG O O O O O O O O O O O O O O O O O O O B-PER O
+"Europska komisija prijavila Hrvatsku Europskom sudu | Dnevno.hr",B-ORG I-ORG O B-LOC B-ORG I-ORG O B-ORG
+"Europska komisija prijavila Hrvatsku Europskom sudu .",B-ORG I-ORG O B-LOC B-ORG I-ORG O
+"Hrvatska nije ratificirala Protokol o pristupanju EU-a Međunarodnoj konvenciji Eurocontrola .",B-LOC O O B-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC O
+"Europska komisija u četvrtak je prijavila Hrvatsku Europskom sudu jer nije ratificirala pristupanje Europske unije Međunarodnoj konvenciji Eurocontrola te Zagrebu uputila još dvije opomene zbog nepoštivanja europskog prava u području upravljanja otpadom i po pitanju hipotekarnih kredita .",B-ORG I-ORG O O O O B-LOC B-ORG I-ORG O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O
+"Hrvatska nije ratificirala Protokol o pristupanju EU-a Međunarodnoj konvenciji Eurocontrola , potpisan 2002. godine , niti je položila ispravu o njegovoj ratifikaciji .",B-LOC O O B-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC O O O O O O O O O O O O O
+"Eurocontrol je međuvladina organizacija koja okuplja više od 40 država zadužena za sigurnost zračne plovidbe .",B-ORG O O O O O O O O O O O O O O O
+"Agencija navodi da , uprkos razmjenama brojnih dopisa s hrvatskim vlastima od ožujka 2014. godine do danas , još nisu preduzete mjere potrebne za ratifikaciju Protokola .",O O O O O O O O O O O O O O O O O O O O O O O O O B-MISC O
+"Autor : dnevno.hr Četvrtak , 17.",O O B-ORG O O O
+"Studeni 2016. u 17:40 ZADNJE VIJESTI",O O O O O O
+"Europska komisija predlaže strože mjere protiv financiranja terorizma | NACIONAL.HR",B-ORG I-ORG O O O O O O O B-ORG
+"Europska komisija je u srijedu predložila niz mjera za učinkovitiju borbu protiv financiranja terorizma i organiziranog kriminala te za jačanje suradnje u razmjeni informacije među državama članicama . “ Današnjim prijedlozima jačamo naša pravna sredstva za onemogućavanje financiranja kriminalaca i terorista .",B-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Moramo osigurati najprikladnija sredstva za otkrivanje i zaustavljanje sumnjivih financijskih tokova te za podupiranje suradnje tijela kaznenog progona kako bismo bolje štitili sigurnost europskih građana ” , izjavio je prvi potpredsjednik Europske komisije Frans Timmermans .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-ORG I-ORG B-PER I-PER O
+"Potpredsjednik Valdis Dombrovskis je istaknuo da je terorizam velika prijetnja i da treba biti “ korak ispred terorista ” kako bi se onemogućili njihovi polanovi .",O B-PER I-PER O O O O O O O O O O O O O O O O O O O O O O O
+"Komisija je predložila direktivu koja pranje novca tretira kao kazneno djelo i uključuje niz mjera uspostave minimalna pravila o definicijama kaznenih djela i sankcija povezanih s pranjem novca kako bi se popunile praznine u zakonodavstvu i time kriminalce spriječilo u zloupotrebi razlika među različitim nacionalnim propisima .",B-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Komisija predlaže strože kontrole unosa gotovine u i iz EU-a za iznose veće od 10.000 eura , što znači da se takvi iznosi moraju prijaviti , objasniti podrijetlo i namjenu .",B-ORG O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O
+"Isto će će moći tražiti za niže iznose ako postoji sumnja u krimalne aktivnosti .",O O O O O O O O O O O O O O O
+"Među predloženim mjerama je i zamrzavanje financijskih sredstava terorista i oduzimanje njihove imovine , tako što će se poboljšati prekogranična suradnja .",O O O O O O O O O O O O O O O O O O O O O O
+"Tako bi se nalozi za zamravanje imovine koje je izdala jedna zemlja brzo počeli primjenjivati u svim članicama .",O O O O O O O O O O O O O O O O O O O
+"Komentiraj .",O O
+"Europska komisija češlja preuzimanje Cemexa Hrvatska",B-ORG I-ORG O O B-ORG I-ORG
+"| tportal.hr",O O
+"izjavila je : ' Tržišno natjecanje potrebno je u svim sektorima , pa tako i u građevinskom .",O O O O O O O O O O O O O O O O O O
+"Cement je ključan dio tog sektora te moramo biti sigurni da konsolidacija neće prouzročiti povećanje cijena za građevinska poduzeća te u konačnici i za potrošače u Hrvatskoj . '",O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O
+"HeidelbergCement i Schwenk namjeravaju preko svojeg zajedničkog društva kćeri Duna Dráva Cement ( DDC ) steći imovinu u Hrvatskoj i Mađarskoj koja je trenutačno u vlasništvu Cemexa .",B-ORG O B-ORG O O O O O O B-ORG I-ORG I-ORG O B-ORG O O O O B-LOC O B-LOC O O O O O B-ORG O
+"Na zahtjev stranaka Komisija je prepustila da o mađarskom dijelu te transakcije odluči mađarsko tijelo za tržišno natjecanje .",O O O B-ORG O O O O O O O O O O O O O O O
+"Stoga je Komisijina istraga usredotočena samo na pribavljanje imovine Cemexa u Hrvatskoj .",O O O O O O O O O B-ORG O B-LOC O
+"Komisija je zabrinuta glede opskrbe sivim cementom u južnoj Hrvatskoj , posebice u Dalmaciji , s obzirom na to da Cemex Hrvatska ima tri tvornice cementa u Splitu i da mu je konkurencija uvoz DDC-a iz Bosne i Hercegovine .",B-ORG O O O O O O O O B-LOC O O O B-LOC O O O O O O B-ORG O O O O O O B-LOC O O O O O O B-ORG O B-LOC I-LOC I-LOC O
+"Predloženom transakcijom spojili bi se Cemex Hrvatska , najveći proizvođač u tom području , i DDC , najveći uvoznik .",O O O O O B-ORG O O O O O O O O O B-ORG O O O O
+"Početna istraga Komisije upućuje na to da bi se predloženom transakcijom s već koncentriranog regionalnog tržišta mogao ukloniti bitan konkurent .",O O B-ORG O O O O O O O O O O O O O O O O O O
+"Zbog troškova prijevoza do južne Hrvatske preostali postojeći ili potencijalni dobavljači mogli bi na spojeni subjekt vršiti samo ograničeni konkurentski pritisak .",O O O O O B-LOC O O O O O O O O O O O O O O O O
+"Nadalje , domaći dobavljači cementa Cemex Hrvatska i LafargeHolcim kontroliraju sve terminale za cement u lukama duž hrvatske obale .",O O O O O B-ORG O O B-ORG O O O O O O O O B-LOC O O
+"Komisija je stoga zabrinuta da bi se transakcijom moglo ojačati tržišnu moć poduzetnika Cemex Hrvatska u južnoj Hrvatskoj i da bi stoga mogla porasti cijena sivog cementa .",B-ORG O O O O O O O O O O O O B-ORG O O O B-LOC O O O O O O O O O O
+"Kako javljaju iz Europske komisije , transakcija je prijavljena 5. rujna , a Komisija treba donijeti odluku do 23. veljače 2017.",O O O B-ORG I-ORG O O O O O O O O B-ORG O O O O O O O
+"HeidelbergCement i Schwenk proizvođači su građevinskog materijala sa sjedištima u Njemačkoj .",B-ORG O B-ORG O O O O O O O B-LOC O
+"Zajednički kontroliraju mađarsko poduzeće Duna Dráva Cement ( DDC ) koje , među ostalim , upravlja tvornicom sivog cementa u mjestu Kakanj u Bosni i Hercegovini .",O O O O B-ORG I-ORG I-ORG O B-ORG O O O O O O O O O O O O B-LOC O B-LOC I-LOC I-LOC O
+"Cemex Hrvatska jest društvo kći grupe Cemex , koja je također globalni dobavljač građevinskih materijala .",B-ORG O O O O O B-ORG O O O O O O O O O
+"Poduzeće Cemex Hrvatska , uz svoje ostale djelatnosti , upravlja s tri tvornice cementa u Splitu te s nekoliko terminala za cement i tvornica za gotovi beton u Hrvatskoj .",O B-ORG O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O B-LOC O
+"Europska komisija :: Informacijski centar Europe Direct - Šibenik",B-ORG I-ORG O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+"Europska komisija jedna je od glavnih institucija Europske unije .",B-ORG I-ORG O O O O O B-LOC I-LOC O
+"Ona zastupa i podupire interese EU-a kao cjeline .",O O O O O B-LOC O O O
+"Sastavlja prijedloge za nove europske propise .",O O O O O O O
+"Upravlja svakodnevnom provedbom politika EU-a i troenjem sredstava EU-a .",O O O O B-LOC O O O B-LOC O
+"Sastav . , po jedan iz svake zemlje EU-a , čini političko vodstvo Komisije .",O O O O O O O O B-LOC O O O O B-ORG O
+"Mandat povjerenika traje pet godina .",O O O O O O
+"Predsjednik svakomu povjereniku dodjeljuje nadležnost za određena područja politike .",O O O O O O O O O O
+"Predsjednik Europske komisije trenutno je Jean-Claude Juncker .",O B-ORG I-ORG O O B-PER I-PER O
+"Predsjednika kandidira Europsko vijeće .",O O B-ORG I-ORG O
+"Vijeće izabire i ostale povjerenike u dogovoru s kandidiranim predsjednikom .",B-ORG O O O O O O O O O O
+"Izbor svih povjerenika , uključujući predsjednika , mora odobriti Europski parlament .",O O O O O O O O O B-ORG I-ORG O
+"Kada preuzmu dužnost , povjerenici i predsjednik i dalje odgovaraju Parlamentu , koji jedini može smijeniti Komisiju .",O O O O O O O O O O B-ORG O O O O O B-ORG O
+"Za obavljanje svakodnevnih poslova Komisije brine se njezino osoblje administratori , pravnici , ekonomisti , pismeni i usmeni prevoditelji , tajničko osoblje itd. organizirano u službe koje se nazivaju glavne uprave ( GU ) Svrha .",O O O O B-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Komisija zastupa i podupire interese EU-a kao cjeline .",B-ORG O O O O B-LOC O O O
+"Nadgleda i provodi predlaganjem novih propisa Parlamentu i Vijeću ; upravljanjem proračunom EU-a i dodjelom sredstava ; provedbom zakonodavstva EU-a ( u suradnji sa Sudom EU-a ) zastupanjem EU-a u međunarodnim odnosima , primjerice u pregovorima o sporazumima između EU-a i drugih zemalja .",O O O O O O B-ORG O B-ORG O O O B-LOC O O O O O O B-LOC O O O O B-ORG I-ORG O O B-LOC O O O O O O O O O O B-LOC O O O O
+"Mjesto .",O O
+"Sjedite Komisije nalazi se u Bruxellesu i Luxembourgu .",O B-ORG O O O B-LOC O B-LOC O
+"Komisija ima urede u svakoj državi članici EU-a te delegacije u glavnim gradovima zemalja diljem svijeta .",B-ORG O O O O O O B-LOC O O O O O O O O O
+"Europska komisija : http://ec.europa.eu/index_hr.htm Predstavnitvo Europske komisije u Hrvatskoj : Izvor : http://europa.eu/about-eu/institutions-bodies/european-commission/index_hr.htm - See more at : http://www.edic-sibenik.eu/www/?stranice=institucije-i-ostala-tijela-eu&id=16#sthash.OHRhgkHN.dpuf .",B-ORG I-ORG O O O B-ORG I-ORG O B-LOC O O O O O O O O O O O
+"Europska komisija poručila BiH : Što prije održite izbore u Mostaru ! | Direktno.hr",B-ORG I-ORG O B-LOC O O O O O O B-LOC O O O
+"Europska komisija pozvala je u svom godišnjem izvješću o napretku zemalja kandidata i potencijalnih kandidata Bosnu i Hercegovinu da što prije provede odluku Ustavnog suda , kako bi se izbori mogli provesti u Mostaru , gdje nisu održani od 2008.",B-ORG I-ORG O O O O O O O O O O O O O B-LOC I-LOC I-LOC O O O O O B-ORG I-ORG O O O O O O O O B-LOC O O O O O O
+"Ustavni sud BiH proglasio je u studenom 2010. neustavnim odredbe Izbornog zakona BiH koje se odnose na Grad Mostar .",B-ORG I-ORG I-ORG O O O O O O O B-MISC I-MISC I-MISC O O O O B-LOC I-LOC O
+"Od tada hrvatski i bošnjački predstavnici ne uspijevaju se dogovoriti oko izbornih pravila koja bi bila u skladu s ustavom .",O O O O O O O O O O O O O O O O O O O O O
+"Ustavni sud je tom odlukom poništio Statut Grada Mostara i izborna pravila za gradsko vijeće , koje je nametnuo tadašnji Visoki predstavnik Paddy Ashodown , a prema kojima je glas Bošnjaka vrijedio četiri puta više od glasa Hrvata .",O O O O O O B-MISC I-MISC I-MISC O O O O O O O O O O O O O B-PER I-PER O O O O O O B-PER O O O O O O B-PER O
+""" Unatoč obnovljenim naporima , dogovor o provedbi odluke Ustavnog suda iz 2010. još nije postignut i nakon osam godina građani Mostara i dalje ne mogu konzumirati svoja demokratska prava .",O O O O O O O O O B-ORG I-ORG O O O O O O O O O O B-LOC O O O O O O O O O
+"Odluka Ustavnog suda treba se provesti kao prioritet "" , kaže se u izvješću o napretku Bosne i Hercegovine , koje je u srijedu objavila Europska komisija .",O B-ORG I-ORG O O O O O O O O O O O O O B-LOC I-LOC I-LOC O O O O O O B-ORG I-ORG O
+"Komisija također poziva BiH da nekoliko incidenata na lokalnim izborima održanim u listopadu dobiju pravosudni epilog .",B-ORG O O B-LOC O O O O O O O O O O O O O
+"U izvješću se ne spominje izrijekom Stolac , ali se navodi da su biračka mjesta u jednoj općini zatvorena , a u nekoliko općina da su bila privremeno zatvorena .",O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O
+"U izvješću se navodi da je ustav BiH i dalje krši Europsku konvenciju o ljuskim pravima , jer presuda u predmetu Sejdić-Finci još nije provedena kao ni više odluka Ustavnog suda .",O O O O O O O B-LOC O O O B-MISC I-MISC I-MISC I-MISC I-MISC O O O O O B-MISC O O O O O O O B-ORG I-ORG O
+"Bosna i Hercegovina je u veljači ove godine predala zahtjev za članstvo u Europskoj uniji .",O O O O O O O O O O O O O B-LOC I-LOC O
+"Vijeće EU-a je u rujnu dalo mandat Europskoj komisiji da započne s postupkom izrade mišljenja , što je prvi korak u odobravanju kandidatskog statusa .",O B-LOC O O O O O B-ORG I-ORG O O O O O O O O O O O O O O O O
+"Komisija planira sljedeći mjeseci dostaviti BiH opsežni upitnik od preko tri tisuće pitanja .",B-ORG O O O O B-LOC O O O O O O O O
+"Na temelju odgovora na ta pitanja , ali i iz drugih izvora , Komisija će izraditi mišljenje u kojem će odlučiti hoće li dati preporuku za dodjelu kandidatskog statusa .",O O O O O O O O O O O O O B-ORG O O O O O O O O O O O O O O O O
+"Sve prijedloge i preporuke Europske komisije u pitanjima proširenja zemlje članice moraju potvrditi jednoglasno .",O O O O B-ORG I-ORG O O O O O O O O O
+"Europska komisija : dekan akademik Šlaus imenovan u RISE - Novosti - Visoka škola međunarodnih odnosa i diplomacije Dag Hammarskjöld",B-ORG I-ORG O O O B-PER O O B-ORG O O O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+"Europska Komisija imenovala je dekana VŠMOD DH akademika Ivu Šlausa za člana Research , Innovation and Science Policy Experts ( RISE ) High Level Advisory Body ( HLAB ) .",B-ORG I-ORG O O O B-ORG I-ORG O B-PER I-PER O O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG O B-ORG O B-ORG I-ORG I-ORG I-ORG O B-ORG O O
+"RISE HLAB se sastoji od četiri grupe : Otvorena znanost , Otvorene inovacije , Otvoreno prema svijetu i Ekonomija otvorena prema znanosti i tržištu .",B-ORG B-ORG O O O O O O B-ORG I-ORG O B-ORG I-ORG O B-ORG I-ORG I-ORG O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG O
+"Ivo Šlaus imenovan je predsjednikom grupe Otvoreno prema svijetu .",B-PER I-PER O O O O B-ORG I-ORG I-ORG O
+"Zadatak RISE HLAB , posebno grupe Otvoreno prema svijetu je strateško savjetovanje i podrška Europskom povjereniku za istraživanje , znanost i inovacije , gospodinu Carlosu Moedasu , ali i potpredsjednici Komisije za vanjsku politiku gospođi Federica Mogherini .",O B-ORG B-ORG O O O B-ORG I-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O B-ORG I-ORG I-ORG I-ORG O B-PER I-PER O
+"RISE HLAB će osigurati da istraživanje i inovacije doprinesu održivom i socijalno inkluzivnom ekonomskom razvoju EU i asociranih država u globalnom svijetu .",B-ORG B-ORG O O O O O O O O O O O O O B-LOC O O O O O O O
+"Europska komisija uputila Hrvatsku : uhapsite sve branitelje koji poznaju lažne branitelje",B-ORG I-ORG O B-LOC O O O O O O O O
+"Europska komisija uputila Hrvatsku : uhapsite sve branitelje koji poznaju lažne branitelje Komisija to objašnjava ovako : ako neki pošteni branitelj zna da si je neki lažan branitelj "" sredio "" penziju , a ništa nije učinio da informira državu , automatski postaje suučesnik u krađi državnog novca .",B-ORG I-ORG O B-LOC O O O O O O O O B-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Situacija s braniteljima se zaoštrava .",O O O O O O
+"I dok dio branitelja traži ostavku Zorana Milanovića , Europska komisija odgovara protuudarom : uhititi sve branitelje koji poznaju nekog lažnog branitelja i nisu ga prijavili .",O O O O O O B-PER I-PER O B-ORG I-ORG O O O O O O O O O O O O O O O O
+"Predsjednik Komisije Jean Claude Juncker je već navijestio da je protiv promašenog bacanja novca , a davanje novaca lažnim braniteljima to svakako je .",O B-ORG B-PER I-PER I-PER O O O O O O O O O O O O O O O O O O O
+"On je to još dodatno pojasnio : - Svatko tko vidi krađu i prešuti svjedočenje protiv lopova , odnosno propusti prijaviti policiji , postaje suučesnik u djelu .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Ako je u ovom slučaju lopov lažni branitelj , onda svi oni koji znaju da si je "" sredio penziju "" , a šutjeli su , moraju biti uhićeni zbog pomaganja u zlodjelu .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Bilo je ne jednom da su sami branitelji pomagali lažnim braniteljima da dobiju penziju .",O O O O O O O O O O O O O O O
+"E pa sada , svi će lijepo plaćati kazne - rekao je Juncker .",O O O O O O O O O O O O B-PER O
+"HDZ se odmah usprotivio takvom pristupu jer se kriminalizira Domovinski rat , a također i Damir Kajin se sjetio da to baš nije u redu . - Pa nisu bili glupi da si ne srede penziju .",B-ORG O O O O O O O O B-MISC I-MISC O O O O B-PER I-PER O O O O O O O O O O O O O O O O O O O O
+"Pitajte lijepo Junckera da je živio u Hrvatskoj , bi li si sređivao penzije ! - rekao je Kajin .",O O B-PER O O O O B-LOC O O O O O O O O O O B-PER O
+"Novinare iz Hrvatske , Njemačke i Španjolske Europska komisija nagradila za izvještavanje o različitosti",O O B-LOC O B-LOC O B-LOC B-ORG I-ORG O O O O O
+"Europska komisija dodijelila je 17. listopada 2016. novinarima iz Hrvatske , panjolske i Njemačke Europsku novinarsku nagradu za izvjetavanje o različitosti .",B-ORG I-ORG O O O O O O O B-LOC O B-LOC O B-LOC O O O O O O O O
+"Tema ovogodinje nagrade bilo je suzbijanje diskriminacije na osnovu vjere .",O O O O O O O O O O O
+"Ovo je razdoblje u kojem svim moramo otići korak dalje u međusobnom razumijevanju , promatrati svijet kroz oči jednog od naih susjeda ili rođaka , kako bismo se borili protiv straha i čak mržnje među ljudima .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Novinari imaju jedinstvenu priliku ta upravo to čine kroz priče o ljudima poput nas “ , izjavio je prvi podpredsjednik Europske komisije Frans Timmermans .",O O O O O O O O O O O O O O O O O O O O B-ORG I-ORG B-PER I-PER O
+"Povjerenica za pravosuđe , zatitu potroača i ravnopravnost spolova Vera Jourova dodala je kako novinari imaju ključnu ulogu u promicanju inkluzivnog drutva .",O O O O O O O O O B-PER I-PER O O O O O O O O O O O O
+"Trebamo podržavati novinare koji istražuju diskriminaciju i nepravdu , izvjetavanjem brane demokraciju , jednakost i potivanje svih ljudskih prava “ , izjavila je Jourova .",O O O O O O O O O O O O O O O O O O O O O O O B-PER O
+"Za nagradu Europske komisije nominirani su novinari iz svih 28 zemalja članica , za radove objavljene u tiskanim medijima i na portalima u protekle dvije godine , a kojima su promicali različitost i pripomogli suzbijanju diskriminacije .",O O B-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Najbolje radove odabrao je žiri sačinjen od medijskih stručnjaka i onih iz područja jednakosti te predstavnika Komisije .",O O O O O O O O O O O O O O O O O O
+"Dobitnica iz Hrvatske , novinarka Jutarnjeg lista i tjednika Globus Dora Koretić , nagrađena je za članak pod naslovom Na život pod hidžabom u Zagrebu “ , u kojem je čitateljima predstavila dvije uspjene žene muslimanske vjeroispovijedi , neuroznanstvenicu Lejlu Ferhatović Hamzić i studenticu matematike Neiru Hadžismajlović .",O O B-LOC O O B-ORG I-ORG O O B-ORG B-PER I-PER O O O O O O O B-MISC I-MISC I-MISC I-MISC I-MISC I-MISC O O O O O O O O O O O O O O B-PER I-PER O O O O O O O
+"Nagrađeni članak iz hrvatske možete pročitati ovdje , a radove novinarki Verene Mayer i Imane Rachidi",O O O B-LOC O O O O O O O B-PER I-PER O B-PER I-PER
+"Europska komisija preporučila rad znanstvenika CIM-a i UNIDU-a / Novosti / Institut Ruđer Bošković",B-ORG I-ORG O O O B-ORG O B-ORG O O O B-ORG I-ORG I-ORG
+"Procjene stanja populacija sitne plave ribe u Jadranskom moru osnova su za dugoročno iskorištavanje pelagijskih resursa u ribarstvu Republike Hrvatske .",O O O O O O O B-LOC I-LOC O O O O O O O O O B-LOC I-LOC O
+"Izlov inćuna , Engraulis encrasicolus ( L. ) , jedne od komercijalno najvažnijih vrsta jadranskeplave ribe , značajno se razlikuje iz godine u godinu .",O O O B-MISC I-MISC I-MISC I-MISC I-MISC O O O O O O O O O O O O O O O O O
+"Izlovi u sjevernom Jadranu podudaraju su se s promjenama u sistemu strujanja vodenih masa koji posljedično utječu na veličinu primarne i sekundarne produkcije .",O O O B-LOC O O O O O O O O O O O O O O O O O O O O
+"Znanstvenice iz rovinjskog Centra za istraživanje mora Instituta Ruđer Bošković , dr. sc.",O O O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG O O O
+"Romina Kraus i dr. sc.",B-PER I-PER O O O
+"Nastjenjka Supić , u suradnji s dubrovačkim znanstvenicima iz Instituta za more i priobalje Sveučilišta u Dubrovniku dr. sc.",B-PER I-PER O O O O O O O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG O O
+"Davorom Lučićem i dr. sc.",B-PER I-PER O O O
+"Jakicom Njire , utvrdili su povezanost zimskih uvjeta i veličine biomase inćuna .",B-PER I-PER O O O O O O O O O O O
+"Tijekom zime ' tipa B ' , vodene mase izlaze iz sjevernog Jadrana što uzrokuje povećanje slanosti .",O O O O O O O O O O O O B-LOC O O O O O
+"Kod zime „ tipa A “ vode iz rijeke Po bogate nutrijentima šire se diljem sjevernog Jadrana , što dovodi do povećane proizvodnje fitoplanktona , a zatim i razvoja zooplanktona , glavnog izvora hrane inćunu .",O O O O O O O O O B-LOC O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O
+"U istraživanju je obuhvaćen dugogodišnji niz ( 1977. - 2007. ) fizikalnih , hidrografskih i planktoloških podataka .",O O O O O O O O O O O O O O O O O O
+"Rezultati pružaju mogućnost predviđanja izlova inćuna na Jadranu na temelju meteoroloških uvjeta u jesen i hidrografskih početkom godine .",O O O O O O O B-LOC O O O O O O O O O O O
+"Autori predlažu kontinuirano praćenje stanja ribljeg fonda uz oceanografska istraživanja , nazvan ' fine-tuning ' mehanizam predviđanja , a koji bi dugoročno imao korist na okoliš i gospodarstvo .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Europska komisija šalje Hrvatsku na sud EU",B-ORG I-ORG O B-LOC O B-ORG I-ORG
+"Europska komisija šalje Hrvatsku na sud EU .",B-ORG I-ORG O B-LOC O B-ORG I-ORG O
+"19.11.2016.",O
+"Europska komisija uputila je Hrvatsku na Sud EU , to je krajnja mjera u postupku kažnjavanja države zbog krenja europskih zakona i , u najgorem slučaju za državu članicu , zavrava novčanom kaznom .",B-ORG I-ORG O O B-LOC O B-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Prije gotovo godinu i pol Komisija je prvi put upozorila Hrvatsku da u svoje zakonodavstvo prenese Protokol o pristupanju međunarodnoj konvenciji o suradnji na sigurnosti zračne plovidbe ( Eurocontrol ) , a kako Hrvatska do danas to nije učinila , prvi je put od kada je članica EU upućena na Sud .",O O O O O B-ORG O O O O B-LOC O O O O O B-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC O B-MISC O O O O B-LOC O O O O O O O O O O O O O B-LOC O O B-ORG O
+"Izvor iz Europske komisije kaže da Hrvatska ipak ima jo malo manevarskog prostora da ispuni obvezu prije nego predmet i formalno dođe na Sud .",O O B-ORG I-ORG O O B-LOC O O O O O O O O O O O O O O O O B-ORG O
+"Komisija je , naime , uzela u obzir da je Hrvatska prolazila trusno političko razdoblje , izbore i periode s tehničkom Vladom . ( vecernji.hr )",B-ORG O O O O O O O O O B-LOC O O O O O O O O O O B-ORG O O B-ORG O
+"Ukoliko imate važnu vijest ili zanimljivu priču koju nam želite ispričati , ili ukoliko se želite oglaavati ili surađivati s nama , obratite nam se putem slijedećih kontakta : +385 98 9286 762 +385 91 5948 200 +385 99 2499 421",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Europska komisija odobrila GMO proizvode za upotrebu u hrani i hrani za životinje - H-Alter - Udruga za medijsku kulturu",B-ORG I-ORG O B-MISC O O O O O O O O O O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+"Europska komisija danas je odobrila stavljanje na tržište proizvoda za primjenu u hrani i hrani za životinje koji sadrže razne oblike genetski modificiranog kukuruza , sastoje se od njega ili se od njega proizvode .",B-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Tih jedanaest genetski modificiranih organizama prošlo je sveobuhvatan postupak odobrenja , uključujući pozitivno znanstveno mišljenje Europske agencije za sigurnost hrane ( EFSA ) .",O O O O O O O O O O O O O O O B-ORG I-ORG I-ORG I-ORG I-ORG O B-ORG O O
+"Odobrenja vrijede deset godina , a na sve proizvode proizvedene od tih genetski modificiranih organizama primjenjivat će se stroga pravila EU-a o označivanju i sljedivosti .",O O O O O O O O O O O O O O O O O O O O B-LOC O O O O O
+"Odluke o odobrenju ne odnose se na uzgoj .",O O O O O O O O O
+"Članak je objavljen u sklopu projekta ' U dnevnom ritmu ' koji sufinancira Agencija za elektroničke medije ( Fond za poticanje pluralizma i raznovrsnosti elektroničkih medija ) .",O O O O O O O B-MISC I-MISC I-MISC O O O B-ORG I-ORG I-ORG I-ORG O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG O O
+"Ministarstvo kulture Republike Hrvatske - Novosti - Europska komisija poslala poziv za podnošenje prijedloga vezanih uz stajališta u pogledu donošenja carinskih propisa kojima se uređuje uvoz kulturnih dobara",B-ORG I-ORG I-ORG I-ORG O O O B-ORG I-ORG O O O O O O O O O O O O O O O O O O O
+"Europska komisija poslala poziv za podnošenje prijedloga vezanih uz stajališta u pogledu donošenja carinskih propisa kojima se uređuje uvoz kulturnih dobara",B-ORG I-ORG O O O O O O O O O O O O O O O O O O O
+"12.12.2016 . - Europska komisija je 29. listopada 2016. poslala poziv za javnu raspravu , odnosno podnoenje prijedloga vezanih uz stajalita svih zainteresiranih strana u pogledu donoenja carinskih propisa kojima se uređuje uvoz kulturnih dobara na teritoriju Europske unije , to uključuje miljenja građana , poduzeća , nevladinih organizacija , akademske zajednice , javnih institucija , međunarodnih organizacija i sl.",O O O B-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC I-LOC O O O O O O O O O O O O O O O O O O O O O
+"Cilj je javne rasprave jačanje mjera zatite kulturne batine u kontekstu sprječavanja nezakonite trgovine , suzbijanja stjecanja dobiti od prihoda nezakonite prodaje kulturnih dobara te jačanje legalne trgovine kulturnim dobrima u EU i svijetu kao i jačanje međunarodne suradnje u očuvanju kulturne batine .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O
+"Time Europska komisija , kao odgovor na brojne pozive za djelovanje to ih upućuju ostale institucije EU-a i nekoliko nacionalnih vlada , razmatra mogućnost usvajanja novih mjera za učinkovitije suzbijanje nezakonite trgovine kulturnim dobrima iz trećih zemalja .",O B-ORG I-ORG O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O
+"Svrha je rasprave također prikupljanje podataka i miljenja svih zainteresiranih strana koje treba uzeti u obzir prilikom pripreme zakonskih prijedloga Europske komisije .",O O O O O O O O O O O O O O O O O O O O B-ORG I-ORG O
+"Miljenja se prikupljaju putem on line upitnika , a rok za njegovo ispunjavanja jest do 23. siječnja 2017. godine .",O O O O O O O O O O O O O O O O O O O O
+"Donald J. Trump - 45. američki predsjednik",B-PER I-PER I-PER O O O O
+"I evo ga , kao šećer na kraju , i na Havajima jedan elektor umjesto za Hillary i Kainea glasovao za Bernieja i Warrenicu .",O O O O O O O O O O O B-LOC O O O O B-PER O B-PER O O B-PER O B-PER O
+"Predobro .",O O
+"I ovaj se glas , kao i oni iz Teksasa i Washingtona , priznaje i smatra valjanim .",O O O O O O O O O B-LOC O B-LOC O O O O O O
+"Čak mislim da je ovo rekord valjanih faithless electora ( a možda i rekord za sve faithless glasove , pa i one nepriznate ) u povijesti američkih izbora , barem kad je riječ o živućem kandidatu za predsjednika , dakle niti kandidatu preminulom od izbora do EC-a niti kandidatu za potpredsjednika .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-ORG O O O O O
+"Nije to ljevica , Bernie je ljevičar i itekako mu je bilo do suverenosti a Hillary je globalist i korporatist kao i Obama ( koji je korporativni fašist čak ( NAFTA , TPP , TTIP , DAPL etc ... )) .",O O O O B-PER O O O O O O O O O O B-PER O O O O O O B-PER O O O O O O O B-MISC O B-MISC O B-MISC O B-MISC O O O O
+"Bernie i Trump su npr , svaki na svoj način , zagovarali protekcionizam u ekonomiji i tu je i bilo presjeka u glasačima .",B-PER O B-PER O O O O O O O O O O O O O O O O O O O O O
+"Obama , Hillary , Merkel - to su ti ono šta se kolokvijalno naziva "" elite "" .",B-PER O B-PER O B-PER O O O O O O O O O O O O O
+"Od tih elitnih ljudi ostala je još Merkel i u tim krugovim se smatra zadnjim preostalim vođom slobodnog svijeta .",O O O O O O O B-PER O O O O O O O O O O O O
+"Ukoliko dobije ove izbore , dobro ću razmislit o svom pro-EU stavu .",O O O O O O O O O O O O O
+"Nego , je li se Trump već oglašavao u vezi napada u Berlinu ?",O O O O O B-PER O O O O O O B-LOC O
+"Idem provjerit , rana je ura i vjerovatno vas nema puno online .",O O O O O O O O O O O O O
+"Edit : dobro bi bilo pročitat topic prije nego pitam .",O O O O O O O O O O O
+"OK izjava .",O O O
+"Dobro ga je Berlusconi opisao kao lijepo preplanulog .",O O O B-PER O O O O O
+"U duši je bijel da bjelji ne može biti .",O O O O O O O O O O
+"Ostavlja iza sebe velike rasne podjele pritom optužujući druge za to .",O O O O O O O O O O O O
+"Ostavlja iza sebe više započetih ratova od svog prethodnika .",O O O O O O O O O O
+"Ostavlja iza sebe ogroman broj dronovima ubijenih civila i među njima veliki broj djece , pravdajući to nastojanjem da broj slučajnih žrtava bude što manji .",O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Kako u drugom napadu uopšte može biti slučajne žrtve ?",O O O O O O O O O O
+"Odlazi i kao predsjednik kojeg je najveći suparnik diplomatski razvalio na svim poljima .",O O O O O O O O O O O O O O
+"Odlazi kao čovjek koji samo lijepo i elokventno priča .",O O O O O O O O O O
+""" Doći će dan kada će nam se u ekonomiju uvući neznalice i plaćenici stranih konzorcija i korporacija .",O O O O O O O O O O O O O O O O O O O
+"Doći će dan kada će svoje ljude imenovati premijerima i državnicima .",O O O O O O O O O O O O
+"Taj dan biti će sprovod naše suverenosti i demokracije .",O O O O O O O O O O
+"Taj dan biti će sprovod naše slobode , prava radnika i svijeta koji smo poznavali .",O O O O O O O O O O O O O O O O
+"Taj dan doći će skoro , a mi ćemo ga slaviti kao državni praznik . "" -",O O O O O O O O O O O O O O O O O
+"Donald Trump bi natjerao Apple i ostale tehnološke tvrtke da proizvode svoje uređaje u SAD-u",B-PER I-PER O O B-ORG O O O O O O O O O B-LOC
+"Predsjednička kampanja u Sjedinjenim Američkim Državama u punom je naletu jer slijede preliminarni izbori u republikanskom i demokratskom stožeru , a potom i sami izbori za nasljednika Baracka Obame .",O O O B-LOC I-LOC I-LOC O O O O O O O O O O O O O O O O O O O O O B-PER I-PER O
+"Donald Trump u cijeloj toj utrci ne bira riječi , uvrijedio je mnoge , obećao je mnogo i čak se uspio dotaknuti Applea iako nad time nema nikakve kontrole .",B-PER I-PER O O O O O O O O O O O O O O O O O O O O B-ORG O O O O O O O
+""" Natjerat ćemo Apple da svoja prokleta računala radi ovdje u Americi , a ne u drugim zemljama "" , rekao je Trump u govoru od 45 minuta na kršćanskom Liberty University u Virginiji .",O O O B-ORG O O O O O O O B-LOC O O O O O O O O O O B-PER O O O O O O O B-ORG I-ORG O B-LOC O
+"Tematika su bila radna mjesta i Trump se poveo retorikom mase , a ona glasi da sve veće kompanije sele svoje tvornice u zemlje gdje im se radna snaga , kao i kompletna proizvodnja , mnogo više isplate .",O O O O O O B-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Riječ je o Kini , Vijetnamu , Maleziji , Tajvanu , pa i Meksiku .",O O O B-LOC O B-LOC O B-LOC O B-LOC O O O B-LOC O
+"Trumpu , koji je bogatstvo stekao nasljedstvom i potom ga održavao na način kojim se koriste Apple , Microsoft i svi ostali , u utrci za predsjednika dobio je napad empatije pa odjednom suosjeća s radnom klasom .",B-PER O O O O O O O O O O O O O O O B-ORG O B-ORG O O O O O O O O O O O O O O O O O O O
+"No nije ih pridobio jednom rečenicom već onime što je uslijedilo poslije .",O O O O O O O O O O O O O
+"Ipak nije dovoljno nekome odrediti da ne može seliti iz zemlje , pa američko se tržište diči time da je slobodno .",O O O O O O O O O O O O O O O O O O O O O O
+""" Za svaki outsourcing ću nametnuti porez od 35 posto ! "" , izjavio je Trump .",O O O O O O O O O O O O O O O B-PER O
+"To je 15 posto više od aktualnog poreza i tako nešto u Kongresu teško da bi zaživjelo jer svaki od članova s pravom glasa na temu nekog od prijedloga zakona ipak mora odgovarati svom biračkom tijelu i takvo gušenje slobode tržišta svakako ne bi naišlo na odobravanje kod većine .",O O O O O O O O O O O O B-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Zato nailazi kod radne klase , barem one u republikanskom dijelu SAD-a .",O O O O O O O O O O O B-LOC O
+"Zato je Trump dobio ovacije za ovaj govor i predsjednik uprave ( CEO ) Applea Tim Cook morat će se pripremiti jer očito njegova kompanija jest trn u oku Trumpu i mogla bi poslužiti kao primjer ako nekim čudom dobije predsjedničke izbore .",O O B-PER O O O O O O O O O O O B-ORG B-PER I-PER O O O O O O O O O O O O B-PER O O O O O O O O O O O O O
+"Ali treba reći i da nije Trump toliko lud , trenutno Apple proizvodi samo Mac Pro računala u SAD-u .",O O O O O O B-PER O O O O B-ORG O O B-MISC I-MISC O O B-LOC O
+"Donald Trump prezentirao svoj vinski brand",B-PER I-PER O O O O
+"Kontroverzni ljubitelj pušaka i „ zidova “ prezentirao je svoju paletu Trump vina novinarima nakon što ga je bivši predsjednički kandidat Mitt Romney optužio za nedostatak poslovnog duha u svojem zadnjem govoru .",O O O O O O O O O O O B-PER O O O O O O O O O B-PER I-PER O O O O O O O O O O
+"Raspon vina uključuje crvena , bijela , rosé i pjenušava vina , a sva su ukrašena s Trumpovim imenom .",O O O O O O O O O O O O O O O O O B-PER O O
+"Cijene se kreću od 16 do 50 dolara .",O O O O O O O O O
+"U prodaji su od 2011. godine , a mogu se naručiti direktno iz vinarije ili online preko Amazona .",O O O O O O O O O O O O O O O O O B-ORG O
+"Mogu se rezervirati i kušaonice za one koji žele steći bolji dojam Donaldovih vinskih „ vještina “ , a cjelokupni posao vodi njegov sin Eric .",O O O O O O O O O O O O B-PER O O O O O O O O O O O B-PER O
+"Za proizvodnju je zadužen vinar Jonathan Wheeler koji na imanju radi od 2006. godine i vodi vinski program .",O O O O O B-PER I-PER O O O O O O O O O O O O
+"Prije Trumpa radio je u Sonomi i Montereyu u Kaliforniji , u Marloboroughu na Novom Zelanu te u New Yorku , a diplomirao je kemiju na Državnom sveučilištu New Yorka Oswego .",O B-PER O O O B-LOC O B-LOC O B-LOC O O O O B-LOC I-LOC O O B-LOC I-LOC O O O O O O B-ORG I-ORG I-ORG I-ORG I-ORG O
+"Vina se proizvode su na imanju od 500 hektara u Charlottesvillu u Virginiji , najvećem vinogradu na Istočnoj Obali .",O O O O O O O O O O B-LOC O B-LOC O O O O B-LOC I-LOC O
+"Vinarija se prostire na skoro 5.000 m2 opremljenih najnovijom tehnologijom i spremnicima kapaciteta od 380.000 litara i 750 bačvi .",O O O O O O O O O O O O O O O O O O O O
+"Virginia ima bogatu ostavštinu vinarstva koje datira još iz 1607. godine od naseljavanja Jamestowna .",B-LOC O O O O O O O O O O O O B-LOC O
+"Danas u Virginiji radi više od 260 vinarija te je peta regija po ukupnoj proizvodnji vina u Americi .",O O B-LOC O O O O O O O O O O O O O O B-LOC O
+"U pokušaju "" vraćanja loptice "" na Romneyeve komentare koji je u svom govoru prošli tjedan rekao : „ Što se dogodilo sa Trump Airlines ?",O O O O O O O B-PER O O O O O O O O O O O O O O O B-ORG I-ORG O
+"A što je s Sveučilištom Trump ?",O O O O O B-PER O
+"Tu su još i Trump Magazin i Trump Votka i Trump Steakovi i Trump hipoteke ?",O O O O B-MISC I-MISC O B-MISC I-MISC O B-MISC I-MISC O B-ORG I-ORG O
+"Poslovni genije – nije . “ , Trump je pokazao i svoju vodu te brand odrezaka .",O O O O O O O B-PER O O O O O O O O O
+"Hoće li Putinov “ simpatizer ” Donald Trump ukinuti anti-ruske sankcije ?",O O B-PER O O O B-PER I-PER O O O O
+"Savjetnik predsjednika RF Sergej Glazjev smatra da će Donald Trump na funkciji predsjednika SAD-a ukinuti antiruske sankcije te očekuje resetiranje odnosa između Rusije i SAD-a … “ Mislim da je Trump pragmatičan čovjek , ukinut će antiruske sankcije koje nanose štetu i američkom biznisu .",O O B-LOC B-PER I-PER O O O B-PER I-PER O O O B-LOC O O O O O O O O B-LOC O B-LOC O O O O O B-PER O O O O O O O O O O O O O O
+"Trgovinski promet i financijsko-gospodarski odnosi između Rusije i ne samo SAD-a , već i Zapada u cjelini , bit će obnovljeni i vjerojatno će rasti već ovisno o čisto ekonomskoj konjunkturi ” , rekao je Glazjev u intervjuu za TASS , komentirajući rezultate izbora u SAD-u i njihov utjecaj na odnose Rusije i SAD-a .",O O O O O O B-LOC O O O B-LOC O O O B-LOC O O O O O O O O O O O O O O O O O O O O B-PER O O O B-ORG O O O O O B-LOC O O O O O B-LOC O B-LOC O
+"Prema riječima Glazjeva , izborni rezultati ukazuju na to da “ američki narod ne želi rat , i da po prvi puta u povijesti svijeta postoji mogućnost prelaska na novu strukturu svjetskog gospodarstva bez svjetskog rata ” . “ Resetiranje ( u odnosima između Rusije i SAD-a – op. ur . ) sigurno će se dogoditi , jer je cijela vanjskopolitička djelatnost prethodne administracije bila usmjerena na agresiju protiv Rusije kako bi se sačuvala američka hegemonija .",O O B-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O B-LOC O O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O
+"Ta je agresija , može se reći , doživjela neuspjeh ” , rekao je Glazjev .",O O O O O O O O O O O O O O B-PER O
+"Dodao je da je SAD ekonomski izgubio od Kine , tako da je sada važno osigurati prelazak na multipolarni svijet bez daljnje eskalacije vojno-političkih napetosti . “ Smanjivanje napetosti između SAD-a i Rusije za to je neophodan uvjet ” , zaključio je , prenosi",O O O O B-LOC O O O B-LOC O O O O O O O O O O O O O O O O O O O O O B-LOC O B-LOC O O O O O O O O O O O
+"Donald Trump pao na listi američkih bogataša",B-PER I-PER O O O O O
+"Utrka za predsjednika države oštetila je republikanskoga kandidata Donalda Trumpa za 800 milijuna dolara u samo godinu dana , piše časopis Forbes i dodaje da je mogul nekretnina pao za 35 mjesta na popisu najbogatijih Amerikanaca .",O O O O O O O O B-PER I-PER O O O O O O O O O O O B-ORG O O O O O O O O O O O O O B-PER O
+"Njegovo bogatstvo sada se procjenjuje na 3,7 milijarda dolara u odnosu na 4,5 milijarda koliko je iznosilo u ožujku .",O O O O O O O O O O O O O O O O O O O O
+"Trump je trenutno 156. na popisu 400 najbogatijih Amerikanaca , koji predvodi suosnivač Microsofta Bill Gates , čije je bogatstvo u samo godinu dana sa 76 milijarda dolara poraslo na 81 milijardu .",B-PER O O O O O O O B-PER O O O O B-ORG B-PER I-PER O O O O O O O O O O O O O O O O O
+"Gates je na prvome mjestu već 23. godinu zaredom .",B-PER O O O O O O O O O
+"Trump je na kampanju potrošio svojih sedam i kreditirao je s dodatnih 48 milijuna dolara , koje će teško dobiti natrag , piše časopis .",B-PER O O O O O O O O O O O O O O O O O O O O O O O O
+"Od 27 nekretnina koje posjeduje 18 ih je izgubilo na vrijednosti , uključujući Trump Tower na njujorškoj Petoj Aveniji i luksuzni resort u Palm Beachu na Floridi .",O O O O O O O O O O O O O B-LOC I-LOC O O B-LOC I-LOC O O O O B-LOC I-LOC O B-LOC O
+"Ove je godine sklopio samo jedan posao na globalnom tržištu nekretnina - kupio je skladište u Charlestonu u Južnoj Karolini , nad kojim je bila ovrha , piše Forbes .",O O O O O O O O O O O O O O O O B-LOC O B-LOC I-LOC O O O O O O O O B-ORG O
+"Pojedinosti Trumpova bogatstva nisu u potpunosti poznate .",O B-PER O O O O O O
+"Protiveći se desetljećima staroj tradiciji američkih predsjedničkih kandidata , Trump je odbio objaviti svoju imovinsku karticu .",O O O O O O O O O B-PER O O O O O O O
+"Tko je Donald Trump – neočekivani američki predsjednik ?",O O B-PER I-PER O O O O O
+"Republikanski mulitimilijarder bezgranične energije prkosio je svim predviđanjima od samog početka i pokazao se žilavim političkim protivnikom prvo svojim prootukandidatima za stranačku nominaciju , a zatim i mnogo iskusnijoj Hillary Clinton .",B-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PER I-PER O
+"Sedamdesetgodišnji bogataš svojim je govorima , koji su bili melem za uši nesigurnim Amerikancima na vjetrometini globalizacije , milijunima njih postao glasonoša promjena .",O O O O O O O O O O O O O B-PER O O O O O O O O O O
+"Do srži je potresao Republikansku stranku koja ni do zadnjih dana kampanje nije sigurna bi li ga prigrlila ili se od njega distancirala .",O O O O B-ORG I-ORG O O O O O O O O O O O O O O O O O O
+"Prije nego što je krenuo u kandidaturu , Trump je bio poznat u gotovo svakom američkom domaćinstvu po svojem golemom bogatstvu , luksuznim hotelima , golferskim igralištima i kockarnicama , po razvodima koji su punili naslovnice i po televizijskom ‘ reality showu ’ Pripravnik .",O O O O O O O O B-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-MISC O
+"U kampanji se pokazao i kao snažna politička životinja i populistički junak koji je obećao da će “ Ameriku ponovo učiniti velikom ” .",O O O O O O O O O O O O O O O O O O O O O O O O
+"Neustrašiv i nepredvidljiv .",O O O O
+"Trump se u kampanji nije bojao reći bilo što , ali uistinu bilo što .",B-PER O O O O O O O O O O O O O O
+"Protivnike je udarao ondje gdje ih najviše boli .",O O O O O O O O O
+"Osuđivao je “ pokvareni ” sustav , političke dužnosnike nazivao “ korumpiranima ” i tvrdio da “ američki mediji truju mozak biračima ” .",O O O O O O O O O O O O O O O O O O O O O O O O
+"Donald Trump , čovjek živopisne frizure i besprijekornih odijela , u kampanji je učinio stvari koje bi uništile bilo kojeg drugog kandidata .",B-PER I-PER O O O O O O O O O O O O O O O O O O O O O
+"Napadao je i ponekad proturječio samome sebi .",O O O O O O O O
+"Ali osim stare video snimke na kojoj govori o ženama , naštetilo mu nije gotovo ništa .",O O O O O O O O O O O O O O O O O
+"Nudio je jednostavna rješenja za najsloženije probleme – rekao da će izgraditi zid na američkoj granici s Meksikom kako bi zaustavio useljavanje i natjerati Meksiko da ga sam plati .",O O O O O O O O O O O O O O O O O B-LOC O O O O O O B-LOC O O O O O
+"Najavio je da će protjerati 11 milijuna ilegalnih useljenika .",O O O O O O O O O O
+"Uvjeren je da će stvoriti nova radna mjesta samo tako što će iznova ispregovarati američke međunarodne trgovinske sporazume , piše",O O O O O O O O O O O O O O O O O O O O
+"Usponi i padovi , vjenčanja i razvodi .",O O O O O O O O
+"Donald Trump rođen je 14. lipnja 1946. , kao četvrto od petero djece Fredericka i Mary Trump .",B-PER I-PER O O O O O O O O O O O B-PER O B-PER I-PER O
+"Kažu da je bio teško dijete .",O O O O O O O
+"Roditelji su ga s 13 godina poslali na vojnu akademiju , gdje je bio uspješan .",O O O O O O O O O O O O O O O O
+"Studirao je na sveučilištu Fordham , a poslije u sklopu Sveučilišta u Pennsylvaniji završio prestižni poslovni fakultet Wharton .",O O O O B-ORG O O O O O B-ORG I-ORG I-ORG O O O O B-ORG O
+"Trumpov otac , sin njemačkih useljenika , bogatstvo je stekao u graditeljstvu .",B-PER O O O O O O O O O O O O
+"Trump je počeo raditi za oca nakon fakulteta , a ovaj mu je pomogao da stane na noge “ malim zajmom od par milijuna dolara ” .",B-PER O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Već 1974. preuzeo je obiteljski posao i investirao u hotele , kockarnice , golf igrališta i luskuznu stanogradnju .",O O O O O O O O O O O O O O O O O O O
+"Kasnije ulazi u svijet zabave , prvo licencijama za Miss Amerike i Miss Universe , a potom i svojim ulogama u ‘ reality showu ’ Pripravnik i njegovom nastavku sa slavnim osobama .",O O O O O O O O O B-MISC I-MISC O B-MISC I-MISC O O O O O O O O O O O B-MISC O O O O O O O
+"Nije uvijek bio uspješan .",O O O O O
+"Bankrotirao je četiri puta , ali se svaki put nakon restrukturiranja podigao na noge .",O O O O O O O O O O O O O O O
+"Forbes mu bogatstvo procjenjuje na četiri milijarde dolara , a Bloomberg na 2,9 milijardi .",B-ORG O O O O O O O O O B-ORG O O O O
+"Razmetljivi Trump , koji živi u raskošnom trokatnom apartmanu na vrhu vlastita nebodera u New Yorku , tvrdi da vrijedi barem deset milijardi .",O B-PER O O O O O O O O O O O O B-LOC I-LOC O O O O O O O O
+"Triput se ženio glamuroznim ženama , a razvodima dvaput završio na naslovnicama .",O O O O O O O O O O O O O
+"Godine 1977. vjenčao se s češkom manekenkom Ivanom Zelničkovom s kojom ima troje djece , Donalda mlađeg , Ivanku i Erica .",O O O O O O O B-PER I-PER O O O O O O B-PER I-PER O B-PER O B-PER O
+"Sve troje mu sada pomažu u kampanji .",O O O O O O O O
+"Od 1993. do 1999. bio je u braku s glumicom Martom Maples .",O O O O O O O O O O B-PER I-PER O
+"Imaju jedno dijete .",O O O O
+"Sa slovenskom manekenkom Melanijom Knavs vjenčao se 2005. i također imaju jedno dijete .",O O O B-PER I-PER O O O O O O O O O
+"B. P / A. K.",O O O O O
+"Donald Trump glumio je u porniću",B-PER I-PER O O O O
+"Donald Trump pojavio se u jednom softcore porniću Playboya .",B-PER I-PER O O O O O O B-MISC O
+"Naime , film Video Centerfold sadrži scenu u kojoj Trump , u društvu još nekoliko ljudi , otvara bocu šampanjca i pjenom prska limuzinu na kojoj piše Playboy . “ Ljepota je ljepota , da vidimo što se događa s New Yorkom ” , kaže Trump ekipi iz Playboya koja je došla posjetiti grad .",O O O B-MISC I-MISC O O O O B-PER O O O O O O O O O O O O O O O O O B-ORG O O O O O O O O O O O O B-LOC I-LOC O O O B-PER O O B-MISC O O O O O O
+"Trumpova uloga u filmu je neseksualna , no u ostalim scenama pojavljuju se gole žene koje poziraju u seksualnim pozama , plešu gole , dodiruju se , maze i kupaju .",B-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Film je snimljen 2000. godine , kada su ljudi iz Playboya putovali SAD-om i posjećivali razne gradove u potrazi za zečicom godine .",O O O O O O O O O O B-MISC O B-LOC O O O O O O O O O O
+"Trump je u toj sceni glumio njhova domaćina u New Yorku .",B-PER O O O O O O O O B-LOC I-LOC O
+"Video možete pogledati",O O O
+"Podsjetimo , Trump je nedavno optužio bivšu misicu Aliciju Machado da navodno ima snimku seksa .",O O B-PER O O O O O B-PER I-PER O O O O O O
+"Donald Trump je novi predsjednik SAD-a",B-PER I-PER O O O B-LOC
+"Donald Trump novi je predsjednik SAD-a .",B-PER I-PER O O O B-LOC O
+"Sa 288 potvrđenih elektorskih glasova poznati poduzetnik Trump vladat će SAD-om iduće četiri godine .",O O O O O O O B-PER O O B-LOC O O O O
+"Poraz je javno priznala demokratska kandidatkinja Hilary Clinton .",O O O O O O B-PER I-PER O
+"Kad je postalo jasno kako je on novoizabrani predsjednik , stanovnicima SAD-a Trump je obećao kako ih neće iznevjeriti .",O O O O O O O O O O O B-LOC B-PER O O O O O O O
+"Pozvao je građane da se ujedine .",O O O O O O O
+"Dodatnu pljusku demokratima zadala je činjenica kako će vlas u rukama republikanaca biti i u oba doma Kongresa - Senatu i Zastupničkom domu , te će tim izravno utjecati na izbor vrhovnih sudaca koje ih očekuje uskoro .",O O O O O O O O O O O O O O O O O B-ORG O B-ORG O B-ORG I-ORG O O O O O O O O O O O O O O O
+"Kanye West i Donald Trump se sastali i popričali o životu",B-PER I-PER O B-PER I-PER O O O O O O
+"Novoizabrani predsjednik Sjedinjenih Američkih Država Donald Trump u utorak se u Trump Toweru u New Yorku sastao s reperom i dizajnerom Kanye Westom , piše The Hollywood Reporter .",O O B-LOC I-LOC I-LOC B-PER I-PER O O O O B-LOC I-LOC O B-LOC I-LOC O O O O O B-PER I-PER O O O B-MISC I-MISC O
+"West prilikom dolaska na mjesto sastanka nije odgovarao na pitanja novinara o tome zašto se sastaje s Trumpom .",B-PER O O O O O O O O O O O O O O O O B-PER O
+"Prolazeći kroz predvorje Trump Towera , West je okupljene pozdravio sa suzdržanim ' Hej ' te je pozirao za fotografije .",O O O O O O B-PER O O O O O O O O O O O O O O
+"' Samo smo prijatelji .",O O O O O
+"Samo smo prijatelji ' , rekao je Trump kada je u društvu Westa , koji je nedavno pušten iz bolnice u kojoj je zbog psihičkih problema ( dobio je živčani slom , patio je od iscrpljenosti i nesanice ) bio tri tjedna , izašao iz lifta pred okupljene novinare .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Trump je rekao da je West ' dobar čovjek ' te da su ' već dugo prijatelji ' .",O O O O O B-PER O O O O O O O O O O O O O
+"' Pričali smo o životu ' , dodao je Trump te je prilikom rastanka Westu rekao da se ' čuva ' te da će se vidjeti ' uskoro ' , prenosi ABC .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-ORG O
+"Inače , West je uoči američkih predsjedničkih izbora rekao da bi glasao za Trumpa u slučaju kad bi odlučio svoj glas dati nekome od kandidata .",O O B-PER O O O O O O O O O O B-PER O O O O O O O O O O O O
+"Također , West je na prošlogodišnjim MTV-jevim nagradama Video Music Awards rekao da će se kandidirati za predsjednika SAD-a 2020. godine , prenosi",O O B-PER O O O B-ORG O B-MISC I-MISC I-MISC O O O O O O O B-LOC O O O O
+"Donald Trump : Ako je Kerum mogao biti gradonačelnik Splita , mogu i ja biti predsjednik SAD-a",B-PER I-PER O O O B-PER O O O O O O O O O O O
+"Donald Trump : Ako je Kerum mogao biti gradonačelnik Splita , mogu i ja biti predsjednik SAD-a Trenutno vodeći u svim anketama u utrci za najmoćniju fotelju svijeta , Donald Trump odbacio je sve napadaje svojih kritičara jednostavnom argumentacijom .",B-PER I-PER O O O B-PER O O O O O O O O O O O O O O O O O O O O O O O B-PER I-PER O O O O O O O O O
+"Željko Kerum i Donald Trump veoma su slični ljudi .",B-PER I-PER O B-PER I-PER O O O O O
+"Obojica ekscentrični poduzetnici , poznati po rastrošnom životu , manjku ukusa , smiješnim izjavama , vrijeđanjima novinara i naravno frizurama .",O O O O O O O O O O O O O O O O O O O O O
+"Osim živopisnih frizura , vole i svašta stavljati na čelo : Kerum hladne šnite pršuta , a Trump kitnjasti rep od vjeverice .",O O O O O O O O O O O B-PER O O O O O B-PER O O O O O
+"Naravno , tu su i svima nama neshvatljive političke ambicije , koje u SAD-u izazivaju zgražanje javnosti .",O O O O O O O O O O O O O B-LOC O O O O
+"Trump se odlučio obračunati s ogorčenima . - SAD nema neku naročito dugu povijest i tradiciju .",B-PER O O O O O O O B-LOC O O O O O O O O
+"Ni 300 godina nije prošlo od Deklaracije za nezavisnost .",O O O O O O B-MISC I-MISC I-MISC O
+"A vidite jedan grad u Europi , u Hrvatskoj , Split , već više od 1700 godina postoji .",O O O O O B-LOC O O B-LOC O B-LOC O O O O O O O O
+"Gdje je Amerika bila prije 1700 godina ?",O O B-LOC O O O O O
+"Tu su divljali Indijanci , lovili bizone , jeli bizone i jeb*li se s bizonima ! - ispalio je Trump i izgubio par postotaka podrške od indijanskih plemena , pa nastavio . - Split je kako rekoh tisućljetni grad .",O O O B-PER O O O O O O O O O O O O O O O B-PER O O O O O O O O O O O O O B-LOC O O O O O O
+"Rimljani ga osnovali i sagradili , mnoga carstva ga svojatala , pa gubila , on ostao svoj i ponosan .",B-PER O O O O O O O O O O O O O O O O O O O
+"Uvijek je bio rasadnik intelektualnih i sportskih talenata po kojima je svijet znao za Split .",O O O O O O O O O O O O O O B-LOC O
+"Ako se takav grad jednog dana odlučio za glavnog čovjeka izabrati slabo obrazovanog čovjeka , sa sumnjivim podrijetlom imovine , sklonog verbalnim i fizičkim ekscesima , operiranog od bilo kakvog doživljaja kako žive njegovi radnici i općenito njegovi sunarodnjaci , pa tko ste vi Amerikanci da osporavate moje kompetencije za američkog predsjednika - izgalamio je Trump na okupljene istomišljenike i popravio vjevericu koja mu u trenucima velikog uzbuđenja zna spustiti rep u usta .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PER O O O O O O O O O O B-PER O O O O O O O O O O O O O O O O O O
+"Željka Keruma smo priupitali kako komentira ove Trumpove izjave , no poručio nam je samo da "" vas jeb*m berlave , ko vas je okotia takve lude , vi ćete mi govorit , marš konobari jedni , Bago slobodan si ... """,B-PER I-PER O O O O O B-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PER O O O O
+"Donald Trump potvrđen za republikanskog kandidata na američkim predsjedničkim izborima",B-PER I-PER O O O O O O O O
+"Delegati na republikanskoj konvenciji u utorak su u Clevelandu službeno imenovali Donalda Trumpa za kandidata za Bijelu kuću , što je i službena potvrda da je populistički milijarder preuzeo stranku .",O O O O O O O O B-LOC O O B-PER I-PER O O O B-LOC I-LOC O O O O O O O O O O O O O
+"Jedan od sinova newyorškog kandidata , Donald mlađi , objavio je da 89 delegata New Yorka daje potporu Trumpu , što mu je omogućilo da dobije više od potrebne većine ( 1.237 glasova ) tijekom glasanja koje se temeljilo na rezultatima predizbora .",O O O O O O B-PER I-PER O O O O O O B-LOC I-LOC O O B-PER O O O O O O O O O O O O O O O O O O O O O O O O
+"Trump je pobijedio s 1.725 delegatskih glasova , a iza njega su senator Teksasa Ted Cruz sa 475 delegata , guverner Ohija John Kasich sa 120 i senator Floride Marco Rubio sa 114. “ Čestitamo ti tata i volimo te ” , rekao je Don mlađi , u društvu brata Erica i sestara Ivanke i Tiffany , u mirnom ozračju u športskoj dvorani u Clevelandu .",B-PER O O O O O O O O O O O O B-LOC B-PER I-PER O O O O O B-LOC B-PER I-PER O O O O B-LOC B-PER I-PER O O O O O O O O O O O O O B-PER I-PER O O O O B-PER O O B-PER O B-PER O O O O O O O O B-LOC O
+"Izaslanstva 50 saveznih država i američkih teritorija su redom objavljivali rezultate svojih predizbora nakon kratke reklamne poruke o svojim krumpirima ( Idaho ) ili o lokalnom neoporezivanju prihoda ( Florida , New Hampshire ) .",O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O B-LOC O B-LOC I-LOC O O
+"Kako nalaže tradicija , Donald Trump nije u utorak bio u dvorani .",O O O O B-PER I-PER O O O O O O O
+"Kandidaturu će službeno prihvatiti u četvrtak u nastupu u vrijeme najveće televizijske gledanosti .",O O O O O O O O O O O O O O
+"Sedamdesetogodišnji milijarder je odmah na Twitteru poručio kako je “ velika čast biti republikanski kandidat za dužnost predsjednika Sjedinjenih Država .",O O O O O O O O O O O O O O O O O O B-LOC I-LOC O
+"Marljivo ću raditi i neću vas razočarati .",O O O O O O O O
+"Amerika prije svega ! ” , napisao je .",B-LOC O O O O O O O O
+"Na konvenciji je Mike Pence ( 57 ) , guverner Indiane , Trumpov izbor , imenovan za potpredsjedničkog kandidata .",O O O B-PER I-PER O O O O O B-LOC O B-PER O O O O O O O
+"Donald Trump protiv vjetroelektrana : prijeti li opoziv zbog zastupanja osobnih interesa ?",B-PER I-PER O O O O O O O O O O O
+"Propitivanje kontradiktornog suodnosa privrede i prirode",O O O O O O
+"Suprotno predizbornim obećanjima da će ako bude izabran u potpunosti napustiti upravljanje svojim poslovima i predati ih svojoj djeci , Donald Trump je nakon izbora više puta pokazao da smatra normalnim i dalje promovirati svoje poslovne interese .",O O O O O O O O O O O O O O O O O O O O B-PER I-PER O O O O O O O O O O O O O O O O
+"Na sastanku s predsjednikom britanske Independent Party ( UKIP ) Nigelom Farageom , izabrani predsjednik SAD Donald Trump izrazio je osobno ogorčenje zbog projekta gradnje pučinske vjetroelektrane uz obalu škotske ( program nazvan European Offshore Wind Deployment Centre ( EOWDC ) ) , za koju kaže da bi pokvarila pogled s njegova dva igrališta za golf uz obalu koja su u gradnji , “ Trump International Golf Links Course ” .",O O O O O B-ORG I-ORG O B-ORG O B-PER I-PER O O O B-LOC B-PER I-PER O O O O O O O O O O O B-LOC O O O B-LOC I-LOC I-LOC I-LOC I-LOC O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O B-LOC I-LOC I-LOC I-LOC I-LOC O O
+"Ovo je izazvalo brojne prosvjede u američkim medijima .",O O O O O O O O O
+"Farage je prije izbora posjetio SAD i lobirao za Trumpa .",B-PER O O O O B-LOC O O O B-PER O
+"UKIP je loše prošao na posljednjim parlamentarnim izborima u UK , ali je postigao veliku i neočekivanu pobjedu na referendumu za istupanje Ujedinjenog kraljevstva iz EU .",B-ORG O O O O O O O O B-LOC O O O O O O O O O O O O B-LOC I-LOC O B-LOC O
+"Trump je na twitteru objavio kako bi volio da Farage bude britanski veleposlanik u SAD .",B-PER O O B-MISC O O O O O B-PER O O O O B-LOC O
+"U posljednje četiri godine , na twitteru je 60 puta slao poruke o tome , optužujući lokalne političare , vladu Škotske i vladu UK zbog davanja subvencija za vjetroelektane i uništavanja Škotske .",O O O O O O B-MISC O O O O O O O O O O O O O B-LOC O O B-LOC O O O O O O O B-LOC O
+"Pokrenuo je tužbu protiv ovog projekta pred Vrhovnim sudom UK , Međutim su i njegova igrališta za golf podvrgnuta žestokim kritikama otkad je je vlada Škotske 2008. odobrila gradnju , zbog uništenja pojasa pješćanih dina uz obalu .",O O O O O O O B-ORG I-ORG I-ORG O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O
+"Zbog toga se projekt sporo ostvaruje .",O O O O O O O
+"Trump kaže da će od njega odustati ako se vjetroelektrane sagrade .",B-PER O O O O O O O O O O O
+"Velika švedska kompanija Vattenfall je u srpnju objavila da nastavlja s projektom , a Trump je najavio da će nastaviti napore da ga zaustavi .",O O O B-ORG O O O O O O O O O O B-PER O O O O O O O O O O
+"U listopadu je započelo postavljanje 350 km 66-kilovoltnih podmorskih kabela .",O O O O O O O O O O O
+"Predviđeno je postavljanje 11 vjetroturbina novog modela , snage 8,4 MW , što će biti značajno i za dalje predviđene gradnje pučinskih vjetroelektrana u sjeveroistočnom Atlantiku .",O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O
+"To su dio velikog programa , u kojoj sudjeluje 10 zemalja .",O O O O O O O O O O O O
+"Farageov suradnik Andy Wigmore rekao je da je Trump bio vrlo emotivan o toj temi .",B-PER O B-PER I-PER O O O O B-PER O O O O O O O
+"Govorio je da obožava Škotsku , koja je jedno od najljepših mjesta na Zemlji , ali je očajan što ona postaje pretrprana ružnim vjetroelektranama koje uništavaju krajobraz .",O O O O B-LOC O O O O O O O O B-LOC O O O O O O O O O O O O O O
+"Škotska nacionalna stranka , koja vlada u Škotskoj ( na izborima 5. svibnja 2016. osvojila je 63 od 129 mandata u Parlamentu ; zeleni su osvojili 6 mandata ) slijedi potpuno suprutnu politiku od klimatskog negatora Trumpa .",B-ORG I-ORG I-ORG O O O O B-LOC O O O O O O O O O O O O O B-ORG O O O O O O O O O O O O O O B-PER O
+"Postavili su i ostvaruju vrlo ambiciozne ciljeve smanjivanja emisija ugljičnoga dioksida , zabranili su fracking i podržavaju obnovljive izvore .",O O O O O O O O O O O O O O O O O O O O
+"Aktualna vlada Ujedinjenog kraljevstva znatno je otežala uvjete za gradnju vjetroelektrana na kopnu , ali snažno potiče gradnu pučinskih elektrana , za koje postoje golemi potencijali uz obale Velike Britanije , a pogotovo Škotske ( , 2. prosinca 2015. ) .",O O B-LOC I-LOC O O O O O O O O O O O O O O O O O O O O O O O O B-LOC I-LOC O O O B-LOC O O O O O O O
+"Velika Britanija ukida TE na ugljen , ali energetska politika ostaje kontroverzna Na zamjerke da položaj predsjednika SAD koristi za promociju osobnih poslovnih interesa , Trump je na twitteru odgovorio : » Prije izbora je bilo dobro poznato da imam interese vezano uz svoje vlasništvo širom svijeta .",O O O O O O O O O O O O O O O O O B-LOC O O O O O O O B-PER O O B-MISC O O O O O O O O O O O O O O O O O O O
+"Jedino pokvareni mediji od toga prave problem . « To je međutim ne samo suprotno onome što je prije izbora govorio i suprotno običajima , nego su moguće i pravne posljedice , kažu pravni eksperti .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Mogao bi biti izložen postupku opoziva ( impeachment ) od prvog dana u Ovalnom uredu .",O O O O O O O O O O O O O B-LOC I-LOC O
+"Steven Schooner , profesor prava na Sveučilištu George Washington , rekao je u ponedjeljan na MSNBC da smatra kako je činjenica da otvorio novi hotel u Washingtonu i počeo tamo primati gostujuće diplomate dovoljan pravni temelj za opoziv .",B-PER I-PER O O O O B-ORG I-ORG I-ORG O O O O O O B-ORG O O O O O O O O O O B-LOC O O O O O O O O O O O O
+"Trump : “ Islamski teroristi kolju kršćane po cijelom svijetu , stanje je sve gore , moramo ih izbrisati s lica zemlje ! ”",B-PER O O O O O O O O O O O O O O O O O O O O O O O
+"Izabrani predsjednik SAD-a Donald Trump oglasio se u ponedjeljak na Twitteru kako bi komentirao atentat na ruskog veleposlanika u Turskoj , tragediju u Berlinu za koju se sumnja da je teroristički napad te napad na islamski centar u Švicarskoj .",O O B-LOC B-PER I-PER O O O O O B-MISC O O O O O O O O B-LOC O O O B-LOC O O O O O O O O O O O O O O B-LOC O
+"Danas su se dogodili teroristički napadi u Turskoj , Švicarskoj i Njemačkoj i stanje se samo pogoršava .",O O O O O O O B-LOC O B-LOC O B-LOC O O O O O O
+"Civilizirani svijet mora promijeniti način razmišljanja ! – napisao je Donald Trump kojeg su netom prije ove objave elektori potvrdili kao pobjednika izbora u SAD-u .",O O O O O O O O O O B-PER I-PER O O O O O O O O O O O O B-LOC O
+"Njegov ured također je objavio priopćenje o tragediji u Berlinu : – N aša srca i molitve su uz bliske osobe žrtava terorističkog napada u Berlinu .",O O O O O O O O O B-LOC O O O O O O O O O O O O O O O B-LOC O
+"Nevini civili ubijeni su na ulici dok su se pripremali proslaviti Božić .",O O O O O O O O O O O B-MISC O
+"ISIS i drugi islamski teroristi kontinuirano kolju kršćane u njihovim zajednicama i religioznim mjestima kao dio svojeg globalnog džihada .",B-ORG O O O O O O O O O O O O O O O O O O O
+"Ti teroristi i njihove regionalne i svjetske mreže moraju biti izbrisane s lica zemlje , što je misija koju ćemo izvršiti s našim partnerima koji vole slobodu – stoji u izjavi , piše",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"DONALD TRUMP I NIGEL FARAGE : RUSKI CIRKUS U AMERIČKOM DVORIŠTU",B-PER I-PER O B-PER I-PER O O O O O O
+"Međusobno divljenje američkog predsjedničkog kadidata Donalda Trumpa i Vladimira Putina nije nikakva tajna , kao ni preporuka četničkog vojvode Vojislava Šešelja braći Srbima koji žive u SAD-u da daju svoj glas američkom tajkunu Donaldu Trumpu na predstojećim izborima nisu nikakva tajna .",O O O O O B-PER I-PER O B-PER I-PER O O O O O O O O O O B-PER O B-PER O O O B-LOC O O O O O O B-PER I-PER O O O O O O O
+"No , ono što razotkriva čitav taj cirkus oko Trumpa je pojavljivanje čelnika kampanje britanskog izlaska iz EU , Brexit-a , Nigela Faraga koji je osobno podržao kampanju Donalda Trumpa u borbi za vlast , priključivši se Trumpu na bini na predizbornom skupu u Mississippiju .",O O O O O O O O O B-PER O O O O O O O B-LOC O B-MISC O B-PER I-PER O O O O O B-PER I-PER O O O O O O O B-PER O O O O O O B-LOC O
+"Podsjetimo se , nakon pobjede Brexita na referendumu u Velikoj Britaniji koja je rezultirala britanskim izlaskom iz Europske unije , a kojeg je svojski , još iz EU Parlamenta zagovarao Nigel Farage , on sam je podnio ostavku na mjesto šefa UKIP-a ( UK Independence Party ) , iznenadivši time svoje pristaše i obožavatelje .",O O O O O B-MISC O O O B-LOC I-LOC O O O O O O B-ORG I-ORG O O O O O O O O B-ORG I-ORG O B-PER I-PER O O O O O O O O O B-ORG O B-ORG I-ORG I-ORG O O O O O O O O O
+"Kada je u tijeku bio hrvatski referendum u svezi ulaska u EU , Farage je jako lukavo iskoristio sumnju i strah Hrvata u svezi Unije , te je iskoristio hrvatsku borbu za neovisnost od Jugoslavije i velikosrpskih planova , Domovinski rat i srpsku agresiju na Hrvatsku , čega su mu bila puna usta .",O O O O O O O O O O O B-LOC O B-PER O O O O O O O B-PER O O B-ORG O O O O B-LOC O O O O B-ORG O O O O B-MISC I-MISC O O O O B-LOC O O O O O O O O
+"No , Hrvati su ipak izabrali članstvo u Europskoj Uniji , vezujući se za zapad i NATO , tako se štiteći od mogućeg ponavljanja neke nove Jugoslavije , odnosno neke nove srboslavije .",O O B-PER O O O O O O B-ORG O O O O O O B-ORG O O O O O O O O O B-ORG O O O O O O
+"Međutim , ruskim pritiscima oslabljena EU pod palicom Angele Merkel koja je proizašla iz DDR kadra i promijenjenim stanjem u Uniji nakon najnovijeg izlaska Velike Britanije iz EU ( Brexita ) , jasno pokazuju da Hrvatska ( kao i Unija ) definitivno trebaju jaku američku podršku kako bi se oduprli ruskim apetitima .",O O O O O B-LOC O O B-PER I-PER O O O O B-LOC O O O O O B-ORG O O O B-LOC I-LOC O B-LOC O B-MISC O O O O O B-LOC O O O B-ORG O O O O O O O O O O O O O
+"Nigel Farage se sam razotkrio kao poslušnik ruskih geopolitičkih strategija , jer je postigavši svoj cilj otkidanja Velike Britanije od Europske Unije ( koji uvelike ide u korist ruskim apetitima na europskom tlu ) , izgubio interes za političke ciljeve vlastite domovine i krenuo izvršavati nove političke zadatke , koje mu očito postavlja “ big KGB boss ” iz Kremlja , Vladimir Putin .",B-PER I-PER O O O O O O O O O O O O O O O B-LOC I-LOC O B-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O B-PER I-PER O
+"Činjenica da se lokalni balkanski ratni huškač i neosuđeni zločinac Šešelj zajedno s Nigelom Farageom nalaze na istoj liniji s Putinom , i to rovareći upravo na američkom tlu , znak je opasne slabosti i kratkovidnosti američke diplomacije , kojoj nedostaje onaj oštar jezik i britak um koji ništa ne zaboravlja , a koji je odlikovao diplomatskog veterana Joe Bidena .",O O O O O O O O O O B-PER O O B-PER I-PER O O O O O B-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PER I-PER O
+"Njegove riječi kojima je pozdravio Hrvatsku prilikom svog zadnjeg posjeta bile su “ good to be back ” .",O O O O O B-LOC O O O O O O O O O O O O O
+"Putin sada , preko Faragea i Šešelja Amerikancima uzvraća udarac na američkom tlu , a američka diplomacija u svojoj demokratskoj širini ne nalazi pravo uporište protiv ovakvih diplomatskih smicalica .",B-PER O O O B-PER O B-PER B-PER O O O O O O O O O O O O O O O O O O O O O O
+"Pod maskom Trumpovog lažnog konzervativizma i “ brige za naciju ” skriva se izdaja američke nacije , jednaka onoj koju je već počinio Nigel Farage prema vlastitoj domovini Velikoj Britaniji .",O O B-PER O O O O O O O O O O O O O O O O O O O O B-PER I-PER O O O B-LOC I-LOC O
+"U ovim opasnim političkim zbivanjima Hrvatska je ključni kotačić i jezičac na vagi između američke ili ruske prevlasti na domaćem terenu .",O O O O O B-LOC O O O O O O O O O O O O O O O O
+"Upravo zbog toga se s jedne strane uporno radi na blaćenju i uništenju svega što je u Hrvatskoj stvoreno Domovinskim ratom , a s druge strane lažni desničarski mediji prešućuju i negiraju ogromnu i važnu ulogu koju je u Domovinskom ratu odigrao SAD koji je otvoreno stao na stranu hrvatske opravdane borbe za samostalnu državu .",O O O O O O O O O O O O O O O O O B-LOC O B-MISC I-MISC O O O O O O O O O O O O O O O O O O B-MISC I-MISC O B-LOC O O O O O O B-LOC O O O O O O
+"Bivši KGB-ovac Putin nije nikakav kršćanin i ruski domoljub , nego nastavljač sovjetskih ekpanzionističkih težnji , baš kao što Nigel Farage nije nikakav britanski domoljub i pravednik , nego izdajica britanskih interesa .",O B-ORG B-PER O O O O O O O O O O O O O O O O B-PER I-PER O O O O O O O O O O O O
+"Isto tako , Orešković nije nikakav “ prodavač hrvatskog gospodarstva ” , već premijer koji je stopirao rasprodaju Hrvatske i njezino daljnje zaduživanje te sada u Dubrovniku razotkrio Vučićevu prorusku orijentaciju .",O O O B-PER O O O O O O O O O O O O O O B-LOC O O O O O O O B-LOC O B-PER O O O
+"Pad trenutne hrvatske vlade dogodio se prvenstveno zbog opstrukcije bilo kakvoj lustraciji , jer je Karamarkov HDZ prevario svoje birače .",O O B-LOC O O O O O O O O O O O O B-PER B-ORG O O O O
+"Vidjet ćemo hoće li nakon ovih izbora HDZ pod Plenkovićevim vodstvom početi konačno zastupati hrvatske interese i pokrenuti hrvatsku diplomaciju u pravom smjeru .",O O O O O O O B-ORG O O O O O O B-LOC O O O B-LOC O O O O O
+"U svakom će slučaju trebati snažne koalicijske partnere u tom krucijalnom pothvatu .",O O O O O O O O O O O O O
+"Hoće li '' smaknuti '' Obamu ?",O O O O O B-PER O
+"Donald Trump korak bliže utrci za predsjednika SAD-a",B-PER I-PER O O O O O B-LOC
+"Ekscentrični američki milijarder i zvijezda reality televizije Donald Trump jedan je od dvojice kandidata koji će ući u utrku za predsjedničku nominaciju Republikanske stranke , navodi HRT .",O O O O O O O B-PER I-PER O O O O O O O O O O O O O B-ORG I-ORG O O B-ORG O
+"Najnovije ankete pokazuju kako Trump , zajedno s Mikeom Huckabeeom ima potporu 19 posto republikanaca .",O O O O B-PER O O O B-PER I-PER O O O O O O
+"Iza njih nalazi ide Sarah Pelin s potporom od 12 posto .",O O O O B-PER I-PER O O O O O O
+"U anketama prije mjesec dana Trump je bio peti , ali se polagano penje na ljestvicama potpore .",O O O O O B-PER O O O O O O O O O O O O
+"Tome je možda pripomogla i njegova teorija urote kojom pobija američko državljanstvo predsjednika Baracka Obame .",O O O O O O O O O O O O O B-PER I-PER O
+"Prema njegovim tvrdnjama Obama nije rođena na Havajima , nego u Keniji , a prema američkom Ustavu predsjednik države može biti samo Amerikanac rođen u SAD-u .",O O O B-PER O O O B-LOC O O O B-LOC O O O O B-MISC O O O O O B-PER O O B-LOC O
+"Obama se previše ne obazire na ove navode te najavljuje kampanju za reizbor 2012. godine .",B-PER O O O O O O O O O O O O O O O
+"Mnogi politički analitičari procjenjuju kako će u novoj kampanji uspjeti skupiti milijardu dolara , što je dosad neviđeno u predsjedničkim utrkama . ( SJ )",O O O O O O O O O O O O O O O O O O O O O O O O O
+"Donald Trump i Hillary Clinton su krvni rođaci !",B-PER I-PER O B-PER I-PER O O O O
+"Mislite da se Trump slučajno našao kao predsjednik SAD-a ?",O O O B-PER O O O O B-LOC O
+"Razmislite ponovno .",O O O
+"Proteklih godinu i više dana Donald Trump i Hillary Clinton malim su koracima uvodili prvo američki narod , a posljedično i ljude ostatka planeta u jednu energetsku predstavu koja se odvijala na vrhu svijeta .",O O O O O B-PER I-PER O B-PER I-PER O O O O O O O O O O O O O O O O O O O O O O O O O
+"Iako je sve bilo tako napravljeno i složeno da narod vidi da postoji zlo i njegova opozicija i iako su stvarno dobro odglumili te uloge vrlo dramatično i ekspresivno kako bi ostavili dojam da su na suprotnim stranama , oni su zapravo vrlo povezani , i to ne bilo kako , već krvnom rodbisnkom vezom .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Naime , kako je prva objavila Extra TV , Donald Trump i Hillary Clinton su rođaci 19. koljena .",O O O O O O B-ORG I-ORG O B-PER I-PER O B-PER I-PER O O O O O
+"Neočekivanu ( ili ipak očekivanu ) obiteljsku vezu otkrila je stranica posvećena obiteljskim stablima i genima cijelog svijeta .",O O O O O O O O O O O O O O O O O O O
+"A sad ono zanimljivo .",O O O O O
+"Ne samo da je Trump rođak Hillary , već su oboje dio kraljevske loze Engleske !",O O O O B-PER O B-PER O O O O O O O B-LOC O
+"Naime , Ivan Gaunt i Katherine Swynord roditelji su Joana Beauforta , grofa od Westmorland , odnosno Clintonove prabake 17. koljena , a John Beaufort I. grof od Someerseta je Trumpov pradjed 17. koljena .",O O B-PER I-PER O B-PER I-PER O O B-PER I-PER O O O B-LOC O O B-PER O O O O O O O O O O O O B-PER O O O O
+"Ispalo je da su povezani plemićkom krvi koja ih vodi do zajedničkog pradjeda , engleskoga kralja Edwarda III. koji je njihov zajednički pradjed 19. koljena , odnosno izdanak hazarske obitelji Plantagenet .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-ORG O
+"I to nije slučajno .",O O O O O
+"Kao što nije slučajno da je prije nekoliko godina djevojčica po imenu Bridge Anne d ’ Avignon ( 12 ) iz SAD-a , analizirajući više od milijun imena došla do spoznaje da su svi američki predsjednici ( osim jednog ) u izravnoj genetskoj vezi s britanskim kraljem Ivanom iz dinastije Plantagenet , poznatijem kao Ivan Bez Zemlje ( engl .",O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O B-PER O O B-ORG O O O B-PER I-PER I-PER O O O
+"John Lackland . ‘ Svi američki predsjednici osim jednog potomci su Johna Lacklanda ’ , izjavila je BridgeAnne d ’ Avignon ( 12 ) iz SAD-a lokalnim medijima .",B-PER I-PER O O O O O O O O O B-PER I-PER O O O O O O O O O O O O B-LOC O O O
+"Do takvog zaključka došla je proučavajući preko više od pola milijuna imena .",O O O O O O O O O O O O O
+"Počela je s Georgeom Washingtonom , da bi nakon toga proučila i obiteljska stabla s muške i ženske strane te obitelji . ‘ Mildred Reade je prva baka Georgea Washingtona i 10. prabaka Baracka Obame ’ , izjavila je , o čemu smo pisali .",O O O B-PER I-PER O O O O O O O O O O O O O O O O O O B-PER I-PER O O O B-PER I-PER O O O B-PER I-PER O O O O O O O O O O
+"Sada tom popisu dodajemo i Donalda Trumpa , ali i Hillary Clinton čiji je zajednički pradjed 19. koljena također Plantagenet .",O O O O O B-PER I-PER O O O B-PER I-PER O O O O O O O B-ORG O
+"O toj hazarskoj dinastiji koja tisućama godina vlada svijetom čitajte A tko su hazari saznajte OVDJE .",O O O O O O O O O O O O O O O O O
+"Zabluda je da su ljudi imali izbor .",O O O O O O O O
+"Ovo otkriće rodbinske povezanosti još prošle godine prenio je i Washington Times , doduše bez prevelike drame , da ne bi bilo “ nismo vam rekli ” .",O O O O O O O O O O B-ORG I-ORG O O O O O O O O O O O O O O O O
+"To nije zasmetalo da milijuni ljudi diljem svijeta nasjednu na ovu reptilsku predstavu bez da imaju pojma kako su opet prevareni te da jedan i drugi kandidat imaju isti cilj – uvesti svijet u novi svjetski poredak .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"To dokazuje i i umiješanost čitavog svijeta u ove izbore , pa i simulacija američkih izbora u hrvatskim školama iz čega se jasno vidi da se svijet ovim izborima pripremao na jedne svjetske izbore koji će uskoro dogoditi s uspostavom jedne svjetske vlade .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"O čemu se radi ?",O O O O O
+"Naime , činjenica je da su ljudi diljem planeta , pa tako i u Americi , počeli osvješćivati da su pod lažnim parolama ‘ bratstva , jedinstva i lažne demokracije ’ svedeni na roblje šačice ljudi koja vlada ovim planetom .",O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Svjesni da više ne mogu ignorirati buđenje ljudi po tom pitanju , ali i u strahu od prave opozicije koja bi mogla promijeniti svijet u pogledu njih – hazara , elita je tim ljudima ponudila svog kandidata kako bi pokrila obje strane .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Upravo zbog toga je Hillary Clinton svoju kampanju vodila kao odraz zla , od okultne simbolike preko sotonizma , dok je Trump zauzimao ovu stranu dobra .",O O O O B-PER I-PER O O O O O O O O O O O O O O O B-PER O O O O O
+"To dobro ljudi su ‘ popušili ’ samo zbog isceniranih napada na Trumpa koji su naravno izazvali kontraefektom .",O O O O O O O O O O O O O O O O O O O
+"Jer da je njihov ne bi ga toliko napadali ?",O O O O O O O O O O
+"Zar ne ?",O O O
+"Upravo na toj psihološkoj manipulaciji prevareni su svi jer zapravo Trump je njihov i to ne samo preko svjetovnih stvari i novca već i krvno , i u u stvarnosti ništa se nije promijenilo jer elita ( protiv koje je govorio ) i koja je vladala prije tisuću godina i dalje vlada sada i preko Trumpa .",O O O O O O O O O O B-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"I zbog toga , nemojte misliti da je Trump slučajno predsjednik .",O O O O O O O O B-PER O O O
+"Ne nije , ona je odabran kao kraljevski izdanak a ne od naroda i potlačenih kako su vas uvjerili …",O O O O O O O O O O O O O O O O O O O O
+"Više o manipulaciji koja vam je promaknula – Vrlo je zapravo tužno što je elita godinama , malenim koracima i apsolutnom dominacijom , uspjela uvjeriti čovječanstvo u parole poput – demokracija , sloboda , tolerancija , i to na način da milijarde ljudi šute na apsolutnu autokraciju , na vladavinu nekoliko obitelji sve do jedne genetski povezane u – vrhušku koja dok nama prodaje priče o slobodi i demokraciji vlada , uništava i ubija ljude koji potpuno nesvjesni svoje snage u istini robuju njihovim monstruoznima planovima !",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Donald Trump imenovao veleposlanika u Pekingu",B-PER I-PER O O O B-LOC
+"Novi američki predsjednik Donald Trump je u srijedu guvernera Iowe Terryja Brandstada , “ starog prijatelja Kine ” , imenovao veleposlanikom u Pekingu .",O O O B-PER I-PER O O O O B-LOC B-PER I-PER O O O O B-LOC O O O O O B-LOC O
+"Paralelno s imenovanjima , milijarder pokušava ostvariti obećanje o vraćanju tisuća radnih mjesta iz zemalja s jeftinom radnom snagom .",O O O O O O O O O O O O O O O O O O O O
+"U srijedu je spomenuo razgovor s Appleom o izgradnji velike tvornice u Sjedinjenim Državama .",O O O O O O B-ORG O O O O O B-LOC I-LOC O
+"Mjesecima Donald Trump kritizira Kinu i optužuje ju za nelojalnu konkurenciju u području trgovine .",O B-PER I-PER O B-LOC O O O O O O O O O O
+"Prošlog tjedna je telefonskim razgovorom s predsjednicom Tajvana prekinuo 40 godina dugu diplomatsku tradiciju jer SAD , da ne bi iritirale Peking , nisu održavale nikakve diplomatske odnose s Tajvanom .",O O O O O O O B-LOC O O O O O O O B-LOC O O O O O B-LOC O O O O O O O B-LOC O
+"Kineska diplomacija je pozdravila Branstada , ( 70 ) , kao “ starog prijatelja ” i nada se da će od pridonijeti razvoju bilateralnih odnosa .",O O O O B-PER O O O O O O O O O O O O O O O O O O O O O
+"Terry Brandstad , koji godinama pozna kineskog predsjednika Xi Jinpinga , je od samog početka podržavao Trumpa .",B-PER I-PER O O O O O O B-PER I-PER O O O O O O B-PER O
+"Zašto Donald Trump ne smije biti idući američki predsjednik ?",O B-PER I-PER O O O O O O O
+"Idesh !",O O
+"Možemo li usporediti njegovu kandidaturu s onom Siniše Vuce ili Miroslava Ćire Blaževića ?",O O O O O O O B-PER I-PER O B-PER I-PER I-PER O
+"Nikako .",O O
+"Vrijednost Donalda Trumpa je navodno 9 milijardi dolara – i za razliku od nekih prošlih hrvatskih kandidata , on je uvjeren da je njegovo predsjedništvo gotova stvar .",O B-PER I-PER O O O O O O O O O O O O O O O O O O O O O O O O O
+"Arogancija i neznanje inače dobro prolaze kod američke populacije , ali Obama je ubacio skromnost i cool , što Trump nikako nije .",O O O O O O O O O O O B-PER O O O O O O O B-PER O O O
+"Sere li ga , sere .",O O O O O O
+"Ne poštuje nikakva pravila i zapravo bismo voljeli da dogura do debatnog dijela predsjedničke utrke jer bismo sigurno dobili jako puno citata ispunjenih neistinama koji bi nas nasmijavali do suza kad nam bude teško u životu .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Glumac je , i to loš .",O O O O O O O
+"Osvojio je Zlatnu malinu za najgoru sporednu ulogu u filmu Ghosts Can ’ t Do It .",O O B-MISC I-MISC O O O O O O O O O O O O O
+"Koliko moraš biti nerazborit da prihvatiš ikakvu ulogu u ovom filmu ?",O O O O O O O O O O O O
+"Više je bilo kratko pojavljivanje u pitanju , ali ako za kameo-ulogu dobiješ Zlatnu malinu , trebaš skočiti s Brooklyn Bridgea .",O O O O O O O O O O O O O B-MISC I-MISC O O O O B-LOC I-LOC O
+"SAD su već imale jednog lošeg glumca / predsjednika u liku Ronalda Reagana , sumnjamo da bi im se posrećilo i sa drugim .",B-LOC O O O O O O O O O O B-PER I-PER O O O O O O O O O O O
+"Vjeruje u vječnu ljubav .",O O O O O
+"Svaki put kad se iznova oženi .",O O O O O O O
+"Čovjek je već u trećem braku .",O O O O O O O
+"Prvo je oženio Čehinju Ivanu Zelničkovu , zatim američku “ TV personality ” Marlu Maples ( s kojom je varao prvu ženu i koja ističe kako joj je daljnja rođakinja Heather Locklear ) , a kad ni to nije upalilo vratio se na europske žene i izabrao ( srcem , naravno ) Slovenku Melaniju Knavs .",O O O B-PER B-PER I-PER O O O O O O O B-PER I-PER O O O O O O O O O O O O O O O B-PER I-PER O O O O O O O O O O O O O O O O O O O O B-PER B-PER I-PER O
+"Ne kažemo da je potrebna vjernost da budete uspješan predsjednik ( slučaj Clinton ) .",O O O O O O O O O O O O B-PER O O
+"No , ako stalno vijaš mlađe nećeš baš previše misliti na pravi posao – a to je ponovno stvaranje “ najveće nacije na svijetu ” .",O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Da ne spominjemo moguće međunarodne skandale , s obzirom da je dokazao da voli “ miješati ” .",O O O O O O O O O O O O O O O O O O
+"Hodajući klišej .",O O O
+"Služi se frazama “ Amerika je najveća nacija na svijetu ” .",O O O O B-LOC O O O O O O O
+"Od takvih klišeja nam se povraća , a još ne postoji vjerodostojan sustav mjerenja da odgovori na pitanje koja nacija je najveća na svijetu .",O O O O O O O O O O O O O O O O O O O O O O O O O
+"2012. je forsao priču kako ne vjeruje u Obamin rodni list koji jasno kaže da je Obama rođen u Honoluluu u saveznoj državi Havaji .",O O O O O O O O B-PER O O O O O O O B-PER O O B-LOC O O O B-LOC O
+"Čak i kada su svi već odustali od te priče , Trump je toliko zakuhao situaciju da je Bijela kuća morala javno izdati Obamin rodni list .",O O O O O O O O O O O B-PER O O O O O O B-LOC I-LOC O O O B-PER O O O
+"Čak i nakon tog poteza , Trump nije povjerovao u Obaminu nacionalnost .",O O O O O O B-PER O O O B-PER O O
+"Neki analitičari rekoše kako je čitava buka zapravo Trumpov trud da se istakne za iduće izbore .",O O O O O O O O B-PER O O O O O O O O
+"Gle vraga !",O O O
+"S razlogom nema podršku slavnih .",O O O O O O
+"Cher ga je na twitteru nazvala arogantnim i napornim šupkom egom veličine Texasa .",B-PER O O O B-MISC O O O O O O O B-LOC O
+"Mislili smo da je cilj svih kandidata osvojiti naklonost slavnih osoba .",O O O O O O O O O O O O
+"Zvijezda je reality showa , a mi NE volimo takve zvijezde .",O O O O O O O O O O O O
+"Osim ako su Tironi .",O O O B-PER O
+"E , šta je s Tironijem ?",O O O O O B-PER O
+"Trump je zvijezda reality showa “ Apprentice ” i to je razlog zbog kojeg većina Amera zna za njegovu tupeom vječno prekrivenu facu , ali čuti za nekoga i vjerovati u nekoga nije potpuno ista stvar .",B-PER O O O O O B-MISC O O O O O O O O B-ORG O O O O O O O O O O O O O O O O O O O O O
+"Hamdija je jedno vrijeme također bio popularan , ali to ne znači da bi bio dobar predsjednik .",B-PER O O O O O O O O O O O O O O O O O
+"Biste li Pravim kućanicama New Jerseya dali ključeve Bijele kuće ?",O O B-PER I-PER I-PER I-PER O O B-LOC I-LOC O
+"Moramo dodati kako Trump od TV mreže dobiva plaću za svoj angažman u realityu .",O O O B-PER O O O O O O O O O O O
+"Djud , ti bi trebao plaćati sve svima koji se pojavljuju u toj grozoti od programa .",O O O O O O O O O O O O O O O O O
+"Tko ne koristi bankomat ?",O O O O O
+"Tijekom gostovanja u Late Nightu Conana O ’ Briena izjavio je kako nikad nije koristio bankomat .",O O O O O O O O O O O O O O O O O
+"Mi ne vjerujemo ljudima koji nisu nikad čekali u redu , pogriješili pin triput ili bili u minusu .",O O O O O O O O O O O O O O O O O O O
+"Poslovi bankrotiraju , a Trump je netaknut .",O O O O B-PER O O O
+"Neki od njegovih brojnih poslova su bankrotirali , a on je i dalje netaknut i jedan je od 500 najbogatijih ljudi na svijetu prema Forbesu .",O O O O O O O O O O O O O O O O O O O O O O O O B-ORG O
+"Zašto neke svoje novce ne uloži u poslove kojima ne ide ?",O O O O O O O O O O O O
+"Zato što ne mora .",O O O O O
+"Najavom kandidature je ispao šu**k prema svima osim prema samome sebi .",O O O O O O O O O O O O
+"16. lipnja je u Trump tornju najavio kako se kandidira za predsjednika , a u svom govoru je uspio uvrijediti gotovo svakoga .",O O O O B-PER O O O O O O O O O O O O O O O O O O
+"Za “ susjede ” Meksikance je izjavio da su silovatelji i šverceri droge , ali da su neki od njih i dobri ljudi .",O O O O B-PER O O O O O O O O O O O O O O O O O O O
+"Kako bi pohvalio sebe istaknuo je da je prodao svoj dom “ nekom Kinezu ” .",O O O O O O O O O O O O O B-PER O O
+"Svašta smijete reći ako imate toliko keša kao Donald .",O O O O O O O O B-PER O
+"Nije zaboravio spomenuti koliko novaca ima i što je napravio dobro .",O O O O O O O O O O O O
+"One loše stvari je izostavio .",O O O O O O
+"Najvažnije od svega …",O O O O
+"Njegov glupi tupe .",O O O O
+"DONALD TRUMP : Hoće li se zabrana puštanja muslimana u SAD odnositi i na političare ?",B-PER I-PER O O O O O O O O B-LOC O O O O O
+"Zabrana puštanja muslimana u Sjedinjene Američke Države jedna je od stvari koje se Donald Trump čvrsto drži tijekom svoje kampanje , no hoće li se ona odnositi i na strane dužnosnike ?",O O O O B-LOC I-LOC I-LOC O O O O O O B-PER I-PER O O O O O O O O O O O O O O O O O
+"Donald Trump će se djelomično odreći svoje politike o zabrani puštanja muslimana u Sjedinjene Američke Države ukoliko postane predsjednik .",B-PER I-PER O O O O O O O O O O O B-LOC I-LOC I-LOC O O O O
+"Razlog je novoizabrani londonski gradonačelnik Sadiq Khan piše The New York Times .",O O O O O B-PER I-PER O B-ORG I-ORG I-ORG I-ORG O
+"Izgledni republikanski kandidat za predsjednika izašao je u javnost s ovim riječima samo nekoliko sati nakon što je londonski gradonačelnik u jednom intervju rekao da će posjetiti SAD prije siječnja iduće godine jer bi mu se mogao zabraniti ulazak u zemlju ukoliko Trump postane predsjednik .",O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O B-PER O O O
+"„ Ako Donald Trump postane predsjednik , neću moći posjetiti SAD zbog svoje vjere što znači da ne mogu uspostaviti suradnju s gradonačelnicima američkih gradova i s njima razmjenjivati ideje “ rekao je Khan u intervjuu .",O O B-PER I-PER O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O B-PER O O O
+"Čak je pokrenuta i međunarodna peticija koja je sakupila više od pola milijuna potpisa , i o kojoj se raspravljalo u britanskom parlamentu , kako bi se zauzvrat zabranio ulazak Trumpu u UK .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PER O B-LOC O
+"Većina parlamentaraca je ipak bila protiv toga govoreći da bi mu se trebao dopustiti ulazak u zemlju kako bi se njegove ideje mogle otvoreno raspravljati i diskreditirati .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Trump se od prosinca oštro zalaže za privremenu zabranu ulaska muslimana u SAD , ipak , u ponedjeljak je promijenio priču rekavši da je sretan što je Khan postao gradonačelnik engleske prijestolnice i da je on takva vrsta muslimana za koju bi mogao učiniti iznimku .",B-PER O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O B-PER O O O O O O O O O O O O O O O O O O
+"„ Uvijek će biti iznimki .",O O O O O O
+"Bio sam sretan kad sam vidio to .",O O O O O O O O
+"Mislim da je jako dobra stvar što je Khan postao gradonačelnik i nadam se da će raditi jako dobar posao jer iskreno to bi bila jako jako dobro “ rekao je .",O O O O O O O O B-PER O O O O O O O O O O O O O O O O O O O O O O O
+"Izvor :",O O
+"Ako Donald Trump i ne postane predsjednik SAD-a onda bi barem trebao biti ministar znanosti",O B-PER I-PER O O O O B-LOC O O O O O O O
+"Da , da , izgleda da će se dogoditi najgore , barem po stanovnike SAD-a , no nikada se ne zna .",O O O O O O O O O O O O O O B-LOC O O O O O O O
+"Duga ruka predsjedničkog kandidata Donalda Trumpa mogla bi biti znatno duža no što neki misle .",O O O O B-PER I-PER O O O O O O O O O O
+"Trump u svojoj predizbornoj kampanji lupeta li ga lupeta , no to ste vjerojatno i sami primijetili .",B-PER O O O O O O O O O O O O O O O O O
+"Na dnevnoj bazi uspije nadrobiti toliku količinu budalaština da bi učinio ponosnim i Uglavnom , ekipa New Scientista izdvojila je Trumpove umotvorine na polju znanosti , a što ga ovaj može lupetati …",O O O O O O O O O O O O O O O O B-ORG I-ORG O O B-PER O O O O O O O O O O O O
+"Imamo tako izjave da dječje cjepivo uzrokuje autizam , pa da vjetroelektrane truju ljude i sva sila sličnih gluparija .",O O O O O O O O O O O O O O O O O O O O
+"Pogledajte sami , nevjerojatno je .",O O O O O O
+"Donald Trump osvojio glasove Izbornog kolegija : nekoliko elektora promijenilo stranu",B-PER I-PER O O B-ORG I-ORG O O O O O
+"Trump je bez problema dobio više od 270 glasova , premda je čak šest elektora iznevjerilo tradiciju i glasovalo protiv ' instrukcija ' svoje savezne države .",B-PER O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Republikanac Donald Trump dobio je u ponedjeljak većinu glasova američkog Izbornog kolegija i time i formalno pobijedio na američkim predsjedničkim izborima održanim 8. studenoga .",B-PER B-PER I-PER O O O O O O O B-ORG I-ORG O O O O O O O O O O O O O
+"Trump je bez problema dobio više od 270 glasova potrebnih za pobjedu , premda je čak šest elektora iznevjerilo tradiciju i glasovalo protiv "" instrukcija "" svoje savezne države , što je najveći broj "" nevjernih elektora "" u više od stotinu godina .",B-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Američki elektori , njih 538 , u ponedjeljak su glasovali u svojim saveznim državama za novog , 45. američkog predsjednika .",O O O O O O O O O O O O O O O O O O O O O
+"Glasovanje je inače formalnost , no ove godine pod posebnim je povećalom javnosti nakon što su neki demokrati pozvali elektore da promijene mišljenje i podrže Clinton , koja je na izborima osvojila gotovo 2,9 milijuna glasova više od svog protivnika , izabranog američkog predsjednika Trumpa , ali je ipak izgubila zbog izbornog sustava po kojem je Trump osvojio više elektora .",O O O O O O O O O O O O O O O O O O O O O O O O O B-PER O O O O O O O O O O O O O O O O O O B-PER O O O O O O O O O O O B-PER O O O O
+"Dio demokratskih aktivista nadao se da će uvjeriti republikanske elektore da daju svoj glas Clinton , no na kraju je , međutim , više demokrata nego republikanaca promijenilo stranu .",O O O O O O O O O O O O O O B-PER O O O O O O O O O O O O O O O
+"Najmanje četiri demokratska elektora , čija je stranačka predsjednička kandidatkinja bila Clinton , svoje su glasove na Izbornom kolegiju dala nekome drugome , dok su dva republikanska elektora "" iznevjerila "" Trumpa .",O O O O O O O O O O O B-PER O O O O O B-ORG I-ORG O O O O O O O O O O O O B-PER O
+"Trojica demokratskih disidenata iz države Washington glasovala su za Colina Powella , bivšeg republikanskog državnog tajnika .",O O O O O B-LOC O O O B-PER I-PER O O O O O O
+"U Maineu , demokratski elektor David Bright svoj je glas dao senatoru Bernieju Sandersu iz Vermonta , Clintoninu suparniku za stranačku nominaciju .",O B-LOC O O O B-PER I-PER O O O O O B-PER I-PER O B-LOC O B-PER O O O O O
+"Time su naglasili postojanje dubokih podjela unutar stranke i učinkovito srezali sve nade nekih aktivista u obrat prema scenariju u kojemu bi se neki od Trumpovih republikanaca mogli u posljednji trenutak predomisliti i podržati Clinton .",O O O O O O O O O O O O O O O O O O O O O O O O O B-PER O O O O O O O O B-PER O
+"Odluka šestero elektora da promijene stranu predstavlja rijedak iskorak od tradicije – a u mnogim državama i zakonske obveze – glasovanja na Izbornome kolegiju prema izbornom rezultatu kandidata u toj državi .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Prema podacima organizacije Fairvote.org , riječ je o najvećem broju elektora koji su odlučili ne podržati kandidata svoje stranke još od 1872. , kada 63 demokratska elektora nisu glasovala za svog stranačkog kandidata Horacea Greeleyja , koji je umro nakon izbora ali prije sazivanja Izbornog kolegija .",O O O B-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-ORG I-ORG O
+"Pobijedio je republikanac Ulysses S. Grant .",O O B-PER B-PER I-PER I-PER O
+"Nakon što su prebrojani gotovo svi glasovi , Trump je osvojio 304 elektorska glasa , a Clinton 224 , što Trumpu i formalno osigurava ulazak u Bijelu kuću - newyorški biznismen u fotelju 45. predsjednika Sjedinjenih Država trebao bi zasjesti 20. siječnja 2017.",O O O O O O O O B-PER O O O O O O O B-PER O O O B-PER O O O O O B-LOC I-LOC O O O O O O O B-LOC I-LOC O O O O O O
+"Iako je osvojila gotovo 2,9 milijuna glasova više od Trumpa , Clinton je ipak izgubila izbore zbog izbornog sustava po kojemu je Trump osvojio više elektora .",O O O O O O O O O B-PER O B-PER O O O O O O O O O O B-PER O O O O
+"To je izazvalo brojne polemike oko uloge Izbornog kolegija uspostavljenog 1787.",O O O O O O O B-ORG I-ORG O O
+"Da bi bio potvrđen , kandidat mora prikupiti 270 glasova elektora .",O O O O O O O O O O O O
+"Glasovi Izbornog kolegija službeno će se prebrojavati na zajedničkom zasjedanju 6. siječnja , dva tjedna prije inauguracije .",O B-ORG I-ORG O O O O O O O O O O O O O O O
+"Donald Trump je novi predsjednik SAD-a !",B-PER I-PER O O O B-LOC O
+"Donald Trump je novi predsjednik SAD-a !",B-PER I-PER O O O B-LOC O
+"Republikanski kandidat ima 276 elektora , a za pobjedu mu je bilo potrebno 270.",O O O O O O O O O O O O O O
+"Republikanski kandidat Donald Trump pobijedio je Hillary Clinton na predsjedničkim izborima u Americi !",O O B-PER I-PER O O B-PER I-PER O O O O B-LOC O
+"U ovom trenutku , prema prvim rezultatima , Trump ima 276 elektora , a za trijumf mu je bilo potrebno 270.",O O O O O O O O B-PER O O O O O O O O O O O O
+"Hillary Clinton pak ima 218 elektora .",B-PER I-PER O O O O O
+"Ranije objavljeno : Rano jutros se čini da će Donald Trump postati novi predsjednik SAD-a !",O O O O O O O O O B-PER I-PER O O O B-LOC O
+"Naime , prema najnovijoj projekciji CNN-a Donald Trump ima 244 , a Hillary Clinton 215 elektorskih glasova , a isti omjer navodi Guardian .",O O O O O B-ORG B-PER I-PER O O O O B-PER I-PER O O O O O O O O B-ORG O
+"Po Reutersovoj projekciji republikanski kandidat Trump ima 240 , a demokratska kandidatkinja Clinton 215 elektorskih glasova .",O B-ORG O O O B-PER O O O O O O B-PER O O O O
+"Ravno Do Dna Amy Schumer : Napustit ću zemlju ako Donald Trump bude izabran za predsjednika",O O O B-PER I-PER O O O O O B-PER I-PER O O O O
+"“ Moj će se nastup promijeniti jer ću morati naučiti španjolski , budući da ću se preseliti u Španjolsku , ili već negdje .",O O O O O O O O O O O O O O O O O O B-LOC O O O O O
+"Ne mogu pojmiti da bi Trump mogao pobijediti , to je prenenormalno ” , rekla je Amy Schumer , te dodala kako je demokratska kandidatkinja Hillary Clinton nepravedno kritizirana . “ Nisam još razgovarala s nekim tko ne voli Hillary , a da je imao nešto smisleno za reći .",O O O O O B-PER O O O O O O O O O O B-PER I-PER O O O O O O O B-PER I-PER O O O O O O O O O O O O B-PER O O O O O O O O O O
+"Mislim da ju napadaju zato što nije onakva kakvu oni zamišljaju da bi žena trebala biti .",O O O O O O O O O O O O O O O O O
+"Ljute se na nju što ne peče kolačiće , ne sviđa im se kako se odijeva i kako govori .",O O O O O O O O O O O O O O O O O O O O
+"Sve im je važnije od teme kakva bi ona bila kao predsjednica ” , negodovala je Schumer u razgovoru za BBC Newsnight .",O O O O O O O O O O O O O O O O B-PER O O O B-MISC I-MISC O
+"Glumica je u intervjuu rekla i da joj je ugodno što ju se predstavlja kao feministicu i komičarku , objasnivši što za nju znači feminizam .",O O O O O O O O O O O O O O O O O O O O O O O O O O
+"“ To znači samo ravnopravnost za žene .",O O O O O O O O
+"Ali mislim da ta riječ ima različito značenje za različite ljude .",O O O O O O O O O O O O
+"Znaju me pitati : ti nisi feministica , zar ne ? …",O O O O O O O O O O O O
+"Pa naravno da jesam .",O O O O O
+"Naravno da želim jednaka prava za žene .",O O O O O O O O
+"Feminizam znači samo društvenu , političku i ekonomsku jednakost za žene .",O O O O O O O O O O O O
+"Jako se ugodno osjećam kada o sebi govorim kao o komičarki i feministici , jer to su dvije riječi koje me potpuno definiraju ” , objasnila je Schumer .",O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PER O
+"Prošloga tjedna na nastupu u Švedskoj Schumer je , nakon seksističkih povika jednog gledatelja koji joj je doviknuo “ pokaži nam sise ” , prekinula nastup kako bi identificirala seksistu i objasnila mu da će biti izbačen ako nastavi s primitivnim upadicama .",O O O O O B-LOC B-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Ovo nije prvi puta da se Amy Schumer susrela sa seksizmom usmjerenim prema njoj osobno .",O O O O O O B-PER I-PER O O O O O O O O
+"U siječnju je tako prozvala tinejdžera koji je zbijao seksističke pošalice o njoj na Twitteru .",O O O O O O O O O O O O O O B-MISC O
+"Donald Trump - Crno ili bijelo",B-PER I-PER O O O O
+"I dalje živimo u dobu Hollywooda .",O O O O O B-LOC O
+"Predsjednik SAD-a jednom je već bio glumac Ronald Reagan , a sad nas čeka Donald Trump .",O B-LOC O O O O O B-PER I-PER O O O O O B-PER I-PER O
+"Bit će to predsjednik s dugim stažem u reality showu koji je iznimno vješt u primjenjivanju tajni showbiz zanata na američkoj javnoj sceni .",O O O O O O O O O O O O O O O O O O O O O O O O
+"Hollywood voli simplificirati život , uvijek se zna tko su dobri momci , a tko loši .",B-LOC O O O O O O O O O O O O O O O O
+"Hollywoodski scenarist , producent i redatelj Paul Haggis jednom je govoreći o manjku realističnih ženskih likova u američkim filmovima rekao : "" ... jako nam se sviđa ' stavljati ljude u kutije ' ( klasificirati ih prema nekoj stvarnoj ili pretpostavljenoj crti ličnosti ili / i fizičkom izgledu , staviti nekoga u kalup , op. a. ) .",O O O O O O B-PER I-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Kao muškarci , mi to radimo zato što ne razumijemo likove koji nisu mi sami i nismo spremni staviti se u kožu takvih likova ... "" Iako bi se na prvo čitanje moglo pomisliti da se radi o nekom scenaristu starije generacije , Paul Haggis dio je suvremene mašinerije "" tvornice snova "" .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PER I-PER O O O O O O O O O
+"Ta potreba da se ljude stavlja u kutije odlično se očituje u hollywoodskom portretiranju Indijanaca .",O O O O O O O O O O O O O O B-PER O
+"Američki su starosjedioci od vremena kad su se prvi put pojavili na filmskom platnu do danas , prošli dug put od "" crvenih divljaka "" koji jašući na konjima i vrišteći iz sveg glasa ganjaju karavane bijelih doseljenika , do mudraca koji uživaju u skladnom prirodnom životu dok se ne pojave "" zločesti "" bijelci .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Američki Indijanci uspjeli su skočiti iz kutije u kutiju .",O B-PER O O O O O O O O
+"Iz kategorije loših dečki – "" the bad guys "" , u kategoriju dobrih momaka - "" the good guys "" .",O O O O O O O O O O O O O O O O O O O O O O
+"Naravno , sve pripadnike raznovrsnih etničkih skupina koje jednim imenom zovemo Indijanci ili bilo koji drugu skupinu ljudi , nemoguće je svrstati u neku određenu kategoriju po nekoj navodno zajedničkoj osobini , no ovaj nam primjer jasno dočarava kako stvari u Americi u suštini izgledaju .",O O O O O O O O O O O B-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O
+"Amerikanci su kroz svoju "" Showbiz "" kulturu uvjetovani da stvari gledaju pojednostavljeno , crno ili bijelo .",B-PER O O O O O O O O O O O O O O O O O
+"Termin "" dumbing down "" skovan je u Americi da bi se opisala pojava prekomjernog pojednostavljivanja nekog intelektualnog sadržaja do razine na kojem ga mogu shvatiti i oni koji to inače ne bi mogli .",O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Prosječni Amerikanac naučen je na pojednostavljivanje i funkcionira u svijetu KISS principa ( skraćenica za "" Keep it simple stupid ! "" , grubo prevedeno "" Ne kompliciraj , glupane ! "" I tu dolazimo do Donalda Trumpa .",O B-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PER I-PER O
+"Čovjeka koji je idealno iskoristio američku sklonost stavljanju ljudi u kutije i pojednostavljivanju .",O O O O O O O O O O O O O O
+"Iz svega što je on govorio i činio , velika većina medija koji su vjerno pratili svaki njegov nastup pronalazila je i isticala niz negativnosti na koje se on u svojim obraćanjima javnosti osvrtao i svim ga silama trudila prikazati kao jednog od loših momaka .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"No što su u isto vrijeme vidjeli i čuli oni koji su na kraju glasali za njega i donijeli mu pobjedu na izborima , a to su prema demografskoj slici objavljenoj poslije izbora muškarci , starije osobe i bijelci ?",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Oni su od Trumpa čuli i vidjeli jasnu , crno-bijelu sliku u kojoj su američki radnici dobri momci kojima pokvareni političari uzimaju radna mjesta i daju ih lošim momcima negdje u inozemstvu .",O O O B-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Vidjeli su sliku dobrih američkih dečki kako kao vojnici ginu u ratovima po Bliskom istoku dok u isto vrijeme loši , nesposobni i nezahvalni vođe ne znaju iskoristiti plodove njihove žrtve za dobro Amerike .",O O O O O O O O O O O O O B-LOC I-LOC O O O O O O O O O O O O O O O O O O B-LOC O
+"Trump će unatoč tome što je negativac za velik dio nacije i kao predsjednik zasigurno imati uspjeha kod tzv. američkog običnog čovjeka , dok god će mu polaziti za rukom tim ljudima obraćati se na način na koji su navikli i koji razumiju tj. dok god će uspijevati jasno povući crtu između dobrih i loših momaka .",B-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Druga je velika prednost Donalda Trumpa kod prosječnih Amerikanaca što su njegove poruke jasne i dosljedne .",O O O O B-PER I-PER O O B-PER O O O O O O O O
+"YouTube obiluje snimkama njegovih intervjua iz osamdesetih godina prošlog stoljeća u kojima govori praktički iste stvari koje je govorio u protekloj predsjedničkoj kampanji .",B-MISC O O O O O O O O O O O O O O O O O O O O O O O
+"Njegovi glasači naprosto nisu mogli krivo shvatiti ciljeve njegove politike jer je jednostavna , jasno razumljiva i ista kao što je bila prije trideset godina .",O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Trump nije komplicirao .",B-PER O O O
+"Što dakle možemo od Trumpa očekivati kad sljedeće godine useli u Bijelu kuću i službeno postane američki predsjednik ?",O O O O B-PER O O O O O O B-LOC I-LOC O O O O O O
+"Nikad se ne zna no teško je očekivati da će čovjek koji je više od trideset godina zastupao iste stavove od njih jednostavno odustati .",O O O O O O O O O O O O O O O O O O O O O O O O O
+"On jednostavno nije čovjek koji će iz crnog prijeći u sivo , a kamoli u bijelo .",O O O O O O O O O O O O O O O O O
+"Mnogo naravno ovisi o suradnicima kojima će se okružiti kad preuzme administraciju no nije vjerojatno da će pod nečijim utjecajem Trump značajnije odstupiti od svojih uvjerenja .",O O O O O O O O O O O O O O O O O O O O B-PER O O O O O O
+"Budućnost možemo dakle lako iščitati iz njegovih predizbornih govora no hoće li svoje zamisli uspjeti realizirati i kakve će posljedice njegovi pokušaji da implementira svoju politiku imati na Ameriku i svijet , to nije tako jednostavno predvidjeti . * Vedran Pintarić diplomirao je na Učiteljskom fakultetu Sveučilišta u Zagrebu , u svojim tekstovima i radovima bavi se obrazovnom i društveno-političkom tematikom .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"DONALD TRUMP : Teroristi moraju biti izbrisani s lica zemlje",B-PER I-PER O O O O O O O O
+"“ Naša srca i naše molitve su s obiteljima žrtava strašnog napada u Berlinu .",O O O O O O O O O O O O O B-LOC O
+"Nevini civili su brutalno ubijeni na ulici dok su se pripremali za proslavu Božića ” , napisao je Trump u izjavi koju je objavio javnosti .",O O O O O O O O O O O O O B-MISC O O O O B-PER O O O O O O O
+"Novoizabrani američki predsjednik dodao je da ISIS i ostale islamse terorističke skupine kontinuriano ubijaju kršćane te napadaju mjesta gdje se okupljaju . “ Ti teroristi te njihovi sljedbenici moraju biti izbrisani s lica zemlje !",O O O O O O B-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"Tu misiju ćemo mi provesti , zajedno s našim partnerima ” , stoji u izjavi .",O O O O O O O O O O O O O O O O
+"Trump se oglasio i na svom Twitter profilu , gdje je napisao da ća “ biti samo još gore , te da civilizirani svijet mora promijeniti svoj način razmišljanja ” , prenosi Media servis .",B-PER O O O O O B-MISC O O O O O O O O O O O O O O O O O O O O O O O O O B-ORG I-ORG O

@@ -1,0 +1,688 @@
+index,sentence,ner
+690,"Slavná kniha amerického prezidentského kandidáta , kde říká : „ Nastal čas navrátit Ameriku jejím právoplatným majitelům – americkému lidu .",O O O O O O O O O O O O O O O O O O O O O
+207,Takzvaný Spoločný konsolidovaný základ dane z príjmov právnických osôb ( Common Consolidated Corporate Tax Base - CCCTB ) má uľahčiť podnikanie na jednotnom trhu a slúžiť ako účinný nástroj proti vyhýbaniu sa daňovým povinnostiam .,O B-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC O B-MISC I-MISC I-MISC I-MISC I-MISC O B-MISC O O O O O O O O O O O O O O O O O O
+455,Blahoželám Donaldovi Trumpovi k víťazstvu vo voľbách .,O B-PER I-PER O O O O O
+226,"Ostatné banky , ktoré boli súčasťou kartelu , teda Barclays , Deutsche Bank , RBS a Société Générale v decembri 2013 priznali svoje pochybenia a akceptovali vyrovnanie .",O O O O O O O O O B-ORG O B-ORG I-ORG O B-ORG O B-ORG I-ORG O O O O O O O O O O
+534,"Prečítala som pár stránok a všimla som si , že kdekoľvek som knižku otvorila , oslovili ma slová , príbeh a samotný postoj až tak , že som si knižku ihneď kúpila .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+470,"Následne investoval do hotelov , kasín a luxusných bytov .",O O O O O O O O O O
+122,"V apríli som vyzval komisárku pre hospodársku súťaž Margrethe Vestagerovú na preskúmanie štátnej pomoci , ktorú vláda Slovenskej republiky plánuje poskytnúť spoločnosti Váhostav .",O O O O O O O O B-PER I-PER O O O O O O O B-LOC I-LOC O O O B-ORG O
+604,"Donald Trump v Kallstadte nikdy nebol , za to tam ale bol pred rokmi na návšteve jeden jeho blízky príbuzný z USA .",B-PER I-PER O B-LOC O O O O O O O O O O O O O O O O O B-LOC O
+192,Uskutočnia sa rokovania s členmi vlády Slovenskej republiky .,O O O O O O B-LOC I-LOC O
+339,Zika vírus bol vyhlásený 1 . februára 2016,B-MISC O O O O O O O
+47,eur ) .,O O O
+802,Donald Trump za republikánov a Clintonová sa demokratov sa stretnú v prezidentských voľbách .,B-PER I-PER O B-ORG O B-PER O B-ORG O O O O O O
+19,Čo si myslí podpredseda vlády Peter Pellegrini o bielych miestach ( otázka začína v čase 1 :17 ) :,O O O O O B-PER I-PER O O O O O O O O O O O O
+411,"Hoci ešte nemá víťazstvo v hrsti a stále ho čaká viacero prekážok na ceste do Bieleho domu ( stále je v prieskumoch až za Hillary Clintonovou a Berniem Sandersom ) , Trumpov vzostup prináša zároveň úvahy , či jeho potenciálne zvolenie nebude mať negatívny vplyv na americkú ekonomiku .",O O O O O O O O O O O O O O O B-LOC I-LOC O O O O O O O B-PER I-PER O B-PER I-PER O O B-PER O O O O O O O O O O O O O O O O O
+752,"“ Tých , ktorí chcú nahradiť Asada , nikto nepozná .",O O O O O O B-PER O O O O
+555,Trump si ďalej z radov republikánskych politických veteránov vybral aj svojho favorita na post nového ministra dopravy .,B-PER O O O O O O O O O O O O O O O O O
+353,"Pobrežná stráž na Floride totiž vyhlásila od dnes 16 . decembra do 3 . januára bezpečnostnú zónu v okolí Mar-a-Lago Club , Trumpovho sídla v Palm Beach .",O O O B-LOC O O O O O O O O O O O O O O O B-LOC I-LOC O B-PER O O B-LOC I-LOC O
+298,Zdroj :,O O
+678,(,O
+63,Prvou bola stratégia pre baltský región a v súčasnosti sú schválené ďalšie dve stratégie – jadransko-jónska a alpská .,O O O O O O O O O O O O O O O O O O O
+31,Moedas prejavil záujem vytvoriť túto inštitúciu už v júni 2015 .,I-PER O O O O O O O O O O
+374,sk,O
+376,"Američania , ktorí nemajú radi Donalda Trumpa , stále dúfajú v zázrak .",B-PER O O O O B-PER I-PER O O O O O O
+283,"Európska komisia : Facebook mohol automaticky prepájať dáta z WhatsApp už od roku 2014 | TOUCHIT EK obviňuje Facebook zo zatajovania informácií , za čo firme hrozí pokuta vo výške 180 miliónov dolárov .",B-ORG I-ORG O B-ORG O O O O O B-ORG O O O O O B-ORG B-ORG O B-ORG O O O O O O O O O O O O O O O
+686,Tato kniha začíná výčtem jednoho týdne v Trumpově životě .,O O O O O O O B-PER O O
+9,Úrad vlády je prostredníctvom Národnej agentúry pre sieťové a elektronické služby ( NASES ) prevádzkovateľom siete Govnet .,B-ORG I-ORG O O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG O B-ORG O O O B-MISC O
+559,"Podľa zákonov Slovenskej republiky sme povinní na požiadanie orgánov činných v trestnom konaní poskytnúť im všetky informácie zozbierané o vás systémom ( IP adresu , mail , vaše príspevky atď . )",O O B-LOC I-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+643,Medzi obeťami by podľa ministerstva zahraničia nemali byť Slováci .,O O O O O O O O B-PER O
+493,Trump si musí nacvičiť aj reakciu na teroristické útoky Washington 20 . decembra ( TASR ) – Víťazstvo Donalda Trumpa v prezidentských voľbách potvrdil v pondelok aj Zbor voliteľov a nastupujúci prezident tak môže v pokoji pokračovať v prípravách na prevzatie funkcie .,B-PER O O O O O O O O B-LOC O O O O B-ORG O O O B-PER I-PER O O O O O O O O O O O O O O O O O O O O O O O
+240,"Zároveň potrebujeme posilniť náš boj proti vyhýbaniu sa daňovým povinnostiam , ktorý znamená skutočnú zmenu , "" zdôraznil komisár .",O O O O O O O O O O O O O O O O O O O O
+218,"Brusel očakáva , že na spoločnom daňovom základe sa dokážu členské štáty dohodnúť rýchlo , čím sprístupnia hlavné výhody pre podniky a členské štáty .",B-LOC O O O O O O O O O O O O O O O O O O O O O O O O
+450,Informovala o tom dnes agentúra AP .,O O O O O B-ORG O
+286,"Teraz , keď Facebook začal zdieľať dáta medzi WhatsApp a Facebookom , sa EK znovu na celú problematiku pozrela a tvrdí , že Facebook mal túto možnosť už od kúpy WhatsAppu v roku 2014 , len to zatajil .",O O O B-ORG O O O O B-ORG O B-ORG O O B-ORG O O O O O O O O O B-ORG O O O O O O B-ORG O O O O O O O O
+557,Donald Trump je definitívne zvolený za prezidenta - Hlavné správy Varovanie .,B-PER I-PER O O O O O O O O O O
+396,"Zbor voliteľov sa dnes neschádza ako zbor na jednom mieste , ale volitelia v každom táte sa zídu a budú hlasovať v Kapitole daného tátu , teda v sídle zákonodarcov tátu .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+127,"Investori , ktorí uvažujú o príchode na Slovensko môžu byť zneistení a v konečnom dôsledku tým utrpí naša zamestnanosť a hospodársky rast .",O O O O O O O B-LOC O O O O O O O O O O O O O O O
+269,"Briti budú 23 . júna v referende hlasovať , či krajina zostane členom EÚ .",B-PER O O O O O O O O O O O O B-LOC O
+219,"Krátko nato by sa mala zaviesť konsolidácia , ktorá by umožnila využívať všetky výhody dokončeného systému .",O O O O O O O O O O O O O O O O O
+194,Predseda Európskej komisie Jean-Claude Juncker sa stretne aj s predsedom Národnej rady Slovenskej republiky Andrejom Dankom .,O B-ORG I-ORG B-PER I-PER O O O O O B-ORG I-ORG I-ORG I-ORG B-PER I-PER O
+15,"Súčasne vyzvali podpredsedu vlády pre investície a informatizáciu Petra Pellegriniho , aby dohliadol na prešetrenie existujúcich sťažností voči projektu a v prípade ich opodstatnenosti dohliadol na zabezpečenie nápravy .",O O O O O O O O B-PER I-PER O O O O O O O O O O O O O O O O O O O
+175,"Európska komisia chce zaviesť elektronický systém kontroly cestujúcich - 24hod . sk Brusel 16 . novembra ( TASR ) - Európska komisia ( EK ) predložila dnes návrh na vytvorenie Cestovného a informačného autorizačného systému EÚ ( ETIAS ) , ktorého cieľom je zhromažďovať informácie o všetkých cestujúcich , ktorí do krajín Európskej únie cestujú bez víz .",B-ORG I-ORG O O O O O O O B-ORG I-ORG I-ORG O O O O O B-ORG O O B-ORG I-ORG O B-ORG O O O O O O B-MISC I-MISC I-MISC I-MISC I-MISC I-MISC O B-MISC O O O O O O O O O O O O O O B-LOC I-LOC O O O O
+638,"Polícia predpokladá , že útok na berlínskych vianočných trhoch bol úmyselný .",O O O O O O O O O O O O
+683,"Mnohí dnes čakajú , že v starobe či chorobe sa niekto o nich postará .",O O O O O O O O O O O O O O O
+289,Komisárka Margrethe,O B-PER
+32,"Cieľom je zvýšiť dopad európskych výskumných a inovačných programov podporou inovatívnych start-upov a podporou SMEs , aby boli schopné rásť na podniky schopné celosvetovej konkurencie .",O O O O O O O O O O O O O O O O O O O O O O O O O O
+479,"Trump bol dvakrát za spomínanú šou Apprentice nominovaný na cenu Emmy ( 2004 , 2005 ) .",B-PER O O O O O B-MISC O O O B-MISC O O O O O O
+799,"Times napísal , že bola v tejto úlohe „ viac ako dôveryhodná “ s našpúlenými perami , visiacim bruchom a autentickým hlasom .",I-ORG O O O O O O O O O O O O O O O O O O O O O O
+525,""" Nebude ich nútiť k mieru proti ich vôli , to musí vyjsť od nich , "" dodal .",O O O O O O O O O O O O O O O O O O O
+272,O pláne,O O
+156,Komisia súbežne s výzvou zverejnila aj tohtoročný pracovný program plus jeho dodatok a programového sprievodcu . . .,O O O O O O O O O O O O O O O O O O
+622,"Založila si Immobilien-firmu E . Trump § Son , základ neskoršieho obrovského finančného impéria Donalda Trumpa .",O O O B-ORG I-ORG I-ORG I-ORG I-ORG O O O O O O B-PER I-PER O
+384,"táty by podľa tvorcov tohto systému nemali mať pri výbere prezidenta slabé slovo len preto , že majú málo obyvateľov .",O O O O O O O O O O O O O O O O O O O O O
+627,A v Kallstadte tak budú robiť všetci .,O O B-LOC O O O O O
+608,"Ten vyrazil len ako 16-ročný , celkom na vlastnú päsť , v jedno skoré ráno na ďalekú cestu , len sám , do ďalekej Ameriky .",O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O
+322,"Credit Agricole dostal pokutu 114 , 6 mil . eur a britskú banku HSBC komisia pokutovala sumou 33 , 6 mil . eur .",O O O O O O O O O O O O O B-ORG O O O O O O O O O O
+646,"Zvýšila sa prítomnosť polície v uliciach , informáciu o bezprostrednom ohrození Slovenska nemáme .",O O O O O O O O O O O B-LOC O O
+224,Dôvodom bola manipulácia s referenčnou úrokovou sadzbou Euro Interbank Offered Rate ( Euribor ) kartelom siedmich bánk v rokoch 2005 až 2008 .,O O O O O O O O O O O O O O O O O O O O O O O
+341,Európska komisia vyčleňuje 10 miliónov Euro na urgentný výskum vírusu Zika pre podozrenie v súvislosti s vzostupom prípadov vážnych vrodených chýb mozgu po celej Latinskej Amerike .,B-ORG I-ORG O O O O O O O O B-MISC O O O O O O O O O O O O O B-LOC I-LOC O
+355,"Floridské médiá si preto tipujú , že budúci prezident tam zavíta znovu .",O O O O O O O O O O O O O
+317,Zdroj : TASR/AP .,O O O O
+620,Po niekoľkých rokoch však Friedrich ochorel a zomrel .,O O O O B-PER O O O O
+99,K poslednej zmene v zložení Komisie došlo po pristúpení Chorvátska v júli 2013 .,O O O O O O O O O B-LOC O O O O
+386,V týchto voľbách to pripadlo na 19 . decembra .,O O O O O O O O O O
+474,"V rokoch 1977-1991 bol Donald Trump ženatý s českou emigrantkou Ivanou Zelníčkovou , s ktorou má synov Donalda ( 1977 ) a Erica ( 1984 ) a dcéru Ivanku ( 1981 ) .",O O O O B-PER I-PER O O O O B-PER I-PER O O O O O B-PER O O O O B-PER O O O O O B-PER O O O O
+297,"A ešte sa len ukáže , čo toto vyšetrovanie bude v konečnom dôsledku znamenať pre zdieľanie dát medzi WhatsAppom a Facebookom na pôde Európskej únie .",O O O O O O O O O O O O O O O O O O B-ORG O B-ORG O O B-LOC I-LOC O
+238,"Návrh reaguje na obavy podnikov i občanov Obnoveným návrhom CCCTB komisia reaguje naraz na obavy podnikov aj na obavy občanov , dodal komisár pre hospodárske a finančné záležitosti Pierre Moscovici .",O O O O O O O O O B-MISC O O O O O O O O O O O O O O O O O O B-PER I-PER O
+110,Členovia EÚ nesú naďalej plnú zodpovednosť za vydávanie dokladov totožnosti .,O B-LOC O O O O O O O O O
+855,Tieto udalosti dokonca predpovedali aj Simpsonovci :,O O O O O B-MISC O
+17,"Itapa reagoval , že má záujem , aby nedošlo k narušeniu hospodárskej súťaže a neboli z verejných financií suplované veci , ktoré má robiť biznis .",B-MISC O O O O O O O O O O O O O O O O O O O O O O O O O
+13,"Rovnako ale nie je ani potvrdenie , že k pochybeniam na strane slovenských úradov nakoniec nedošlo .",O O O O O O O O O O O O O O O O O
+853,Dokonca aj oficiálny twitter Kanady posiela správu obyvateľom USA :,O O O O B-LOC O O O B-LOC O
+223,"Európska komisia udelila trom bankám pokutu 485 miliónov eur - Ekonomika - TERAZ . sk Brusel 7 . decembra ( TASR ) - Európska komisia ( EK ) udelila bankám Crédit Agricole , HSBC a JPMorgan Chase pokutu v celkovej výške 485 miliónov eur , uviedla dnes komisia .",B-ORG I-ORG O O O O O O O O O O B-ORG I-ORG I-ORG B-LOC O O O O B-ORG O O B-ORG I-ORG O B-ORG O O O B-ORG I-ORG O B-ORG O B-ORG I-ORG O O O O O O O O O O O O
+549,Napísala to agentúra AP s odvolaním sa na nemenovaný zdroj z prostredia republikánov .,O O O B-ORG O O O O O O O O B-ORG O
+518,"Podľa Greenblattovho vyjadrenia pre Times of Israel sa nová americká vláda bude snažiť vyriešiť izraelsko-palestínsky konflikt , ale bez toho , aby na niektorú z jeho strán vyvíjala tlak .",O B-PER O O B-ORG I-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O O O
+259,Tento cieľ sa uvádza v oznámení o ďalšom napredovaní k dosiahnutiu účinnej a udržateľnej bezpečnostnej únie v EÚ a potvrdil ho aj predseda Komisie Juncker vo svojom prejave o stave Únie .,O O O O O O O O O O O O O O O O O B-LOC O O O O O O B-PER O O O O O O O
+62,Stratégia EÚ pre dunajský región ( EUSDR alebo dunajská stratégia ) bola schválená Európskou radou v roku 2011 ako druhá z radu makroregionálnych stratégií .,O B-LOC O O O O B-MISC O B-MISC I-MISC O O O B-ORG I-ORG O O O O O O O O O O
+28,"Pripomeňme , že k zoznamu lokalít sa mali vyjadrovať aj operátori – a to tak , či ich plánujú pokryť vo vlastnej réžii .",O O O O O O O O O O O O O O O O O O O O O O O O
+57,"Okrem nich sa očakáva účasť ministrov Petra Plavčana a Lászlóa Sólymosa , ako aj predsedu Medzinárodnej komisie pre ochranu rieky Dunaj ( ICPDR ) Petra J . Kalasa .",O O O O O O B-PER I-PER O B-PER I-PER O O O O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG O B-ORG O B-PER I-PER I-PER I-PER O
+779,Modlitba je teda skutočná .,O O O O O
+213,"Obmedzenie takéhoto zvýhodňovania , ktoré škodí hospodárskemu rastu a investíciám , by znamenalo dôležitý krok smerom k plánovanej únii kapitálových trhov v EÚ , spresnil Dombrovskis .",O O O O O O O O O O O O O O O O O O O O O O B-LOC O O B-PER O
+5,"Možno štvrtina , všetko aj nič .",O O O O O O O
+180,"Sfunkčnenie systému prispeje k efektívnejšiemu riadeniu vonkajších hraníc EÚ a zlepší vnútornú bezpečnosť , čo znamená návrat k normálnemu režimu bez kontrol na vnútorných hraniciach Schengenu .",O O O O O O O O B-LOC O O O O O O O O O O O O O O O O B-LOC O
+516,"Izrael a Spojené štáty sú blízkymi spojencami , ale vzťahy medzi dosluhujúcim prezidentom USA Barackom Obamom a izraelským premiérom Benjaminom Netanjahuom boli často napäté najmä kvôli izraelskej politike voči Palestínčanom .",B-LOC O B-LOC I-LOC O O O O O O O O O B-LOC B-PER I-PER O O O B-PER I-PER O O O O O O O O B-PER O
+760,Trump je kritikom politiky súčasného amerického prezidenta Baracka Obamu a jeho názory na ruské postupy v Sýrii tvrdo odmieta .,B-PER O O O O O O B-PER I-PER O O O O O O O B-LOC O O O
+191,Celé kolégium európskych komisárov zasadne už dnes 1 . júla 2016 v Bratislave .,O O O O O O O O O O O O B-LOC O
+834,""" To je tak ignorantské , až to volá do neba , "" reagovala Hillary Clinton na Twitteri .",O O O O O O O O O O O O O O B-PER I-PER O B-MISC O
+16,Vicepremiér v júni na konferencii,O O O O O
+668,ÚPSVR :,B-ORG O
+220,"© 2016 , Autorské práva SITA a . s . a zmluvné agentúry .",O O O O O B-ORG I-ORG I-ORG I-ORG I-ORG O O O O
+585,"Hlavné mesto Holandska , v súlade s novou stratégiou vlády , chce znížiť závislosť na zemnom plyne do roku 2050 .",O O B-LOC O O O O O O O O O O O O O O O O O O
+387,"Volitelia za zaväzujú hlasovať za toho kandidáta , ktorý v ich táte vyhral v hlasovaní voličov .",O O O O O O O O O O O O O O O O O
+504,"Bezpečnostní experti Barackovi Obamovi a jeho poradcom vysvetlili , ako treba počas takýchto útokov reagovať .",O O B-PER I-PER O O O O O O O O O O O O
+776,"Ak by to celé bola len hra a svoje okolie by skutočne neprijal , namiesto sklonenia hlavy by sa hrudníkom odťahoval vzad .",O O O O O O O O O O O O O O O O O O O O O O O
+51,eur predstavujú zdroje na technickú pomoc v rámci prioritnej osi 5 .,O O O O O O O O O O O O
+669,"Miera evidovanej nezamestnanosti v novembri klesla na 8 , 78 % . Talianska vláda si plánuje požičať 20 miliárd eur na stabilizáciu problémových bánk .",O O O O O O O O O O O O O O O O O O O O O O O O O
+112,"K téme sa vyjadril Julian King , eurokomisár pre bezpečnostnú úniu .",O O O O B-PER I-PER O O O O O O
+334,"Komisia takisto ľutuje , že kapacita zásobníkov nebola obmedzená na maximum desať nábojov pre všetky poloautomatické strelné zbrane .",O O O O O O O O O O O O O O O O O O O
+74,"Správa uvádza tri indikátory , ktorými popisuje neefektívnosť slovenského zdravotníctva : vysoký počet návštev u lekára ( 11 , 0 vs . 6 , 8 v EÚ , Eurostat 2011 ) nízka obložnosť akútnych postelí ( 67 , 3 % vs . 74 , 6 % , OECD 2012 ) vysoký počet akútnych postelí ( 4 , 5 vs . 3 , 6 / 1 000 obyvateľov , Eurostat )",O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O B-ORG O O O O O O O O O O O O O O O O O O B-ORG O O O O O O O O O O O O O O O O O O O O B-ORG O
+577,"Miliardár , ktorý je ikonou súkromného vlastníctva , by mohol pokračovať v spore obrátením sa na Európsky súdny dvor .",O O O O O O O O O O O O O O O O B-ORG I-ORG I-ORG O
+266,"B pre prípad odchodu Británie z EÚ | TVnoviny . sk Európska komisia nemá pripravený nijaký "" plán B "" pre prípad , že by Briti v júni odhlasovali odchod krajiny z EÚ .",O O O O B-LOC O B-LOC O B-ORG I-ORG O B-ORG I-ORG O O O O O O O O O O O O B-PER O O O O O O B-LOC O
+642,Útočník z Berlína sa zrejme s ukoristeným kamiónom snažil učiť jazdiť hodiny pred útokom .,O O B-LOC O O O O O O O O O O O O
+149,"Podľa Petry Masácovej , ktorá spravuje eurofondy pre Bratislavský samosprávny kraj , sa môže stať , že o peniaze prídeme .",O B-PER I-PER O O O O O B-LOC I-LOC I-LOC O O O O O O O O O O
+361,"Donald Trump na Floridu dnes skutočne cestuje , a to na ďakovné zhromaždenie do Orlanda .",B-PER I-PER O B-LOC O O O O O O O O O O B-LOC O
+732,"Vďaka tomu patrí k mnohým zrelým obchodníkom , ktorí môžu byť príkladom pre ďalších .",O O O O O O O O O O O O O O O
+255,"Európska komisia | Europe Direct Trenčín Prisťahovalectvo a terorizmus sa naďalej považujú za najväčšie výzvy , ktorým EÚ čelí , aj keď na nepatrne nižšej úrovni ako pri poslednom prieskume z jari 2016 .",B-ORG I-ORG O B-ORG I-ORG I-ORG O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O
+822,Na predvolebnom zhromaždení v michiganskom,O O O O O
+209,"Návrh má zabezpečiť , aby firmy s celkovými príjmami prevyšujúcimi 750 miliónov eur ročne platili dane tam , kde skutočne vytvárajú zisky .",O O O O O O O O O O O O O O O O O O O O O O O
+647,R . Fico : Útok výrazne zmení postoj niektorých štátov k migrácii .,B-PER I-PER I-PER O O O O O O O O O O
+767,Je toto skutočný Trump ?,O O O B-PER O
+360,"Narušenie bezpečnostnej zóny môže mať za následok pokutu 88 . 000 dolárov , alebo aj väzenie na maximálne 12 rokov .",O O O O O O O O O O O O O O O O O O O O O
+179,"Podľa návrhu bude ETIAS zhromažďovať informácie o miliónoch cestujúcich , ktorí cestujú bez víz do krajín Európy , čo má vopred zabrániť nelegálnej migrácii a bezpečnostným kontrolám .",O O O B-MISC O O O O O O O O O O O O B-LOC O O O O O O O O O O O
+11,Ide pritom o scenár označený ako „ realistický “ .,O O O O O O O O O O
+653,Kiska vrátil parlamentu novelu zákona o slobode náboženskej viery a postavení cirkví .,I-PER O O O O O O O O O O O O
+524,"Podľa Greenblatta sa riešenie izraelsko-palestínskeho konfliktu stane pre Trumpa prioritou za predpokladu , že "" to bude priorita aj pre Izraelčanov a Palestínčanov "" .",O B-PER O O O O O O B-PER O O O O O O O O O O O B-PER O B-PER O O
+253,"IAB Slovakia , ktorej členmi sú najväčší slovenskí vydavatelia z online prostredia , iniciatívu Európskej komisie v oblasti ochrany autorských práv vydavateľov monitoruje .",B-ORG I-ORG O O O O O O O O O O O O B-ORG I-ORG O O O O O O O O
+667,"Šalamúnove ostrovy v Pacifiku postihlo zemetrasenie so silou 6 , 7 stupňa , cunami nehrozí .",B-LOC I-LOC O B-LOC O O O O O O O O O O O O
+770,Obaja aktéri sa tak ocitajú v intenzívnejšom kontakte .,O O O O O O O O O
+721,Na základe toho vybudoval pod značkou Trump Entertainment Resorts nadnárodnú sieť hotelov a kasín .,O O O O O O B-ORG I-ORG I-ORG O O O O O O
+769,Dokonca jednu ponúknutú ruku pevne uchopil až na predlaktí .,O O O O O O O O O O
+395,Podľa informácií amerických médií vak o tom uvažuje len niekoľko z nich .,O O O O O O O O O O O O O
+263,"Internetové návyky sa líšia aj medzi generáciami : zatiaľ čo internet používa pravidelne 96 percent mladých vo veku 16 – 24 rokov , v kategórii starších ľudí vo veku od 55 do 74 rokov je to len vyše polovica ( 57 % ) .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+173,Európska komisia zverejnila Výzvu na predkladanie návrhov – EACEA 40/2016 v rámci programu Erasmus+ ( centralizované projekty ) „ KA3 – Partnerstvá v oblasti OVP – podnikanie zamerané na vzdelávanie prácou a učňovstvo ” ( 2016/C 384/06 ) .,B-ORG I-ORG O O O O O O B-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+515,"Tento Greenblattov výrok môže predznamenávať odklon od dlhoročnej politiky Spojených štátov , ktoré si mysleli , že izraelská výstavba na územiach obsadených Izraelom po vojne v roku 1967 sťažuje dosiahnutie mierovej zmluvy s Palestínčanmi .",O B-PER O O O O O O O B-LOC I-LOC O O O O O O O O O O O B-LOC O O O O O O O O O O B-PER O
+457,""" Spojené štáty sú dôležitý partner a spojenec Slovenska aj Európskej únie a považujem za dôležité , že to tak zostane aj v budúcnosti , "" dodal prezident Kiska .",O B-LOC I-LOC O O O O O B-LOC O B-LOC I-LOC O O O O O O O O O O O O O O O O B-PER O
+675,Martinus . sk > Knihy od : Donald J . Trump,B-ORG I-ORG O O O O O B-PER I-PER I-PER I-PER
+135,Peniaze z Bruselu k nám neprichádzajú od decembra minulého roka .,O O B-LOC O O O O O O O O
+688,"Máme možnost vidět jak funguje den po dni , jak vede svůj život , jak si povídá s přáteli a rodinou , jak se střetává s nepřáteli , jak efektivně kupuje špičková kasina . . .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+261,"Najnovší prieskum Eurostatu ukázal , že 14 percent Európanov ešte nikdy nepoužilo internet , pričom na Slovensku je to 15 percent .",O O B-ORG O O O O O B-PER O O O O O O O B-LOC O O O O O
+742,"Prinútime Apple začať vyrábať tie jeho čertovské počítače a veci v tejto krajine , a nie v iných . """,O B-ORG O O O O O O O O O O O O O O O O O O
+482,"V priebehu roka postupne získaval popularitu v prieskumoch , keď otvoril témy ako múr na hranici s Mexikom , ilegálna imigrácia všeobecne alebo dočasný zákaz imigrácie moslimov do USA .",O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O B-LOC O
+260,Najnovší ročný prieskum vývoja v oblasti zamestnanosti a sociálnej situácie v Európe prináša povzbudivé výsledky .,O O O O O O O O O O O B-LOC O O O O
+816,"Na internete je aj iná petícia , ktorou jej signatári chcú primať veľké firmy , aby ukončili obchodné vzťahy s Trumpovými spoločnosťami .",O O O O O O O O O O O O O O O O O O O O B-PER O O
+645,R . Kaliňák :,B-PER I-PER I-PER O
+412,Tá pritom už koncom vlaňajška prejavovala známky oslabovania .,O O O O O O O O O
+448,Víťazom amerických prezidentských volieb sa stal Donald Trump | Info .sk Víťazom amerických prezidentských volieb sa stal republikánsky prezidentský kandidát Donald Trump .,O O O O O O B-PER I-PER O O O O O O O O O O O O B-PER I-PER O
+696,"Také vás naučí , jak působit na lidi - jakým způsobem je opravit nebo konstruktvně . . .",O O O O O O O O O O O O O O O O O O
+496,"Dovtedy musí stihnúť nielen zostaviť svoj kabinet , ale aj pripraviť sa na najhoršie – na prípadný teroristický útok na Spojené štáty .",O O O O O O O O O O O O O O O O O O O O B-LOC I-LOC O
+318,"Európska komisárka pre hospodársku súťaž Margrethe Vestagerová uviedla , že tieto tri banky si nelegálne vymieňali citlivé informácie a uzavreli kartelovú dohodu s cieľom dosahovať zisk na trhu špecializovaných finančných produktov .",O O O O O B-PER I-PER O O O O O O O O O O O O O O O O O O O O O O O O O
+169,Viac informácií .,O O O
+476,"Od roku 2005 je Trump ženatý s Melaniou Knaussovou , s ktorou má syna Barrona ( 2006 ) .",O O O O B-PER O O B-PER I-PER O O O O O B-PER O O O O
+429,„ Tým prvým je masívny nárast verejného dlhu .,O O O O O O O O O
+68,"Viacero ministrov na národnej úrovni sa zúčastnilo aj na ostatnom fóre , ktoré sa uskutočnilo v Ulme minulý rok .",O O O O O O O O O O O O O O O O B-LOC O O O
+419,"Po víkende má na svojom konte spolu 384 hlasov delegátov , no stále je ďaleko od cieľa a musí vyhrať 1237 hlasov delegátov , aby získal nomináciu za Republikánsku stranu .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-ORG I-ORG O
+817,Túto petíciu už podporilo 85 . 513 ľudí .,O O O O O O O O O
+225,""" Banky musia dodržiavať pravidlá hospodárskej súťaže EÚ rovnako ako ktorékoľvek iné firmy operujúce na jednotnom európskom trhu , "" vyhlásila v Bruseli komisárka EÚ pre hospodársku súťaž Margrethe Vestagerová .",O O O O O O O B-LOC O O O O O O O O O O O O O O B-LOC O B-LOC O O O B-PER I-PER O
+333,"Komisia navrhovala úplný zákaz predaja najnebezpečnejších poloautomatických strelných zbraní vrátane všetkých poloautomatických zbraní AK47 alebo AR15 , ako aj zákaz predaja útočných zbraní súkromným zberateľom .",O O O O O O O O O O O O O B-MISC O B-MISC O O O O O O O O O O
+433,Tvrdé vyhlásenia smerom k Číne .,O O O O B-LOC O
+611,"K prvým väčším peniazom prišiel už ako tridsaťročný medzi zlatokopmi na rieke Yukon , kde si otvoril lokál , ktorý mu veľmi vynášal .",O O O O O O O O O O O O B-LOC O O O O O O O O O O O
+565,SK | Donald Trump bojuje s veternými mlynmi .,O O B-PER I-PER O O O O O
+437,"Hoci neskôr poprel , že by to bol povedal , noviny zverejnili nahrávku .",O O O O O O O O O O O O O O
+567,Donald Trump sa mal v pláne zastaviť výstavbu veternej farmy blízkosti jeho golfového rezortu v Aberdeene .,B-PER I-PER O O O O O O O O O O O O O B-LOC O
+14,"Rezort školstva sa na konci roka 2015 chválil , že sa podarilo pripojiť 218 škôl , vykopalo sa 700 km a použilo cez 1 000 km optických káblov a 3 500 koncových zariadení .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+72,"Komisia poukazuje na nečinnosť rezortu , ako i na rizikové projekty .",O O O O O O O O O O O O
+793,"Trojnásobná držiteľka Oscara , ktorá je najčastejšie nominovanou herečkou na zlatú sošku , zaspievala pieseň z muzikálu Kiss Me , Kate .",O O B-MISC O O O O O O O O O O O O O O B-MISC I-MISC I-MISC I-MISC O
+805,Donald Trump si zavaril .,B-PER I-PER O O O
+185,"Systém ETIAS je súčasťou európskej agendy o bezpečnosti , ktorú exekutíva EÚ prijala 28 . apríla 2015 a ktorá stanovuje hlavné opatrenia na zabezpečenie účinnej reakcie EÚ na terorizmus a bezpečnostné hrozby v priestore EÚ v období rokov 2015-2020 .",O B-MISC O O O O O O O O O B-LOC O O O O O O O O O O O O O O B-LOC O O O O O O O B-LOC O O O O O
+762,"Trumpove vyjadrenia si získali vysoké sympatie a vedú v predvolebných prieskumoch , hoci sú v niektorých prípadoch naozaj na hrane diplomatickosti .",B-PER O O O O O O O O O O O O O O O O O O O O O
+100,Súčasným predsedom EK je bývalý portugalský premiér,O O B-ORG O O O O
+819,"Vyhlásil tiež , že v prípade svojho zvolenia za amerického prezidenta zabráni cudzincom moslimského vierovyznania vo vstupe na územie USA .",O O O O O O O O O O O O O O O O O O O B-LOC O
+380,Hlasy voličov sa totiž podľa amerického volebného systému v každom táte pretavujú do hlasov voliteľov a tých získal viac Trump .,O O O O O O O O O O O O O O O O O O O B-PER O
+81,"Vzhľadom na fakt , že EK má takmer exkluzívne právo navrhovať legislatívu , je považovaná za motor európskej integrácie .",O O O O O B-ORG O O O O O O O O O O O O O O
+152,""" Pozastavenie platieb je jav , ktorý sa vyskytol už viackrát , po odstránení problémov boli platby odblokované a štátne zdroje tak nie sú ohrozené , "" povedala Beáta Dupaľová Ksenzsighová , hovorkyňa podpredsedu vlády pre investície a informatizáciu .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PER I-PER I-PER O O O O O O O O O
+402,"Trump sa stal víťazom po tom , ako podľa priebežne zverejňovaných výsledkov získal aj hlasy desiatich voliteľov v štáte Wisconsin , čo spolu s ďalšími ziskami znamená , že presiahol hranicu 270 voliteľov .",B-PER O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O
+290,Vestager povedala : „ Firmy sú povinné podať komisii presné informácie počas vyšetrovania ich zlučovania .,I-PER O O O O O O O O O O O O O O O
+699,"Aj tieto vlastnosti sú charakteristické pre všetkých obchodníkov , ktorí dokázali úspešne napredovať a zveľadiť svoj majetok vďaka schopnosti presadiť sa vo svete financií .",O O O O O O O O O O O O O O O O O O O O O O O O O
+265,Európska komisia údajne nemá plán,B-ORG I-ORG O O O
+810,"Nutnosť spustiť podpisovú kampaň , nazvanú Stop Hate Dump Trump ( Stop nenávisti , zbavme sa Trumpa ) , zdôvodnili želaním ponúknuť Američanom možnosť , aby boli vypočutí a mohli reagovať v situácii , keď Trump úspešne pokračuje vo svojom predvolebnom ťažení , pričom sa nezdáva preňho pre neho typickej rétoriky plnej nenávisti a rozdeľujúcej spoločnosť .",O O O O O O O O O B-PER O O O O O O B-PER O O O O O B-PER O O O O O O O O O O O O B-PER O O O O O O O O O O O O O O O O O O O
+184,"Konečné rozhodnutia o udelení alebo zamietnutí vstupu budú aj naďalej prijímať hraničné služby jednotlivých štátov , ale ETIAS bude spravovaný agentúrou Európskej pohraničnej a pobrežnej stráže v spolupráci s členskými štátmi a Europolom .",O O O O O O O O O O O O O O O O O B-MISC O O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG O O O O O O B-ORG O
+495,Inaugurovaný bude 20 . januára a za pracovný stôl v Bielom dome si sadne 21 . januára .,O O O O O O O O O O B-LOC I-LOC O O O O O O
+375,"V Spojených tátoch sa dnes schádza Zbor voliteľov , ktorý definitívne potvrdí budúceho prezidenta .",O O O O O O O O O O O O O O O
+833,". Teraz dodal , že černošskí obyvatelia sa na mnohých miestach , napríklad v priemyselných mestách ako Detroit , stali utečencami vo vlastnej krajine .",O O O O O O O O O O O O O O O O O B-LOC O O O O O O O
+711,Donald sa v otcovej firme neohrial dlho a po niekoľkých rokoch založil vlastnú spoločnosť .,B-PER O O O O O O O O O O O O O O
+591,"Nie je však v USA , ako by si myslel takmer každý Európan .",O O O O B-LOC O O O O O O O B-PER O
+792,V otvorenom divadle Shakespeare in the park v New Yorku predviedla v pondelok večer dokonalého Donalda Trumpa .,O O O B-LOC I-LOC I-LOC I-LOC O B-LOC I-LOC O O O O O B-PER I-PER O
+751,Donald Trump stojí za ruským postojom voči ISIS KROKY WASHINGTON,B-PER I-PER O O O O O B-ORG O B-LOC
+791,"Dala si na seba oranžový make-up , biele vlasy , vypchala si brucho , na bielu košeľu si dala červenú kravatu a prekvapila aj organizátorov .",O O O O O O O O O O O O O O O O O O O O O O O O O O
+27,"Tento rok chce ukončiť akékoľvek rozhovory na tému a budúci rok spustiť projekt tak , aby na konci volebného obdobia zo Slovenska nepokryté miesta zmizli .",O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O
+784,"To nie je prejavom slabošstva , ale základný princíp bytia .",O O O O O O O O O O O
+830,Obama získal pri znovuzvolení v rooku 2012 podporu zhruba 93 percent všetkých černošských voličov .,I-PER O O O O O O O O O O O O O O
+835,"Jej hovorca neskôr vydal vyhlásenie , že Trump ukazuje , že o afroamerickej komunite vôbec nič nevie , pokiaľ ju vykresľuje ako chudobnú a nezamestnanú .",O O O O O O O B-PER O O O O O O O O O O O O O O O O O O
+573,Minulý týždeň bolo odvolanie zamietnuté sudcami v Londýne - Trump tak už tretíkrát stratil argumenty .,O O O O O O O B-LOC O B-PER O O O O O O
+262,"Pre porovnanie najviac , až tretina obyvateľstva , doteraz nepoužila internet v Bulharsku , kým naopak v Dánsku a Luxembursku sú to len 2 percentá ľudí .",O O O O O O O O O O O O B-LOC O O O O B-LOC O B-LOC O O O O O O O
+405,Je Donald Trump rizikom pre ekonomiku ?,O B-PER I-PER O O O O
+90,Nominácia .,O O
+489,Verte si !,O O O
+552,Mnuchin bez predchádzajúcich skúseností vo vládnej funkcii má za sebou 17 rokov pôsobenia v investičnej banke Goldman Sachs .,B-PER O O O O O O O O O O O O O O O B-ORG I-ORG O
+584,"Výsledkom majú byť elektromobily , ktoré dokážu cenovo konkurovať autám so spaľovacími motormi .",O O O O O O O O O O O O O O
+461,Republikán kandidujúci pod heslom,O O O O
+848,"Zaujímavý incident nastal počas volieb , resp . k ich záveru v utorok večer , keď už bol viac než isté , že Donald Trump vyhrá .",O O O O O O O O O O O O O O O O O O O O O O O B-PER I-PER O O
+145,"Peniaze totiž uvoľnila vláda a teraz budeme čakať , či nám ich Brusel preplatí .",O O O O O O O O O O O O B-LOC O O
+10,"Štátu teraz hrozí , že bude musieť vrátiť 25 percent získaných peňazí .",O O O O O O O O O O O O O
+365,Palm Beach je obľúbenou dovolenkovou destináciou a na Floride je teraz hlavná turistická sezóna .,B-LOC I-LOC O O O O O O B-LOC O O O O O O
+506,"Jedno bolo naplánované na december , druhé na január .",O O O O O O O O O O
+41,"Tieto prostriedky nám umožnia napríklad lepšie obyvateľov chrániť pred povodňami , alebo odstraňovať environmentálne záťaže .",O O O O O O O O O O O O O O O O
+304,"Ostatní členovia ( komisári ) sú spoločne menovaní Radou Európskej únie , prezidentom Európskej komisie a potvrdení Európskym parlamentom .",O O O O O O O O B-ORG I-ORG I-ORG O O B-ORG I-ORG O O B-ORG I-ORG O
+689,(,O
+587,USA prezident Donald Trump je polovičný Nemec .,B-LOC O B-PER I-PER O O B-PER O
+329,""" Samozrejme by sme si priali ísť ešte ďalej , ale som si istý , že aj súčasná dohoda je medzníkom v oblasti kontroly zbraní v EÚ , "" uviedol Juncker v správe pre médiá .",O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O O B-PER O O O O O
+800,"Meryl Streepová prekvapila svojím vystúpením , ale nie kritikou republikánskeho kandidáta .",B-PER I-PER O O O O O O O O O O
+607,"Treba podčiarknuť , že zdravú drzosť , odvahu k riziku , priebojnosť a nebojácnosť musel jeho vnuk Donald zdediť od svojho nemeckého starého otca .",O O O O O O O O O O O O O O O O O B-PER O O O O O O O
+452,"Tí majú zvolenie newyorského magnáta potvrdiť 19 . decembra , na čo bude môcť Trump 20 . januára vystriedať v Bielom dome dosluhujúceho Baracka Obamu .",O O O O O O O O O O O O O O B-PER O O O O O B-LOC I-LOC O B-PER I-PER O
+389,Za poruenie záväzku im nehrozí nič vážne .,O O O O O O O O
+210,"Sadzby dane z príjmov právnických osôb nie sú súčasťou návrhu CCCTB , keďže tie sú aj naďalej oblasťou patriacou pod zvrchovanosť členských štátov .",O O O O O O O O O O B-MISC O O O O O O O O O O O O O
+499,Biely dom preto organizuje pre nastávajúceho prezidenta bezpečnostné cvičenie .,B-LOC I-LOC O O O O O O O O
+118,"EK apeluje na Európsky parlament a členské táty EÚ , aby prijali návrh na jednotné a lepie zabezpečené víza a povolenia na pobyt pre občanov tretích tátov , čo by malo predísť falovaniu týchto dokumentov .",B-ORG O O B-ORG I-ORG O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O
+560,"Prosíme vás preto , aby ste do diskusie na našej stránke nevkladali také komentáre , ktoré by mohli naplniť skutkovú podstatu niektorého trestného činu uvedeného v Trestnom zákone .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+276,"Zdôvodnil to tým , že akékoľvek angažovanie sa v tejto záležitosti by mohlo mať opačný účinok .",O O O O O O O O O O O O O O O O O
+370,Denník New York,O B-ORG I-ORG
+285,"Facebook tvrdil , že nemá možnosť automaticky prepájať dáta medzi dvoma službami .",B-ORG O O O O O O O O O O O O
+64,"Partnerskými krajinami Slovenska , zapojenými do dunajskej stratégie sú : Nemecko ( Bavorsko , Bádensko- Würtembersko ) , Rakúsko , Česko , Slovensko , Maďarsko , Slovinsko , Chorvátsko , Srbsko , Bulharsko , Rumunsko , Bosna a Hercegovina , Čierna Hora , Moldavsko a Ukrajina ( 5 oblastí ) .",O O B-LOC O O O B-MISC I-MISC O O B-LOC O B-LOC O O O O O B-LOC O B-LOC O B-LOC O B-LOC O B-LOC O B-LOC O B-LOC O B-LOC O B-LOC O B-LOC I-LOC I-LOC O B-LOC I-LOC O B-LOC O B-LOC O O O O O
+597,Neskôr odišla ako modelka do USA .,O O O O O B-LOC O
+469,V roku 1974 sa stal jej riaditeľom a pomenoval ju Trump Organization .,O O O O O O O O O O B-ORG I-ORG O
+288,"Nebolo by to prvý krát , čo Facebook klamal o svojich sledovacích aktivitách .",O O O O O O O B-ORG O O O O O O
+88,V snahe o účinné presadzovanie rozpočtového dohľadu v eurozóne bol stanovený systém sankcií na posilnenie presadzovania preventívnej a nápravnej časti Paktu stability a rastu .,O O O O O O O O O O O O O O O O O O O O O O O O O
+462,""" Urobme Ameriku opäť veľkou "" je politickým nováčikom , ktorý nikdy nezastával nijakú politickú funkciu .",O O B-LOC O O O O O O O O O O O O O O
+582,"Automobilky Nissan Motor , Renault a Mitsubishi",O B-ORG I-ORG O B-ORG O B-ORG
+182,"Politico na svojom internetovom serveri dnes upozornil , že európska verzia amerického systému ESTA bude od neeurópskych občanov pri bezvízovom vstupe do Schengenu požadovať poplatok vo výške piatich eur .",B-ORG O O O O O O O O O O O O B-MISC O O O O O O O O B-LOC O O O O O O O
+632,Moja prvá kniha Tajomstvá a proroctvá kozmu vyšla v roku 1993 .,O O O B-MISC I-MISC I-MISC I-MISC O O O O O
+478,"Donald Trump má od roku 2007 svoju hviezdu na hollywoodskom Chodníku slávy , ktorú mu v októbri 2016 poškodil kladivom a krompáčom vandal .",B-PER I-PER O O O O O O O O O O O O O O O O O O O O O O
+242,"Brusel očakáva , že na spoločnom daňovom základe sa dokážu členské štáty dohodnúť rýchlo , čím sprístupnia hlavné výhody pre podniky a členské štáty .",B-LOC O O O O O O O O O O O O O O O O O O O O O O O O
+734,cz,O
+640,"Podozrivý Navid B . , ktorého zadržali po útokoch , vinu poprel .",O B-PER I-PER I-PER O O O O O O O O O
+381,Voliteľov je 538 a väčinou ide o členov strán .,O O O O O O O O O O
+401,Hlavný súboj o Biely dom sa odohral medzi dvoma hlavnými protagonistami – kandidátkou Demokratickej strany Hillary Clintonovou a kandidátom republikánov Donaldom Trumpom .,O O O B-LOC I-LOC O O O O O O O O B-ORG I-ORG B-PER I-PER O O O B-PER I-PER O
+157,"Úrad splnomocnenca vlády SR pre rozvoj občianskej spoločnosti v spolupráci s – Foster Europe , Foundation for strong European Regions a Danube Civil Society Forum ( DCSF ) zrealizovali dňa 21 . 10 . 2016 v Bratislave informačný workshop s názvom Dunajská stratégia – National Participation . . .",O O O B-LOC O O O O O O O O B-ORG I-ORG O B-ORG I-ORG I-ORG I-ORG I-ORG O B-ORG I-ORG I-ORG I-ORG O B-ORG O O O O O O O O O B-LOC O O O O O O O O O O O O
+77,Pred parlamentnými voľbami 2016 sa toho zrejme nedočkáme .,O O O O O O O O O
+362,V sobotu má rovnaké podujatie v štáte Alabama .,O O O O O O O B-LOC O
+422,"Napriek tomu , ak by Trump vyhral , mohla by sa zhoršiť tak spotrebiteľská , ako aj podnikateľská dôvera , “ varuje Marcilly .",O O O O O B-PER O O O O O O O O O O O O O O O O B-PER O
+331,"Ide napríklad o zákaz automatických strelných zbraní premenených na poloautomatické , začlenenie zberateľov a múzeí so strelnými zbraňami do pôsobnosti európskej smernice , reguláciu používania výstražných a akustických zbraní , reguláciu internetového predaja zbraní , reguláciu predaja znefunkčnených zbraní a ďalšiu výmenu informácií v tejto oblasti medzi členskými štátmi .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+142,Čakanie na preplatenie .,O O O O
+580,Výrobná hala pri Bratislave vlani zvýšila kapacitu na zhruba 20 mil .,O O O B-LOC O O O O O O O O
+526,"Donald Trump : Myslete na velké cíle a dobre se bavte , Nikdy sa nevzdávaj Čo si predstavíš keď sa povie meno Donlad Trump ? Ja vplyvom medií a informácií z vonka , som vždy mala predstavu , že je to boháč , ktorý nevie , čo zo sebou a , že kde môže tam sa ukazuje .",B-PER I-PER O O O O O O O O O O O O O O O O O O O O O B-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+681,(,O
+130,"Strana Smer-SD nezvládla čerpanie eurofondov , vystavuje Slovensko hrozbe medzinárodných arbitráží a teraz nám hrozia aj sankcie za nedovolenú štátnu pomoc spriatelenej firme .",O B-ORG O O O O O B-LOC O O O O O O O O O O O O O O O O
+78,"Ak sa chcete prihlásiť k odberu newsletteru , zadajte svoju e-mailovú adresu do poľa pod týmto textom a stlačte tlačidlo .",O O O O O O O O O O O O O O O O O O O O O
+85,Ako strážkyňa dohôd zároveň dohliada na rešpektovanie európskej legislatívy .,O O O O O O O O O O
+170,Agentúra EACEA dňa 1 . 12 .2016 zverejnila na svojej web stránke výsledky septembrovej uzávierky .,O B-ORG O O O O O O O O O O O O O O
+352,Myslia si to viaceré floridské médiá .,O O O O O O O
+76,Uvedené výzvy si vyžadujú víziu a politické odhodlanie tvorcov zdravotnej politiky .,O O O O O O O O O O O O
+655,V .,B-PER I-PER
+330,"Dočasná politická dohoda medzi inštitúciami EÚ zachováva väčšinu z toho , čo EK pôvodne navrhovala .",O O O O O B-LOC O O O O O O B-ORG O O O
+55,Úrad vlády SR a Európska komisia pripravujú 5 . výročné fórum Stratégie EÚ pre dunajský región | Úrad vlády SR V dňoch 3 . - 4 . novembra 2016 v Bratislave sa v priestoroch nového Slovenského národného divadla uskutoční 5 . výročné fórum Stratégie EÚ pre dunajský región .,B-ORG I-ORG I-ORG O B-ORG I-ORG O O O O O B-MISC I-MISC I-MISC I-MISC I-MISC O B-ORG I-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O O O B-MISC I-MISC I-MISC I-MISC I-MISC O
+743,"Pravda , Donald Trump nemôže len tak otočiť vypínačom , aby sa niečo také stalo .",O O B-PER I-PER O O O O O O O O O O O O
+532,A tak to bolo aj pred dvomi rokmi .,O O O O O O O O O
+519,""" Myslím , že ( Trump ) podporí Izrael tak , ako to nerobila Obamova vláda , "" uviedol Greenblatt .",O O O O O B-PER O O B-LOC O O O O O B-PER O O O O B-PER O
+337,Horizont 2020 > Európska komisia naliehavo žiada o podporu pre výskum vírusu Zika Európska rada pre výskum ( ERC ) Akcie Marie Skłodowska-Curie,B-MISC I-MISC O B-ORG I-ORG O O O O O O O B-MISC O O O O O B-ORG O O B-MISC I-MISC
+215,""" Spoločnosti ( v rámci EÚ ) potrebujú jednoduchšie daňové pravidlá .",O O O O O B-LOC O O O O O O
+176,Prípravu tohto návrhu už v septembri avizoval predseda EK Jean-Claude Juncker .,O O O O O O O O B-ORG B-PER I-PER O
+43,"Hlavným cieľom programu , je podpora udržateľného a efektívneho využívania prírodných zdrojov , zabezpečujúceho ochranu životného prostredia , aktívnu adaptáciu na zmenu klímy a podporu energeticky efektívneho nízkouhlíkového hospodárstva .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+578,© PROPERTY & ENVIRONMENT s . r . o .,O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG
+6,Európski úradníci ešte v auguste zaslali na Slovensko „ varovný list “ .,O O O O O O O B-LOC O O O O O
+231,Takzvaný Spoločný konsolidovaný základ dane z príjmov právnických osôb ( Common Consolidated Corporate Tax Base - CCCTB ) má uľahčiť podnikanie na jednotnom trhu a slúžiť ako účinný nástroj proti vyhýbaniu sa daňovým povinnostiam .,O B-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC O B-MISC I-MISC I-MISC I-MISC I-MISC O B-MISC O O O O O O O O O O O O O O O O O O
+854,"Na odľahčenie témy , aj samotní Kanaďania vyjadrujú podporu , ktorú kombinujú so zdravým humorom a dávajú rôzne príspevky s hashtagom #WhatYouDoNotKnowAboutCanada .",O O O O O O B-PER O O O O O O O O O O O O O O O O
+492,Donald Trump .,B-PER I-PER O
+541,Zapísala som si všetky postrehy .,O O O O O O
+709,Spoločnosť zarobila jeho predajom 6 miliónov dolárov .,O O O O O O O O
+137,"Na to , aby sa rozbehnuté projekty mohli dokončiť , peniaze uvoľnila vláda .",O O O O O O O O O O O O O O
+609,"Ako sa dostal z Hamburgu loďou až do New Yorku , či mal odniekiaľ na drahý lístok alebo sa dal najať na loď ako Schiffsjunge - plavčík - to ostalo tajomstvom aj v Kallstadte .",O O O O B-LOC O O O B-LOC I-LOC O O O O O O O O O O O O O O O O O O O O O O O B-LOC O
+159,Ponúka príležitosť . . .,O O O O O
+480,O možnej kandidatúre na šéfa Bieleho domu hovoril viac ako desať rokov .,O O O O O B-LOC I-LOC O O O O O O
+497,Pripravenosť vedenia krajiny na teroristické útoky je od udalostí z 11 . septembra 2001 nesmierne dôležitá .,O O O O O O O O O O O O O O O O O
+672,"NBA - Indiana - Washington 107 :105 , Chicago - Detroit 113 : 82 , Minnesota - Phoenix 115 :108 , Oklahoma City - Atlanta 108 :110 , Denver - Dallas 117 :107 . Noc : Zamračené , ojedinele slabé sneženie alebo mrznúce mrholenie .",B-ORG O B-ORG O B-ORG O O O B-ORG O B-ORG O O O O B-ORG O B-ORG O O O B-ORG I-ORG O B-ORG O O O B-ORG O B-ORG O O O O O O O O O O O O O O
+590,"Navštívil som dedinku , kde sa narodili starí rodičia Donalda Trumpa - Elisabeth a Friedrich Trump .",O O O O O O O O O B-PER I-PER O B-PER O B-PER I-PER O
+691,"Nehodlám hrát tutéž hru , jakou hrají politikové už dlouhá desetiletí – je (",O O O O O O O O O O O O O O
+30,"Európsky komisár pre výskum , vedy a inovácie Carlos",O O O O O O O O B-PER
+846,Spojených štátov .,B-LOC I-LOC O
+826,"Zároveň podotkol , že černošskí voliči nemajú čo stratiť , keď ho budú voliť .",O O O O O O O O O O O O O O O
+718,Trump International Hotel & Tower .,B-LOC I-LOC I-LOC I-LOC I-LOC O
+612,"Svoje peniaze investoval úspešne do pozemkov v Manhattane , ktoré boli v tom čase takmer zadarmo .",O O O O O O O B-LOC O O O O O O O O O
+424,"„ V tvrdom súboji sa niektorí kandidáti , Donalda Trumpa nevynímajúc , snažia zapôsobiť často negatívnymi komentármi na americkú ekonomiku a tým zanechávať dojem , že je v horšom stave , než skutočne je .",O O O O O O O O B-PER I-PER O O O O O O O O O O O O O O O O O O O O O O O O O
+23,"Spoločnosti obvinili štát aj z toho , že chystá výstavbu sietí mimo bielych miest aj v rámci projektu Broadband , ktorý sa presunul do nového programového obdobia .",O O O O O O O O O O O O O O O O O O B-MISC O O O O O O O O O
+564,ENERGIE-PORTAL .,B-ORG I-ORG
+803,Podľa májového prieskumu serveru,O O O O
+730,Podobne ako u iných obchodníkov to prinášalo aj kritické chvíle .,O O O O O O O O O O O
+275,"Moscovici ďalej povedal , že Európska komisia sa nezapojí do referendovej kampane .",B-PER O O O O B-ORG I-ORG O O O O O O
+343,"poskytuje niekoľko možností financovať projekty : €40 miliónov vo výzve , ktorá zahŕňa aj výskum vírusu ZIKA ; € 10 million pre , vrátane komárov , ktoré šíria Zika vírus ; Program ERA-NET v rámci FP7 : – network medzinárodných grantových agentúr riadený EK zameraný na identifikáciu výskumných priorít a prevenciu duplikácií vo financovaní výskumu .",O O O O O O O O O O O O O O O O B-MISC O O O O O O O O O O O B-MISC O O O B-MISC O O B-MISC O O O O O O O B-ORG O O O O O O O O O O O O
+136,Kontroly odhalili viaceré nezrovnalosti a preto peniaze stopli .,O O O O O O O O O
+599,"Dedinku pod najúchvatnejšími horami Falcka mal veľmi rád aj dlhoročný kancelár , Helmut Kohl , rodák z Ludwigshafenu , ktorý tam často chodieval , veď zo svojho domu v Oggersheime to mal len na skok .",O O O O B-LOC O O O O O O O B-PER I-PER O O O B-LOC O O O O O O O O O O O B-LOC O O O O O O
+432,"Tax Police Center by Trumpov daňový plán mohol v nasledujúcich dvadsiatich rokoch zvýšiť verejný dlh v porovnaní s HDP o 80 % , “ hovorí Julien Marcilly .",B-ORG I-ORG I-ORG O B-PER O O O O O O O O O O O O O O O O O O O O B-PER I-PER O
+0,Optiku pre školy preveruje Európska komisia .,O O O O B-ORG I-ORG O
+2,"Počítal s rozpočtom 29 , 4 milióna eur vrátane DPH .",O O O O O O O O O O O
+595,"Ak by neexistoval Kallstadt , tak by Amerika bola ostala bez svojho absolútneho unikátu , ako možného budúceho prezidenta USA - Donalda Trumpa , muža , ktorý miluje krásu slovanských žien a ktorý má len slová opovrhovania pre Angelu Merkel .",O O O B-LOC O O O B-LOC O O O O O O O O O O O B-LOC O B-PER I-PER O O O O O O O O O O O O O O O B-PER I-PER O
+18,"Niektoré firmy vzniesli námietky na Generálne riaditeľstvo pre hospodársku súťaž Európskej komisie len voči prípravnej fáze projektu , iné voči realizácii a niekoľko spoločností sa ohradilo voči logike projektu všeobecne .",O O O O O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG O O O O O O O O O O O O O O O O O O O
+244,IAB Slovakia Európska komisia zverejnila návrh nového zákona na ochranu autorských práv - IAB Slovakia Európska komisia zverejnila návrh nového zákona na ochranu autorských práv .,B-ORG I-ORG B-ORG I-ORG O O O O O O O O O B-ORG I-ORG B-ORG I-ORG O O O O O O O O O
+745,"Už v kampani pred prezidentskými voľbami v roku 2012 sa vyjadril , že by bola „ veľká vec "" , keby CEO Applu Tim Cook začal stavať továrne v USA .",O O O O O O O O O O O O O O O O O O O O O O B-ORG B-PER I-PER O O O O B-LOC O
+728,"Každý miliardár mal svoju vlastnú cestu za úspechom , ktorá je plná individuálnych zážitkov a špeciálnych skúseností .",O O O O O O O O O O O O O O O O O O
+160,V decembrovom newslettri,O O O
+657,"Niekoľko hodín po atentáte na ruského veľvyslanca zadržali muža , ktorý strieľal pri ambasáde USA .",O O O O O O O O O O O O O O B-LOC O
+777,Tiež by sa mu aktivizovali iné svaly na tvári .,O O O O O O O O O O
+550,Mnuchinovu nomináciu by mal Trump oficiálne oznámiť v stredu .,B-PER O O O B-PER O O O O O
+189,"Verím , že túto prvú výzvu vynikajúco zvládneme a Slovensko bude skvelým kormidelníkom v Rade Európskej únie . ” hovorí Dušan Chrenek , vedúci Zastúpenia Európskej komisie na Slovensku .",O O O O O O O O O B-LOC O O O O B-ORG I-ORG I-ORG O O O B-PER I-PER O O O B-ORG I-ORG O B-LOC O
+704,Trumpove začiatky .,B-PER O O
+312,"Niekoľko členských tátov EÚ vak vlani komisiu vyzvalo , aby začala rieiť aj problémy s kamiónmi .",O O O B-LOC O O O O O O O O O O O O O
+91,EK navrhuje Rada EÚ po dohode s členskými štátmi na funkčné obdobie piatich rokov .,B-ORG O B-ORG I-ORG O O O O O O O O O O O
+488,"Vďaka jeho reality show , The Apprentice , na americkom televíznom kanáli NBC , sa stal Trump ešte slávnejším .",O O O O O B-MISC I-MISC O O O O O B-ORG O O O B-PER O O O
+809,"Stop nenávisti , zbavme sa Trumpa .",O O O O O B-PER O
+335,"Vzhľadom na to , že celkový legislatívny balík predstavuje zlepšenie v porovnaní so súčasnou situáciou , EK oznámila , že prijíma dosiahnutý medziinštitucionálny kompromis .",O O O O O O O O O O O O O O O O B-ORG O O O O O O O O
+393,"Donald Trump získal 306 z 538 voliteľov , pričom minimum potrebné na výhru je 270 .",B-PER I-PER O O O O O O O O O O O O O O
+548,"Donald Trump si vybral ministrov | Nový Čas Donald Trump chce za nového ministra financií vymenovať 53-ročného investičného bankára , filmového producenta a politického sponzora Stevena Mnuchina .",B-PER I-PER O O O O B-ORG I-ORG B-PER I-PER O O O O O O O O O O O O O O O B-PER I-PER O
+740,"Vo svojom nedávnom prejave na Liberty University dosť pritvrdil svoju rétoriku , keď hovoril o vytváraní budúcich pracovných miest .",O O O O O B-ORG I-ORG O O O O O O O O O O O O O
+680,"V tejto knihe otvorene rozpráva o svojich najväčších výzvach , najhorších chvíľach a najtvrdších bojoch - a ako tieto prekážky premenil na úspechy . . .",O O O O O O O O O O O O O O O O O O O O O O O O O O
+574,"Hovorca organizácie povedal , že verdikt je "" mimoriadne nešťastný "" a upozornil , že nová veterná farma môže "" zničiť bukový Aberdeen Bay . """,O O O O O O O O O O O O O O O O O O O O O O B-LOC I-LOC O O
+44,"Na implementácii Operačného programu Kvalita životného prostredia sa spolu s Ministerstvom životného prostredia SR ako riadiacim orgánom budú podieľať sprostredkovateľské orgány - Slovenská agentúra životného prostredia , Ministerstvo vnútra SR a Slovenská inovačná a energetická agentúra .",O O O O B-MISC I-MISC I-MISC O O O B-ORG I-ORG I-ORG I-ORG O O O O O O O O B-ORG I-ORG I-ORG I-ORG O B-ORG I-ORG I-ORG O B-ORG I-ORG I-ORG I-ORG I-ORG O
+190,Vo štvrtok 30 . júna 2016 večer sa predseda Európskej komisie Jean- Claude Juncker a ďalší komisári stretli s prezidentom Slovenskej republiky Andrejom Kiskom a predsedom vlády SR Robertom Ficom .,O O O O O O O O O B-ORG I-ORG O O O O O O O O O B-LOC I-LOC B-PER I-PER O O O B-LOC B-PER I-PER O
+26,"Živé . sk povedal , že diskusií na tému bielych miest už bolo dosť .",B-ORG I-ORG O O O O O O O O O O O O O
+420,"Hoci podľa prieskumov zaostáva aj za dvomi hlavnými demokratickými kandidátmi , no nie s veľkým rozdielom , najmä pokiaľ ide o Hilary Clintonovú , ktorá je nateraz u Demokratov ťahúňom .",O O O O O O O O O O O O O O O O O O O O O B-PER I-PER O O O O O B-ORG O O
+837,"Odpoveď znie , že môže stratiť všetko pre muža , ktorý spochybňuje občianstvo prvého afroamerického prezidenta , uctieva bielych rasistov a bol žalovaný za diskrimináciu farebných , "" uviedol vo vyhlásení Marlon Marshall , člen kampane Hillary Clinton .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PER I-PER O O O B-PER I-PER O
+566,Ozajstnými Americký prezidentský kandidát,O O O O
+511,Novozvolený americký prezident,O O O
+746,"Nie je vylúčené , že vedúca technologická spoločnosť vytvorí pracovné miesta vo výrobe aj doma .",O O O O O O O O O O O O O O O O
+241,Proces zavádzania CCCTB plánuje komisia rozdeliť do dvoch krokov .,O O B-MISC O O O O O O O
+543,"Až pri čítaní týchto kníh som zistila , kto je vlastne Donald Trump .",O O O O O O O O O O O B-PER I-PER O
+172,Celkovo bolo podporených . . .,O O O O O O
+736,Apple preniesť späť výrobu do USA Donald Trump chce donútiť Apple preniesť späť výrobu do USA .,B-ORG O O O O B-LOC B-PER I-PER O O B-ORG O O O O B-LOC O
+408,"Jeho silácke vyhlásenia už vyrobili rozruch nielen u domácej verejnej mienky , ale aj vo svete .",O O O O O O O O O O O O O O O O O
+415,Čo Donaldovi Trumpovi nahráva .,O B-PER I-PER O O
+485,"Je predsedom a generálnym riaditeľom Trump Organization , ktorá sa zaoberá nehnuteľnosťami .",O O O O O B-ORG I-ORG O O O O O O
+842,""" Neodolá pokušeniu osobných tvrdých útokov na súpera a v dôsledku toho uráža celé voličské skupiny "" .",O O O O O O O O O O O O O O O O O O
+438,„ V dlhodobom horizonte majú takéto protekcionistické vyjadrenia veľmi negatívny efekt na ekonomiku .,O O O O O O O O O O O O O O
+671,Obrovský slalom žien v Courchevel zrušili pre silný vietor .,O O O O B-LOC O O O O O
+785,Prajem vám veľmi sociálny zvyšok týždňa !,O O O O O O O
+250,: „ Dnešný návrh Európskej komisie je historicky významným momentom v boji za práva vydavateľov na európskej úrovni .,O O O O B-ORG I-ORG O O O O O O O O O O O O O
+95,Situácia sa zmenila po rozšíreniach keď sa pomer zmenil na jedného komisára za krajinu .,O O O O O O O O O O O O O O O
+824,"Podľa agentúry AP kritizoval demokratov , že hlasy čiernych Američanov považujú za isté .",O O B-ORG O B-ORG O O O O B-PER O O O O
+851,Či sa aj tak naozaj začne diať ukáže čas .,O O O O O O O O O O
+138,"Teraz je na rozhodnutí EK , či nám ich Brusel preplatí .",O O O O B-ORG O O O O B-LOC O O
+403,"Tí majú zvolenie newyorského magnáta potvrdiť 19 . decembra , na čo bude môcť Trump 20 . januára vystriedať v Bielom dome dosluhujúceho Baracka Obamu .",O O O O O O O O O O O O O O B-PER O O O O O B-LOC I-LOC O B-PER I-PER O
+410,"Víťazstvá , ktoré si v ostatnom čase magnát Donald Trump pripisuje , ho posúvajú bližšie k prezidentskej nominácii za Republikánsku stranu .",O O O O O O O O B-PER I-PER O O O O O O O O O B-ORG I-ORG O
+211,Informovalo o tom Zastúpenie Európskej komisie v SR .,O O O O B-ORG I-ORG O B-LOC O
+449,Porazil svoju demokratickú protikandidátku Hillary Clintonovú .,O O O O B-PER I-PER O
+468,Po promócii v roku 1968 nastúpil do otcovej firmy obchodujúcej s nehnuteľnosťami .,O O O O O O O O O O O O O
+71,Venuje sa v nej aj zdravotníctvu .,O O O O O O O
+545,"Vždy vedel , že je niekoľko riešení a môj obraz o ňom sa razom zmenil .",O O O O O O O O O O O O O O O O
+813,"To je realita , "" uviedla Crenshawová .",O O O O O O B-PER O
+556,"Do tejto funkcie plánuje obsadiť 63-ročnú Elaine Chaovú , bývalú ministerku práce a manželku lídra republikánskej väčšiny v Senáte a senátora za štát Kentucky Mitcha McConnella .",O O O O O O B-PER I-PER O O O O O O O O O O B-ORG O O O O B-LOC B-PER I-PER O
+796,Streep dresses up as Donald Trump to perform in play in NYC . — ABC News ( @ABC ),I-PER O O O B-PER I-PER O O O O O B-LOC O O B-ORG I-ORG O O O
+24,"Doteraz sa spracovala len projektovoinžinierska dokumentácia za necelých 12 , 4 milióna eur .",O O O O O O O O O O O O O O
+359,"Uviedla len , že sú "" nevyhnutné na ochranu VIP a sprevádzajúcich osôb , verejnosti a okolitých vôd pred teroristickými činmi , sabotážou a inými podvratnými činmi "" .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+378,"Voľby prezidenta sa konali pred vye mesiacom , 8 . novembra , a odvtedy sa ako o budúcom prezidentovi hovorí o Donaldovi Trumpovi .",O O O O O O O O O O O O O O O O O O O O O B-PER I-PER O
+700,"Medzi takýchto ľudí patrí aj dobre známy Donald Trump , ktorého bohatstvo ho radí k najbohatším mužom Ameriky .",O O O O O O O B-PER I-PER O O O O O O O O B-LOC O
+406,Takto to vidí Coface - o Poistení .sk,O O O B-ORG O O O O
+105,"Brusel 8 . decembra ( TASR ) Európska komisia ( EK ) dnes prijala akčný plán s odporúčaniami pre členské táty EÚ , ako zabrániť falovaniu cestovných dokladov .",O O O O O B-ORG O B-ORG I-ORG O B-ORG O O O O O O O O O O B-LOC O O O O O O O
+466,Popri získavaní akademického vzdelania zbieral i úspechy v športe : hral v univerzitnom futbalovom aj basketbalovom tíme .,O O O O O O O O O O O O O O O O O O
+394,"Na to , aby volitelia zvrátili výsledok hlasovania občanov , by dnes muselo 37 z 306 Trumpových voliteľov hlasovať za jeho súperku .",O O O O O O O O O O O O O O O O O O O O O O O
+203,"Natasha Bertaudová uviedla , že EK “ si je vedomá , že súčasná situácia je neobhájiteľná , ale takisto musíme jasne povedať , ” že za podmienky v prijímacích centrách nesú zodpovednosť grécke úrady .",B-PER I-PER O O O B-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+82,Pre Radu ministrov a Európsky parlament pripravuje legislatívne návrhy .,O O O O B-ORG I-ORG O O O O
+178,"Týmto spôsobom budeme vedieť , kto cestuje do Európy , skôr než sa sem dostane , "" skonštatoval Juncker .",O O O O O O O O B-LOC O O O O O O O O O O O
+108,"Akčný plán EK navrhuje členským tátom opatrenia , ktoré umožňujú efektívnejí boj proti falovaniu dokladov , lepiu ochranu hraníc a zvládanie migrácie , "" uviedol eurokomisár pre migráciu , vnútorné záležitosti a občianstvo Dimitris Avramopulos .",O O B-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PER I-PER O
+613,"Po rokoch však ich ceny doslova vystrelili do závratných výšok , To bol základ obrovského bohatstva rodiny Trumpov a dnes tam stoja aj palácové stavby miliardára Donalda Trumpa .",O O O O O O O O O O O O O O O O O B-PER O O O O O O O O B-PER I-PER O
+528,"Predsudkov a povrchných informácii pri sledovaní televízie , článkov v časopisoch , v rozhlase a v ďalších médiách , v ktorých sú vyhľadávané škandály , chyby a prešľapy človeka , ktorý je slávny či už preto , že má peniaze alebo je umelcom .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+812,Toto nie je ako vo filme .,O O O O O O O
+544,"To , ako všetko vybudoval iba svojou vášňou , prácou , postojom , vierou , zdolávaním prekážok , ktoré vždy boli pre neho výzvou .",O O O O O O O O O O O O O O O O O O O O O O O O O
+373,infospravy .,B-ORG I-ORG
+392,"Argumentujú tým , že Hilllary Clintonová získala o takmer tri milióny hlasov voličov viac , a preto by mala byť prezidentkou .",O O O O B-PER I-PER O O O O O O O O O O O O O O O O
+509,"Trump argumentoval tým , že nepotrebuje každý deň počúvať to isté .",B-PER O O O O O O O O O O O
+129,Prijatie svojho podnetu Európskou komisiou považujem za ďalší dôkaz nekompetencie vlády Roberta Fica .,O O O B-ORG I-ORG O O O O O O B-PER I-PER O
+687,Ukazuje nám Trumpa v akci .,O O O O O O
+644,Česko aj Rakúsko ale aj Slovensko v reakcii na útok posilnili bezpečnostné opatrenia .,B-LOC O B-LOC O O B-LOC O O O O O O O O
+685,(,O
+246,"Európska komisia zverejnila 14 . septembra 2016 v rámci stratégie jednotného digitálneho trhu finálnu verziu návrhu zákona o “ copyright ” , ktorý prináša modernizáciu pravidiel týkajúcich sa autorských práv vydavateľov .",B-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+571,Stavebné povolenie pre výstavbu 11 turbín v blízkosti Trumpovho golfového rezortu v Aberdeenshire bolo udelené už v roku 2013 .,O O O O O O O O B-PER O O O B-LOC O O O O O O O
+723,V hotelierstve však nebol taký úspešný a v porovnaní s realitným sektorom mu vynášalo oveľa menej .,O O O O O O O O O O O O O O O O O
+4,Prebiehanie auditu potvrdila i vedúca tlačového oddelenia zastúpenia EK na Slovensku .,O O O O O O O O B-ORG O B-LOC O
+153,Pozrite si reportáž redaktorky Klaudie Suchomel Guzovej .,O O O O B-PER I-PER I-PER O
+111,Pri vydávaní cestovných dokladov musia táty spĺňať bezpečnostné tandardy stanovené na európskej úrovni .,O O O O O O O O O O O O O O
+716,Trump Building .,B-LOC I-LOC O
+726,"Jeho realitná šow The Apprentice vysielaná na kanáli NBC , ktorá odštartovala v roku 2003 , získala mnoho priaznivcov po celej USA .",O O O B-MISC I-MISC O O O B-ORG O O O O O O O O O O O O B-LOC O
+513,Trump ich nepovažuje ani za prekážku pre mier na Blízkom východe .,B-PER O O O O O O O O B-LOC I-LOC O
+759,"Dôsledkom napadnutia krajín NATO je iba to , že Líbyu a Irak uvrhli do totálneho chaosu .",O O O B-ORG O O O O O B-LOC O B-LOC O O O O O
+418,Trump tak vyhral v desiatich z 15 štátov .,B-PER O O O O O O O O
+596,"V súčasnosti je ženatý so Slovinkou Melániou , ktorá sa narodila v roku 1970 v Sevnici a v Ľubľani študovala architektúru .",O O O O O O B-PER O O O O O O O O B-LOC O O B-LOC O O O
+366,Honosné historické sídlo,O O O
+65,"Dunajská stratégia predstavuje politický nástroj regionálnej politiky EÚ , ktorého cieľom je koncentrovať úsilie partnerských štátov na riešenie spoločných problémov regiónu . Implementácia dunajskej stratégie je založená na práci v rámci 11 prioritných oblastí , ktoré sú koordinované dvojicou krajín .",B-MISC I-MISC O O O O O B-LOC O O O O O O O O O O O O O O O B-MISC I-MISC O O O O O O O O O O O O O O O O
+616,Krátko po návrate si ju vzal za ženu .,O O O O O O O O O
+311,"Argumentovali tým , že je ťažké stanoviť jednotný tandard pre vozidlá s rôznou veľkosťou a tvarom a že už aj bez toho znížili týmto vozidlám emisie uhlíka .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+727,"Miliardárska mediálna hviezda účinkovala aj vo filmoch , napríklad v známom rodinnom príbehu Sám doma 2 .",O O O O O O O O O O O O O B-MISC I-MISC I-MISC O
+25,Pellegrini pre,B-PER O
+230,"Cieľom je , aby zdaňovanie príjmov právnických osôb bolo spravodlivé a v prospech hospodárskeho rastu , uviedla komisia vo vyhlásení .",O O O O O O O O O O O O O O O O O O O O O
+336,"Podľa EK nová smernica o strelných zbraniach spolu s technickými predpismi požadujúcimi prísne harmonizované normy pre deaktiváciu strelných zbraní ( platné od apríla 2016 ) povedie k zníženiu počtu nebezpečných , ale legálne držaných zbraní , ktoré sa môžu dostať do rúk zločincom a teroristom .",O B-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+818,"Trump prakticky od začiatku predvolebnej kampane v debatách šokuje svojimi názormi : vyjadril sa napríklad v tom zmysle , že veľkú časť imigrantov z Mexika žijúcich v USA tvoria zločinci a násilníci .",B-PER O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O B-LOC O O O O O
+757,"Je presvedčený , že je chybou , že sa tak v Líbyi , ako i v Iraku násilne zvrhol režim .",O O O O O O O O O O O B-LOC O O O O B-LOC O O O O
+302,Z prevažnej časti je spravovateľom rozpočtu EÚ .,O O O O O O B-LOC O
+131,"Zo skúseností vieme , že Robert Fico od svojho konania ustúpi len pod tlakom občanov , alebo európskych inštitúcií .",O O O O O B-PER I-PER O O O O O O O O O O O O O
+451,"Trump sa stal víťazom po tom , ako podľa priebežne zverejňovaných výsledkov získal aj hlasy desiatich voliteľov v štáte Wisconsin , čo spolu s ďalšími ziskami znamená , že presiahol hranicu 270 voliteľov .",B-PER O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O
+650,A .,B-PER I-PER
+132,"Dúfam , že si rýchlo uvedomí možné následky svojho konania a po konzultáciách so živnostníkmi a ďalšími veriteľmi nájde iné riešenie problému Váhstavu .",O O O O O O O O O O O O O O O O O O O O O O B-ORG O
+280,"Za odchod Británie z Európskej únie pred referendom hodlá agitovať starosta Londýna Boris Johnson , ktorý svoje rozhodnutie oficiálne potvrdil v nedeľu s tým , že to bolo "" bolestne ťažké "" .",O O B-LOC O B-LOC I-LOC O O O O O B-LOC B-PER I-PER O O O O O O O O O O O O O O O O O O O
+766,No tentokrát sa nám predstavil inak .,O O O O O O O
+807,"Iniciátormi petície sú autorka divadelnej hry Monológy vagíny Eve Enslerová , producentka dokumentárnych filmov Jodie Evansová a vysokoškolská učiteľka práva Kimberlé Crenshawová .",O O O O O O B-MISC I-MISC B-PER I-PER O O O O B-PER I-PER O O O O B-PER I-PER O
+471,"Jeho majetok dosiahol miliardovú hodnotu vďaka rozličným podnikateľským aktivitám , ktoré zahŕňali napríklad súťaže krásy ( Miss Universe ) , úspešnú televíznu realitnú šou Apprentice či autorstvo viacerých predávaných kníh , v ktorých radí , ako dosiahnuť úspech v živote a podnikaní .",O O O O O O O O O O O O O O O O B-ORG I-ORG O O O O O O B-MISC O O O O O O O O O O O O O O O O O O
+454,Informovala o tom spravodajská stanica CNN . Republikán Donald Trump bude v poradí 45 . prezidentom USA . PREZIDENT : Blahoželám Donaldovi Trumpovi k víťazstvu vo voľbách .,O O O O O B-ORG O O B-PER I-PER O O O O O O B-LOC O O O O B-PER I-PER O O O O O
+59,"Počas dvojdňového fóra s názvom Innovative Flows - Water , Knowledge and Innovation in the Danube Region Inovačné toky - voda , vedomosti a inovácie v dunajskom regióne absolvuje očakávaných 700 účastníkov viacero spoločných platforiem , ale najmä workshopov na témy : znalostná spoločnosť , kvalifikovaní ľudia , konkurencieschopný región , vodné hospodárstvo , spoločné inovácie , voda a poľnohospodárstvo , ideálny model nadnárodnej spolupráce a pod .",O O O O O B-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC B-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC I-MISC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+487,Podľa zoznamu Forbes 400 Donald Trump je dnes 134 . najbohatší človek v USA .,O O B-MISC I-MISC B-PER I-PER O O O O O O O B-LOC O
+838,Hillary vyhráva .,B-PER O O
+682,"Mentalita niektorých ľudí , čo si automaticky nárokujú na starostlivosť zamestnávateľa či štátu , je nákazlivá .",O O O O O O O O O O O O O O O O O
+459,"Americký podnikateľ , realitný investor a televízna osobnosť Donald Trump kandidoval na post prezidenta Spojených štátov vo voľbách 2016 za Republikánsku stranu .",O O O O O O O O B-PER I-PER O O O O B-LOC I-LOC O O O O B-ORG I-ORG O
+249,Carlo Perrone,B-PER I-PER
+409,Čo by však jeho prípadné víťazstvo v prezidentských voľbách v USA mohlo spraviť s americkou ekonomikou ?,O O O O O O O O O O B-LOC O O O O O O
+75,"Komisia považuje za problematické oblasti , na ktoré opakovane upozorňuje aj HPI : prieťahy pri zavádzaní DRG , suboptimálna alokácia peňazí medzi nemocnicami , nedostatok transparentnosti ; chýbajúce dáta ; integrované zdravotné centrá prínosy tohto modelu sú neisté ; stratégia sa príliš úzko sústredí na výstavbu infraštruktúry ; nevhodné rozdelenie zdrojov a ďalšie nedostatky ohrozujú úspech projektu ; len pomalý presun kompetencií na všeobecných lekárov ; e Health chýbajú akékoľvek hmatateľné výsledky ; dlhy nemocníc nejestvujú opatrenia , ktoré by podporovali finančné riadenie nemocníc ; pretrvávajúc nedostatky vo verejnom obstarávaní v dôsledku chýbajúcich systémových opatrení , vedenia a dohľadu .",O O O O O O O O O O O B-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+251,"Zákon umožní vydavateľom ochrániť a zhodnocovať vlastný redakčný obsah v digitálnom priestore , čo prinesie väčšiu pluralitu médií , slobodu tlače a kultúrnu diverzitu . “",O O O O O O O O O O O O O O O O O O O O O O O O O O
+86,V prípade jej porušovania môže členské štáty varovať alebo potrestať .,O O O O O O O O O O O
+520,Podľa jeho názoru sa Trump bude pokúšať pomôcť Izraelu uzavrieť mier s Palestínčanmi .,O O O O B-PER O O O O O O O B-PER O
+570,Trumpova organizácia označila rozhodnutie ako malomyseľné a obmedzené .,B-PER O O O O O O O O
+547,"Dnes čítam jeho ďalšiu užasnú knihu , ktorá má zaujímavý a hravý nadpis : “ Myslite na veľké ciele a dobre sa zabávajte ” .",O O O O O O O O O O O O O O O O O O O O O O O O O
+618,"Kráľovstvo Bayern , kam vtedy patril Kallstadt , vyhlásil jeho občianstvo za neplatné , lebo emigroval do USA .",O B-LOC O O O O B-LOC O O O O O O O O O O B-LOC O
+158,"Európska komisia schválila “ európsky zbor solidarity ” , ktorá je najnovšou iniciatívou Európskej únie určenou mladým ľuďom vo veku 18-30 rokov , hlavne tým , ktorí sú nezamestnaní alebo nie sú v zamestnaní , vzdelávaní ani odbornej príprave ( NEET ) .",B-ORG I-ORG O O O O O O O O O O O B-LOC I-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+666,"Ekvádor zasiahla séria zemetrasení , zomreli najmenej dvaja ľudia .",B-LOC O O O O O O O O O
+413,"„ Odpoveď je áno , ak urobí to , čo sľubuje .",O O O O O O O O O O O O
+458,PROFIL DONALDA TRUMPA .,O B-PER I-PER O
+661,Americký prezident,O O
+789,"Ak máte otázky k reči tela vás či niekoho iného , napíšte mi .",O O O O O O O O O O O O O O
+247,Nový zákon upravuje autorské práva vydavateľov v digitálnom priestore .,O O O O O O O O O O
+428,"Ak by sa Donald Trump stal prezidentom a splnil by to , čo sľúbil , do úvahy prichádza niekoľko rizík .",O O O B-PER I-PER O O O O O O O O O O O O O O O O
+206,"Cieľom je , aby zdaňovanie príjmov právnických osôb bolo spravodlivé a v prospech hospodárskeho rastu , uviedla komisia vo vyhlásení .",O O O O O O O O O O O O O O O O O O O O O
+257,"To sú dva kľúčové výsledky posledného štandardného prieskumu Eurobarometra , ktoré boli dnes uverejnené spolu s osobitným prieskumom Eurobarometra „ Budúcnosť Európy “ .",O O O O O O O O O O O O O O O O O O O O O O O O
+502,Konalo sa priamo v Bielom dome a simulovalo sériu explózií vo viacerých amerických mestách .,O O O O B-LOC I-LOC O O O O O O O O O
+162,Pozri si v prehliadači .,O O O O O
+140,"Ministerstvo zdravotníctva , ministerstvo školstva , pôdohospodárstva , zdravotníctva - tieto rezorty rozbehli a v niektorých prípadoch už aj dokončili projekty , na ktoré mali byť použité peniaze z eurofondov .",B-ORG I-ORG O B-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O
+849,Padli totiž kanadské webové stránky pre imigráciu ( aktuálne stále tento výpadok pretrváva ) .,O O O O O O O O O O O O O O O
+512,"Donald Trump si nemyslí , že by rozširovanie židovských miest , ktoré Izrael buduje v Judei a Šomrone by sa malo odsudzovať .",B-PER I-PER O O O O O O O O O O B-LOC O O B-LOC O B-LOC O O O O O
+540,"Siahla som na policu , kde mám knižky o motivácii a inspirácii a vybrala som knižku TRUMP NIKDY SA NEVZDÁVAJ .",O O O O O O O O O O O O O O O O B-PER O O O O
+441,"Na druhej strane sektory , ktoré závisia od vstupov z dovozu - stavebníctvo , maloobchod , by tlak vysokých cien pocítili okamžite .",O O O O O O O O O O O O O O O O O O O O O O O
+692,Nestačí jen chtít .,O O O O
+388,"V minulosti sa ale niekoľkokrát stalo , že hlasovali inak .",O O O O O O O O O O O
+460,"Je predsedom a generálnym riaditeľom spoločnosti Trump Organization je tiež zakladateľom firmy Trump Entertainment Resorts , podnikajúcej v oblasti kasín a siete hotelov po celom svete .",O O O O O O B-ORG I-ORG O O O O B-ORG I-ORG I-ORG O O O O O O O O O O O O
+177,"Vo svojej Správe o Únii upozornil , že členské krajiny musia vedieť , kto prekračuje ich hranice , a dodal , že nový automatizovaný autorizačný systém určí , kto bude môcť cestovať do Európy .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O
+332,"Komisia vyjadrila ľútosť , že niektoré body pôvodného návrhu Európskeho parlamentu a Rady EÚ neboli podporené .",O O O O O O O O O B-ORG I-ORG O B-ORG I-ORG O O O
+494,Zostáva mu na to presne mesiac .,O O O O O O O
+551,Päťdesiattriročný finančník,O O
+856,"Som fanúšikom open source riešení , preto sa budem snažiť prinášať články najmä z tejto oblasti a robiť tým osvetu slobodnému softvéru .",O O O O O O O O O O O O O O O O O O O O O O O
+749,Vzdať sa ich by pre spoločnosť znamenalo vzdať sa svojich ziskov .,O O O O O O O O O O O O
+637,"Po útoku kamiónom na vianočné trhy v berlínskej štvrti Charlottenburg zahynulo 12 ľudí , 48 je zranených .",O O O O O O O O O B-LOC O O O O O O O O
+717,Trump World Tower .,B-LOC I-LOC I-LOC O
+200,"Hovorca vládneho krízového výboru pre migráciu Jorgos Kyritsis povedal pre grécku televíziu Skai , že v stanoch na ostrovoch je stále ubytovaných necelých tisíc ľudí .",O O O O O O B-PER I-PER O O O O O O O O O O O O O O O O O O
+369,"Jeho súčasťou je aj privátny klub a kúpele , ktoré Tumpovi vlani zarobili 15 , 6 milióna dolárov .",O O O O O O O O O O B-PER O O O O O O O O
+753,"Neustále sa angažujeme v zahraničí a staviame sa za ľudí , ktorí sú nakoniec ešte horší než tí , ktorí boli na ich mieste predtým , ” tvrdí Donald Trump , ako kritik amerického diplomatického prístupu voči problematike v Sýrii .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PER I-PER O O O O O O O O O B-LOC O
+151,"Hovorkyňa podpredsedu vlády pre investície a informátizáciu tvrdí , že rozpočet ohrozený nie je .",O O O O O O O O O O O O O O O
+440,"Napríklad na sektor výroby , ktorú ovplyvňuje silný dolár a nárast dovozu z Číny ( najmä oceľ ) .",O O O O O O O O O O O O O O O O O O O
+421,Riziká a zhoršená podnikateľská dôvera .,O O O O O O
+588,Má korene pri Rýne | noveslovo .,O O O B-LOC O B-ORG I-ORG
+486,"Trump je tiež zakladateľom spoločnosti Trump Entertainment Resorts , ktorá prevádzkuje mnoho kasín a hotelov po celom svete .",B-PER O O O O B-ORG I-ORG I-ORG O O O O O O O O O O O
+143,""" Na krajinu , ktorá má pozastavené čerpanie sa pozerá , že tam nie je niečo v poriadku , "" povedal predseda BSK Pavol Frešo .",O O O O O O O O O O O O O O O O O O O O O O B-ORG B-PER I-PER O
+722,"Najznámejšími objektmi sú napríklad Trump Plaza alebo Trump Taj Mahal , ktoré ročne navštívia milióny ľudí .",O O O O B-LOC I-LOC O B-LOC I-LOC I-LOC O O O O O O O
+197,"V gréckych utečeneckých táboroch je ‘neobhájiteľná’ situácia | Konzervatívny výber Európska komisia kritizuje , že migranti bývajú v stanoch aj keď sú vonku mrazy a sneh .",O O O O O O O O B-ORG I-ORG B-ORG I-ORG O O O O O O O O O O O O O O O
+120,"Hoci existujú určité právne prekážky , v princípe podporuje individuálne členstvo Britov v EÚ …",O O O O O O O O O O O O O B-LOC O
+166,"Projekty zavádzajúce mechanizmy na zlepšenie spolupráce medzi iniciatívami zameranými na filmové vzdelávanie v Európe s cieľom zvýšiť efektívnosť a európsky rozmer daných iniciatív a vyvíjať nové a inovatívne projekty , obzvlášť . . .",O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O
+763,Donald Trump to vie aj pokojne a otvorene | Bodytalks 39 . týždeň vo svete s BodyTalks .,B-PER I-PER O O O O O O O B-ORG O O O O O O B-ORG O
+821,"Donald Trump vyzval černošských voličov , aby ho volili | Zahraničie | Noviny . sk DIMONDALE / Donald Trump , kontroverzný republikánsky kandidát na prezidenta , sa začal snažiť o hlasy černošských voličov .",B-PER I-PER O O O O O O O O O O B-ORG I-ORG O B-LOC O B-PER I-PER O O O O O O O O O O O O O O O
+245,"Brusel , 14 . septembra 2016 .",B-LOC O O O O O O
+583,Motors plánujú vytvoriť spoločnú platformu pre elektromobilitu a spolupracovať pri vývoji .,I-ORG O O O O O O O O O O O
+589,sk,O
+755,"“ Ak chce Rusko bojovať proti islamistom , mali by sme mu to umožniť , ” dal najavo svoj názor , či mieni podporovať spojencov sýrskeho prezidenta Bašára Asada .",O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O B-PER I-PER O
+385,"Volitelia vždy hlasujú až niekoľko týždňov po tom , ako hlasovali voliči .",O O O O O O O O O O O O O
+720,"Súčasťou Trumpovej finančnej stratégie bola flexibilita , čoho výsledkom bolo investovanie vo viacerých oblastiach .",O B-PER O O O O O O O O O O O O O
+625,"Po tom , ako som sa v Kallstadte dozvedel mnoho o pôvode a živote Donalda Trumpa - z čoho som tu napísal len niečo - tak mám pre neho oveľa viac sympatíí , ako som mal predtým .",O O O O O O O B-LOC O O O O O O B-PER I-PER O O O O O O O O O O O O O O O O O O O O O O
+98,"Každá krajina má jedného komisára , ktorý je zodpovedný za určitú oblasť .",O O O O O O O O O O O O O
+703,"To by malo byť dostatočnou motiváciou pre všetkých obchodníkov , ktorí sa chcú inšpirovať úspešnými ľuďmi .",O O O O O O O O O O O O O O O O O
+22,"„ Jeho cieľom je vytvorenie eGov služieb , ktoré umožnia každej zapojenej škole primerane rýchly a kvalitný prístup k digitálnemu vzdelávaciemu obsahu , “ napísal hovorca Martin Dorčák .",O O O O O O O O O O O O O O O O O O O O O O O O O O B-PER I-PER O
+102,EK tým chce prispieť k budovaniu tzv . bezpečnostnej únie a podporiť boj proti terorizmu a organizovanému zločinu i ochranu hraníc .,B-ORG O O O O O O O O O O O O O O O O O O O O O
+367,Mar-a-Lago má vyše sto izieb a Donald Trump ho kúpil v roku 1985 za údajne sedem miliónov dolárov .,B-LOC O O O O O B-PER I-PER O O O O O O O O O O O
+299,Osobný profil Európska komisia | Aktuality . sk | Aktuality . sk EK,O O B-ORG I-ORG O B-ORG I-ORG O O B-ORG I-ORG O B-ORG
+713,"Donald vstúpil na trh v Manhattane a začal sa orientovať na objekty , ktorých cena za meter štvorcový sa pohybovala v tisícoch dolárov .",B-PER O O O O B-LOC O O O O O O O O O O O O O O O O O O
+773,Viete prečo ?,O O O
+126,"Ako člen Výboru pre vnútorný trh si dobre uvedomujem , aké následky môže mať deformovanie voľnej súťaže štátnymi zásahmi .",O O O O O O O O O O O O O O O O O O O O
+530,"Veľmi rada chodím do kníhkupectva , kde hľadám inšpiráciu .",O O O O O O O O O O
+397,Hlasy voliteľov spočíta 6 . januára Kongres .,O O O O O O B-ORG O
+674,Najvyššia denná teplota -4 až 1 ° C .,O O O O O O O O O
+641,"Polícia pripustila , že neútočil on .",O O O O O O O
+390,"Mnohí Američania dúfajú , že i dnes volitelia zvrátia výsledok hlasovania voličov .",O B-PER O O O O O O O O O O O
+133,Európska komisia nám zablokovala eurofondy .,B-ORG I-ORG O O O O
+523,msz .,O O
+845,Donald Trump bol zvolený ako 45 . prezident,B-PER I-PER O O O O O O
+113,""" Vieme , že teroristi použili sfalované dokumenty , aby mohli nepozorovane cestovať po EÚ .",O O O O O O O O O O O O O O B-LOC O
+278,"Referendá sú nebezpečné , a to najmä pre európske otázky , "" dodal .",O O O O O O O O O O O O O O
+483,Okrem toho sľúbil znížiť dane a zreformovať zdravotníctvo a školstvo .,O O O O O O O O O O O
+295,Facebook má čas na vyjadrenie do 31 . januára 2017 .,B-ORG O O O O O O O O O O
+697,(,O
+581,"eur , väčšina produktov smeruje na export a 10 % na domáci trh .",O O O O O O O O O O O O O O
+264,"Dnes v kontexte Asociačnej rady medzi Európskou úniou a Ukrajinou sa uskutočnilo aj stretnutie medzi podpredsedom Európskej komisie pre Energetickú úniu Marošom Šefčovičom , prvým podpredsedom vlády Ukrajiny Stepanom Kubivom a podpredsedom Európskej investičnej banky Vazilom Hudákom .",O O O O O O B-LOC I-LOC O B-LOC O O O O O O B-ORG I-ORG O O O B-PER I-PER O O O O B-LOC B-PER I-PER O O B-ORG I-ORG I-ORG B-PER I-PER O
+196,Európska komisia :,B-ORG I-ORG O
+363,"Zatiaľ neprezradil , či sa odtiaľ vráti na Floridu , respektíve , kde plánuje stráviť Vianoce .",O O O O O O O O B-LOC O O O O O O B-MISC O
+183,A to po vyplnení príslušného elektronického formulára - cez počítač alebo mobilnú aplikáciu - a s platnosťou na obdobie piatich rokov .,O O O O O O O O O O O O O O O O O O O O O O
+400,"Víťazom amerických prezidentských volieb sa stal Donald Trump – Priekopník Približne 200 miliónov potenciálnych amerických voličov rozhodlo o novom prezidentovi Spojených štátov , volebné miestnosti zavreli dnes o 05 : 00 SEČ .",O O O O O O B-PER I-PER O O O O O O O O O O O O B-LOC I-LOC O O O O O O O O O O O
+562,"Viac o povinnostiach diskutéra sa dozviete v pravidlách portálu , ktoré si je každý diskutér povinný naštudovať a ktoré nájdete tu .",O O O O O O O O O O O O O O O O O O O O O O
+228,"Dnešným rozhodnutím sa skončilo vyšetrovanie kartelu , ktorý v rokoch 2005 až 2008 manipuloval sadzbu Euribor , dodala Vestagerová .",O O O O O O O O O O O O O O O O O O B-PER O
+533,"Hľadala som niečo , čo ma osloví a všimla som si knihu kde bolo meno Donald Trump , ale čo ma lákalo viac , bol nadpis , TRUMP NIKDY SA NEVZDÁVAJ , tak som knižku zobrala , sadla si do malej kaviarničky a listovala .",O O O O O O O O O O O O O O O B-PER I-PER O O O O O O O O O O B-PER O O O O O O O O O O O O O O O O O
+600,"A dedinčanom z Kallstadtu sa veľmi páčilo , že hovoril s nimi v ich ťažko zrozumiteľnom dialekte .",O O O B-LOC O O O O O O O O O O O O O O
+1,"Hrozí vracanie eurofondov | Živé .sk Európska komisia ( EK ) preveruje štátnu pomoc a verejné obstarávanie okolo projektu Digitálne učivo na dosah , v rámci ktorého ministerstvo školstva a úrad vlády zavádzali optický internet do vyše 200 škôl .",O O O O O O B-ORG I-ORG O B-ORG O O O O O O O O O B-MISC I-MISC I-MISC I-MISC O O O O B-ORG I-ORG O B-ORG I-ORG O O O O O O O O
+628,Som spisovateľ a publicista .,O O O O O
+139,"Ak nie , milióny eur pôjdu z nášho rozpočtu .",O O O O O O O O O O
+510,Donald Trump nepovažuje osady za problém | UZZNO,B-PER I-PER O O O O O B-ORG
+73,Health Policy Institute ( HPI ) sa s hodnotením EK stotožňuje .,B-ORG I-ORG I-ORG O B-ORG O O O O B-ORG O O
+844,Posledné prezidentské voľby v USA sú bezpochyby historické z viacerých dôvodov .,O O O O B-LOC O O O O O O O
+665,"Ch . Lagardeová zostane šéfkou MMF aj po verdikte súdu , ktorý ju uznal vinnou z nedbanlivosti .",B-PER I-PER O O O O O O O O O O O O O O O O
+204,Európska komisia navrhla zásadnú zmenu zdaňovania firiem SITA | 25 . 10 . 2016 .,B-ORG I-ORG O O O O O B-ORG O O O O O O O
+80,"Európska komisia je politicky nezávislá , kolegiálna inštitúcia , ktorej poslaním je brániť záujmy Európskej únie .",B-ORG I-ORG O O O O O O O O O O O O B-LOC I-LOC O
+708,"Prostredníctvom nej uskutočnil mladý Donald svoj prvý väčší projekt , ktorým bola obnova bytového komplexu Swifton Village v Cincinnati .",O O O O B-PER O O O O O O O O O O B-LOC I-LOC O B-LOC O
+631,"Na Slovensku som mal vlastnú edíciu o kozme , vyšli mi tam dva dvojdielne historické romány ( téma starý Egypt a Veľká Morava ) , psychologický román , póezia , kniha o najväčších génioch západnej civilizácie i knihy politicko-filozofickej faktografie .",O B-LOC O O O O O O O O O O O O O O O O O B-MISC O B-MISC I-MISC O O O O O O O O O O O O O O O O O O
+825,""" Dnes žiadam o hlas každého občana afroamerického pôvodu v tejto krajine , ktorý si praje lepší budúcnosť , "" povedal na zhromaždení na predmestí Lansingu , kde ale žije prevažne biele obyvateľstvo .",O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O
+345,"Donald Trump | ČSFD . cz Donald John Trump je americký obchodný magnát , televízna osobnosť a autor .",B-PER I-PER O O O O B-PER I-PER I-PER O O O O O O O O O O
+794,"V pesničke , v ktorej sa dávajú rady ako urobiť dojem na ženu , Streepová pozmenila text v neprospech Trumpa , ktorý častokrát reaguje na ženy ako hulvát a dobre imitovala jeho gestá .",O O O O O O O O O O O O O O B-PER O O O O B-PER O O O O O O O O O O O O O O
+820,Tento svoj nápad označil za jeden zo spôsobov boja s terorizmom .,O O O O O O O O O O O O
+436,Podľa The New York Times plánuje zaviesť 45 % tarifu na import z Číny .,O B-ORG I-ORG I-ORG I-ORG O O O O O O O O O O
+70,Európska komisia kriticky hodnotí naše zdravotníctvo | HPI - Stredoeurópsky inštitút pre zdravotnú politiku Európska komisia ( EK ) vydala hodnotiacu správu [pdf] o Slovensku .,B-ORG I-ORG O O O O O B-ORG O B-ORG I-ORG I-ORG I-ORG I-ORG B-ORG I-ORG O B-ORG O O O O O O B-LOC O
+273,"B začneme hovoriť v deň , keď už nebudeme môcť veriť v náš plán A .",O O O O O O O O O O O O O O O O
+768,Pri spoločnej modlitbe má otvorené dlane a ramená .,O O O O O O O O O
+42,"Nový operačný program je kvalitný dokument , ktorému predchádzala náročná práca a zložité rokovania . “ skonštatoval minister životného prostredia Peter Žiga .",O O O O O O O O O O O O O O O O O O O O B-PER I-PER O
+199,"Husté sneženie zasiahlo rozsiahle časti Grécka , vrátane ostrovy vo východnej oblasti Egejského mora , na ktorých sú uviaznuté tisíce utečencov .",O O O O O B-LOC O O O O O O B-LOC I-LOC O O O O O O O O
+426,"Rovnako sa Trump podľa neho ukazuje rizikovým faktorom pre finančné trhy , ktoré sú od začiatku roka už i tak dosť volatilné .",O O B-PER O O O O O O O O O O O O O O O O O O O O
+648,A .,B-PER I-PER
+356,"Noviny vyšli vo štvrtok s titulkami ako : "" Donald Trump by mohol stráviť Vianoce v Palm Beach "" , "" Strávi Trump Vianoce v Palm Beach ? """,O O O O O O O O O B-PER I-PER O O O B-MISC O B-LOC I-LOC O O O O B-PER B-MISC O B-LOC I-LOC O O
+313,Európska komisia si posvietila na banky .,B-ORG I-ORG O O O O O
+475,Jeho druhou manželkou bola v rokoch 19931999 Marla Maplesová - z tohto manželstva sa narodila dcéra Tiffany ( 1993 ) .,O O O O O O O B-PER I-PER O O O O O O O B-PER O O O O
+287,"Ak sa ukáže , že EK má pravdu a Facebook zatajoval informácie pri vyšetrovaní , jednalo by sa o porušenie regulácií EÚ pri zlučovaní spoločností .",O O O O O B-ORG O O O B-ORG O O O O O O O O O O O B-LOC O O O O
+321,Francúzsky peňažný ústav,O O O
+659,D .,B-PER I-PER
+167,"Podpora odborných audiovizuálnych podujatí obchodného charakteru ( audiovizuálne trhy ) , používania online nástrojov a spoločných európskych propagačných činností .",O O O O O O O O O O O O O O O O O O O O
+852,"Kanada samotná ponúka dva rôzne spôsoby ako sa usídliť legálne v krajine a to , že môžete požiadať o trvalý pobyt v krajine , alebo sa môžete sa stať priamo občanom Kanady .",B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O
+29,"SLORD > Európska komisia pozýva k formovaniu novej Európskej rady pre inovácie Európska komisia vyzýva najúspešnejsích a najlepších inovátorov Európy ku vstupu do High Level Group , ktorá bude poskytovať rady pre koncepciu novovznikajúcej Európskej rady pre inovácie ( European Innovation Council - EIC ) .",O O B-ORG I-ORG O O O O B-ORG I-ORG O O B-ORG I-ORG O O O O O B-LOC O O O B-ORG I-ORG I-ORG O O O O O O O O B-ORG I-ORG O O O B-ORG I-ORG I-ORG O B-ORG O O
+306,"Každé generálne riaditeľstvo sa venuje vybranej problematike , na jeho čele je generálny riaditeľ , ktorý podlieha priamo konkrétnemu komisárovi .",O O O O O O O O O O O O O O O O O O O O O
+144,Podľa ministerstva zdravotníctva však napríklad ich projekty nijako neutrpeli a všetky sú už dokončené .,O B-ORG I-ORG O O O O O O O O O O O O
+284,Pri vyšetrovaní spojenia Facebooku a WhatsApp Európskou komisiou v roku 2014,O O O B-ORG O B-ORG B-ORG I-ORG O O O
+48,"Z Európskeho fondu regionálneho rozvoja budú podporované aktivity v rámci prioritných osí 3 , 4 a 5 v celkovej výške viac ako 1 , 276 mld . eur .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+636,"ONLINE : Prieskumy sa mýlili , víťazom amerických volieb je Donald Trump | Televízia TA3",O O O O O O O O O O B-PER I-PER O O B-ORG
+748,Apple je však závislý od medzinárodných dodávateľských reťazcov a osvedčených zahraničných výrobcov .,B-ORG O O O O O O O O O O O O
+442,"„ Hoci firmy už drasticky orezali marže , vysoké spotrebiteľské ceny môžu vplývať na kúpyschopnosť domácností , “ hodnotí .",O O O O O O O O O O O O O O O O O O O O
+715,Najznámejšie Trumpove stavby : Trump Tower .,O B-PER O O B-LOC I-LOC O
+750,A na to by bolo treba oveľa viac ako len ostré slová Donalda Trumpa .,O O O O O O O O O O O O B-PER I-PER O
+561,"Najmä , aby ste nezverejňovali príspevky rasistické , podnecujúce k násiliu alebo nenávisti na základe pohlavia , rasy , farby pleti , jazyka , viery a náboženstva , politického či iného zmýšľania , národného alebo sociálneho pôvodu , príslušnosti k národnosti alebo k etnickej skupine a podobne .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+827,""" Žijete v biede , nemáte dobré školy , nemáte prácu , 58 percent vašich detí nemá zamestnanie - čo môžete do hája stratiť ? , "" povedal na ich adresu .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+712,"Náplňou jeho práce bolo takisto obchodovanie s nehnuteľnosťami , akurát že stratégia rozvoja bola odlišná .",O O O O O O O O O O O O O O O O
+303,"Na čele EK je predseda ( Barroso ) , ktorý je navrhnutý Európskou radou a potvrdený musí byť Európskym parlamentom .",O O B-ORG O O O B-PER O O O O O B-ORG I-ORG O O O O B-ORG I-ORG O
+52,"O finančnú pomoc budú môcť žiadať subjekty verejného i súkromného sektora , teda nielen obce , samosprávne kraje a orgány štátnej správy , ale aj široké spektrum združení , neziskových organizácií , pôsobiacich v oblastiach podpory operačného programu , ale aj fyzické a právnické osoby , oprávnené na podnikanie vo vymedzených oblastiach .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+772,Tento deň bol pre politika úspešný .,O O O O O O O
+398,Nový prezident bude inaugurovaný 20 . januára .,O O O O O O O O
+605,Migračná historka Friedricha Trumpa z dedinky,O O B-PER I-PER O O
+368,Potom ho zrenovoval a dnes je podľa magazínu Fortune okázalým palácom s hodnotou 200 miliónov dolárov .,O O O O O O O O B-ORG O O O O O O O O
+310,"Zástupcovia európskych automobiliek ako Daimler , Renault či Volkswagen limity pre kamióny zatiaľ odmietajú .",O O O O B-ORG O B-ORG O B-ORG O O O O O O
+787,Za viac než 20 rokov praxe som vyvinula vlastnú metodiku VEDOMÁ REČ TELA .,O O O O O O O O O O O O O O
+445,"Hocako , spomenuté riziká by sa zmiernili , ak by Donald Trump neurobil to , čo sľubuje .",O O O O O O O O O O B-PER I-PER O O O O O O
+840,10 . 08 . 2016 12 :52 Zahraničie,O O O O O O O O
+679,Počas svojej kariéry zažil Donald Trump závratné výšky aj pády .,O O O O B-PER I-PER O O O O O
+823,"Dimondale ich priamo vyzval , aby nevolili demokratov a dali šancu jemu .",B-LOC O O O O O O B-ORG O O O O O
+96,Túto zmenu zaviedla do zloženia komisie dohoda z Nice .,O O O O O O O O B-LOC O
+744,"Už pred viacerými rokmi navrhoval , aby Apple preniesol svoju výrobu zasa domov .",O O O O O O O B-ORG O O O O O O
+301,Taktiež zastupuje úniu voči členským krajinám aj navonok .,O O O O O O O O O
+498,Dôraz je na ňu kladený aj počas odovzdávania prezidentskej funkcie .,O O O O O O O O O O O
+195,"Následne sa celé kolégium komisárov zúčastní stretnutia s poslancami Národnej Rady Slovenskej republiky , ktoré sa bude venovať aktuálnym výzvam v Európskej únii : migrácia , Schengenský priestor , Európska susedská politika , ako aj úloha národných parlamentov v oblasti Energetickej únie a energetickej bezpečnosti v EÚ .",O O O O O O O O O B-ORG I-ORG I-ORG I-ORG O O O O O O O O B-LOC I-LOC O O O O O O O O O O O O O O O O O O O O O O O B-LOC O
+357,""" Začína to vyzerať , že nastávajúci prezident Trump strávi sviatky v Palm Beach "" či "" Nastávajúci prezident by tu mohol byť na sviatky "" .",O O O O O O O O B-PER O O O B-LOC I-LOC O O O O O O O O O O O O O
+103,Ilustračné foto,O O
+309,Nákladné vozidlá pritom vytvárajú približne tvrtinu emisií v rámci cestnej dopravy a tento podiel môže podľa komisie do roku 2030 ete narásť .,O O O O O O O O O O O O O O O O O O O O O O O
+814,Trump od začiatku predvolebnej kampane šokuje svojimi názormi .,B-PER O O O O O O O O
+281,"Británia je členom únie od roku 1973 , vtedy sa však toto zoskupenie ešte nazývalo Európske hospodárske spoločenstvo ( EHS ) .",B-LOC O O O O O O O O O O O O O O B-ORG I-ORG I-ORG O B-ORG O O
+33,Viac informácií na stránke,O O O O
+850,"Mnohí Američania , ktorí nie sú spokojní s výsledkom chcú totiž opustiť krajinu a presťahovať sa do Kanady .",O B-PER O O O O O O O O O O O O O O O B-LOC O
+576,"Výsledok odhaľuje pochabú , malichernú a obmedzenú mentalitu , ktorá ovláda nebezpečný experiment súčasnej škótskej vlády vo veternej energii . """,O O O O O O O O O O O O O O O O O O O O O
+239,""" Spoločnosti ( v rámci EÚ ) potrebujú jednoduchšie daňové pravidlá .",O O O O O B-LOC O O O O O O
+491,Premýšlajte o sebe ako o armáde jedného muža !,O O O O O O O O O
+347,"Trump je tiež zakladateľom spoločnosti Trump Entertainment Resorts , ktorá prevádzkuje mnoho kasín a hotelov po celom svete .",B-PER O O O O B-ORG I-ORG I-ORG O O O O O O O O O O O
+114,"Viacero naich bezpečnostných systémov , ako je napríklad Schengenský informačný systém , sa spolieha na dobre zabezpečené cestovné a identifikačné doklady .",O O O O O O O O O O O O O O O O O O O O O O
+104,Foto : TASR .,O O B-ORG O
+327,"Predseda EK Jean-Claude Juncker v tejto súvislosti povedal , že komisia "" tvrdo bojovala "" za presadenie ambicióznej dohody , ktorá znižuje riziko streľby na školách a v letných táboroch .",O B-ORG B-PER I-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O
+472,Má tiež vlastnú značku luxusného nábytku i oblečenia .,O O O O O O O O O
+781,Vzájomná podpora vo vašich životoch .,O O O O O O
+193,"Tieto rokovania budú prebiehať v štyroch tematických celkoch : vonkajšie vzťahy , bezpečnosť , migrácia a spravodlivosť ; energetická a klimatická politika , doprava a prírodné zdroje ; rast , konkurencieschopnosť a vnútorný trh , rozpočet Európskej únie , ekonomická a monetárna únia a sociálna agenda .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC I-LOC O O O O O O O O O
+602,"Samozrejme , že o svojom svetoznámom "" Drumbovi "" vie každý v Kallstadte a všetci sú na neho hrdí , aj keď nie každý to otvorene prizná .",O O O O O O O B-PER O O O O B-LOC O O O O O O O O O O O O O O O
+371,Times prirovnal Mar-a-Lago k Versailles a vláda ho vyhlásila za národnú historickú pamiatku .,I-ORG O B-LOC O B-LOC O O O O O O O O O
+307,"Európska komisia skúsi stanoviť emisné limity aj pre kamióny | Ekonomika | TREND .sk Komisia urýchli prácu na možnostiach uskutočnenia tandardov pre ťažké nákladné vozidlá a zaháji verejnú konzultáciu s cieľom pripraviť pôdu pre legislatívny návrh , “ píe sa podľa agentúry v dokumente .",B-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+256,Podpora priorít a politík Európskej únie zostáva výrazná a od jari 2016 sa ešte zvýšila .,O O O O B-LOC I-LOC O O O O O O O O O O
+252,"Cieľom novej legislatívnej úpravy je férovejší trh pre online obsah a snahou je , aby autori , umelci či tvorcovia boli spravodlivo zaplatení za svoju prácu , za tvorbu autentického obsahu a zároveň mali možnosť chrániť svoje diela .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+37,Operačný program Kvalita životného prostredia na programové obdobie 2014 – 2020 .,O O B-MISC I-MISC I-MISC O O O O O O O
+214,"Obnoveným návrhom CCCTB komisia reaguje naraz na obavy podnikov aj na obavy občanov , dodal komisár pre hospodárske a finančné záležitosti Pierre Moscovici .",O O B-MISC O O O O O O O O O O O O O O O O O O B-PER I-PER O
+453,"Kandidátka Demokratickej strany na post prezidenta USA Hillary Clintonová zatelefonovala dnes svojmu republikánskemu súperovi Donaldovi Trumpovi , pričom priznala porážku v utorkových prezidentských voľbách .",O B-ORG I-ORG O O O B-LOC B-PER I-PER O O O O O B-PER I-PER O O O O O O O O O
+684,Autori knihy vás chcú naučiť byť bohatými . . .,O O O O O O O O O O
+87,EK sa môže so žiadosťou na finančné sankcie,B-ORG O O O O O O O
+477,Kontroverzný Newyorčan,O O
+146,Ide o miliónové čiastky .,O O O O O
+843,"Kanadský web pre imigráciu spadol po tom , čo Donald Trump vyhral voľby | TOUCHIT",O O O O O O O O O B-PER I-PER O O O B-ORG
+3,"Informáciu priniesol server e Trend .sk , ktorý získal prezentáciu zo zasadnutia monitorovacieho výboru ministerstva dopravy , ktoré je riadiacim orgánom nového operačného programu Integrovaná infraštruktúra .",O O O O O O O O O O O O O O B-ORG I-ORG O O O O O O O O B-MISC I-MISC O
+758,"Ak by sa tak podľa neho nestalo , bol by daný región oveľa stabilnejší .",O O O O O O O O O O O O O O O
+527,Moje vnímanie tohto človeka bolo zabalené do predsudkov .,O O O O O O O O O
+164,Newsletter december . . .,O O O O O
+724,Trump v šoubiznise .,O O O O
+707,"Po absolvovaní štúdia ekonómie začal Donald pracovať v otcovej spoločnosti Trump Organization , ktorá sa venovala obchodu s nehnuteľnosťami .",O O O O O B-PER O O O O B-ORG I-ORG O O O O O O O O
+234,"Sadzby dane z príjmov právnických osôb nie sú súčasťou návrhu CCCTB , keďže tie sú aj naďalej oblasťou patriacou pod zvrchovanosť členských štátov .",O O O O O O O O O O B-MISC O O O O O O O O O O O O O
+296,"Ak sa ukáže , že naozaj klamal počas vyšetrovania v roku 2014 , môže dostať pokutu vo výške 1 % z ročných príjmov , teda zhruba 180 miliónov dolárov .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+60,"V prvý deň fóra sa uskutoční v hoteli Sheraton aj stretnutie 14 ministrov zodpovedných za výskum a inovácie z dunajského regiónu , ktorí budú hľadať konkrétne možnosti vzájomnej spolupráce .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+243,"Krátko nato by sa mala zaviesť konsolidácia , ktorá by umožnila využívať všetky výhody dokončeného systému .",O O O O O O O O O O O O O O O O O
+446,"A to by nebolo po prvý raz , čo by sa to stalo .",O O O O O O O O O O O O O O
+456,"Takto reagoval slovenský prezident Andrej Kiska na informáciu o tom , že 45 . americkým prezidentom bude republikánsky kandidát Donald Trump .",O O O O B-PER I-PER O O O O O O O O O O O O O B-PER I-PER O
+714,"To mu prinášalo rýchlu expanziu , ktorú premenil v narastanie bohatstva .",O O O O O O O O O O O O
+841,"To , že Hillary Clinton mieri do Bieleho domu , napísal vo svojom kamentári holandský denník de Volkskrant , podľa ktorého Trumpovi zásadne chýba disciplína .",O O O B-PER I-PER O O B-LOC I-LOC O O O O O O O B-ORG I-ORG O O O B-PER O O O O
+293,"V tomto prípade komisia dospela k predbežnému záveru , že nám Facebook poskytol nesprávne či zavádzajúce informácie počas vyšetrovania jeho akvizície WhatsAppu .",O O O O O O O O O O O B-ORG O O O O O O O O O B-ORG O
+443,"Aj zreteľné oslabenie imigrácie ( či vzdelanej alebo nevzdelanej pracovnej sily ) by narušilo dlhodobý rast a vyhliadky ziskovosti firiem so snahou zdvihnúť aj mzdy , najmä keď je pracovný trh oslabený .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+447,"A takýto rozkol medzi sľubmi a realitou nie je výnimočný , najmä pri súčasnom delení moci v USA .",O O O O O O O O O O O O O O O O O B-LOC O
+514,"Uviedol to pre izraelský Galei Cahal Jason Greenblatt , ktorého Trump povolal do funkcie hlavného poradcu pre Izrael .",O O O O B-PER I-PER I-PER I-PER O O B-PER O O O O O O B-LOC O
+546,"Začala som čítať všetky jeho knihy a z každej kapitoly som si zapísala vetu , slovo , nápad alebo riešenie , ktoré som začala aj používať .",O O O O O O O O O O O O O O O O O O O O O O O O O O O
+221,Všetky práva vyhradené .,O O O O
+615,"Ale predovšetkým chcel videť svoju Jugendliebe , krásnu Elisabeth , ktorá bola ešte slobodná a s ktorou si písal .",O O O O O O O O B-PER O O O O O O O O O O O
+735,PC Revue | Donald Trump chce donútiť,B-ORG I-ORG O B-PER I-PER O O
+50,"Na podporu aktivít prioritnej osi 4 v oblasti energeticky efektívneho nízkouhlíkového hospodárstva vo všetkých sektoroch je alokovaných 938 , 88 mil . eur a 77 mil .",O O O O O O O O O O O O O O O O O O O O O O O O O O O
+379,"Hoci väčina voličov hlasovala za Hillary Clintonovú , víťazom volieb sa stal Donald Trump .",O O O O O B-PER I-PER O O O O O B-PER I-PER O
+12,Vylúčená nie je ani možnosť 100-percentnej korekcie – Európska únia by tak projekt reálne nepreplatila .,O O O O O O O O B-LOC I-LOC O O O O O O
+39,"Slovensku sa tým otvorila možnosť čerpať v novom programovom období finančné prostriedky z Európskych štrukturálnych a investičných fondov v objeme takmer 3 , 138 miliardy eur .",B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O
+187,Európska komisia na oficiálnej návšteve Slovenska | Itapa „ Stretnutia predsedu Európskej komisie Jeana-Claudea Junckera a ostatných komisárov s vrcholnými slovenskými predstaviteľmi odštartujú slovenské predsedníctvo v Rade Európskej únie .,B-ORG I-ORG O O O B-LOC O B-ORG O O O B-ORG I-ORG B-PER I-PER O O O O O O O O O O O B-ORG I-ORG I-ORG O
+106,EK tým chce prispieť k budovaniu tzv . bezpečnostnej únie a podporiť boj proti terorizmu a organizovanému zločinu i ochranu hraníc .,B-ORG O O O O O O O O O O O O O O O O O O O O O
+857,Technológie ako také ma vždy lákali .,O O O O O O O
+694,Realitní magnát,O O
+212,"Podpredseda EK a komisár pre euro a sociálny dialóg Valdis Dombrovskis konštatoval , že súčasný systém dane z príjmov právnických zvýhodňuje dlhové financovanie na úkor kapitálového financovania .",O B-ORG O O O O O O O B-PER I-PER O O O O O O O O O O O O O O O O O
+236,"Podpredseda EK a komisár pre euro a sociálny dialóg Valdis Dombrovskis konštatoval , že súčasný systém dane z príjmov právnických zvýhodňuje dlhové financovanie na úkor kapitálového financovania .",O B-ORG O O O O O O O B-PER I-PER O O O O O O O O O O O O O O O O O
+658,"Muž , ktorý postrelil v mešite vo švajčiarskom Zürichu troch ľudí , je podľa polície mŕtvy .",O O O O O O O O B-LOC O O O O O O O O
+168,Uzávierka predkladania projektov : 2 . február 2017,O O O O O O O O
+216,"Zároveň potrebujeme posilniť náš boj proti vyhýbaniu sa daňovým povinnostiam , ktorý znamená skutočnú zmenu , "" zdôraznil komisár .",O O O O O O O O O O O O O O O O O O O O
+733,"Zdroje : trump . com , imdb . com , financnici .",O O B-ORG I-ORG I-ORG O O O O O B-ORG I-ORG
+630,Moja literárna tvorba sa vyznačuje veľkou rôznorodosťou literárneho žánru .,O O O O O O O O O O
+797,"K Streepovej sa počas vystúpenia pridala americká herečka a jej kolegyňa z muzikálu Mama Mia Christine Baranski , ktorá bola prezlečená za Hillary Clintonovú .",O B-PER O O O O O O O O O O O B-MISC I-MISC B-PER I-PER O O O O O B-PER I-PER O
+308,"Európska únia v súčasnosti na rozdiel od krajín ako Japonsko , Čína , Kanada či USA neuplatňuje limity na emisie kamiónov .",B-LOC I-LOC O O O O O O O B-LOC O B-LOC O B-LOC O B-LOC O O O O O O
+233,"Firmy by mali dane platiť tam , kde tvoria zisky Návrh má zabezpečiť , aby firmy s celkovými príjmami prevyšujúcimi 750 miliónov eur ročne platili dane tam , kde skutočne vytvárajú zisky .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+505,Barack Obama sa rozhodol v programe pokračovať a pre Donalda Trumpa pripravil dve cvičenia .,B-PER I-PER O O O O O O O B-PER I-PER O O O O
+186,"Zdroj : Teraz .sk , spravodajský portál tlačovej agentúry",O O O O O O O O O
+83,Zároveň má kontrolnú a správnu úlohu .,O O O O O O O
+34,Európska komisia schválila,B-ORG I-ORG O
+93,Zloženie .,O O
+634,V roku 2006 som dostal veľmi atraktívnu ponuku z Južnej Ameriky ( kde som ako mladý muž prežil niekoľko rokov a vybudoval si výborné kontakty i pevné priateľstvá ) a od toho roku vychádzajú všetky moje ďalšie publikácie v hojnom počte už len tam .,O O O O O O O O O B-LOC I-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+404,Republikán Donald Trump bude v poradí 45 . prezidentom USA . Zdroj a foto : tasr .,O B-PER I-PER O O O O O O B-LOC O O O O O B-ORG O
+593,"Volá sa Kallstadt a nachádza sa v známej nemeckej vinárskej oblasti , len 18 kilometrov od Ludwigshafenu , druhého najväčšieho mesta Porýnia-Falcka .",O O B-LOC O O O O O O O O O O O O O B-LOC O O O O B-LOC O
+619,Mladomanželia napokon po mesiaci odišli za oceán .,O O O O O O O O
+503,"Budúci prezident si tak vyskúšal , ako to počas takejto kritickej situácie vyzerá , a čo treba robiť .",O O O O O O O O O O O O O O O O O O O
+633,"V roku 2005 som ukončil publikovanie kníh v SR dielom Kozmos , duch a vedomie .",O O O O O O O O B-LOC O B-MISC I-MISC I-MISC I-MISC I-MISC O
+128,Preto som komisárke Vestagerovej zaslal na posúdenie plné znenie novely obchodného zákonníka .,O O O B-PER O O O O O O O O O
+8,Prijímateľom a kompetenčne príslušnou inštitúciou bolo ministerstvo školstva .,O O O O O O B-ORG I-ORG O
+291,Musia túto povinnosť brať vážne .,O O O O O O
+148,""" EK pozastavila žiadosti o platbu v operačnom systéme zdravotníctvo v celkovej výške 13 , 34 miliónov eur . "" povedala hovorkyňa ministerstva zdravotníctva Stanislava Luptáková .",O B-ORG O O O O O O O O O O O O O O O O O O O O B-ORG I-ORG B-PER I-PER O
+326,"Jej zámerom bolo legálne sťažiť získanie rýchlopalných zbraní v rámci EÚ , umožniť lepšie sledovanie legálne držaných strelných zbraní a znížiť riziko ich presunu na čierny trh posilnením spolupráce v tejto oblasti medzi členskými štátmi .",O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O
+729,"Iné to nebolo ani u Donalda Trumpa , veď aj tento muž musel nájsť odhodlanie vstúpiť do sveta obchodu a hľadať účinné spôsoby , vďaka ktorým sa mohol dopracovať k svojim víziám .",O O O O O B-PER I-PER O O O O O O O O O O O O O O O O O O O O O O O O O O
+639,"V kamióne našli mŕtvolu poľského kamionistu , ktorého zrejme pred útokom zavraždili .",O O O O O O O O O O O O O
+623,To je v krátkosti story o Donaldovi Trumpovi a o jeho neuveriteľnom vzostupe k obrovskému bohatstvu i k politickej moci .,O O O O O O B-PER I-PER O O O O O O O O O O O O O
+701,Meno Donald Trump sa preslávilo po celom svete a v súčasnosti patrí k najúspešnejším ľuďom nielen vo svete obchodu .,O B-PER I-PER O O O O O O O O O O O O O O O O O
+217,Proces zavádzania CCCTB plánuje komisia rozdeliť do dvoch krokov .,O O B-MISC O O O O O O O
+201,"Kruté počasie predpovedali meteorológovia dostatočne dopredu a vláda sa teraz dostala pod paľbu kritiky za to , že nekonala dosť rýchlo , aby pre všetkých utečencov zabezpečila primerané ubytovanie .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+150,""" Môže sa stať , že ak tie pochybenie vo verejnom obstarávaní , na ktoré je poukazované budú tak veľké a tak závažné , že Slovenská republika dostane takzvanú plošnú korekciu , "" vysvetľuje hovorkyňa na eurofondy Petra Masácová .",O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC I-LOC O O O O O O O O O O B-PER I-PER O
+155,Projekty možno predkladať do 1 . 3 . 2017 a to do 12 hodiny .,O O O O O O O O O O O O O O O
+232,V prípade zavedenia CCCTB budú mať spoločnosti po prvýkrát jednotný súbor pravidiel na výpočet zdaniteľného zisku v celej EÚ .,O O O B-MISC O O O O O O O O O O O O O O B-LOC O
+654,"Vodiči by mali byť opatrní , meteorológovia varujú pred poľadovicou na celom území Slovenska .",O O O O O O O O O O O O O B-LOC O
+67,Prvé výročné fórum dunajskej stratégie sa konalo v roku 2012 v nemeckom Regensburgu za účasti nemeckej kancelárky A . Merkelovej .,O O O B-MISC I-MISC O O O O O O O B-LOC O O O O B-PER I-PER O O
+610,"Jeden jeho príbuzný z falckej dedinky však vie , že v New Yorku sa začal prebíjať najprv ako pomocník holiča , aby už o niekoľko rokov bol šéfom malého hotela na západnom pobreží USA .",O O O O O O O O O O O B-LOC I-LOC O O O O O O O O O O O O O O O O O O O O B-LOC O
+695,"Donald Trump vám ukáže , jak myslí miliardář , jaký mít přístup k penězům , ke své kariéře a k životu .",B-PER I-PER O O O O O O O O O O O O O O O O O O O O
+832,"Trump už v minulosti obvinil Hillary Clinton , že Afroameričanov vidí "" len ako volebné hlasy , nie ako ľudské bytosti , ktoré si zaslúžia lepšiu budúcnosť """,B-PER O O O O B-PER I-PER O O B-PER O O O O O O O O O O O O O O O O O O
+801,"Oskarová herečka je podporovateľkou demokratickej kandidátky , bývalej prvej dámy a exministerky zahraničných vecí Hillary Clintonovej .",O O O O O O O O O O O O O O B-PER I-PER O
+783,"Sme totiž nielen bytosti fyzické a psychické , ale aj vzťahové a navzájom sa potrebujeme .",O O O O O O O O O O O O O O O O
+778,"Zavreté viečka , vrásky na čele , napätie svalov okolo očí , nosa a úst naznačujú sústredenie .",O O O O O O O O O O O O O O O O O O
+181,Európsky týždenník,O O
+536,Nič viac .,O O O
+119,"Akčný plán obsahuje návrh , aby sa vetky ukradnuté , stratené aj znehodnotené dokumenty systematicky zaznamenávali v databázach Schengenského informačného systému a Interpolu .",O O O O O O O O O O O O O O O O O O B-MISC I-MISC I-MISC O B-ORG O
+568,Britský Najvyšší súd však jeho snahy zamietol .,O O O O O O O O
+676,"Svet bojuje s vysokou nezamestnanosťou a ekonomikou , ktorá potrebuje na svoje oživenie nové pracovné miesta .",O O O O O O O O O O O O O O O O O
+501,"Keď funkciu v januári 2009 odovzdával Barackovi Obamovi , pripravil mu len týždeň pred inauguráciou bezpečnostné cvičenie .",O O O O O O B-PER I-PER O O O O O O O O O O
+235,Informovalo o tom Zastúpenie Európskej komisie v SR .,O O O O B-ORG I-ORG O B-LOC O
+815,"Signatári vo vyhlásení , ktoré je na webovej stránke stophatedumptrump .com , upozorňujú ostatných politikov a médiá , že zľahčovaním Trumpových výrokov - akoby šlo o zábavu a normálnu vec - berú na seba diel zodpovednosti za vypovedané slová a ich dôsledky .",O O O O O O O O O B-MISC I-MISC O O O O O O O O O B-PER O O O O O O O O O O O O O O O O O O O O O O
+354,Trump tam strávil aj Deň vďakyvzdania a bezpečnostné opatrenia boli vtedy podobné .,B-PER O O O B-MISC I-MISC O O O O O O O
+662,B .,B-PER I-PER
+554,Počas tohto obdobia sa podľa AP zblížil s Trumpom i jeho rodinou .,O O O O O B-ORG O O B-PER O O O O
+553,V Trumpovej predvolebnej kampani mal na starosti finančné operácie .,O O O O O O O O O O
+847,"Toto víťazstvo bude mať rozsiahle zmeny vo nielen vo finančnej sfére , ale aj vo vzťahu ku svetu .",O O O O O O O O O O O O O O O O O O O
+828,"Doterajšie prieskumy podľa agentúry AP ukazujú , že kandidátka demokratov Hillary Clinton má medzi černošskou populáciou výrazný náskok .",O O O O B-ORG O O O O B-ORG B-PER I-PER O O O O O O O
+702,"Úspech tohto muža siaha do viacerých sfér , takže nie náhodou sa považuje za flexibilného miliardára , ktorý dokáže pôsobiť v niekoľkých oblastiach súčasne a plnohodnotne sa starať o napredovanie svojich aktivít .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+342,"Ak sa potvrdí táto súvislosť , tieto prostriedky by mohli byť použité v boji proti vírusu Zika , napríklad , vytvorením diagnostiky a testovaním potenciálnej liečby alebo vakcín .",O O O O O O O O O O O O O O O O B-MISC O O O O O O O O O O O O
+282,Briti už v roku 1975 veľkou väčšinou rozhodli v referende o zotrvaní v EHS .,B-PER O O O O O O O O O O O O B-ORG O
+670,"NHL : Philadelphia - Nashville 1 :2 pp a sn , Toronto - Anaheim 2 :3 , St . Louis - Edmonton 2 :3 pp /za hostí Sekera 0+1/ , Arizona - Calgary 2 :4 . Hokej – príprava , Cornwall : SR 20 – Švédsko 20 3 :4 . Lyžovanie - SP :",B-ORG O B-ORG O B-ORG O O O O O O B-ORG O B-ORG O O O B-ORG I-ORG I-ORG O B-ORG O O O O O B-PER O O B-ORG O B-ORG O O O O O O O B-LOC O B-ORG I-ORG O B-ORG I-ORG O O O O O O O
+782,Oporu prijímajte aj rozdávajte bez pochybností .,O O O O O O O
+425,"To , samozrejme , môže viesť k následnému splneniu takýchto proroctiev , najmä ak prestanú spotrebitelia míňať a firmy investovať , “ konštatuje ekonóm Coface .",O O O O O O O O O O O O O O O O O O O O O O O O B-ORG O
+629,"V SR som vydal 19 kníh a mnoho rôznych článkov , publikoval som aj v Nemecku a v iných západných krajinách .",O B-LOC O O O O O O O O O O O O O B-LOC O O O O O O
+294,Facebook má teraz príležitosť sa k veci vyjadriť . “,B-ORG O O O O O O O O O
+463,"Napriek početným slovným útokom , urážkam a chybám v úsudku počas kampane skončil s veľkým náskokom na čele pôvodne 17-člennej skupiny uchádzačov o republikánsku prezidentskú nomináciu .",O O O O O O O O O O O O O O O O O O O O O O O O O O O
+125,"Ak chceme byť dôveryhodnými partnermi , nemôže naša vláda akoukoľvek formou preferovať jednu spoločnosť pred inými , najmä ak ide o firmu s nejasnou vlastníckou štruktúrou .",O O O O O O O O O O O O O O O O O O O O O O O O O O O
+531,"Alebo si idem kúpiť konkrétnu knihu , na ktorú som dostala odporúčanie .",O O O O O O O O O O O O O
+756,"Je presvedčený , že by sa i Spojené štáty mali začať snažiť bojovať proti teroristickej skupine , ktorú nedefinoval ako “ umiernenú ” i tým , že by nikto nemal stáť v ceste postupu Rusov pri ich momentálnych nekompromisných protiopatreniach .",O O O O O O O B-LOC I-LOC O O O O O O O O O O O O O O O O O O O O O O O O O B-PER O O O O O O
+163,EKB,O
+579,Autorské práva sú vyhradené a vykonáva ich vydavateľ .,O O O O O O O O O
+598,"Ak sa Trump stane prezidentom USA , tak bude prvou americkou First Lady , ktorá sa nenarodila v Amerike .",O O B-PER O O B-LOC O O O O O O O O O O O O B-LOC O
+372,"Zdroj : Teraz .sk , spravodajský portál tlačovej agentúry",O O O O O O O O O
+673,"Najnižšia nočná teplota -2 až -7 °C . Streda : Zamračené , ojedinele slabé sneženie alebo mrznúce mrholenie .",O O O O O O O O O O O O O O O O O O O
+538,"Už však nechodím do kníhkupectva , ale do mojej plnej knižnice v pracovni , kde si náhodne vyberám knižky , ktoré si chcem znovu prečítať .",O O O O O O O O O O O O O O O O O O O O O O O O O O
+237,"Obmedzenie takéhoto zvýhodňovania , ktoré škodí hospodárskemu rastu a investíciám , by znamenalo dôležitý krok smerom k plánovanej únii kapitálových trhov v EÚ , spresnil Dombrovskis .",O O O O O O O O O O O O O O O O O O O O O O B-LOC O O B-PER O
+382,"Počet voliteľov v každom táte je určený počtom obyvateľov tátu , plus každý tát má ďalích dvoch .",O O O O O O O O O O O O O O O O O O
+174,Uzávierka bude 17 . januára 2017 Viac . . .,O O O O O O O O O O
+775,"Vpustil do svojej osobnej zóny neznámych ľudí a nič z jeho reči tela nenaznačuje , že sa cíti byť ohrozený ich blízkosťou alebo názorovým nesúladom .",O O O O O O O O O O O O O O O O O O O O O O O O O O

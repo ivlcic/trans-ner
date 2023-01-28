@@ -1,0 +1,88 @@
+index,sentence,ner
+592,"Leží len niekoľko kilometrov od Rýna , na úpätí nádherného rozľahlého pohoria Pfälzerwald ( Falcká vrchovina , 1600 km štvorc . , najväčšia celoplošne zalesnená vrchovina Nemecka ) , ktoré veľmi rád navštevoval a poľoval tam už slávny franský kráľ , Karol Veľký - otec Európy , ako ho označujú Nemci - v ôsmom storočí .",O O O O O B-LOC O O O O O O B-LOC O B-LOC I-LOC O O O O O O O O O O B-LOC O O O O O O O O O O O O O O B-PER I-PER O O B-LOC O O O O B-PER O O O O O
+739,"No miliardár Donald Trump si myslí , že sa mu ich podarí dostať späť .",O O B-PER I-PER O O O O O O O O O O O
+328,Dohoda zároveň predchádza teroristickým útokom s legálne držanými zbraňami .,O O O O O O O O O O
+227,"Zvyšné tri banky , ktoré teraz dostali pokutu , sa vtedy k dohode nepripojili .",O O O O O O O O O O O O O O O
+171,"Tieto sú nasledovné : – Družobné mestá , opatrenie 2 .1 – výsledky ( http://bit.ly/2gTZwt5) – Siete medzi mestami , opatrenie 2 .2 – výsledky ( http://bit.ly/2gYHFUt)",O O O O O O O O O O O O O O O O O O O O O O O O O O O
+56,"Organizuje ho Slovenská republika ako predsedajúca krajina tejto formy spolupráce prostredníctvom Úradu vlády SR ako národného koordinátora stratégie spolu s Európskou komisiou . Účasť na fóre prisľúbili : predseda vlády SR Robert Fico , podpredseda Európskej komisie pre Energetickú úniu Maroš Šefčovič , eurokomisár pre vzdelávanie , kultúru , mládež a šport Tibor Navracsics a ďalší hostia .",O O B-LOC I-LOC O O O O O O O B-ORG I-ORG I-ORG O O O O O O B-ORG I-ORG O O O O O O O B-ORG I-ORG B-PER I-PER O O B-ORG I-ORG O O O B-PER I-PER O O O O O O O O O O B-PER I-PER O O O O
+46,"Z Kohézneho fondu budú môcť získať podporu aktivity v prioritných osiach 1 a 2 zamerané na udržateľné využívanie prírodných zdrojov prostredníctvom rozvoja environmentálnej infraštruktúry ( 1 , 441 mld eur ) a na aktivity v oblasti adaptácie na nepriaznivé dôsledky zmeny klímy so zameraním na ochranu pred povodňami ( 419 , 34 mil .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+765,Je výkladnou skriňou prototypov gest .,O O O O O O
+79,Európska komisia | Inštitúcie | Orgány a inštitúcie | Euro Encyklopédia | Europskaunia Európska komisia .,B-ORG I-ORG O O O O O O O O O O B-ORG B-ORG I-ORG O
+391,"Niektorým sa nepáči Donald Trump , iní kritizujú volebný systém .",O O O B-PER I-PER O O O O O O
+198,"Atény 9 . januára ( SITA ) – Európska komisia dnes vyhlásila , že podmienky pre utečencov na gréckych ostrovoch a v ďalších táboroch , kde sú ubytovaní v stanoch aj napriek krutému mrazivému počasiu , sú “ neobhájiteľné .",B-LOC O O O O B-ORG O O B-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+705,"Podľa slovFreda Trumpa , Donaldovho otca , bol jeho syn šikovný a cieľavedomý hneď v mladom veku .",O O O O O O O O O O O O O O O O O O
+208,V prípade zavedenia CCCTB budú mať spoločnosti po prvýkrát jednotný súbor pravidiel na výpočet zdaniteľného zisku v celej EÚ .,O O O B-MISC O O O O O O O O O O O O O O B-LOC O
+444,"„ Hoci dopad kúpyschopnosti domácnosti je jasný ( 70 % HDP ) a vyššie platy by ju posilnili , starnutie populácie by bez nových migrantov takýto trend oslabilo , “ zdôrazňuje Julien Marcilly .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PER I-PER O
+45,Program je rozdelený do piatich prioritných osí .,O O O O O O O O
+414,"Ale zároveň treba povedať , že existujúce protiľahlé sily umožňujú do určitej miery zmierniť akékoľvek negatívne dopady , “ hovorí Julien Marcilly , hlavný ekonóm spoločnosti Coface , globálneho lídra v poistení pohľadávok firiem a riadení kreditného rizika .",O O O O O O O O O O O O O O O O O O O O B-PER I-PER O O O O B-ORG O O O O O O O O O O O O
+660,Trump podľa očakávaní získal potrebný počet hlasov voliteľov a definitívne sa stane prezidentom Spojených štátov .,I-PER O O O O O O O O O O O O B-LOC I-LOC O
+364,Pobrežné mesto,O O
+434,Varujúci je aj nárast protekcionizmu .,O O O O O O
+109,Akčný plán je zameraný na cestovné doklady vydané členskými tátmi EÚ občanom Únie a tretích tátov .,O O O O O O O O O O B-LOC O O O O O O
+790,"Meryl Streepová zažiarila ako Donald Trump NEW YORK , BRATISLAVA .",B-PER I-PER O O B-PER I-PER B-LOC I-LOC O B-LOC O
+664,Čína vrátila Pentagónu zhabaný podmorský dron .,B-LOC O B-ORG O O O O
+38,Jeho riadiacim orgánom je Ministerstvo životného prostredia SR .,O O O O B-ORG I-ORG I-ORG I-ORG O
+706,"Vynikal v športe , literatúre a vďaka otcovi spoznal aj svet realít , ktorý sa stal jeho vstupnou bránou k úspechu .",O O O O O O O O O O O O O O O O O O O O O O
+268,Informovala o tom agentúra Reuters .,O O O O B-ORG O
+626,"A ak sa bude rozhodovať len medzi ním a Hillary Clinton , tak jednoznačne budem držať palce jemu .",O O O O O O O O O B-PER I-PER O O O O O O O O
+325,Obmedzenia majú zabrániť terorizmu a útokom | Topky . sk Exekutíva EÚ navrhla revíziu súčasných pravidiel o strelných zbraniach 18 . novembra 2015 .,O O O O O O O B-ORG I-ORG O O B-LOC O O O O O O O O O O O O
+484,"Citaty . sk ~ Citáty od Donald Trump Citáty Donald Trump ( * 14 . jún 1946 , New York ) je americký obchodný magnát , televízna osobnosť a autor .",B-ORG I-ORG O O O O B-PER I-PER O B-PER I-PER O O O O O O O B-LOC I-LOC O O O O O O O O O O O
+84,"EK má na starosti prípravu spoločných politík , prípravu rozpočtu a jeho spravovania .",B-ORG O O O O O O O O O O O O O
+780,"Možno sa vo vnútri modlí za svoje víťazstvo , ktovie .",O O O O O O O O O O O
+270,"Na otázku francúzskej televíznej stanice France 5 , čo mieni únia robiť , ak sa Británia rozhodne pre odchod , Moscovici uviedol : "" Nie , nie a nie , neexistuje žiadny plán B .",O O O O O B-ORG I-ORG O O O O O O O O B-LOC O O O O B-PER O O O O O O O O O O O O O O
+267,"Výkonný orgán tohto bloku sa zároveň hodlá zdržať vstupovania do kampane predchádzajúcej referendu , uviedol v nedeľu komisár EÚ pre hospodárske a menové záležitosti Pierre Moscovici .",O O O O O O O O O O O O O O O O O O B-LOC O O O O O B-PER I-PER O
+606,Kallstadt sa začala v roku 1885 .,B-LOC O O O O O O
+517,"Netanjahua a Trumpa spájajú priateľské vzťahy , ktoré sa teraz zrejme ešte prehĺbia .",O O B-PER O O O O O O O O O O O
+351,Donald Trump zrejme strávi vianočné sviatky v známom letovisku Palm Beach na Floride .,B-PER I-PER O O O O O O O B-LOC I-LOC O B-LOC O
+205,Európska komisia ( EK ) predstavila plán zmeny systému zdaňovania spoločností v rámci jednotného trhu EÚ .,B-ORG I-ORG O B-ORG O O O O O O O O O O O B-LOC O
+435,Trump mal už napríklad aj tvrdé vyhlásenie smerom k Číne .,B-PER O O O O O O O O B-LOC O
+92,"Navrhnutí členovia komisie musia prejsť schvaľovacím procesom pred poslancami Európskeho parlamentu , ktorý má právomoc Komisiu neschváliť .",O O O O O O O O O O O O O O O O O O
+116,Akčný plán navrhuje opatrenia v tyroch oblastiach .,O O O O O O O O
+465,"Ako 13-ročného ho poslali do vojenskej školy , ktorá mala usmerniť jeho neutíchajúcu energiu .",O O O O O O O O O O O O O O O
+481,Svoju kandidatúru na post prezidenta USA za Republikánsku stranu oznámil v júni 2015 .,O O O O O B-LOC O B-ORG I-ORG O O O O O
+635,V súčasnosti vediem v Nemecku Juhoamericke tlačové centrum .,O O O O B-LOC B-ORG I-ORG I-ORG O
+764,"Muž známy agresívnymi gestami a výraznou , živou mimikou , je miláčikom analytikov body language .",O O O O O O O O O O O O O O O O
+229,Európska komisia navrhuje zásadnú zmenu zdaňovania firiem - Ekonomika - Webnoviny . sk BRATISLAVA 25 . októbra ( WebNoviny . sk ) - Európska komisia ( EK ) v utorok predstavila plán zmeny systému zdaňovania spoločností v rámci jednotného trhu EÚ .,B-ORG I-ORG O O O O O O O O B-ORG I-ORG O B-LOC O O O O B-ORG I-ORG O O O B-ORG I-ORG O B-ORG O O O O O O O O O O O O O B-LOC O
+348,Podľa zoznamu Forbes 400 je Donald Trump 134 . najbohatší človek v USA .,O O B-MISC I-MISC O B-PER I-PER O O O O O B-LOC O
+188,Celá návšteva má za cieľ dobre nastaviť spoluprácu slovenského predsedníctva a Európskej komisie na najbližších šesť mesiacov .,O O O O O O O O O O O B-ORG I-ORG O O O O O
+300,"Navrhuje legislatívu EÚ , kontroluje jej dodržiavanie v členských štátoch EÚ .",O O B-LOC O O O O O O O B-LOC O
+771,"Tým všetkým jasne komunikuje : otváram sa , prijímam a žiadnemu dotyku ani požehnaniu sa nebránim .",O O O O O O O O O O O O O O O O O
+417,"V prvom rade vedie u Republikánov , čo potvrdil aj Super utorok ( 11 amerických štátov malo primárky ) a kde si zabezpečil 316 republikánskych delegátov , kým Ted Cruz 226 a Marco Rubio 106 . John Kasich a BenC arson ďaleko zaostali .",O O O O O B-ORG O O O O O O O O O O O O O O O O O O O O O O B-PER I-PER O O B-PER I-PER O O B-PER I-PER O O O O O O
+399,TASR .,B-ORG O
+320,Americkej banke JPMorgan Chase EK udelila pokutu vo výške 337 mil . eur .,O O B-ORG I-ORG B-ORG O O O O O O O O O
+508,"Bezpečnostným expertom a spravodajským službám už spôsobil budúci prezident vrásky na čele tým , že odmietol ich denné hlásenia o aktuálnej situácii , ktoré sú pre amerického prezidenta už desaťročia bežnou súčasťou pracovného dňa .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+277,""" Nejsť do kampane a nesnažiť sa vnútiť voľbu suverénnemu ľudu je podľa mňa rozumné .",O O O O O O O O O O O O O O O O
+836,""" Donald Trump sa pýta , čo môže afroamerická komunita stratiť , ak ho bude voliť .",O B-PER I-PER O O O O O O O O O O O O O O
+601,"Dozvedel som sa od miestnych ľudí , že napríklad Trumpovo meno v ňom znie Drumb .",O O O O O O O O O B-PER O O O O B-PER O
+248,Prezident European Newspaper Publishers’ Association ( ENPA ),O B-ORG I-ORG I-ORG I-ORG O B-ORG O
+340,Svetovou zdravotníckou organizáciou ohrozením verejného zdravia v medzinárodnom kontexte .,B-ORG I-ORG I-ORG O O O O O O O
+737,"Apple pred niekoľkými presunul značnú časť svojej výroby za hranice USA , a to zrejme navždy .",B-ORG O O O O O O O O O B-LOC O O O O O O
+40,"Spolu s národným spolufinancovaním , ktoré predstavuje približne 1 , 17 miliardy eur , tak operačný program bude vytvárať finančný rámec pre poskytnutie podpory vo výške viac ako 4 , 308 miliardy eur . „ Schválením Operačného programu Kvalita životného prostredia sa nám otvára možnosť využiť zdroje Európskej únie v prospech obyvateľov Slovenska zlepšiť ich životné prostredie a zvýšiť kvalitu života .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-MISC I-MISC I-MISC O O O O O O B-LOC I-LOC O O O B-LOC O O O O O O O O O
+572,Trump odvtedy bojuje proti tomuto rozhodnutiu .,B-PER O O O O O O
+350,Donald Trump zrejme strávi Vianoce na Floride - 24hod . sk Washington 16 . decembra ( TASR ) - Nastávajúci prezident Spojených štátov,B-PER I-PER O O B-MISC O B-LOC O B-ORG I-ORG I-ORG B-LOC O O O O B-ORG O O O O O O
+123,"Európska komisia potvrdila , že sa bude mojim podnetom zaoberať .",B-ORG I-ORG O O O O O O O O O
+575,"Hovorca tiež dodal : "" História odsúdi tých , ktorí sa podieľali na tomto rozsudku , veľmi nepriaznivo .",O O O O O O O O O O O O O O O O O O O
+614,"Friedricha Trumpa to však po čase ťahalo domov , do rodnej dedinky pod horami , kde sa rodilo skvelé falcké víno .",B-PER I-PER O O O O O O O O O O O O O O O O O O O O
+154,Európska komisia - Spišská regionálna rozvojová agentúra Európska komisia na svojich stránkach zverejnila výzvu na predkladanie projektov v rámci programu Európa pre občanov .,B-ORG I-ORG O B-ORG I-ORG I-ORG I-ORG B-ORG I-ORG O O O O O O O O O O O B-MISC I-MISC I-MISC O
+439,"Z krátkodobého hľadiska je to však mix efektov v závislosti od sektora , “ konštatuje ekonóm Coface .",O O O O O O O O O O O O O O O O B-ORG O
+314,Za manipulácie dostanú miliónové pokuty | Aktuálne .sk Európska komisia si posvietila na banky .,O O O O O O O O B-ORG I-ORG O O O O O
+586,Budúci ?,O O
+21,"NASES sa vo vyjadrení pre Živé . sk bránil , že projekt nebol zameraný na pokrývanie bielych miest , teda lokalít bez rýchleho internetu , ale bola to privátna sieť rezortu školstva .",B-ORG O O O O B-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O
+107,""" Zabezpečenie cestovných dokladov a preukazov totožnosti je kľúčové v boji proti terorizmu a organizovanému zločinu .",O O O O O O O O O O O O O O O O O
+36,Kvalita životného prostredia - Ministerstvo životného prostredia Slovenskej republiky Európska komisia schválila,B-MISC I-MISC I-MISC O B-ORG I-ORG I-ORG I-ORG I-ORG B-ORG I-ORG O
+539,"No náhodne , nič nie je náhoda …",O O O O O O O O
+677,"Mnohí sa spoliehajú na svoju vládu , no je zrejmé , že žiadna vláda nie je schopná vytvoriť skutočné pracovné miesta . . .",O O O O O O O O O O O O O O O O O O O O O O O O
+358,"Pobrežná stráž novinárom neprezradila , pre koho bezpečnostné opatrenia zaviedla .",O O O O O O O O O O O
+521,""" Bude tam , aby ich viedol , nie aby ich nútil k mieru proti ich vôli , "" dodal Greenblatt .",O O O O O O O O O O O O O O O O O O O O B-PER O
+315,"Za manipulácie dostanú miliónové pokuty BRUSEL - Európska komisia ( EK ) uložila bankám JPMorgan , HSBC a Credit Agricole pokuty v celkovej sume 485 mil . eur , pretože dospela k záveru , že tieto tri peňažné ústavy uzavreli dohodu s cieľom manipulovať cenu finančných produktov založených na úrokových sadzbách .",O O O O O B-LOC O B-ORG I-ORG O B-ORG O O O B-ORG O B-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+829,Súčasný demokratický prezident Barack,O O O B-PER
+115,"Preto musia európske agentúry aj členské táty spolupracovať , aby zvýili zabezpečenie dokladov , "" uviedol King .",O O O O O O O O O O O O O O O O B-PER O
+271,Počítať s katastrofickými scenármi nám nijako nepomôže .,O O O O O O O O
+731,"Trump postupne nazbieral dlhy , no jeho úspech sa stal realitou aj napriek prekážkam .",O O O O O O O O O O O O O O O
+464,Donald Trump sa narodil 14 . júna 1946 v newyorskej štvrti Queens ako štvrté z piatich detí .,B-PER I-PER O O O O O O O O O B-LOC O O O O O O
+507,"Biely dom zatiaľ neuviedol , či sa decembrové cvičenie už konalo , respektíve ako Donald Trump na pozvánku na cvičenie reagoval .",B-LOC I-LOC O O O O O O O O O O O O B-PER I-PER O O O O O O
+134,"Hrozí , že platiť budeme my | Ekonomika | Noviny . sk BRATISLAVA / Európska komisia nám zablokovala eurofondy .",O O O O O O O O O B-ORG I-ORG O B-LOC O B-ORG I-ORG O O O O
+97,"Francúzsko a ďalšie veľké krajiny únie vyjadrili nespokojnosť s modelom , v ktorom mal štát ako Malta rovnaký vplyv ako Nemecko .",B-LOC O O O O O O O O O O O O O O O B-LOC O O O B-LOC O
+53,Informácie o Operačnom programe,O O O O
+594,"Je to veľmi malebná svojrázna dedinka , kde žije 1 200 ľudí .",O O O O O O O O O O O O O
+786,Som odborníčka na neverbálnu komunikáciu .,O O O O O O
