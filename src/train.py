@@ -84,7 +84,11 @@ if __name__ == "__main__":
                             'bs_wann', 'bs',
                             'mk_wann', 'mk',
                             'sq_wann', 'sq',
-                            'cs_cnec', 'cs'
+                            'cs_bsnlp', 'cs_cnec', 'cs'
+                            'bg_bsnlp', 'bg',
+                            'uk_bsnlp', 'uk',
+                            'ru_bsnlp', 'ru',
+                            'pl_bsnlp', 'pl'
                         ])
     parser.add_argument('pretrained_model', help='Pretrained model to use for fine tuning',
                         choices=['mcbert', 'xlmrb', 'xlmrl'])
