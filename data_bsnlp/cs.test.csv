@@ -1,0 +1,1267 @@
+index,sentence,ner
+9589,Ve středu ráno to ve Frankfurtu nad Mohanem uvedla zástupkyně odborového svazu pracovníků ve službách Verdi .,O O O O O B-LOC I-LOC I-LOC O O O O O O O B-ORG O
+12255,Po středečním útoku demonstrantů na budovu Kapitolu navíc uvnitř strany sílí hlasy na definitivní odmítnutí prezidenta Donalda Trumpa .,O O O O O O B-LOC O O O O O O O O O B-PER I-PER O
+9496,"Podle Putina se jednalo hlavně o vyslání mnohonárodních mírových sil do Donbasu , což je možnost , o níž se už dlouhé měsíce bezvýsledně mluví .",O B-PER O O O O O O O O O B-LOC O O O O O O O O O O O O O O
+7613,Sputnik požádal o komentář poslance Národní rady Slovenské republiky a předsedu strany Hlas ľudu Petera Marčeka .,B-PRO O O O O B-ORG I-ORG I-ORG I-ORG O O O B-ORG I-ORG B-PER I-PER O
+10051,"Pokud si lidé nejsou jisti , mohou na stránce zpozdeniletu .",O O O O O O O O O B-PRO I-PRO
+11075,Ruší se každý čtvrtý let,O O O O O
+5201,Ta se zaměřila na takzvanou séroprevalenci - tedy množství protilátek v krvi pacientů .,O O O O O O O O O O O O O O
+28,"Už ani nemáme co jíst , protože nemůžeme vycházet ven , abychom aby bychom si nakoupili , “ říká v nahrávce Masíh podle italského překladu .",O O O O O O O O O O O O O O O O O O O B-PER O O O O
+1657,Věci se dějí v nějakém historickém sledu .,O O O O O O O O
+5619,"První příznaky , včetně kale , bolesti hlavy , bolesti v krku , průjmu a nevolnosti , se u něj projevily 25 . března .",O O O O O O O O O O O O O O O O O O O O O O O O O
+8814,Americká administrativa plánuje v příštích čtyřech letech začít vyvážet rozsáhlé dodávky zkapalněného zemního plynu ( LNG ) do Evropy skrze Německo .,O O O O O O O O O O O O O O O O O O B-LOC O B-LOC O
+7719,"Důležitější je ale to , že dávají možnost zajistit práci úzké skupině ruských dodavatelů prakticky bez vnější kontroly , "" píše se ve zprávě .",O O O O O O O O O O O O O O O O O O O O O O O O O
+9797,„ Nestarají se o nás .,O O O O O O
+837,"V emocionálním projevu , který přednesl v pátek před úsvitem v Láhauru , hlavního města provincie Paňdžáb , Rizvi obvinil jedno z vládních vyjednavačů .",O O O O O O O O O O O B-LOC O O O O B-LOC O B-PER O O O O O O
+10693,"Loni v prosinci se firmě podařilo odvrátit rozsáhlé stávky , když se poprvé ve své historii rozhodla uznat odborové svazy .",O O O O O O O O O O O O O O O O O O O O O
+12521,Podobným materiálům má čelit i linka zřízená pro monitorování možných volebních podvodů .,O O O O O O O O O O O O O
+180,Demonstranti v minulých dnech zablokovali důležité dopravní tepny a zapalovali automobily .,O O O O O O O O O O O O
+9322,„ Všechno je v sázce .,O O O O O O
+108,Proti osvobození křesťanky se uskutečnila řada demonstrací .,O O O O O O O O
+1369,"Doplatí na to nejspíš zemědělci , na ochranu hranic však půjde víc",O O O O O O O O O O O O
+3771,"Británie by v té době byla účastna na unijním vnitřním trhu , musela by však dál plně uznávat evropské právo i rozhodnutí unijního soudu .",B-LOC O O O O O O O O O O O O O O O O O O O O O O O O
+5058,"To je obrovský úspěch zdravotnictví , “ upřesnil .",O O O O O O O O O
+7620,""" Z 55 miliard metrů krychlových zemního plynu , které ročně přitečou plynovodem Nord Stream 2 , jich 45 , 1 miliardy metrů krychlových bude plynovodem Eugal směřovat na Česko , "" vysvětluje mluvčí projektu firmy Gascade Reemt Bernert .",O O O O O O O O O O O O O B-PRO I-PRO I-PRO O O O O O O O O O O B-PRO O O B-LOC O O O O O O B-ORG B-PER I-PER O
+450,Informoval o tom portál BBC .,O O O O B-PRO O
+12399,Do voleb nás čeká ještě několik bomb,O O O O O O O
+6955,"K pátečnímu večeru naočkovala podle premiéra 3 , 2 milionu lidí .",O O O O O O O O O O O O
+5776,"První příznaky , včetně kašle , bolesti hlavy , bolesti v krku , průjmu a nevolnosti , se u něj projevily 25 . března .",O O O O O O O O O O O O O O O O O O O O O O O O O
+2779,Naopak ekonomika jasně proevropského Londýna má utrpět nejméně .,O O O O B-LOC O O O O
+7907,"Publikace uvádí , že je třeba nejprve pochopit , že „ Nord Stream - 2 "" není politickou zbraní v rukou Ruska .",O O O O O O O O O O O B-PRO I-PRO I-PRO I-PRO O O O O O O B-LOC O
+4248,"Vystoupení Česka z EU by bylo sebevražedným krokem , shodli se Stropnický s Hamáčkem",O B-LOC O B-ORG O O O O O O O B-PER O B-PER
+8007,"Jiný zdroj FP uvedl , že Trumpův poradce pro bezpečnostní politiku John Bolton a další vedoucí představitelé USA považují „ Nord Stream 2 “ za ohrožení bezpečnosti USA a Evropy a nemají v úmyslu nechat dojít projekt k realizaci .",O O B-ORG O O O B-PER O O O O B-PER I-PER O O O O B-LOC O O B-PRO I-PRO I-PRO O O O O B-LOC O B-LOC O O O O O O O O O O
+3074,"Jde o ten "" skutečně nejzazší možný termín "" , prohlásil francouzský ministr zahraničí Jean - Yves Le Drian .",O O O O O O O O O O O O O O B-PER I-PER I-PER I-PER I-PER O
+8275,"Spolková republika Německo povolí výstavbu a provoz své časti plynovodu Nord Stream 2 ( Severní proud 2 ) , o který se v Evropské unii vede spor , a to zrovna ve chvíli , kdy země EU vyhošťují ruské diplomaty .",O O B-LOC O O O O O O O B-PRO I-PRO I-PRO O B-PRO I-PRO I-PRO O O O O O O B-ORG I-ORG O O O O O O O O O O O B-ORG O O O O
+2083,"Proevropští konzervativci však na Mayovou čím dal více tlačí , aby aby by nastoupila spíše „ norskou cestu . “",O B-PER O O B-PER O O O O O O O O O O O O O
+6208,""" Za týden jsme naočkovali stejně osob jako Německo za půl hodiny , to je ubohé , "" podotkl Jordan Bardella , europoslanec a místopředseda krajně pravicové strany Národní sdružení ( RN ) .",O O O O O O O O B-LOC O O O O O O O O O O B-PER I-PER O O O O O O O B-ORG I-ORG O B-ORG O O
+296,"Islámábád Právní zástupce křesťanky Asii Bibiové , která byla před osmi lety odsouzena k trestu smrti za urážku islámského proroka Mohameda a nyní zproštěna viny , uprchl z Pákistánu v obavách o svůj život .",B-LOC O O O B-PER I-PER O O O O O O O O O O O O O O B-PER O O O O O O O B-LOC O O O O O O
+628,"Vzhledem k tomu , že její život je v ohrožení , zůstává v ochranné vazbě , uvedly zdroje pod podmínkou anonymity .",O O O O O O O O O O O O O O O O O O O O O O
+2688,"Pro mě to bylo popření všech hodnot , kterých si vážím .",O O O O O O O O O O O O
+6087,Všichni stáli na stejné startovní čáře .,O O O O O O O
+3579,Důvodem je podle britského listu jejich nejistota ohledně pobrexitových práv .,O O O O O O O O O O O
+9309,""" Od anexe Krymu se situace kolem hranic NATO změnila .",O O B-EVT I-EVT O O O O B-ORG O O
+9802,Německý odborový svaz pilotů VC však již varoval před dalšími akcemi .,B-ORG I-ORG I-ORG I-ORG B-ORG O O O O O O O
+2590,"Neočekává se , že by ho lordi poslali zpět dolní komoře .",O O O O O O O O O O O O
+3420,"Strávil řadu měsíců v detenčním zařízení a málem jej deportovali na Jamajku , kde byl naposledy v osmi letech .",O O O O O O O O O O O B-LOC O O O O O O O O
+3059,"Britská Sněmovna lordů proto nedávno odhlasovala , že by Británie měla raději zůstat v evropské celní unii .",O B-ORG I-ORG O O O O O O B-LOC O O O O O O O O
+3545,Především díky výraznému pokroku v rozhovorech z minulého týdne jsou nicméně diplomaté nyní optimističtější .,O O O O O O O O O O O O O O O
+4614,". Ani další tři dny rozhovorů o odchodu Británie z Evropské unie nepřinesly posun v klíčových bodech , mezi něž patří režim na irské hranici a dohoda o volném obchodu .",O O O O O O O O B-LOC O B-ORG I-ORG O O O O O O O O O O O O O O O O O O O
+2626,Britští lordi schválili zákon o vystoupení z unie,B-PER I-PER O O O O O O
+8800,„ Tento projekt má vážné politické dopady .,O O O O O O O O
+3707,Koordinátor evropského parlamentu pro brexit Guy Verhofstadt představy Mayové odmítl .,O B-ORG I-ORG O B-EVT B-PER I-PER O B-PER O O
+6270,"Očkování proti nemoci covid - 19 dnes začalo v posledních třech krajích , kde se dosud neočkovalo , v Libereckém , Karlovarském a Zlínském .",O O O B-EVT I-EVT I-EVT O O O O O O O O O O O O O B-LOC O B-LOC O B-LOC O
+5563,"To znamená , že to nebyla tak významná událost , aby aby by si to lidé celý život pamatovali ?",O O O O O O O O O O O O O O O O O O
+12132,"To skutečně nevíme , čekáme , že to bude ještě pár dní .",O O O O O O O O O O O O O
+362,cz .,O O
+5129,"Klíčovým momentem pak je , za jak dlouho bude vakcína dostupná k použití v ČR , "" uvádí čtyřstránková strategie .",O O O O O O O O O O O O O O B-LOC O O O O O O
+1437,"Dva syny má s manželkou Kirsten Mehrovou , která pochází z Německa a s níž se minulý rok rozeel .",O O O O O B-PER I-PER O O O O B-LOC O O O O O O O O
+5750,"Česko už má několik tisíc naočkovaných , na plošnou vakcinaci si ale ještě počkáme .",B-LOC O O O O O O O O O O O O O O
+11380,Dvojice letišť v německé metropoli - Tegel a Schönefeld - zruší v pondělí ráno kolem 80 letů .,O O O O O O B-LOC O B-LOC O O O O O O O O O
+11106,Portugalsko ochromila stávka řidičů cisteren .,B-LOC O O O O O
+2666,Desítky tisíc lidí demonstrují v Londýně za nové referendum o brexitu,O O O O O B-LOC O O O O B-EVT
+6739,Účinnost léku ale zpochybňuje epidemiolog Roman Prymula .,O O O O O B-PER I-PER O
+5812,( Sarah Lawton |,O B-PER I-PER O
+3632,"Pokud Británie změní názor , může v EU zůstat , říká Tusk",O B-LOC O O O O O B-ORG O O O B-PER
+4465,"Jde o Owena Smithe , který měl v týmu představujícím možný vládní kabinet hlavní opoziční strany na starost problematiku Severního Irska .",O O B-PER I-PER O O O O O O O O O O O O O O O B-LOC I-LOC O
+8792,"Viceprezident Šefčovič sdělil , že objem tranzitního plynu přes Ukrajinu by měl být tak dostatečný , aby aby by z něho mohla Ukrajina zaplatit údržbu své sítě s plynovody .",O B-PER O O O O O O O B-LOC O O O O O O O O O O B-LOC O O O O O O O
+7272,"Komisařka pro hospodářskou soutěž Margrethe Vestagerová v dubnu prohlásila , že se obává toho , že Google odstřihuje svou konkurenci od jedné z nejdůležitějích metod získávání zákazníků : předinstalováním softwaru na chytré telefony .",O O O O B-PER I-PER O O O O O O O O O O B-ORG O O O O O O O O O O O O O O O O O
+733,Někde v Pákistánu žije na veřejně neznámém místě paní Asia Bibi .,O O B-LOC O O O O O O B-PER I-PER O
+6069,Následuje Rychnovsko a Opavsko .,O B-LOC O B-LOC O
+2063,"Jen pár dní předtím začal Facebook upozorňovat své uživatele na to , zda údaje z jejich účtů získala Cambridge Analytica .",O O O O O B-ORG O O O O O O O O O O O O B-ORG I-ORG O
+8533,Ještě ráno nemohl Německo vystát,O O O B-LOC O
+2856,Jak dlouho jim to vydrží ?,O O O O O O
+11248,"Brněnští radní schválili vznik městské společnosti , která bude mít za cíl některého dopravce nalákat .",O O O O O O O O O O O O O O O O
+3831,"Očekávat lze také větší finanční pomoc trápícím se ekonomikám jihu , například v podobě evropských dluhopisů či podobných nástrojů rozložení dluhů .",O O O O O O O O O O O O O O O O O O O O O O
+10685,„ Na dnešní den ( pátek ) nemáme hlášené v souvislosti se stávkou personálu letecké společnosti Ryanair žádné zrušené lety .,O O O O O O O O O O O O O O O O B-ORG O O O O
+9402,Například rakouský exministr financí Hans - Jörg Schelling se stal poradcem v rámci chystaného projektu německo - ruského plynovodu Nord Stream 2 .,O O O O B-PER I-PER I-PER I-PER O O O O O O O O O O O B-PRO I-PRO I-PRO O
+8433,"Závěrečné prohlášení schůzky připomíná , že postoj Unie k dění na východě Ukrajiny a k ruskému postupu v oblasti se nemění .",O O O O O O O B-ORG O O O O B-LOC O O O O O O O O O
+2547,"Letos v prvním čtvrtletí klesl čistý zisk Airbus Group meziročně téměř o třetinu na 283 milionů eur ( 7 , 2 miliardy korun ) .",O O O O O O O B-ORG I-ORG O O O O O O O O O O O O O O O O
+8198,Moskva přitom dosud označovala Kyjev za nespolehlivého partnera a systém Kremlem prosazovaných nových plynovodů měl Ukrajinu obejít .,B-LOC O O O B-LOC O O O O O B-LOC O O O O B-LOC O O
+3930,""" Osobně mám problém s pochopením některých britských postojů .",O O O O O O O O O O
+11797,"Americký volební systém je totiž složitější než v Česku , takže větší počet hlasů od občanů nemusí znamenat pro kandidáta vítězství .",O O O O O O O O B-LOC O O O O O O O O O O O O O
+1084,Toto je větší problém než technický provoz na hranicích .,O O O O O O O O O O
+696,Jednoho dne pracovala na poli s několika muslimskými ženami a strhla se mezi nimi hádka .,O O O O O O O O O O O O O O O O
+6160,Koronavirem se již nakazily desítky milionů lidí napříč celým světem .,B-EVT O O O O O O O O O O
+11981,"Využilo toho už 90 milionů Američanů , tedy plná třetina voličů .",O O O O O B-PER O O O O O O
+4317,"Mayová učinila dílčí změny ve vládě , klíčoví ministři zůstávají",B-PER O O O O O O O O O
+6445,Zúčastnilo se ho 1024 lidí starších 18 let .,O O O O O O O O O
+11848,Odhad se může měnit na základě zpřesňujících se informací .,O O O O O O O O O O
+6280,"Přepis novoročního projevu předsedy Poslanecké sněmovny Radka Vondráčka ( ANO ) Vážení spoluobčané , milí sousedé , dámy a pánové , dovolte mi , abych aby bych ten svůj letošní novoroční projev začal symbolickým gestem .",O O O O B-ORG I-ORG B-PER I-PER O B-ORG O O O O O O O O O O O O O O O O O O O O O O O O
+11430,Příští vyjednávací kolo obou stran se uskuteční 23 . ledna .,O O O O O O O O O O O
+168,"Dostala se do sporu se dvěma muslimkami , které se odmítly napít ze stejné nádoby jako katolička Bibiová .",O O O O O O O O O O O O O O O O O B-PER O
+6528,Většinou jde o jeden případ nakaženého Čecha z jednotlivé země .,O O O O O O B-PER O O O O
+10315,"Ve středu vstoupily do dvoudenní stávky kabinové posádky v Itálii , Španělsku , Portugalsku a Belgii .",O O O O O O O O O B-LOC O B-LOC O B-LOC O B-LOC O
+1925,Tento dodatek poslanci zamítli většinou 22 hlasů .,O O O O O O O O
+11887,"O několik dní dříve Giuliani řekl , že Trumpova kampaň si může opatřit dostatek důkazů ke změně volebních výsledků ve státě Pensylvánie .",O O O O B-PER O O O B-PER O O O O O O O O O O O O B-LOC O
+7211,Přímo k tomu řekl : „ Podpořili … číst více Radek Rozvoral : Nikým nevolený úředník kritizuje prezidenta Zemana ohledně názorů k přijímání imigrantů !,O O O O O O O O O O B-PER I-PER O O O O O O B-PER O O O O O O
+10109,Společnost East Bohemian Airport ( EBA ) otevře nový letištní terminál ( na snímku z 15 . ledna 2018 ) v Pardubicích .,O B-ORG I-ORG I-ORG O B-ORG O O O O O O O O O O O O O O O B-LOC O
+47,"Úřady posílily bezpečnostní opatření kolem blíže neupřesněného místa , kde je Bibiová držena .",O O O O O O O O O O O B-PER O O
+6432,"Méně než třetina lidí si pak myslí , že má dobrý přehled v ekonomické podpoře pro ty , které epidemie a s ní související omezení zasáhly .",O O O O O O O O O O O O O O O O O O O O O O O O O O O
+5335,"Adam Vojtěch oznámil svou rezignaci v pondělí kolem osmé ráno , premiér Andrej Babiš ( ANO ) už o tři hodiny později oznámil , že na jeho post navrhl právě Prymulu .",B-PER I-PER O O O O O O O O O O B-PER I-PER O B-ORG O O O O O O O O O O O O O O B-PER O
+9139,"USA kritizují Nord Stream - 2 , chtějí evropský trh pro sebe",B-LOC O B-PRO I-PRO I-PRO I-PRO O O O O O O
+9773,Od té doby se mu však nepodařilo s řadou z nich uzavřít dohody o pracovních podmínkách .,O O O O O O O O O O O O O O O O O
+4245,Země by si podle něj i po odchodu z Evropské unie měla se zbylými členskými státy udržet celní unii .,O O O O O O O O O B-ORG I-ORG O O O O O O O O O
+11287,V zemi létá pro Ryanair asi 400 pilotů .,O O O O B-ORG O O O O
+4209,"Unijní vyjednávač pro brexit Michel Barnier zdůraznil , že nyní ho projedná 27 zemí EU .",O O O B-EVT B-PER I-PER O O O O O O O O B-ORG O
+158,"Věnoval jsem přípravě obhajoby hodně práce , chystal jsem ji čtyři roky , “ vysvětluje Malúk , jak se dostal k případu , který mu zřejmě navždy změní život .",O O O O O O O O O O O O O O O B-PER O O O O O O O O O O O O O O
+1519,Cestička se vždycky najde .,O O O O O
+3203,"Na setkání s "" byznysovými lídry "" jí radil s dopady brexitu",O O O O O O O O O O O B-EVT
+6635,"A myslím , že to nikdo už ani nezkouší .",O O O O O O O O O O
+3028,Bum .,O O
+3369,"Šéf unijního vyjednávacího týmu Michel Barnier řekl krátce před začátkem páteční schůzky novinářům , že ačkoli jednání pokročila , přetrvávají velké a zásadní rozdíly v postojích obou stran .",O O O O B-PER I-PER O O O O O O O O O O O O O O O O O O O O O O O
+5170,"Jedním slovem se dá popsat zpráva , že vakcína americké firmy Novavax , která se bude vyrábět v Bohumili nedaleko Prahy , je bezpečná .",O O O O O O O O O O O B-ORG O O O O O O B-LOC O B-LOC O O O O
+8384,"Ostrá slova nejsou překvapivá , Polsko se proti hrozbě z Východu vymezuje dlouhodobě .",O O O O O B-LOC O O O O O O O O
+7014,"„ Obyvatelé budou muset zůstat ve svých prostorách , než budou mít výsledky testů , aby aby by se vyhnuli infekci , “ řekla hongkongská ministryně zdravotnictví Sophia Chanová .",O O O O O O O O O O O O O O O O O O O O O O O O O B-PER I-PER O
+8693,"Samotné Německo má různorodé zdroje energie , ale 39 procent jeho spotřeby plynu pokrývá Rusko .",O B-LOC O O O O O O O O O O O O B-LOC O
+8776,Projekt „ Nord Stream - 2 “ zahrnuje výstavbu dvou plynovodů s celkovou kapacitou 55 miliard metrů krychlových plynu ročně .,O O B-PRO I-PRO I-PRO I-PRO O O O O O O O O O O O O O O O
+8873,"Nord Stream ano , South Stream ne .",B-PRO I-PRO O O B-PRO I-PRO O O
+51,"Některé země , například Francie a Španělsko , již rodině nabídly azyl .",O O O O B-LOC O B-LOC O O O O O O
+5102,Celá rada včetně hejtmanky je v preventivní karanténě,O O O O O O O O
+8566,Statistická chyba se odhaduje na tři procentní body .,O O O O O O O O O
+4976,"„ S podzimem bude přicházet množství jiných akutních respiračních onemocnění , a pak nám může zůstávat v karanténě daleko více osob .",O O O O O O O O O O O O O O O O O O O O O O
+10877,Ryanair se dohodl s irskými piloty .,B-ORG O O O O O O
+7367,Za to ostatně byli vrcholní představitelé řádně kritizováni .,O O O O O O O O O
+1870,"To bylo pouhé tři dny poté , co se společně s bývalým vůdcem protievropské Strany nezávislosti Spojeného království ( UKIP ) Nigelem Faragem setkali v New Yorku s čerstvě zvoleným americkým prezidentem Donaldem Trumpem .",O O O O O O O O O O O O O O B-ORG I-ORG I-ORG I-ORG O B-ORG O B-PER I-PER O O B-LOC I-LOC O O O O O B-PER I-PER O
+1083,I v jeho případě by přece hrozily nepokoje evropských muslimů .,O O O O O O O O O O O
+1715,"Do Velké Británie na sběr ovoce a zeleniny každoročně zamíří okolo 80 tisíc cizinců , skoro vichni z východní Evropy .",O B-LOC I-LOC O O O O O O O O O O O O O O O B-LOC I-LOC O
+5467,cz .,O O
+6730,Po prázdninách se tak 1 . září vrátí všichni žáci do škol .,O O O O O O O O O O O O O
+116,Asia Bibiová byla zatčena v roce 2009 po hádce s muslimskými ženami .,B-PER I-PER O O O O O O O O O O O
+1137,"Křesťanka chtěla ze země odjet , úřady ji ale nemohly pustit , jelikož věřící při vyhrocených demonstracích požadovali její veřejné oběšení a zabití soudců .",O O O O O O O O O O O O O O O O O O O O O O O O O
+2019,"Otázka režimu , jaký na ní bude panovat , je jedním z hlavních sporných bodů při jednání o odchodu Británie z EU .",O O O O O O O O O O O O O O O O O O O B-LOC O B-ORG O
+7480,"Podle členky vyšetřovacího výboru europoslankyně Kateřiny Konečné ( KSČM ) se snaží přijít na to , proč podvádění s měřením emisí vyšlo najevo tak pozdě .",O O O O O B-PER I-PER O B-ORG O O O O O O O O O O O O O O O O O
+655,Islamisté jí slibují smrt,O O O O
+7729,"Svůj většinový podíl ale loni prodal , zrovna v době , kdy se psalo , že manželství se rozpadlo .",O O O O O O O O O O O O O O O O O O O O
+2720,"Babiš absolvoval sérii jednání , kromě Junckera se setkal také s dalšími členy komise .",B-PER O O O O O B-PER O O O O O O O O
+980,"Manžel Bibiové Ašik Masíh , uvedl , že se bojí o bezpečí své rodiny .",O B-PER B-PER I-PER O O O O O O O O O O O
+9062,"„ Skutečnost , že cena těžby je nízká , nic neznamená .",O O O O O O O O O O O O
+36,""" Dosáhli jsme dohody s vládou , "" řekl agentuře Reuters mluvčí TLP Ijaz Ašrafí .",O O O O O O O O O O B-ORG O B-ORG B-PER I-PER O
+8760,"Debata o dovozu LNG do Německa se znovu rozhořela v uplynulých týdnech , protože provozovatelé i vláda projevili zájem o rozšíření svých dodávek plynu i mimo současné dodávky plynovody z Ruska , Norska a Nizozemska .",O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O B-LOC O B-LOC O
+12550,Žádá třeba přepočet hlasů ve Wisconsinu .,O O O O O B-LOC O
+4278,Britská premiérka Theresa Mayová chce pohled svého kabinetu na budoucnost spolupráce EU a své země představit v pátečním projevu .,O O B-PER I-PER O O O O O O O B-ORG O O O O O O O O
+9442,"Již minulý týden povolilo finské ministerstvo hospodářství , aby aby by zhruba 375 kilometrový úsek plynovodu procházel finskými vodami označovanými jako výhradní ekonomická zóna .",O O O O B-ORG I-ORG I-ORG O O O O O O O O O O O O O O O O
+3974,"V této atmosféře sílící nejistoty Mayová "" nápadně mlčí "" , komentoval situaci web televize CNN .",O O O O O B-PER O O O O O O O O O B-ORG O
+4796,"Chceme posílit personál v Bohunicích , “ uvedla mluvčí fakultní nemocnice Veronika Plachá .",O O O O B-LOC O O O O O O B-PER I-PER O
+10921,Protest má začít ve středu ve tři hodiny ráno .,O O O O O O O O O O
+10074,Aerolinky nedávno uznaly odbory zastupující palubní posádky v Řecku a Švédsku .,O O O O O O O O B-LOC O B-LOC O
+2195,Jenže Angličané se rozhodli opustit Evropskou unii už před dvaceti měsíci .,O B-PER O O O B-ORG I-ORG O O O O O
+2839,"Proto se unie včera na schůzce , na níž mělo i Česko své zastoupení , zabývala právě dobou po brexitu .",O O O O O O O O O O O B-LOC O O O O O O O B-EVT O
+9313,"Roli NATO pro evropskou bezpečnost zdůraznil dnes ve svém projevu před parlamentním shromážděním i polský prezident Andrzej Duda , podle nějž se Moskva doposud nedokázala vypořádat s rozpadem Sovětského svazu .",O B-ORG O O O O O O O O O O O O O O B-PER I-PER O O O O B-LOC O O O O O B-LOC I-LOC O
+11698,Ryanair Plus totiž stojí standardně něco málo přes 700 korun ( cena se u jednotlivých letů liší ) na každou letenku .,B-PRO I-PRO O O O O O O O O O O O O O O O O O O O O
+8357,"Merkelová před novináři řekla , že doufá v pokrok rozhovorů mezi Polskem a komisí .",B-PER O O O O O O O O O O B-LOC O O O
+4848,Ve své měsíční zprávě o hospodářské situaci to dnes uvedla německá centrální banka .,O O O O O O O O O O O O O O
+4696,"Letoun , který velmi často používá premiérka Theresa Mayová , britská média překřtila v narážce na nízkonákladové aerolinky na „ Thereasy Jet “ .",O O O O O O O B-PER I-PER O O O O O O O O O O O B-PRO I-PRO O O
+6662,"Příznaky za pár dní sice zmizely , ale po třech týdnech se objevily jiné problémy v podobě brnění celého těla , “ sdělila CNN Prima NEWS Jaroslavova žena Miroslava .",O O O O O O O O O O O O O O O O O O O O O O O B-PRO I-PRO I-PRO B-PER O B-PER O
+5525,"Čínská státní farmaceutická firma China National Biotec Group nebo též Sinopharm zveřejnila překvapivý fakt , že její experimentální vakcína proti Covid - 19 byla už v zemi nasazena masově a byly jí očkovány statisíce lidí .",O O O O B-ORG I-ORG I-ORG I-ORG O O B-ORG O O O O O O O O O B-EVT I-EVT I-EVT O O O O O O O O O O O O O
+12059,"Nemůžou prostě s nimi začít dřív , “ vysvětluje Wehleová , čím je zdržení způsobeno .",O O O O O O O O O B-PER O O O O O O
+7493,"Národní orgán pro koordinaci evropských fondů Ministerstva pro místní rozvoj proto apeluje na řídicí orgány , aby aby by se věnovaly plnění navržených opatření a bezodkladně přijímaly případná další opatření , která povedou k intenzivnějšímu čerpání .",O O O O O O B-ORG I-ORG I-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O O O O O
+5604,"V té době už bude v Česku proočkováno několik milionů lidí , a když se připočtou ti , kteří se promoří infekcí , covidová čísla se významně sníží .",O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O
+3730,"Dalo by se tak údajně vyhnout i hraničním kontrolám mezi Severním Irskem a Irskou republikou , která zůstává členem EU .",O O O O O O O O O O B-LOC I-LOC O B-LOC I-LOC O O O O B-ORG O
+2509,"The Daily Telegraph , který se vyslovuje pro brexit , titulkem odkazoval na obměnu kabinetu premiéra Harolda Macmillana , který v roce 1962 mandátu zbavil sedm ministrů .",B-PRO I-PRO I-PRO O O O O O B-EVT O O O O O O O B-PER I-PER O O O O O O O O O O
+4564,"Johnson by proto chtěl vlastní „ brexitové letadlo “ , které by podle něj důstojněji reprezentovalo jeho zemi .",B-PER O O O O O O O O O O O O O O O O O O
+3225,"Vzhledem k tomu , že ekonomika má za normálních okolností docela velkou setrvačnost , ponesou se i první měsíce roku ve stejném duchu .",O O O O O O O O O O O O O O O O O O O O O O O O
+3714,Británie ale jako stát mimo EU již nebude mít zastoupení v unijních institucích a jejím rozhodovacím procesu .,B-LOC O O O O B-ORG O O O O O O O O O O O O
+11452,"Portál Ryanair . com se stal nejvíce navštěvovaným webem mezi leteckými společnostmi , “ uvedl mluvčí a dodal , že průzkum nezohledňuje úspěchy , kterých firma dosáhla .",O B-PRO I-PRO I-PRO O O O O O O O O O O O O O O O O O O O O O O O O
+10626,Znamená to komplikace pro více 42 tisíc lidí .,O O O O O O O O O
+7776,Nicméně Rusko úplně nad Bulhary hůl neláme .,O B-LOC O O B-PER O O O
+5067,"Senátor Žaloudík uklidnil za úsměvů mnoha přítomných auditorium : Já myslím , že je vás stále 98 “ Čísla a zase čísla .",O B-PER O O O O O O O O O O O O O O O O O O O O O
+6455,"Byly mezi nimi bolest hlavy , svalů a kloubů , zimnice nebo bolestivost v místě vpichu .",O O O O O O O O O O O O O O O O O
+1488,. Vláda premiérky Theresy Mayové utrpěla ve středu porážku v horní komoře britského parlamentu .,O O O B-PER I-PER O O O O O O O B-ORG I-ORG O
+1681,"V příštích měsících musí najít čtyři tisíce lidí na sběr jahod , malin , jablek a hrušek .",O O O O O O O O O O O O O O O O O O
+5243,K jeho image rázného experta přispívají vedle odbornosti i vojenské frčky .,O O O O O O O O O O O O
+7543,"Řecké území , včetně ostrovů v Egejském moři , zasypalo velké množství sněhu , který pokryl i stany uprchlíků .",O O O O O O B-LOC I-LOC O O O O O O O O O O O O
+11855,"Výsledky tedy odtamtud budou až během pátku , tedy někdy odpoledne středoevropského času .",O O O O O O O O O O O O O O
+2636,Londýn : desetitisíce žádaly nové referendum k brexitu,B-LOC O O O O O O B-EVT
+8831,". Německá kancléřka Angela Merkelová si musí odpovědět na otázky : Je lepší se domluvit s demokratickou zemí , jako jsou USA , nebo začít budovat nový „ liberální “ řád s Ruskem , Čínou či Tureckem ?",O O O B-PER I-PER O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O B-LOC O B-LOC O B-LOC O
+11182,Skyscanner vám představí několik triků .,B-PRO O O O O O
+5968,"„ Od okamžiku , kdy jsme dostali první oznámení , bili jsme na poplašný zvon , “ odmítá Ghebreyesus nařčení z příliš pomalého jednání .",O O O O O O O O O O O O O O O O O O B-PER O O O O O O
+1183,"Za to , že pila vodu ze studny určené pro muslimy .",O O O O O O O O O O O O
+12009,"Vítěz voleb je obvykle znám už v závěru volebního dne , který letos připadá na úterý 3 . listopadu .",O O O O O O O O O O O O O O O O O O O O
+4335,"Potřeba bude nová dohoda o ochraně dat , upozornila Mayová , Británie však nebude součástí unijního jednotného digitálního trhu .",O O O O O O O O O B-PER O B-LOC O O O O O O O O
+6613,Praha 11 : 02 22 . července 2020,B-LOC O O O O O O O
+10181,Aerolinky Ryanair působí ve 37 zemích včetně České republiky .,O B-ORG O O O O O B-LOC I-LOC O
+5988,"Celkový počet infikovaných lidí , kteří se už v Rusku z této nemoci uzdravili , tak překročil hranici 2 , 6 milionu .",O O O O O O O O O B-LOC O O O O O O O O O O O O O
+3016,"Pokud budou naše firmy po odchodu Británie z EU kvůli obchodním bariérám neziskové , tak z ostrovů odejdeme , varovali japonští investoři britskou premiérku Theresu Mayovou .",O O O O O O B-LOC O B-ORG O O O O O O O O O O O O O O O B-PER I-PER O
+11307,"Největší evropské nízkonákladové aerolinky Ryanair uzavřely s německými piloty dohodu o platech a odměnách , vánoční stávky jako loni tedy letos nehrozí .",O O O O B-ORG O O O O O O O O O O O O O O O O O O
+8894,"Ale už před více než rokem se začalo proslýchat , že se naše oficiální pozice posouvá a že nacházíme v tomto směru s Německem společnou notu .",O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O O
+8573,"Republikánští senátoři John Barrasso a Cory Gardner navrhli zákon , který by automaticky zaváděl sankce vůči evropským firmám , jež se na výstavbě plynovodu podílejí .",B-PER I-PER B-PER I-PER O B-PER I-PER O O O O O O O O O O O O O O O O O O O
+5523,Jenže v . . . 05.10.2020 7 : 33,O O O O O O O O O
+7771,"Rusko nemůže s Bulharskem stavět žádný společný projekt , protože bulharská strana neplní své sliby , reagoval pro ruský tisk ředitel Institutu pro národní energetiku Sergej Pravosudov , který komentoval slova bulharského prezidenta Rumena Radeva , že stát potřebuje přímé dodávky ruského plynu přes Černé moře .",B-LOC O O B-LOC O O O O O O O O O O O O O O O O O B-ORG I-ORG I-ORG I-ORG B-PER I-PER O O O O O O B-PER I-PER O O O O O O O O O B-LOC I-LOC O
+6581,"Studie dosud nedaly odpověď , zda vakcína brání očkovanému člověku přenášet nemoc a šířit ji , aniž by byl sám ohrožen .",O O O O O O O O O O O O O O O O O O O O O O
+9386,Dalšího evropského politika zlákal ruský byznys .,O O O O O O O
+1523,"Do odchodu Spojeného království z EU už nezbývá ani rok a stále není jasné , jak budou vztahy mezi oběma celky nakonec vypadat .",O O B-LOC I-LOC O B-ORG O O O O O O O O O O O O O O O O O O
+3252,"Pokud by se Britům podařilo uzavřít s evropskou sedmadvacítkou komplexní dohodu o volném obchodu , byl by růst v následujících 15 letech podle uniklého dokumentu o pět procent nižší než v případě , že by k brexitu nedošlo .",O O O B-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-EVT O O
+8875,"To ukazuje dvojkolejnost přístupu Bruselu , napsal německý deník Naopak americký ministr energetiky Rick Perry v Bukurešti lobboval za dovoz amerického zemního plynu , který sníží závislost Evropy na ruských dodávkách .",O O O O B-LOC O O O O O O O O B-PER I-PER O B-LOC O O O O O O O O O O B-LOC O O O O
+1937,Za významné vítězství se označuje výsledek rozhodování o možnosti posílit vliv parlamentu na znění konečné dohody o vystoupení .,O O O O O O O O O O O O O O O O O O O
+6299,"Podle propočtů by nám v takovém případě očkování trvalo 3000 let , "" upozornil Bruno Megarbane , vedoucí oddělení intenzivní medicíny a toxikologie v pařížské nemocnici Lariboisière .",O O O O O O O O O O O O O O B-PER I-PER O O O O O O O O O O B-LOC O
+10771,"Stávka způsobila mezi cestujícími paniku a zmatek , takže řada z nich začala rychle on - line hledat alternativní spoj buď opět s Ryanairem , anebo s jiným přepravcem .",O O O O O O O O O O O O O O O O O O O O O O O B-ORG O O O O O O
+12561,"Podle odhadu agentury AP a stanice Fox Trump dosud získal na svou stranu 214 a Biden 264 volitelů z 270 potřebných pro vítězství , podle CNN je poměr 213 ku 253 .",O O O B-ORG O O B-ORG B-PER O O O O O O O B-PER O O O O O O O O O B-PRO O O O O O O
+7092,"Koronavirus , který způsobuje onemocnění covid - 19 , se patrně mezi lidmi začal šířit před rokem v Číně .",B-EVT O O O O B-EVT I-EVT I-EVT O O O O O O O O O O B-LOC O
+4325,"Pozice Mayové je oslabená kvůli neúspěchu konzervativců v předčasných volbách loni v červnu , které sama premiérka vyvolala , i kvůli sporům uvnitř vlády v otázce odchodu Británie z Evropské unie .",O B-PER O O O O B-PER O O O O O O O O O O O O O O O O O O O O B-LOC O B-ORG I-ORG O
+11547,"Odboráři požadují vyšší mzdy , větší dávky a důchody , jakož i lepší podmínky pro odchod do důchodu .",O O O O O O O O O O O O O O O O O O O
+9794,Zrušen byl i dopolední let mezi Prahou a nizozemským Eidhovenem .,O O O O O O B-LOC O O B-LOC O
+5004,"Ony mají podle výzkumů dohromady něco přes 40 procent , kdežto kvórum pro pětičlennou koalici je 50 % , ale třeba by ta synergie lidi oslnila a hlasy by do uren naházeli .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+3454,"V textu Smith vyzval k novému referendu , ve kterém by se Britové vyjádřili k vyjednaným podmínkám odchodu Británie z EU .",O O B-PER O O O O O O O O O B-PER O O O O O B-LOC O B-ORG O
+4674,"Vysvětlil , že nejde o jeho pohodlnost , ale o reprezentaci .",O O O O O O O O O O O O
+3877,Ministr pro brexit kritizoval EU kvůli textu o sankcích za porušení pravidel,O O B-EVT O B-ORG O O O O O O O
+6474,Drtivou většinu úkolů pro ochranu organismu za nás řeší matička příroda naší osobní imunitou .,O O O O O O O O O O O O O O O
+11156,Ryanair je irský nízkonákladový letecký dopravce se sídlem v Dublinu .,B-ORG O O O O O O O O B-LOC O
+4616,"Nechce přijmout , že věci nemohou zůstat tak , jak jsou , napsala BBC .",O O O O O O O O O O O O O B-PRO O
+397,"Bibiová , vlastním jménem Asia Noreenová , byla zadržena v roce 2009 po hádce se skupinou žen .",B-PER O O O B-PER I-PER O O O O O O O O O O O O
+4783,PES není vlídný ani na regionální úrovni .,B-PRO O O O O O O O
+10433,Cestující mohou sehnat levnější letenky pomocí speciálních služeb skenování a srovnávání cen .,O O O O O O O O O O O O O
+12594,Trump předtím opakovaně napadal plány některých států přijímat včas odeslané korespondenční hlasovací lístky i po uzavření volebních místností .,B-PER O O O O O O O O O O O O O O O O O O
+10603,Piloti Ryanairu stávkují .,O B-ORG O O
+6998,Vakcína nevyvolává žádné závažné vedlejší účinky a imunitní systém na ni časně a dobře reaguje .,O O O O O O O O O O O O O O O O
+11539,Belgii ochromí generální stávka .,B-LOC O O O O
+792,Toho se podle úřadů dopustili při demonstracích za trest smrti pro Bibiovou .,O O O O O O O O O O O B-PER O
+1463,"Evropští vyjednavači od počátku trvají na tom , že není možné , aby aby by si Británie po odchodu z EU jen "" vyzobávala třešničky "" a z pravidel a závazků jednotného trhu uplatňovala jen ty části , které jsou pro ni výhodné .",O O O O O O O O O O O O O O B-LOC O O O B-ORG O O O O O O O O O O O O O O O O O O O O O O O
+7910,„ Během uplynulého desetiletí prošel evropský trh s plynem modernizací a liberalizací .,O O O O O O O O O O O O O
+4826,"Vytvoří tak protilátky k útoku pro případ , že narazí na skutečný vir .",O O O O O O O O O O O O O O
+11281,"Nejprve by musely uspořádat nové hlasování , kterého by se účastnili všichni zaměstnanci společnosti , uvedl v úterý v tiskové zprávě dopravce .",O O O O O O O O O O O O O O O O O O O O O O O
+8594,"V Německu se postavili proti pozměňovacím návrhům Evropské komise ke směrnici o plynu , které mají vliv na projekt Nord Stream - 2 .",O B-LOC O O O O O B-ORG I-ORG O O O O O O O O O O B-PRO I-PRO I-PRO I-PRO O
+8570,"Americký prezident Donald Trump uvedl , že Německo je naprosto pod kontrolou Ruska prostřednictvím dodávek plynu a vyjadřil nespokojenost s tím , že Berlín vynakládá miliardy na ruský plyn .",O O B-PER I-PER O O O B-LOC O O O O B-LOC O O O O O O O O O O B-LOC O O O O O O
+9059,"Stát , stejně jako podniky , by měl mít právo nezávisle rozhodovat , zda potřebují druhý zdroj , "" řekl šéf Federace německého průmyslu .",O O O O O O O O O O O O O O O O O O O O O B-ORG I-ORG I-ORG O
+863,"Protesty skončily až poté , co pákistánské úřady slíbily , že propuštění Bibiové odloží a nedovolí jí opustit zemi .",O O O O O O O O O O O O B-PER O O O O O O O
+4348,""" Pokud bude v říjnu stále zbývat dohodnout zásadní aspekty budoucího partnerství , měla by vláda žádat omezené prodloužení realizace článku 50 , "" dodal výbor .",O O O O O O O O O O O O O O O O O O O O B-PRO I-PRO O O O O O
+12444,"Vidím to tak , že kdo chtěl pomalejší pokles , volil Clintonovou , kdo rychlejší , volil Trumpa .",O O O O O O O O O O O B-PER O O O O O B-PER O
+8970,"„ Považujeme tento projekt za velmi neslučitelný s energetickou politikou EU a velmi škodlivý pro Ukrajinu , “ uvedl litevský ministr zahraničí Linas Linkevičius .",O O O O O O O O O O B-ORG O O O O B-LOC O O O O O O B-PER I-PER O
+7106,"V zemi se opět uzavře většina obchodů a otevřít budou smět opět 18 . ledna společně s restauracemi , školami , muzei a divadly , uvedla rakouská vláda v dnešním prohlášení .",O O O O O O O O O O O O O O O O O O O O O O O O O O B-ORG I-ORG O O O O
+11084,"Obzvlášť v Německu se zaměstnancům nelíbí , že jsou najímáni prostřednictvím pracovních agentur , jako je McGinley Aviation .",O O B-LOC O O O O O O O O O O O O O B-ORG I-ORG O
+9331,"„ Protože se tak nestalo v minulosti , tak jsem zde s mými dvěma kolegy , "" řekla Schwesigová , „ proto vítám , že kancléřka a spolkový ministr zahraničí nyní hledají způsob nového dialogu .",O O O O O O O O O O O O O O O O O O B-PER O O O O O O O O O O O O O O O O O
+2705,Nové referendum v Británii ?,O O O B-LOC O
+12309,Čekání na konečné výsledky ale může být dlouhé,O O O O O O O O
+8712,"Dříve ruský prezident Vladimir Putin uvedl , že plynovod Nord Stream - 2 neuzavírá cestu pro tranzit plynu přes Ukrajinu .",O O O B-PER I-PER O O O O B-PRO I-PRO I-PRO I-PRO O O O O O O B-LOC O
+1527,"Příkladem je firma Terramet , která z Británie do České republiky dováží stavební stroje .",O O O B-ORG O O O B-LOC O B-LOC I-LOC O O O O
+6149,"Požáry se dotkly života tří miliard živočichů , uvádí Mezinárodní fond pro australskou přírodu ( WWF ) , Odhady hovoří o 143 milionech savců , 2 , 46 miliardách plazů , 180 milionech ptáků a 51 milionech žab .",O O O O O O O O O B-ORG I-ORG I-ORG I-ORG I-ORG O B-ORG O O O O O O O O O O O O O O O O O O O O O O O
+12162,Spojené státy americké budou mít nového prezidenta .,B-LOC I-LOC I-LOC O O O O O
+1175,"Zdá se , že tradice dřímá velmi tvrdě .",O O O O O O O O O
+3481,"O leasing , půjčky a pojištění evropských zákazníků automobilky se stará finanční ústav Ford Credit Europe , který sídlí v britském městě Warley a pobočku má v Kolíně nad Rýnem .",O O O O O O O O O O O O O B-ORG I-ORG I-ORG O O O O O O B-LOC O O O O B-LOC I-LOC I-LOC O
+3982,"O posouzení procesu brexitu unijním soudem usiluje skupina zákonodárců , která by upřednostňovala setrvání Británie v Evropské unii .",O O O B-EVT O O O O O O O O O O B-LOC O B-ORG I-ORG O
+1923,Dolní sněmovna například zamítla požadavek na odstranění pevného data vystoupení Británie z EU ze zákona o brexitu .,B-ORG I-ORG O O O O O O O O B-LOC O B-ORG O O O B-EVT O
+5481,"Chtějí opět omezit životy našich občanů , ekonomicky a sociálně",O O O O O O O O O O
+1880,V Evropském parlamentu klesne počet křesel po odchodu Británie z EU .,O B-ORG I-ORG O O O O O B-LOC O B-ORG O
+3889,"Tehdy zvláštní známka vydána byla , připomněl německý týdeník Der Spiegel .",O O O O O O O O O B-PRO I-PRO O
+4338,Svobodnou a otevřenou obchodní soutěž by podle britské premiérky měly zajistit reciproční závazky obou stran .,O O O O O O O O O O O O O O O O
+850,"Je v ochranné vazbě , muslimové ji chtějí zabít",O O O O O O O O O
+1886,"Nejvíce posílí Francie a Španělsko , kterým přibude po pěti poslancích .",O O B-LOC O B-LOC O O O O O O O
+3639,"Ledaže dojde ke změně názoru u našich britských přátel , ” řekl Tusk a citoval výrok britského vyjednávače pro brexit Davida Davise , že “ pokud demokracie nedokáže změnit názor , přestává být demokracií ” .",O O O O O O O O O O O O B-PER O O O O O O B-EVT B-PER I-PER O O O O O O O O O O O O O O
+7679,Vyrábí z nich dvanáct metrů dlouhé a dvanáct tun těžké roury .,O O O O O O O O O O O O
+12649,"DOBRÉ RÁNO , BIDEN TU MÁ 120 000 HLASŮ NAVÍC !",O O O B-PER O O O O O O O
+4104,"Ale jaká to budou procenta , jaká výše , to vám v této chvíli neřeknu , “ poznamenala Schillerová .",O O O O O O O O O O O O O O O O O O B-PER O
+12588,"Pakliže by se americký prezident Donald Trump pokoušel soudní cestou zastavit řádné sčítání hlasů z letošních voleb , máme v pohotovosti právní týmy .",O O O O O B-PER I-PER O O O O O O O O O O O O O O O O O
+9634,"K východnímu pobřeží USA se blíží ničivý hurikán Florence , ohrožuje Severní a Jižní Karolína a nově i Georgii .",O O O B-LOC O O O O B-EVT O O B-LOC O B-LOC I-LOC O O O B-LOC O
+981,"„ Žádám premiérku Velké Británie , aby aby by nám pomohla a poskytla nám svobodu , “ vzkázal ve video zprávě .",O O O B-LOC I-LOC O O O O O O O O O O O O O O O
+2740,"Podle odborníků je ale možnost , že by Británie z EU nakonec neodešla , prakticky úplně vyloučená .",O O O O O O O O B-LOC O B-ORG O O O O O O O
+5944,"Někteří odborníci dávají prudký nárůst počtu nových případů po Vánocích do souvislosti se svátky , kdy se testovalo málo , a tedy po nich přicházeli lidé ještě na dodatečné testy .",O O O O O O O O O B-EVT O O O O O O O O O O O O O O O O O O O O O
+7843,Tedy strategii zlepení vztahů se sovětským blokem a snížení napětí .,O O O O O O O O O O O
+10598,O vyhlášení páteční stávky navíc podle agentury Reuters uvažuje rovněž nizozemský svaz pilotů VNV .,O O O O O O O B-ORG O O O O O B-ORG O
+719,Islámábád 7 : 37 31 . října 2018 Zkrácená adresa,B-LOC O O O O O O O O O
+10327,Ryanair létá z 86 základen do 37 zemí včetně České republiky .,B-ORG O O O O O O O O B-LOC I-LOC O
+4088,"„ Je to nekompletní zpráva , která byla úmyslně zveřejněna , protože obsahuje negativní pohled , “ řekl .",O O O O O O O O O O O O O O O O O O O
+10983,Ohlášená stávka za vyšší platy a lepší pracovní podmínky začala na 12 německých letištích v noci na středu a skončit by měla ve čtvrtek ve 2.59 SELČ .,O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+3503,"O všech dodatcích , které nevolená Sněmovna lordů přijala , bude rozhodovat i Dolní sněmovna .",O O O O O O B-ORG I-ORG O O O O O B-ORG I-ORG O
+3291,Tohle je horší než studená válka .,O O O O B-EVT I-EVT O
+9577,Irský dopravce čelí kritice odborů napříč Evropou .,O O O O O O B-LOC O
+4255,"„ Ty politiky by skutečně měly na svých jednáních určovat hlavy států , tedy Evropská rada , “ vysvětlil .",O O O O O O O O O O O O O O B-ORG I-ORG O O O O
+387,"„ Vláda ale nedokáže implementovat příkaz nejvyššího soudu a zajistit jí bezpečnost , “ řekl Mulúk před odletem od Evropy .",O O O O O O O O O O O O O O O B-PER O O O B-LOC O
+9792,"Ryanair původně uváděl , že dnes zruší 150 letů , později však musel tento počet zvýšit , protože se ke stávce původně jen zaměstnanců palubního personálu připojili také piloti v Německu .",B-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O
+9422,"Projekt "" Nord Stream - 2 "" je nemožný bez určení budoucí role ukrajinského tranzitu , uvedla německá kancléřka Angela Merkelová na společné tiskové konferenci s ukrajinským prezidentem Petro Porošenkem .",O O B-PRO I-PRO I-PRO I-PRO O O O O O O O O O O O O O B-PER I-PER O O O O O O O B-PER I-PER O
+6235,"Kuba dodal , že není možné , aby aby by systém evidence uchazečů o vakcinaci byl totožný se systémem na testování na koronavirus .",B-PER O O O O O O O O O O O O O O O O O O O B-EVT O
+5353,"Bohužel v naší politice to byla nevýhoda , málo se bránil napadání ze všech stran , “ řekl Babiš , který Vojtěcha označil za nejlepšího polistopadového ministra zdravotnictví .",O O O O O O O O O O O O O O O O O O B-PER O O B-PER O O O O O O O
+425,Podle studie zveřejněné na portálu Národní knihovny medicíny Spojených států amerických až 80 % žen čelí po uvěznění otřesným podmínkám .,O O O O O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG O O O O O O O O O O
+3660,"Je potřeba je vyřešit rychle , ideálně do března .",O O O O O O O O O O
+6829,"Ani se na to nedíváš z tohoto pohledu , proč se stále hádáš o vakcínách ?",O O O O O O O O O O O O O O O O
+802,Kauza pákistánské křesťanky graduje .,O O O O O
+8855,"Zástupci Eustreamu , ve kterém má menšinový podíl a manažerskou kontrolu skupina Energetický a průmyslový holding , to oznámili po dnešní prezentaci studie proveditelnosti plynovodu .",O B-ORG O O O O O O O O O O O O O O O O O O O O O O O O
+4492,"Podle agentury Bloomberg je nyní v sázce především to , zda Spojené království může Evropskou unii opustit bez "" rozvodové "" dohody .",O O B-ORG O O O O O O O O B-LOC I-LOC O B-ORG I-ORG O O O O O O O
+7247,"Evropská komise reprezentuje mezi institucemi Evropské unie nadnárodní princip , tzn . že prosazuje zájmy EU jako celku .",B-ORG I-ORG O O O B-LOC I-LOC O O O O O O O O B-LOC O O O
+4870,""" Dokud nebude k dispozici účinné lékařské řešení , jako je vakcinace , zůstane ekonomická aktivita omezená také v některých částech domácího sektoru služeb , "" dodala Bundesbank .",O O O O O O O O O O O O O O O O O O O O O O O O O O O B-ORG O
+11553,"Naproti tomu se německá společnost TUI fly rozhodla zajistit své pravidelné lety z a do Bruselu , avšak tím , že je přeloží na nejbližší francouzská a nizozemská letiště .",O O O O O B-ORG I-ORG O O O O O O O O B-LOC O O O O O O O O O O O O O O
+710,A znovu chci vzdát hold a úctu soudcům pákistánského Nejvyššího soudu .,O O O O O O O O B-ORG I-ORG I-ORG O
+3473,Britským občanům bylo vyhověno celkem v 1518 případech .,O O O O O O O O O
+10752,"Ryanair létá do desítek zemí , včetně České republiky .",B-ORG O O O O O O B-LOC I-LOC O
+932,Obhájce pákistánské křesťanky Bibiové odsouzené k smrti uprchl ze země,O O O B-PER O O O O O O
+9224,Exkancléř Schröder v nebezpečí ?,O B-PER O O O
+9085,Rusko a Německo ?,B-LOC O B-LOC O
+6566,"V Izraeli se z téměř jednoho milionu lidí , kteří obdrželi první dávku vakcíny , diagnostikovala u 240 z nich virová nákaza covid - 19 pár dní po očkování .",O B-LOC O O O O O O O O O O O O O O O O O O O O B-EVT I-EVT I-EVT O O O O O
+11104,"Ryanair létá do desítek zemí , včetně České republiky .",B-ORG O O O O O O B-LOC I-LOC O
+12196,"„ Prezident je volen spolu se svým viceprezidentem , voleným na tutéž dobu , následujícím způsobem :",O O O O O O O O O O O O O O O O O
+610,""" Nedovolíme , aby aby by byly páchány škody .",O O O O O O O O
+3957,"Všichni se v království shodují , že jde o nejrozsáhlejší geopolitickou událost od doby Druhé světové války .",O O O O O O O O O O O O O O B-EVT I-EVT I-EVT O
+6989,"ČR má předobjednáno již 5 500 000 dávek vakcíny , první dodávka by měla dorazit v lednu či únoru 2021 .",B-LOC O O O O O O O O O O O O O O O O O O O O
+12061,"musí se totiž ujistit , že poštovní úřad dodal všechny hlasovací lístky do včerejšího dne .",O O O O O O O O O O O O O O O O
+4877,"Není jisté , že jakákoli komunita na světě má dostatek obyvatel , kteří jsou nyní imunní vůči viru , aby aby by odolali druhé vlně , “ bylo psáno dále .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+7055,"Aby Aby by ilustroval velikost virové částice , rozhodl se Parker spočítat celkový objem .",O O O O O O O O B-PER O O O O
+7423,Mezi 51 projektů bude rozděleno celkem 80 milionů eur .,O O O O O O O O O O
+8972,Proti novému plynovodu je také Polsko .,O O O O O B-LOC O
+11889,"Podle neoficiálního počítání hlasů z pensylvánského ministerstva státní správy dostal Biden 3 , 35 milionu hlasů a Trump 3 , 31 milionu hlasů .",O O O O O B-ORG I-ORG I-ORG I-ORG O B-PER O O O O O O B-PER O O O O O O
+5311,Už na jaře serveru iROZHLAS .,O O O O B-PRO I-PRO
+9821,Dnešní stávka v Ryanairu je druhou největší jednodenní stávkou,O O O B-ORG O O O O O
+11155,Ryanair,B-ORG
+5091,"Jen abyste aby byste věděli , je zcela zdravý a máme tu čest , že tu s námi je .",O O O O O O O O O O O O O O O O O O
+2332,"Informoval o tom britský tisk s odkazem na informace , které unikly z příslušné vládní analýzy .",O O O O O O O O O O O O O O O O O
+4268,Premiérka Mayová se snaží oba tábory smířit .,O B-PER O O O O O O
+1185,"Dodržování lidských práv , tedy i náboženské svobody , je totiž jednou z podmínek , které EU stanoví pro poskytování těchto výhod .",O O O O O O O O O O O O O O O O B-ORG O O O O O O
+6515,Lidovky .,B-PRO I-PRO
+3067,"Premiérka Mayová se pokusí kritiky svých záměrů přesvědčit na úterním zasedání klíčových ministrů své vlády , kteří mají na starosti brexit .",O B-PER O O O O O O O O O O O O O O O O O O B-EVT O
+11509,"Naproti tomu se německá společnost TUI fly rozhodla zajistit své pravidelné lety z a do Bruselu , avšak tím , že je přeloží na nejbližší francouzská a nizozemská letiště .",O O O O O B-ORG I-ORG O O O O O O O O B-LOC O O O O O O O O O O O O O O
+1939,Postupně se bude dnes a také ve středu hlasovat o 15 navržených dodatcích .,O O O O O O O O O O O O O O
+5863,"Horší index než Moravskoslezský kraj vykazují jen kraje Pardubický , který má 90 bodů a Karlovarský s 96 body .",O O O B-LOC I-LOC O O O B-LOC O O O O O O B-LOC O O O O
+1452,"Společnost TV Nova s . r . o . využívá zpravodajství ČTK , jehož obsah je chráněn autorským zákonem .",O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG O O O B-ORG O O O O O O O O
+10428,"Loni bylo na území ČR zaznamenáno 853 420 letů letadel , nejvíce v historii .",O O O O B-LOC O O O O O O O O O O
+3507,Mayová kategoricky odmítá celní unii s EU po brexitu,B-PER O O O O O B-ORG O B-EVT
+530,"Protestní akce se konají v pákistánských městech již třetím dnem , vlivná pákistánská armáda dnes ale varovala , že její trpělivost má své hranice .",O O O O O O O O O O O O O O O O O O O O O O O O O
+8436,"Vyzval proto zástupce obou zemí , aby aby by se na partnery dívali co nejvíce pozitivně .",O O O O O O O O O O O O O O O
+5455,Nejničivější pandemie od španělské chřipky .,O O O B-EVT I-EVT O
+7198,"Google je sice největším vyhledávačem v Evropě , ale nákupy ovlivňuje jen málo .",B-ORG O O O O O B-LOC O O O O O O O
+1643,"Všechno by se rozpadlo , nastal by všude chaos .",O O O O O O O O O O
+230,"Rozhodnutí pákistánského nejvyššího soudu z minulé středy vyvolalo v Pákistánu demonstrace radikálních muslimů , kteří požadovali , aby aby by žena byla veřejně oběšena .",O B-ORG I-ORG I-ORG O O O O O B-LOC O O O O O O O O O O O O O
+6629,Osobnost Plus Praha 20 : 02 23 . července 2020,O O B-LOC O O O O O O O
+9945,"Odbory ale v uplynulých měsících vyjádřily s tempem změn nesouhlas a byl to i jeden z důvodů , proč vyhlásily vlnu stávek .",O O O O O O O O O O O O O O O O O O O O O O O
+10195,"Posádky si mimo jiné stěžují , že během letu musejí platit za pitnou vodu .",O O O O O O O O O O O O O O O
+4815,"Ministři se budou zabývat mimo jiné kompenzacemi pro některé dosud opomenuté obory , například skiareály .",O O O O O O O O O O O O O O O O
+8737,"Psi štěkají / USA a NATO / , ale karavana jede dál !",O O O B-LOC O B-ORG O O O O O O O
+574,"„ Těším se na setkání s ní a její rodinou v Evropském parlamentu , jakmile to bude možné , “ uvedl na twitteru předseda Evropského parlamentu Ital Antonio Tajani .",O O O O O O O O O O O B-ORG I-ORG O O O O O O O O O B-PRO O B-ORG I-ORG B-PER B-PER I-PER O
+12118,"Celkový počet hlasů ostatních kandidátů by na výsledek voleb takový vliv neměl , ale v otázce klíčových států je tomu jinak .",O O O O O O O O O O O O O O O O O O O O O O
+8110,V minulém týdnu totiž začaly první přípravné a bagrovací práce v lokalitě Greifswald v německých teritoriálních vodách .,O O O O O O O O O O O O B-LOC O O O O O
+1362,"Kdyby Když by se czexit měl opravdu uskutečnit , vyvolalo by to podle něj masivní přeskupení kapacit zpracovatelského průmyslu mimo území Česka , znamenající ztrátu stovek tisíc pracovních míst .",O O B-EVT O O O O O O O O O O O O O O O O B-LOC O O O O O O O O
+4946,protilátky se podle něj vytvořily u 100 procent testovaných a po podání vakcíny nebyly hlášeny „ žádné závažné vedlejší účinky “ .,O O O O O O O O O O O O O O O O O O O O O O
+10307,"Hospodaření letos negativně ovlivní i převzetí aerolinek Laudamotion , které počítají se ztrátou 150 milionů eur .",O O O O O O O B-ORG O O O O O O O O O
+1272,"Sama Bibiová odmítla , že by proroka urazila .",O B-PER O O O O O O O
+3095,"Indie patří mezi největší ekonomiky na světě , její hrubý domácí produkt rychle roste , a je proto pro firmy z celého světa velmi atraktivní nevěstou .",B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O
+1683,"Estera Ameszová z vedení agentury řekla , že zájem o práci v Británii prudce opadl kvůli nadcházejícímu brexitu a že klíčovým důvodem je pokles kurzu libry .",B-PER I-PER O O O O O O O O O O B-LOC O O O O B-EVT O O O O O O O O O
+9319,"„ Před ničím se nezastaví , aby aby by zablokovali „ Nord Stream "" , "" cituje FP jednoho z amerických úředníků .",O O O O O O O O O B-PRO I-PRO O O O O B-ORG O O O O O
+5340,Prezident Miloš Zeman vládního zmocněnce pro vědu a výzkum ve zdravotnictví odpoledne přijal na zámku v Lánech a jmenoval ho do funkce .,O B-PER I-PER O O O O O O O O O O O O O B-LOC O O O O O O
+5387,"To dělá zhruba 31 , 5 miliardy .",O O O O O O O O
+8521,Souvislost s hledáním nových odbytišť pro americký břidlicový plyn spatřuje v kritice amerického prezidenta rovněž agentura AFP .,O O O O O O O O O O O O O O O O B-ORG O
+6534,A Slovinci ruší karanténu pro Čechy,O B-PER O O O B-PER
+9411,Čína tak bude zásobována ruským plynem .,B-LOC O O O O O O
+10203,"A to pro zaměstnance ze zemí , kde je vysoká míra nezaměstnanosti mezi mladými .",O O O O O O O O O O O O O O O
+11009,V Německu má základny na 19 letištích .,O B-LOC O O O O O O
+636,"Několik zemí nabídlo Bibiové azyl , mimo jiné Itálie , Francie či Španělsko .",O O O B-PER O O O O B-LOC O B-LOC O B-LOC O
+10845,"A upřímně řečeno – jsou čím dál vynalézavější v znepříjemňování života pasažérům do takové míry , že nakonec podlehnou a připlatí si , aby aby by cestovali pohodlněji .",O O O O O O O O O O O O O O O O O O O O O O O O O O O
+4205,"Kritici jeho kampaň označovali jako „ Project Fear “ , tedy projekt , jehož cílem je lidem nahnat strach .",O O O O O O B-PRO I-PRO O O O O O O O O O O O O
+9082,"Zprovoznění plynovodu může negativně dopadnout především na Ukrajinu , pro kterou jsou poplatky za tranzit plynu velmi důležité .",O O O O O O O B-LOC O O O O O O O O O O O
+5935,Proti koronaviru se bude od pondělí očkovat ve všech krajích .,O B-EVT O O O O O O O O O
+4229,"Brexit ohrožuje mír v Severním Irsku , říká nová šéfka strany Sinn Féin",B-EVT O O O B-LOC I-LOC O O O O O B-ORG I-ORG
+3861,Současně by ale měla země volnou ruku v uzavírání obchodních smluv se třetími zeměmi v oblasti služeb .,O O O O O O O O O O O O O O O O O O
+7786,"O den později však Cohen tuto zprávu v The New York Times popřel s tím , že v Praze nikdy v životě nebyl : „ Špatné zpravodajství , špatné informace , špatná story , “ vzkázal Cohen .",O O O O B-PER O O O B-PRO I-PRO I-PRO I-PRO O O O O O O B-LOC O O O O O O O O O O O O O O O O O B-PER O
+9854,"Pražského letiště se opatření nedotklo Číst článek Ryanair původně uváděl , že v pátek zruší 150 letů , později však musel tento počet zvýšit , protože se ke stávce zaměstnanců palubního personálu připojili také piloti v Německu .",O O O O O O O B-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O
+1042,"Policie oznámila , že stoupenci Rizvího a jeho islamistické strany Tehríke Labajk byli zadrženi při raziích po celé zemi , především pak v provincii Paňdžáb .",O O O O O B-PER O O O O B-ORG I-ORG O O O O O O O O O O O O B-LOC O
+5208,V uplynulých 24 hodinách se tam ale nákaza nově potvrdila u méně než 1000 lidí .,O O O O O O O O O O O O O O O O
+777,"Demonstranti požadovali , aby aby by žena byla veřejně oběšena a s ní i trojice soudců , kteří křesťanku osvobodili .",O O O O O O O O O O O O O O O O O O O
+11784,"Po zisku některých klíčových států zvítězil demokratický kandidát Joe Biden , který by měl v Bílém domě nahradit republikána Donalda Trumpa .",O O O O O O O O B-PER I-PER O O O O O B-LOC I-LOC O O B-PER I-PER O
+9478,"Během svého projevu v Berlíně Oudkirková uvedla , že USA nevylučují uložení sankcí proti „ Nord Stream - 2 “ , ale doufají , že tato záležitost nedosáhne omezujících opatření .",O O O O B-LOC B-PER O O O B-LOC O O O O O B-PRO I-PRO I-PRO I-PRO O O O O O O O O O O O O
+7341,Vláda vydala nařízení o otevřených datech platné od 1 . ledna 2017 .,O O O O O O O O O O O O O
+1351,"Japonce zneklidnily informace z médií , kde se mluví v souvislosti s novou českou vládou i o setrvání ČR v EU .",B-PER O O O O O O O O O O O O O O O O O B-LOC O B-ORG O
+10942,Zaměstnanci protestují proti pomalému pokroku jednání o pracovních smlouvách .,O O O O O O O O O O
+6181,Havel to dělával .,B-PER O O O
+1232,""" Manžel odsouzené křesťanky se údajně se živí jako nádeník .",O O O O O O O O O O O
+6196,"Odborníci tvrdí , že je obtížné provést přímé srovnání účinnosti jednotlivých vakcín , protože není jasné , jak různé farmaceutické firmy účinnost svých vakcín měří .",O O O O O O O O O O O O O O O O O O O O O O O O O O
+12260,Ve volební den D v USA vám přinášíme poslední průzkumy a posléze i průběžné výsledky sčítání hlasů ve všech padesáti státech Unie .,O O O O O B-LOC O O O O O O O O O O O O O O O B-ORG O
+5597,"Není to čtení příliš optimistické , vězte ale , že mohlo být mnohem hůř nepodařit se covidové vakcíny .",O O O O O O O O O O O O O O O O O O O
+6252,V Jihočeském kraji by podle něj měla vzniknout v každém okresním městě .,O B-LOC I-LOC O O O O O O O O O O
+963,V roce 2010 za to byla odsouzena k trestu smrti .,O O O O O O O O O O O
+12,"Ale co se týče Asii Bibiové , takový příkaz nepřišel , “ dodal .",O O O O B-PER I-PER O O O O O O O O
+2076,"Tvrdí , že pro takový krok by Mayová měla podporu napříč jednotlivými stranami .",O O O O O O O B-PER O O O O O O
+7030,"„ U mě covid začínal vždy tím , že mě hrozně bolela hlava , probudilo mě to v noci .",O O O B-EVT O O O O O O O O O O O O O O O O
+7770,"„ Dobrá lekce pro Sofii , "" uvedl Puškov na svém twitterovém účtu .",O O O O B-LOC O O O B-PER O O O O O
+6584,Účinná vakcína proti koronaviru na dobré cestě ?,O O O B-EVT O O O O
+6477,"Naše předky právem děsily mor , cholera , dětská obrna , tuberkulóza .",O O O O O O O O O O O O O
+5864,"8 : 30 - Nový typ koronaviru , který způsobuje nemoc covid - 19 , se poprvé objevil loni v prosinci v Číně .",O O O O O O B-EVT O O O O B-EVT I-EVT I-EVT O O O O O O O O B-LOC O
+8377,"Státní tajemník slovenského ministerstva zahraničí Korčok se také vyslovil pro to , aby aby by Evropská unie našla společné východisko ohledně vzájemného obchodu s USA .",O O O O O B-PER O O O O O O O B-ORG I-ORG O O O O O O O B-LOC O
+3405,"Diskuse ale naplno začnou v květnu , na jehož počátku chce Evropská komise přijít s první konkrétní představou unijního financování po roce 2020 .",O O O O O O O O O O O B-ORG I-ORG O O O O O O O O O O O
+3751,"Mayová : Rezignovat nehodlám , chci zdárně dokončit brexit",B-PER O O O O O O O B-EVT
+4705,"„ Jsem trošku znepokojen , protože předpokladem plodných diskusí musí být , že Británie přijme důsledky své volby , “ řekl médiím vysoce postavený diplomat pod podmínkou zachování anonymity .",O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O
+869,Údajně byla převezena do ochranné vazby na utajeném místě .,O O O O O O O O O O
+10862,"Zároveň je problém i omezená kapacita úložných prostorů v kabině , kam se zavazadla musejí vejít .",O O O O O O O O O O O O O O O O O
+3374,Na ní se však prakticky ještě nezačalo pracovat .,O O O O O O O O O
+845,"Soud nestanovil datum , kdy se bude žádostí zabývat , ale její projednávání může propuštění Bibiové dále oddálit .",O O O O O O O O O O O O O O O B-PER O O O
+1360,"„ Zatímco brexit bude pro Británii znamenat podle vládní zprávy ' jen ' zpomalení ekonomického růstu proti situaci setrvání v EU , czexit by byl pro Česko ekonomickou sebevraždou . “",O O B-EVT O O B-LOC O O O O O O O O O O O O O O B-ORG O B-EVT O O O B-LOC O O O O
+10792,"Spolu s našimi představiteli pilotů doporučujeme ji přijmout , “ uvedla odborová organizace Forsa ve svém prohlášení .",O O O O O O O O O O O O O B-ORG O O O O
+2985,Ostatních sedmadvacet členských zemí přitom netrpělivě čeká na konečné slovo Londýna .,O O O O O O O O O O B-LOC O
+6288,Covidová statistika jsou jen čísla .,O O O O O O
+8848,"Nicméně jen málo lidí se domnívá , že to přinese zisk , poznamenal autor .",O O O O O O O O O O O O O O O
+7068,"Končící ministr zdravotnictví Roman Prymula ve sněmovně vyslovil názor , který musel diplomaty z čínské ambasády v Praze a jejich spojence na Pražském hradě rozpálit do běla ( čínská reakce je tady ) .",O O O B-PER I-PER O O O O O O O O O O O O B-LOC O O O O B-LOC I-LOC O O O O O O O O O O
+8450,Welt : Trump nemůže zastavit „ Nord Stream 2 “ !,B-PRO O B-PER O O O B-PRO I-PRO I-PRO O O
+9750,Stávkující v pátek protestovali na letištích s plakáty s nápisem „ Ryanair se musí změnit “ .,O O O O O O O O O O O B-ORG O O O O O
+5288,"Není ale jasné , jestli jsou důvodem omezené výrobní kapacity , anebo úřady , které očkování lidí za pomoci látky , jejíž bezpečnost zatím není zcela prokázaná , stále vyhodnocují .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+3431,Stalo se tohle strůjcům brexitu ?,O O O O B-EVT O
+9756,Německý odborový svaz pilotů VC však již varoval před dalšími akcemi .,B-ORG I-ORG I-ORG I-ORG B-ORG O O O O O O O
+12299,Úřady v Pensylvánii žádají zamítnutí Trumpovy žaloby na volby .,O O B-LOC O O B-PER O O O O
+10376,"Ryanair v poslední době kvůli neshodám kolem uzavírání kolektivních smluv čelil stávkám pilotů ve Španělsku , Portugalsku , Belgii a Irsku .",B-ORG O O O O O O O O O O O O O B-LOC O B-LOC O B-LOC O B-LOC O
+1379,Omezení o 15 procent by uspořilo 60 miliard eur .,O O O O O O O O O O
+2678,"Patří k těm , kteří kvůli brexitu budou žádat o český pas , aby aby by mohli zůstat v EU .",O O O O O O B-EVT O O O O O O O O O O B-ORG O
+8753,"Americký prezident Donald Trump v červenci obvinil Německo , že je zajatcem Ruska kvůli své energetické závislosti a vyzval k zastavení prací na plynovodu Nord Stream 2 , jehož stavbu řídí Rusko .",O O B-PER I-PER O O O B-LOC O O O O B-LOC O O O O O O O O O O O B-PRO I-PRO I-PRO O O O O B-LOC O
+5517,"Přitom by situace mohla být výrazně lepší , protože proti nim na rozdíl od covid - 19 existuje vakcína .",O O O O O O O O O O O O O O B-EVT I-EVT I-EVT O O O
+9693,V Itálii se k protestu hodlají připojit rovněž piloti Ryanairu .,O B-LOC O O O O O O O B-ORG O
+12028,„ Byly to Trumpovy lístky .,O O O B-PER O O
+7993,V rámci projektu „ North Stream - 2 “ předpokládá položení dvou linek s celkovou kapacitou potrubí až 55 miliard krychlových metrů ročně z ruského pobřeží Baltského moře do Německa .,O O O O B-PRO I-PRO I-PRO I-PRO O O O O O O O O O O O O O O O O O O B-LOC I-LOC O B-LOC O
+9757,"Ryanair létá do desítek zemí , včetně České republiky .",B-ORG O O O O O O B-LOC I-LOC O
+11644,"Protest na středu svolaly tři největší odborové svazy v zemi , které žádají rychlejší růst mezd .",O O O O O O O O O O O O O O O O O
+10430,Cestování letadlem v Česku : Dotknou se lidí stávky a chystané změny ?,O O O B-LOC O O O O O O O O O
+8476,"Ostatně , finanční ředitel „ Nord Stream 2 AG “ Paul Corcoran řekl , že na výsledku těchto diskusí nebude už záležet .",O O O O O B-ORG I-ORG I-ORG I-ORG O B-PER I-PER O O O O O O O O O O O
+185,Matku čtyř dětí dnes soud nařídil propustit na svobodu .,O O O O O O O O O O
+5738,"Dal najevo naději , že by v listopadu mohla dostat souhlas k použití i na Blízkém východě .",O O O O O O O O O O O O O O O B-LOC I-LOC O
+2500,"Je logické , že chceme udržet regulační a dohledovou strukturu i způsob , jakým jsou uplatňovaná pravidla , “ vysvětlil Barnier .",O O O O O O O O O O O O O O O O O O O O B-PER O
+7084,"Lidé mohou do práce , ale pouze s potvrzením od zaměstnavatele , že nemohou pracovat z domova .",O O O O O O O O O O O O O O O O O O
+9594,"V Hamburku se zatím čekají jen dva zrušené lety z plánovaných 14 , napsala agentura DPA .",O B-LOC O O O O O O O O O O O O O B-ORG O
+10469,Vlivem nevyužití slotu a nutnosti čekání na dalí volný se banální zdržení o pár minut může změnit na větí zpoždění .,O O O O O O O O O O O O O O O O O O O O O
+821,Zprávu o příjezdu právníka Saifa Mulúka potvrdil agentuře nizozemský spolek,O O O O B-PER I-PER O O O O
+6080,"Ruský ministr zdravotnictví Michail Murako v sobotu oznámil , že v rámci programu masové vakcinace proti koronaviru se už v Rusku nechalo očkovat více než 800 tisíc obyvatel .",O O O B-PER I-PER O O O O O O O O O O O B-EVT O O O B-LOC O O O O O O O O
+8018,"Třebaže USA tvrdí , že je to věcí vztahu Evropy a Ukrajiny , vytvářejí tlak na země EU vyhrůžkou na „ sankční rizika “ pro firmy , které spolupracují s Ruskem v energetické oblasti a zároveń hovoří o nebezpečnosti plynovodu pro energetickou bezpečnost EU .",O B-LOC O O O O O O O B-LOC O B-LOC O O O O O B-ORG O O O O O O O O O O O O B-LOC O O O O O O O O O O O O B-ORG O
+183,Pákistánský soud osvobodil křesťanku odsouzenou za rouhačství,O O O O O O O
+6588,"Testů se účastnilo kolem 1077 lidí , ukázalo se , že po očkování se v jejich krvi vytvořily protilátky a bílé krvinky schopné bojovat s koronavirem .",O O O O O O O O O O O O O O O O O O O O O O O O O B-EVT O
+2704,"Diskuse ale naplno začnou v květnu , na jehož počátku chce Evropská komise přijít s první konkrétní představou unijního financování po roce 2020 .",O O O O O O O O O O O B-ORG I-ORG O O O O O O O O O O O
+8782,„ Zkapalněný zemní plyn z USA míří do Německa .,O O O O O B-LOC O O B-LOC O
+7468,""" Dodržování práva je v první řadě povinností výrobců automobilů .",O O O O O O O O O O O
+7701,Vladimir Putin prominul bulharskému premiérovi Bojku Borisovovi jeho zradu .,B-PER I-PER O O O B-PER I-PER O O O
+2135,Na začátku každého roku si společně s kolegy v realitní kanceláři Agence Eleonor stanovují roční prodejní cíle .,O O O O O O O O O O O B-ORG I-ORG O O O O O
+2160,"Chystá se "" měkký "" brexit .",O O O O O B-EVT O
+6539,Dění kolem šíření nemoci sledujeme na Blesk .,O O O O O O B-PRO I-PRO
+6195,Srovnání těchto vakcín přinesl web Jaká je účinnost vakcín ?,O O O O O O O O O O
+11951,"Volby byly zmanipulované , nepřiznávám nic , stojí si za svým Trump",O O O O O O O O O O O B-PER
+1504,"Verhofstadt dodal , že "" miliony občanů unie "" se budou obávat , že k nim vláda v Londýně bude přistupovat stejným způsobem .",B-PER O O O O O O O O O O O O O O O O O B-LOC O O O O O
+6740,"Isoprinosine je k sehnání asi v 70 zemích světa , může ho předepsat každý obvodní lékař zákazníka vyjde asi na 480 korun včetně doplatku .",B-PRO O O O O O O O O O O O O O O O O O O O O O O O O
+4437,"Platit pak začne až po konci roku 2020 , kdy podle dohody skončí následné přechodné období .",O O O O O O O O O O O O O O O O O
+11658,"Agentura AFP uvedla , že v Gentu byli při blokádách zraněni dva odboráři při srážce s autem , police řidiče vozu zadržela .",O B-ORG O O O O B-LOC O O O O O O O O O O O O O O O O
+458,"Její manžel Ašik Masíh , který se v říjnu vrátil s dětmi z Británie , aby aby by mohl ženu přivítat , nyní ve videovzkazu prohlásil , že se bojí o život své rodiny .",O O B-PER I-PER O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O
+1138,Svoboda ( KDU - ČSL ) : Aktéři petice pro udělení milosti Asii Bibi spojují síly,B-PER O B-ORG I-ORG I-ORG O O O O O O O B-PER I-PER O O
+6117,"Dá se předpokládat , že v té době už bude pandemie zdolána .",O O O O O O O O O O O O O
+6420,Irsko ale komplikace do budoucna očekává .,B-LOC O O O O O O
+8001,"Podle jejího názoru může včasné zastavení projektu "" Nord Stream - 2 "" pomoci investicím do alternativních zdrojů plynu v EU .",O O O O O O O O B-PRO I-PRO I-PRO I-PRO O O O O O O O O B-ORG O
+2618,"Přijatý návrh brexitového zákona se oficiálně stane zákonem v nadcházejících týdnech , až získá souhlas královny Alžběty II . , což je považováno za formalitu .",O O O O O O O O O O O O O O O O B-PER I-PER I-PER O O O O O O O
+9320,"Podle zástupce ministerstva zahraničí pracují společnosti , jejichž činnost souvisí s ruským energetickým odvětvím , „ na vlastní nebezpečí a riziko "" „ Dali jsme jasně najevo , že společnosti pracující v oblasti ruského vývozu energie prostřednictvím potrubí jsou zapojeny do podnikání , které spadá pod sankční rizika , "" řekla mluvčí ministerstva zahraničí USA .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-ORG I-ORG I-ORG O
+8498,Dánsko myslí na Evropu .,B-LOC O O B-LOC O
+1064,"Zajímavé je , jak kancléřka před místními reflektovala svou politiku z roku 2015 .",O O O O O O O O O O O O O O
+11344,Oznámily to dnes odborové svazy SITCPLA a USO .,O O O O O B-ORG O B-ORG O
+1472,"Ještě ve čtvrtek odpoledne neměli zástupci EU z Londýna potvrzené , zda britská strana plánuje dopředu nabídnout svou vlastní pozici k počínajícím jednáním .",O O O O O O B-ORG O B-LOC O O O O O O O O O O O O O O O
+2034,Budoucí osud dodatku zatím není jistý .,O O O O O O O
+4358,"Po intenzivním , několikadenním jednání se dospělo ke shodě , prohlásil včera na společné tiskové konferenci s britským vyjednavačem Davidem Davisem šéf unijního vyjednávacího týmu Michel Barnier .",O O O O O O O O O O O O O O O O O O O B-PER I-PER O O O O B-PER I-PER O
+4360,Mayová pod palbou kritiky kvůli novým podmínkám brexitu .,B-PER O O O O O O B-EVT O
+469,Verdikt zvedl vlnu protestů .,O O O O O
+1279,Úřadující šéf strany Šafík Amíní dnes soud před vynesením verdiktu znovu varoval před výrokem ve prospěch Bibiové .,O O O B-PER I-PER O O O O O O O O O O O B-PER O
+11158,[ 1 ],O O O
+11195,"Ryanair je proto ideální pro kratší výlet po Evropě , přestože zavedl nový poplatek 5 EUR za velké příruční zavazadlo .",B-ORG O O O O O O O B-LOC O O O O O O O O O O O O
+3090,"To znamená , že Evropané , kteří na ostrovy odjedou pracovat před koncem roku 2020 , budou moci v zemi následně zůstat neomezeně dlouhou dobu , pokud neporuší existující pravidla .",O O O O B-PER O O O O O O O O O O O O O O O O O O O O O O O O O O
+12595,USA : Volební podvod ?,B-LOC O O O O
+9472,"„ Dánsko nemůže legálně zabránit výstavbě plynovodu Nord Stream - 2 , ale Dánsko může výstavbu zbrzdit , “ odpověděl dánský premiér na otázku , zda Dánsko může odepřít povolení k výstavbě plynovodu Nord Stream - 2 .",O B-LOC O O O O O B-PRO I-PRO I-PRO I-PRO O O B-LOC O O O O O O O O O O O O B-LOC O O O O O O B-PRO I-PRO I-PRO I-PRO O
+6587,"Jejich vakcína je nejen bezpečná pro lidi , ale dokáže prý „ vycvičit “ imunitní systém , aby aby by byl schopný vzdorovat novému koronaviru , který způsobuje nemoc covid - 19 , uvedla stanice BBC .",O O O O O O O O O O O O O O O O O O O O O O B-EVT O O O O B-EVT I-EVT I-EVT O O O B-PRO O
+9707,"V Německu v noci na čtvrtek skončila 24 hodinová stávka pilotů a palubního personálu aerolinek Ryanair za vyšší platy a lepší pracovní podmínky , která si vyžádala zrušení 150 z plánovaných 400 středečních letů Ryanairu z Německa a do Německa .",O B-LOC O O O O O O O O O O O O O B-ORG O O O O O O O O O O O O O O O O O O B-ORG O B-LOC O O B-LOC O
+11471,Nedařilo se mu však s řadou z nich uzavřít dohody o pracovních podmínkách .,O O O O O O O O O O O O O O
+4374,"Nicméně zbytek Dolní sněmovny by s placením kauce před obchodní dohodou neměl problémy a na otázku , zda tedy tomu tak skutečně bude , odpověděla britská vláda , že "" Ano "" .",O O B-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+3210,Macron a Mayová na brexitové tapiserii,B-PER O B-PER O O O
+6065,Poměr pozitivně testovaných stoupá už od 25 . prosince .,O O O O O O O O O O
+6842,Konec příběhu .,O O O
+6822,"Využívá , podobně jako řada jiných testovaných přípravků , oslabený lidský adenovirus , který dopraví látku do buněk , ale sám se pak už v těle nemnoží .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+5931,"Pokud se při očkování podaří z dodaných ampulí odebrat šest dávek místo původně zvažovaných pěti , počet se podle Babiše navýši o 1 , 6 milionu .",O O O O O O O O O O O O O O O O O O O B-PER O O O O O O O
+86,"V květnu 2011 , jen pár měsíců po zabití guvernéra Tasíra , zastřelili ozbrojenci pákistánského ministra pro náboženské menšiny Šáhbáze Bhattího , jenž byl tehdy jediným křesťanem ve vládě .",O O O O O O O O O O B-PER O O O O O O O O B-PER I-PER O O O O O O O O O
+6521,"Nejsme na tom jako v březnu , kdy k nám Češi významně importovali covid - 19 ze zahraničí , když se vraceli ze zimní dovolené zejména v Itálii .",O O O O O O O O O O B-PER O O B-EVT I-EVT I-EVT O O O O O O O O O O O B-LOC O
+2613,Souhlas lordů po neúspěchu provést změny se podle médií očekával .,O O O O O O O O O O O
+5980,"V Rusku přibylo 24.150 infikovaných , na Ukrajině 4576 .",O B-LOC O O O O O B-LOC O O
+11129,Pro letiště byly klíčové,O O O O
+12320,Zapomeňte !,O O
+2353,"Britské strany ale dříve přislíbily respektovat rozhodnutí voličů z předloňského referenda , které těsnou většinou o odchodu z EU rozhodlo .",O O O O O O O O O O O O O O O O O O B-ORG O O
+1267,Budou muslimové zuřit ?,O O O O
+2619,Proevropsky orientovaná Sněmovna lordů v minulosti schválila několik dodatků k zákonu o brexitu .,O O B-ORG I-ORG O O O O O O O O B-EVT O
+421,"Přes svého manžela pospala stralivé podmínky , ve kterých musela strávit dlouhé roky .",O O O O O O O O O O O O O O
+6813,Všechny údaje by podle ruské strany měly být dostupné pro experty z celého světa do poloviny srpna .,O O O O O O O O O O O O O O O O O O
+10996,"„ Vyhrožovat zaměstnancům , kteří užívají svého práva , je naprosto skandální , “ řekl agentuře DPA viceprezident VC Markus Wahl .",O O O O O O O O O O O O O O O O B-ORG O B-ORG B-PER I-PER O
+2668,"Ministr zahraničí Boris Johnson , jedna z hlavních tváří zastánců odchodu z EU , v příspěvku v bulvárním listu The Sun napsal , že by Mayová měla zajistit „ úplný britský brexit “ a nikoli takový , který by připomínal toaletní papír , tedy „ měkký , poddajný a zdánlivě nekonečně dlouhý “ .",O O B-PER I-PER O O O O O O O O B-ORG O O O O O O B-PRO I-PRO O O O O B-PER O O O O O B-EVT O O O O O O O O O O O O O O O O O O O O O O
+8199,Putin si však nechal zadní vrátka .,B-PER O O O O O O
+8298,"Evropské firmy , které se na plynovodu podílejí , se snaží ve Washingtonu lobbovat za projekt , v němž většinový podíl drží ruská firma Gazprom .",O O O O O O O O O O O O B-LOC O O O O O O O O O O O B-ORG O
+3001,Britský ministr pro brexit : Česko i Evropa se dál mohou na Brity spolehnout,O O O B-EVT O B-LOC O B-LOC O O O O B-PER O
+8637,Podle komentátorů Trumpova kritika souvisela mimo jiné se snahou USA prodávat do Evropy více svého zkapalněného plynu .,O O B-PER O O O O O O B-LOC O O B-LOC O O O O O
+10990,Další stávky .,O O O
+11976,Pro Spojené státy to bude velký trapas .,O B-LOC I-LOC O O O O O
+9013,"Speciálně upravené lodě pokládají trubky jak u východoněmeckých břehů poblíž města Greifswald , tak ve finských vodách .",O O O O O O O O O O O B-LOC O O O O O O
+2156,Do té doby bude země součástí unijního vnitřního trhu i celní unie .,O O O O O O O O O O O O O
+6061,Testů bylo v pátek nejméně od začátku prosince .,O O O O O O O O O
+8944,Budovaný plynovod spojí Německo s Ruskem po dně Baltického moře .,O O O B-LOC O B-LOC O O B-LOC I-LOC O
+11382,I v dalším průběhu dne se ale mohou vyskytnout zpoždění .,O O O O O O O O O O O
+8836,"Existuje jen málo témat , které by stejně výrazně sjednotily politiky , analytiky a média ve středovýchodní Evropě jako plynovod Nord Stream II .",O O O O O O O O O O O O O O O O O B-LOC O O B-PRO I-PRO I-PRO O
+8272,"Diplomatka také poznamenala , že Kongres dal vládě USA právo uvalovat sankce v souvislosti s ruskými projekty na výstavbu produktovodů , pokud do bude nezbytné .",O O O O O B-ORG O O B-LOC O O O O O O O O O O O O O O O O O
+5593,"Zatím se spíše bojuje o pozice , vliv a z toho vyplývající benefity .",O O O O O O O O O O O O O O
+6668,""" Vyzkoušeli jsme různé nemocnice .",O O O O O O
+1586,"Jedině "" vystavují EU k posměchu "" a vůbec nereagují na návrhy francouzského prezidenta Emmanuela Macrona na posílení Evropy .",O O O B-ORG O O O O O O O O O O B-PER I-PER O O B-LOC O
+12633,"Bude mi to chybět , ale tohle je bezpečnější , “ říká tato volička v hlavním městě Washingtonu .",O O O O O O O O O O O O O O O O O B-LOC O
+5354,"V té chvále poněkud zanikl fakt , že Vojtěch chce svým odchodem „ vytvořit prostor pro nové řešení epidemie koronaviru , který nás bude ještě nějaký čas provázet “ .",O O O O O O O O B-PER O O O O O O O O O O B-EVT O O O O O O O O O O
+11534,"Odboráři od časného rána blokují některé podniky , na fotkách na sociálních sítích jsou vidět i zátarasy z nákupních vozíků u obchodních center .",O O O O O O O O O O O O O O O O O O O O O O O O
+12359,"Zatímco Donald Trump pořádá politický mítink venku a počítá s účastí tisíců lidí , kteří mnohdy nedodržují rozestupy a někteří z nich nemají roušky , Joe Biden se rozhodl pro takzvaný „ drive - in “ .",O B-PER I-PER O O O O O O O O O O O O O O O O O O O O O O B-PER I-PER O O O O O O O O O O
+381,"Saif Mulúk uvedl , že svou klientku ale může nadále zastupovat .",B-PER I-PER O O O O O O O O O O
+11782,Nově zvolený prezident Spojených států amerických Joe Biden s budoucí první dámou USA Jill Bidenovou Zdroj : AP,O O O B-LOC I-LOC I-LOC B-PER I-PER O O O O B-LOC B-PER I-PER O O B-ORG
+454,"Osvobození křesťanky Asii Bibiové vyvolalo v Pákistánu vlnu demonstrací , na kterých se dav dožaduje veřejného oběšení ženy i soudce |",O O B-PER I-PER O O B-LOC O O O O O O O O O O O O O O
+10277,"IAG také uvedla , že stávky zvýšily výdaje na pohonné hmoty , protože aerolinky musely volit delší trasy , aby aby by obletěly území Francie .",B-ORG O O O O O O O O O O O O O O O O O O O O O B-LOC O
+12623,"Ty proběhnou 3 . listopadu , do pátku už ale odevzdalo svůj hlas přes 22 milionů Američanů .",O O O O O O O O O O O O O O O O B-PER O
+5104,"Vyplývá to z návrhu očkovací strategie , kterou zveřejnilo na svém webu ministerstvo zdravotnictví .",O O O O O O O O O O O O O O O
+10065,V Německu má základny na 19 letištích .,O B-LOC O O O O O O
+12182,Ti volí jenom volitele ( electors ) – zástupce svého státu v tzv . kolegiu volitelů ( electoral college ) .,O O O O O O O O O O O O O O B-ORG I-ORG O B-ORG I-ORG O O
+10691,Protestují proti pomalému postupu rozhovorů o pracovních podmínkách .,O O O O O O O O O
+12600,Trump vs . Hillary ?,B-PER O O B-PER O
+1317,"Asia Bibiová byla zatčena v roce 2009 po hádce s muslimskými ženami , které následně tvrdily , že urazila proroka .",B-PER I-PER O O O O O O O O O O O O O O O O O O O
+10931,Začít má 12 . září ve 3.01 .,O O O O O O O O
+2420,""" My jsme spokojeni s vyjednáváním týmu pana Barniera .",O O O O O O O O B-PER O
+7307,cz Brusel - Evropská komise schválila americké softwarové společnosti Microsoft záměr koupit za 26 miliard dolarů ( 655 miliard Kč ) internetovou sociální síť LinkedIn .,O B-LOC O B-ORG I-ORG O O O O B-ORG O O O O O O O O O O O O O O B-ORG O
+5200,"V téměř 58 milionové Jihoafrické republice se nákaza koronavirem podle vládních statistik prokázala u více než 650.000 lidí , což je výrazně méně , než předpokládají autoři studie .",O O O O B-LOC I-LOC O O B-EVT O O O O O O O O O O O O O O O O O O O O
+5383,Během pěti let inkasovala od farmaceutických firem 117 milionů korun .,O O O O O O O O O O O
+9145,Tillerson přislíbil Polsku americkou podporu proti Rusku při své dvoudenní návštěvě Polska .,B-PER O B-LOC O O O B-LOC O O O O B-LOC O
+5227,"Odhady říkají , že neodhalených případů proti těm odhaleným je násobně víc .",O O O O O O O O O O O O O
+11638,"Druhé největší letiště Charleroi , z něhož působí irská nízkonákladová společnost Ryanair , bude zcela uzavřeno , vypočítala agentura AFP .",O O B-LOC I-LOC O O O O O O O B-ORG O O O O O O O B-ORG O
+1133,"Kromě popravy Bibiové žádali účastníci protestů i smrt trojice soudců , kteří křesťanku osvobodili .",O O B-PER O O O O O O O O O O O O
+9452,"Finsko si ale jako podmínku klade , že plynovod musí zohlednit ekologické nároky regionu , a neznemožnit , aby aby by v oblasti v budoucnu vznikaly případné další infrastrukturní projekty .",B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+10011,"Pokud by se její nejnovější odhad potvrdil , šlo by ve srovnání s loňským rekordním rokem , kdy Ryanair vykázal zisk po zdanění 1 , 45 miliardy eur , o pokles zisku o 17 až 24 procent .",O O O O O O O O O O O O O O O O O O B-ORG O O O O O O O O O O O O O O O O O O O
+2382,"Mnoho času jí už ale nezbývá , podmínky si musí vyjednat do letošního října , aby aby by ji parlamenty členských zemí stihly ratifikovat .",O O O O O O O O O O O O O O O O O O O O O O O
+5640,"Dalí možností je , že jeho imunitní reakce při první nákaze zhorila průběh té druhé .",O O O O O O O O O O O O O O O O
+9091,Jak by měl Západ na Trumpovo odstoupení od smlouvy reagovat ?,O O O O O B-PER O O O O O
+11544,Belgii ve středu ochromí generální stávka .,B-LOC O O O O O O
+2187,"Pokud by však strana Svoboda a přímá demokracie czexit skutečně spočítala , byla by patrně první .",O O O O B-ORG I-ORG I-ORG I-ORG B-EVT O O O O O O O O
+4341,"Premiérka na začátku své řeči v Londýně poděkovala všem , kdo v Británii nyní zasažené sněhovou bouří Emma pomáhají ostatním .",O O O O O O B-LOC O O O O O B-LOC O O O O B-EVT O O O
+11270,Dopravce Ryanair nakupuje nové letouny Boeing 737 MAX .,O B-ORG O O O B-PRO I-PRO I-PRO O
+6222,"Liberecký hejtman na to upozornil v otevřeném dopise , který je adresovaný starostům obcí v kraji .",O O O O O O O O O O O O O O O O O
+5237,"Pokud se tedy ministrem zdravotnictví stává muž s takovým slovníkem , situace je zřejmě opravdu vážná .",O O O O O O O O O O O O O O O O O
+7634,"Předseda představenstva Wintershall Dea : Nord Stream 2 je dobrý , správný a důležitý pro Evropu",O O B-ORG I-ORG O B-PRO I-PRO I-PRO O O O O O O O B-LOC
+12411,"Stane se prezidentem nejsilnější země světa znovu Donald Trump , nebo přijde politická změna v podobě Joea Bidena ?",O O O O O O O B-PER I-PER O O O O O O O B-PER I-PER O
+10641,Foto : Yves Herman | Zdroj : Reuters .,O O B-PER I-PER O O O B-ORG O
+5642,"Mikrobiolog z britské University of East Anglia Paul Hunter označil závěry studie nákazy 25 letého Američana za velmi znepokojující , zejména proto , že se nakazil dvakrát za velmi krátkou dobu .",O O O B-ORG I-ORG I-ORG I-ORG B-PER I-PER O O O O O O B-PER O O O O O O O O O O O O O O O O
+4407,Cukrárnu si ve 13 tisícovém městě Strabane otevřel loni a daří se mu .,O O O O O O B-LOC O O O O O O O
+8746,„ Rusko nerespektuje mezinárodní právo .,O B-LOC O O O O
+9001,Firmy mohou odpovědět na polské výhrady do 25 . května .,O O O O O O O O O O O
+6694,""" Když dostane člověk chřipku , tak mu to oslabí lokální obranyschopnost dýchacích cest a tím pádem se koronaviru otevře dálnice přímo do plic , “ upozornil vedoucí epidemiologické skupiny ministerstva zdravotnictví Rastislav Maďar .",O O O O O O O O O O O O O O O O O O B-EVT O O O O O O O O O O O O O B-PER I-PER O
+7378,Díky tomu by mělo výrazně zlevnit mezinárodní volání .,O O O O O O O O O
+5445,Nárůst počtu nemocných v sobotu zpomalil .,O O O O O O O
+10116,"Pro původní halu , která již neodpovídala současných standardům pro letištní přepravu , provozovatel letiště teprve hledá využití .",O O O O O O O O O O O O O O O O O O O
+12339,Trumpovi jich připadá zatím výrazně méně .,B-PER O O O O O O
+4246,"„ Labouristé budou usilovat o vyjednání nové komplexní celní unie mezi Británií a EU , “ prohlásil Corbyn při projevu ve městě Coventry .",O B-PER O O O O O O O O O B-LOC O B-ORG O O O B-PER O O O O B-LOC O
+12371,"Demokraté na druhou stranu vystoupili jako strana , která tohle dokázala nějakým způsobem reflektovat a nabídnout řešení .",B-PER O O O O O O O O O O O O O O O O O
+10102,Aerolinky kvůli tomu přichází zhruba o 25 milionů eur za každý den stávky .,O O O O O O O O O O O O O O
+8040,"Finská vláda dnes schválila stavbu plynovodu Nord Stream 2 , jenž má přivádět zemní plyn z Ruska do Německa po dně Baltského moře .",O O O O O O B-PRO I-PRO I-PRO O O O O O O O B-LOC O B-LOC O O B-LOC I-LOC O
+1160,Vy sám jste křesťan .,O O O O O
+12624,"Pro srovnání , v roce 2016 odvolilo ve stejné době šest milionů lidí .",O O O O O O O O O O O O O O
+5440,"Deníky La Vanguardia a El Mundo s odvoláním na své zdroje uvedly , že vedení regionu výzvu vyslyšelo a zpřísnění opatření chystá .",O B-PRO I-PRO O B-PRO I-PRO O O O O O O O O O O O O O O O O O
+7318,Firma se ale potýká s negativními dopady poklesu prodeje osobních počítačů .,O O O O O O O O O O O O
+2949,"Když Estonsko v červenci převzalo předsednictví v Radě EU , nedělali jsme si žádné iluze o tom , že bychom snad během šesti měsíců jako mávnutím kouzelného proutku dokázali vyřešit všechny problémy EU .",O B-LOC O O O O O B-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O O O B-ORG O
+5432,"Dokonce jsme viděli několik úmrtí u transplantovaných dětí , u kterých se ale na stavu podílely i další viry .",O O O O O O O O O O O O O O O O O O O O
+6144,"Ničivé požáry v Austrálii , velké změny v USA .",O O O B-LOC O O O O B-LOC O
+6838,Budu upřímný … nikdo to nikdy nedokázal udělat .,O O O O O O O O O
+7316,"Microsoft očekává , že akvizice přinese nové příležitosti jak pro LinkedIn , tak i pro Microsoft , například pro jeho kancelářský software Office .",B-ORG O O O O O O O O O B-ORG O O O O B-ORG O O O O O O O O
+3870,"Unijní vyjednavač Michel Barnier k jednání o tomto přechodném období potřebuje dodatečný mandát a směrnice , kterou tento týden probírali diplomaté je pro něj podkladem .",O O B-PER I-PER O O O O O O O O O O O O O O O O O O O O O O
+12616,"Trump tajně nařídil před volbami označit korespondenční hlasy kryptografickým vodoznakem na bázi technologie Blockchain , která umí zachovávat a ukládat nezfalšovatelné informace o distribuci lístků .",B-PER O O O O O O O O O O O O B-PRO O O O O O O O O O O O O
+5420,"Buď nákazu velký počet lidí prodělá , druhý faktor je vakcinace , "" řekl ministr .",O O O O O O O O O O O O O O O O
+9878,Ryanair čeká v pátek další stávka personálu .,B-ORG O O O O O O O
+9718,Celý den chtějí stávkovat letušky a stevardi v pěti evropských zemích kvůli lepším pracovním podmínkám .,O O O O O O O O O O O O O O O O
+7724,"Mimo jiné kvůli množství bočních projektů , které jsou s ním spojené .",O O O O O O O O O O O O O
+5520,"Lze totiž očekávat , že jakmile se obě choroby zkombinují s koronavirem , pro lidský organismus to bude velká zátěž .",O O O O O O O O O O O B-EVT O O O O O O O O O
+1693,Britský ministr zahraničí a zastánce brexitu Boris Johnson kritizuje přístup britské vlády k jednání o odchodu z unie .,O O O O O B-EVT B-PER I-PER O O O O O O O O O O O
+12314,Jako poslední uzavřela své volební místnosti Aljaška .,O O O O O O B-LOC O
+8629,"Zároveň odmítl vydat i předběžné opatření , o které ekologové žádali .",O O O O O O O O O O O O
+3143,"Podle něj by v ekonomické oblasti "" krátkodobě převážily náklady "" , z dlouhodobého hlediska by záleželo , jakým směrem se bude ubírat sama unie .",O O O O O O O O O O O O O O O O O O O O O O O O O O
+5250,Ten Prymulu zprvu podporoval .,O B-PER O O O
+11134,"Podle mluvčí letiště Márie Ministrové se letiště snaží vyjednat , aby aby by firma omezila jen některé spoje .",O O O B-PER I-PER O O O O O O O O O O O O
+7042,"Profesor Yean Kwok - yung , který vede tým infekčních chorob , izoloval virus z jednoho z nakažených pacientů .",O B-PER I-PER I-PER I-PER O O O O O O O O O O O O O O O
+1365,"Podle Hospodářské komory by potenciální czexit zhoršil přístup českým exportérům na trhy a zkomplikoval mezinárodní obchodní i politické vazby , na kterých je malá , otevřená ekonomika jako ČR zcela závislá .",O B-ORG I-ORG O O B-EVT O O O O O O O O O O O O O O O O O O O O O O B-LOC O O O
+4010,FOTO : Novinky .,O O B-PRO I-PRO
+1113,"Manžel Bibiové Ašik Masíh o víkendu požádal o pomoc Británii , USA a Kanadu .",O B-PER B-PER I-PER O O O O O B-LOC O B-LOC O B-LOC O
+7500,"Celkem bylo k 31 . říjnu vyhlášeno 381 výzev s alokací 421 , 8 mld . Kč ( EU podíl ) , což představuje více než 65 % z celkového objemu prostředků pro programové období 20142020 , o které již mohou uchazeči žádat .",O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O
+1916,"Čas se krátí , vzkázal vyjednavač Barnier do Británie",O O O O O O B-PER O B-LOC
+7485,O vyšetřování hovoří Pavlína Nečásková .,O O O B-PER I-PER O
+10548,Ryanair ruší dalších 250 pátečních letů kvůli stávce v Německu,B-ORG O O O O O O O O B-LOC
+1997,"Nová hlava Bílého domu , Donald Trump , vrátil Spojené státy do období na přelomu devatenáctého a dvacátého století , kdy byl politický , ekonomický a společenský život země určen výrazným individualismem Hlavním cílem ruského prezidenta Vladimira Putina , který se považuje za správce Matky Rusi , j e sbírka ruských zemí , tedy protiklad rozpadu sovětského impéria , pokračuje publikace .",O O B-LOC I-LOC O B-PER I-PER O O B-LOC I-LOC O O O O O O O O O O O O O O O O O O O O O O O O O B-PER I-PER O O O O O O B-LOC I-LOC O O O O O O O O O O O O O O O O
+3543,"Do brexitu zbývá rok , EU 27 a Londýn dál jednají o jeho podobě",O B-EVT O O O B-ORG O O B-LOC O O O O O
+7639,"Předseda představenstva ropné a plynárenské společnosti Mario Mehren ujistil novináře : „ Nord Stream 2 je podle našeho názoru trojitý : dobrý , správný a důležitý pro Evropu “ .",O O O O O O B-PER I-PER O O O O B-PRO I-PRO I-PRO O O O O O O O O O O O O B-LOC O O
+11696,"V porovnání s již fungujícím Ryanair Plus se jedná o v podstatě stejné výhody , až na váhu zavazadla – to ve starším programu může mít až 20 kg .",O O O O O B-PRO I-PRO O O O O O O O O O O O O O O O O O O O O O O O
+3883,""" Máme poštovní známky , které připomínají národní události , "" uvedl ministr .",O O O O O O O O O O O O O O
+9990,"Tři stovky lidí musely ve čtvrtek přenocovat v prostorách letiště , kde jim byla nachystána provizorní lehátka .",O O O O O O O O O O O O O O O O O O
+4327,Britská premiérka chce „ co nejširší a nejhlubší “ dohodu s EU,O O O O O O O O O O O B-ORG
+5539,"Jsou přesvědčeni , že tato opatření škodí české společnosti víc než samotný koronavirus .",O O O O O O O O O O O O B-EVT O
+6586,"Britští vědci z Univerzity v Oxfordu dosáhli prvního velkého úspěchu , který přineslo testování vakcíny na lidech .",O O O B-ORG I-ORG I-ORG O O O O O O O O O O O O
+6374,Enormní expertní nasazení .,O O O O
+11913,"Americký prezident Donald Trump opakovaně tvrdí , že velké využívání distančního hlasování povede k masivním volebním podvodům .",O O B-PER I-PER O O O O O O O O O O O O O O
+7111,"Zpřísnění avizoval ministr zdravotnictví Marek Krajčí , který uvedl , že v nemocnicích nyní umírá každý pátý hospitalizovaný s covid - 19 .",O O O O B-PER I-PER O O O O O O O O O O O O O B-EVT I-EVT I-EVT O
+6538,A Sovinsko ode dneška vrátilo celou ČR na seznam bezpečných zemí .,O B-LOC O O O O B-LOC O O O O O
+236,Rozhodnutí vyvolalo masivní pouliční protesty tvrdých zastánců islámu .,O O O O O O O O O
+6303,Podle ministra Karla Havlíčka ( za ANO ) by o dotaci mohlo projevit zájem mezi 80 000 až 130 000 podnikatelů .,O O B-PER I-PER O O B-ORG O O O O O O O O O O O O O O O
+6046,Nemocnice a vakcinační centra napříč Velkou Británií se plní krabicemi s novou očkovací látkou .,O O O O O B-LOC I-LOC O O O O O O O O
+1911,"Jak deník uvedl , v současné době je toto rozhodnutí nejzřetelnějším náznakem , že internetový gigant podezřívá Rusko , že se angažoval v brexitu ( to je ale docela odvážné tvrzení BI , při vědomí , že byl Facebook několik posledních týdnů pod obrovských tlakem britských činitelů .",O O O O O O O O O O O O O O O O O B-LOC O O O O O B-EVT O O O O O O O O O O O O O O B-ORG O O O O O O O O O
+2771,"Do EU proudí téměř 84 procent našeho exportu , pro Británii je význam EU coby trhu zhruba poloviční .",O B-ORG O O O O O O O O B-LOC O O B-ORG O O O O O
+7141,"Dohoda o partnerství představuje důležitý strategický dokument , podle kterého poběží čerpání evropských prostředků v sedmiletém období 2014 - 2020 .",O O O O O O O O O O O O O O O O O O O O O
+8983,"Berlín tehdy Trumpova slova odmítl a uvedl , že je otevřen diverzifikaci svých energetických zdrojů .",B-LOC O B-PER O O O O O O O O O O O O O
+3267,"Česko bude muset po brexitu více přispívat do unijního rozpočtu , říká ministryně financí Schillerová",B-LOC O O O B-EVT O O O O O O O O O B-PER
+4120,"„ Proto žiju ve Francii , “ uvedl někdejší politik , který bydlí na jihozápadě Francie .",O O O O B-LOC O O O O O O O O O O B-LOC O
+4544,"Pokud by se druhé referendum skutečně konalo , zvítězili by se 44 procenty zastánci setrvání Británie v EU .",O O O O O O O O O O O O O O O B-LOC O B-ORG O
+4662,V krizích by přitom měly být konzultace častější .,O O O O O O O O O
+1089,"Pákistánské úřady mezitím odložily propuštění Bibiové , kterou tento týden nejvyšší soud zprostil viny .",O O O O O B-PER O O O O O O O O O
+2849,"Ještě minulý týden , kdy se chystala zveřejnit , jak její kabinet hodlá postupovat v otázce hranice mezi Severním Irskem a Irskem , se šířily zvěsti , že klíčový státní tajemník pro brexit David Davis hrozí demisí .",O O O O O O O O O O O O O O O O O O B-LOC I-LOC O B-LOC O O O O O O O O O O B-EVT B-PER I-PER O O O
+4702,"| foto : Reuters Ani další tři dny rozhovorů o odchodu Británie z Evropské unie tento týden nepřinesly posun v některých klíčových bodech , mezi než patří i režim na irské hranici .",O O O B-ORG O O O O O O O B-LOC O B-ORG I-ORG O O O O O O O O O O O O O O O O O O
+1584,Informoval o tom britský deník The Independent .,O O O O O B-PRO I-PRO O
+8641,"Německý ústavní soud se sídlem v Karlsruhe zamítl ústavní stížnost ekologické organizace Svaz na ochranu přírody Německa ( NABU ) , která chtěla docílit zastavení výstavby plynovodu Nord Stream 2 .",B-ORG I-ORG I-ORG O O O B-LOC O O O O O B-ORG I-ORG I-ORG I-ORG I-ORG O B-ORG O O O O O O O O B-PRO I-PRO I-PRO O
+6618,"Jak se vám , coby odborníkovi na cestovní medicínu , jeví možnost elektronického průkazu , že nejsme nemocní ?",O O O O O O O O O O O O O O O O O O O
+3909,Londýn -,B-LOC O
+11581,"Naproti tomu se německá společnost TUI fly rozhodla zajistit své pravidelné lety z a do Bruselu , avšak tím , že je přeloží na nejbližší francouzská a nizozemská letiště .",O O O O O B-ORG I-ORG O O O O O O O O B-LOC O O O O O O O O O O O O O O
+8123,"Vyplývá to z otevřeného dopisu Sdružení pro ochranu přírody v Německu ( NABU ) a Světového fondu pro přírodu ( WWF ) předsedkyni CDU Angele Merkelové , předsedovi CSU Horstu Seehoferovi a předsedovi SPD Martinu Schulzovi .",O O O O O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG O B-ORG O O B-ORG I-ORG I-ORG I-ORG O B-ORG O O B-ORG B-PER I-PER O O B-ORG B-PER I-PER O O B-ORG B-PER I-PER O
+10945,Od té doby se mu však nepodařilo s řadou z nich uzavřít dohody o pracovních podmínkách .,O O O O O O O O O O O O O O O O O
+7654,"Skandinávci rovněž slibují , že ke spolupráci přilákají řadu ruských subdodavatelů .",B-PER O O O O O O O O O O O
+7767,"Vlivný ruský senátor Alexej Puškov Bulharsku připomněl , že hrubou bulharskou chybou byla likvidace projektu „ South Stream “ v roce 2014 .",O O O B-PER I-PER B-LOC O O O O O O O O O O B-PRO I-PRO O O O O O
+2305,"„ My máme rozhodnout o tom , zdali rozhodnutí , které ovlivní celé další generace , je pro naši zemi dobré , nebo ne , “ říká server .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2817,""" Proč by měl Nissan pokračovat v investicích na severovýchodě ( Anglie ) , když má továrnu ve Španělsku , kde může vyrábět stejné auto bez desetiprocentního cla ? "" dodává .",O O O O B-ORG O O O O O O B-LOC O O O O O O B-LOC O O O O O O O O O O O O O
+4895,"Navíc je možné , že některé komunity již kolektivní imunitu mají .",O O O O O O O O O O O O
+12194,"Pokusím se totiž vysvětlit nejen ono magické číslo 270 – svatý grál amerických prezidentských voleb , ale i samotnou podstatu sboru volitelů a průběh prezidentských voleb , a to , jak jistě uznáte nějakou chvíli zabere .",O O O O O O O O O O O O B-EVT I-EVT I-EVT O O O O O B-ORG I-ORG O O O O O O O O O O O O O O O
+6834,Chci pryč z této cesty … jsem za pravdu .,O O O O O O O O O O
+8653,V Německu začala příprava na pokládku plynovodu Nord Stream 2,O B-LOC O O O O O B-PRO I-PRO I-PRO
+6427,"Věra Jourová odpověděla : "" Já pevně doufám , že Unii čeká celkové ozdravení , nejenom co se týče stavu zdraví občanů v rámci koronakrize , ale zejména ozdravení ekonomiky .",B-PER I-PER O O O O O O O O B-ORG O O O O O O O O O O O O O O O O O O O O
+3012,"Chtějí mít jasno o tom , jak přesně bude vypadat dohoda o budoucích vztazích se zbytkem EU .",O O O O O O O O O O O O O O O O B-ORG O
+11998,Proti výsledkům se postavil Texas a další státy,O O O O B-LOC O O O
+6430,Ministerstvo představí očkovací strategii a změny PSA,O O O O O O B-PRO
+9216,"Kterou cestou by přesně plynovod do Maďarska vedl , zatím není známo .",O O O O O O B-LOC O O O O O O
+964,Rozhodnutí o propuštění Bibiové vyvolalo demonstrace radikálních muslimů po celém Pákistánu .,O O O B-PER O O O O O O B-LOC O
+5989,"V Moskvě , která je koronavirovou infekcí nejvíc postiženým regionem Ruska , se od pondělí rozšíří možnost vakcinace pro další kategorii lidí .",O B-LOC O O O B-EVT I-EVT O O O B-LOC O O O O O O O O O O O O
+6576,Většina očkovaných Izraelců nenahlásila žádné problémy .,O O B-PER O O O O
+4346,"Británie uvedla , že do října chce mít základ obchodní dohody , parlamentní výbor pro brexit ve své zprávě ale varuje , že tento termín bude těžké dodržet .",B-LOC O O O O O O O O O O O B-ORG I-ORG I-ORG I-ORG O O O O O O O O O O O O O
+10484,""" Nikde v Evropě nebyly dohodnuty žádné kolektivní smlouvy a při několika příležitostech se znovu ukázal nepřátelský vztah Ryanairu k jeho zaměstnancům , naposledy při zastrašování irských pilotů , když využili svého práva na stávku , "" uvedl odborový svaz švédských pilotů .",O O O B-LOC O O O O O O O O O O O O O O B-ORG O O O O O O O O O O O O O O O O O O O O O O O O
+7734,Fek upozorňuje také na bývalého Putinova spolužáka a advokáta Nikolaje Jegorova .,B-PER O O O O B-PER O O O B-PER I-PER O
+2814,"Odtržení od evropského trhu by mohlo znamenat , že rušení pracovních míst a zpomalování produkce v britských automobilkách v posledních měsících je pouhou předehrou k hromadnému uzavírání výroby .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+6304,"Nejpozději 15 . ledna bude podle něj hotová výzva k programu a bude spuštěn příjem žádostí , řekl na tiskové konferenci po jednání vlády .",O O O O O O O O O O O O O O O O O O O O O O O O O
+11320,"„ My nemáme rádi noční pohyby letadel kvůli hluku , který způsobují .",O O O O O O O O O O O O O
+1701,"Britský ministr zahraničí podotkl , že americký prezident by v tomto směru odvedl lepší práci než britský kabinet .",O O O O O O O O O O O O O O O O O O O
+12556,"Dillonová ve středu uvedla , že očekává Bidenovo vítězství právě v klíčových státech Michigan , Wisconsin a Pensylvánie .",I-PER O O O O O O B-PER O O O O O B-LOC O B-LOC O B-LOC O
+6845,Výrobci nejsou pod žádným rizikem .,O O O O O O
+4819,"Skončily vánoční prázdniny , které ministerstvo školství poněkud prodloužilo , takže byly dvoutýdenní , ale protože během nich začal platit pátý stupeň opatření , mohou do lavic usednout pouze prváci , druháci , žáci speciálních škol a ještě několik dalších výjimek .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1196,To je nejrychlejí právní cesta k jejímu osvobození .,O O O O O O O O O
+3675,"Britská strana si tak podle sedmadvacítky nebude moci z pravidel jednotného unijního trhu ´vyzobávat ´ jen to , co by se jí líbilo .",O O O O O O O O O O O O O O O O O O O O O O O O
+396,Všichni pak chtěli okamžitě odletět z Pákistánu .,O O O O O O B-LOC O
+2755,""" Myslím , že je neuvěřitelně rozumné tvrdit , že AIQ sehrála velmi významnou roli ve vítězství Leave , "" řekl Wylie a poukázal na údajnou spolupráci firem Cambridge Analytica a AggregateIQ .",O O O O O O O O O O B-ORG O O O O O O B-ORG O O O B-PER O O O O O O B-ORG I-ORG O B-ORG O
+12473,"Získal o 11 milionů více hlasů než v roce 2016 , což je třetí největší nárůst podpory pro úřadujícího prezidenta .",O O O O O O O O O O O O O O O O O O O O O
+9830,"Dnes firma uvedla , že se uskuteční více než 2150 z původně naplánovaných 2400 letů .",O O O O O O O O O O O O O O O O
+2115,""" Smlouvy přestávají být pro dotyčný stát použitelné dnem vstupu dohody o vystoupení v platnost , nebo , nedojde - li k tomu , dva roky po oznámení podle odstavce 2 , nerozhodne - li Evropská rada jednomyslně po dohodě s dotyčným členským státem o prodloužení této lhůty , "" píše se v Lisabonské smlouvě doslova .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-ORG I-ORG O O O O O O O O O O O O O O O O B-PRO I-PRO O O
+3120,"Celkem se za sledovaných 12 měsíců do Británie přistěhovalo 220.000 občanů EU , opačným směrem se vydalo 130.000 osob , což je podle BBC nejvyšší číslo za poslední desetiletí .",O O O O O O O B-LOC O O O B-ORG O O O O O O O O O O O B-PRO O O O O O O
+12200,V Georgii podpořil republikánské kandidáty,O B-LOC O O O
+6743,"„ Buď to byl zázrak , nebo se potvrzuje , že lék opravdu dokáže výrazně nastartovat imunitu , tedy zvýšit počet takzvaných NK buněk ( zkratka z Natural Killers ) , které s virem umějí bojovat , “ sdělil serveru Beran .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PER O
+556,"Jeden z místních duchovních , který v roce 2009 obvinil Bibiovou z rouhání , se již minulý týden obrátil na nejvyšší soud s žádostí , aby aby by osvobozující verdikt zvrátil .",O O O O O O O O O O B-PER O O O O O O O O O O O O O O O O O O O
+4286,"Novinářům řekl , že plně sdílí pohled šéfa Evropské rady Donalda Tuska , který nejnovější nápady Londýna už v pátek označil za něco , co je zcela postaveno na iluzích .",O O O O O O O O B-ORG I-ORG B-PER I-PER O O O O B-LOC O O O O O O O O O O O O O O
+10778,""" Kdo je zodpovědný - svaz pilotů , nebo Ryanair ?",O O O O O O O O O B-ORG O
+3491,Premiérka Mayová i vůdce labouristů Jeremy Corbyn jednotný trh odmítají .,O B-PER O O B-PER B-PER I-PER O O O O
+9036,"Takový růst by však vyžadoval , aby aby by Gazprom postavil nové plynovody o kapacitě 163 mld . kubíků .",O O O O O O O B-ORG O O O O O O O O O O
+1010,Policie kvůli chystaným demonstracím rovněž preventivně zřídila bezpečnostní stanoviště na důležité silnici spojující Islámábád s posádkovým městem Rávalpindí .,O O O O O O O O O O O O O B-LOC O O O B-LOC O
+10957,Ohlášená stávka za vyšší platy a lepší pracovní podmínky začala na 12 německých letištích v noci na dnešek a skončit by měla ve čtvrtek ve 2 : 59 SELČ .,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+10329,Každý osmý let Ryanairu ve středu a čtvrtek neodletí .,O O O B-ORG O O O O O O
+4261,"„ My musíme lidem říct , jaký smysl má být v Evropské unii .",O O O O O O O O O O O B-ORG I-ORG O
+4337,Mayová zmínila například oblasti léčiv nebo chemického či leteckého průmyslu .,B-PER O O O O O O O O O O
+2144,"Jejich cílem je obdržet ve Francii povolení k pobytu do 29 . března příštího roku , kdy Británie opouští unii .",O O O O O B-LOC O O O O O O O O O O O B-LOC O O O
+5042,Podle Světové zdravotnické organizace ( WHO ) jde zatím o nejslibnější očkovací látku .,O B-ORG I-ORG I-ORG O B-ORG O O O O O O O O
+3963,"Bývalý premiér ve svém textu zároveň vyzval současného předsedu Labouristické strany Jeremyho Corbyna , aby aby by společně se svým seskupením proti "" brexitu "" bojoval .",O O O O O O O O O B-ORG I-ORG B-PER I-PER O O O O O O O O B-EVT O O O
+10412,"Loni v prosinci se Ryanairu podařilo odvrátit rozsáhlé stávky , když se poprvé ve 32 leté historii rozhodl uznat odborové svazy .",O O O O B-ORG O O O O O O O O O O O O O O O O O
+11353,Nedařilo se mu však s řadou z nich uzavřít dohody o pracovních podmínkách .,O O O O O O O O O O O O O O
+10854,Podle aerolinek můžou za zpoždění letů,O O O O O O
+2986,Chtějí ho slyšet ještě před nadcházejícím březnovým summitem unie .,O O O O O O O O O O
+12562,"Biden už vede v Nevadě , Georgii i Pensylvánii a jeho náskok tam roste .",B-PER O O O B-LOC O B-LOC O B-LOC O O O O O O
+11227,K rušeným spojům patří i ty na trase Praha - Oslo .,O O O O O O O O B-LOC O B-LOC O
+942,"Protesty skončily až poté , co pákistánské úřady slíbily , že propuštění Bibiové odloží a nedovolí jí opustit zemi .",O O O O O O O O O O O O B-PER O O O O O O O
+1572,"Opoziční labouristé vyzvali , aby aby by se Spojené království po brexitu stalo členem celní unie s EU za nově vyjednaných podmínek .",O B-PER O O O O B-LOC I-LOC O B-EVT O O O O O B-ORG O O O O O
+9871,"Oborový index Stoxx Europe 600 dopoledne ztrácel 0 , 9 procenta , napsal list Financial Times .",O O B-PRO I-PRO I-PRO O O O O O O O O O B-PRO I-PRO O
+7288,"Je určen také manažerům , kteří uvedené služby prodávají a řídí a bezpečnostním specialistům , kteří bezpečnostní služby nakupují v soukromém i státním sektoru .",O O O O O O O O O O O O O O O O O O O O O O O O O
+962,"Muslimky později tvrdily , že Bibiová při tom urážela proroka Mohameda .",O O O O O B-PER O O O O B-PER O
+762,"Kromě toho jsme soudcům připomněli , že policejní velitel v Ittanwali , nedaleko místa , kde k činu došlo , nepodnikl dostatečná šetření , aby aby by si obvinění ověřil , “ říká advokát odsouzené .",O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O
+3418,"Nový ministr vnitra Sajid Javid slíbil , že systém imigračních pravidel bude humánnější a bude brát ohled nejen na úřední dokumenty .",O O O B-PER I-PER O O O O O O O O O O O O O O O O O
+393,Spor kvůli kbelíku .,O O O O
+11029,"Pohrozila , že pokud budou stávky pokračovat , přistoupí k ruení některých základen a pracovních míst .",O O O O O O O O O O O O O O O O O
+12566,"Pokud by ji s jejími dvaceti voliteli ovládl , měl by už jisté křeslo v Bílém domě nehledě na výsledky v dalších nerozhodnutých státech .",O O O O O O O O O O O O O O O B-LOC I-LOC O O O O O O O O
+7306,Evropská komise Microsoftu schválila převzetí sítě LinkedIn | České Noviny .,B-ORG I-ORG B-ORG O O O B-ORG O O O O
+1885,"Z nich 46 míst zůstane po brexitu prázdných a zbylých 27 křesel obsadí noví europoslanci ze zemí , které současné rozdělení mandátů znevýhodňuje .",O O O O O O B-EVT O O O O O O O B-PER O O O O O O O O O
+9644,Irský dopravce čelí kritice odborů napříč Evropou .,O O O O O O B-LOC O
+4565,"( ČTK , zr )",O B-ORG O O O
+6511,"Deklaruje , že i ty nejlepší expertizy se ale často mýlí , nezřídka máme problém předvídat nejpravděpodobnější vývoj a co je horší , dochází k událostem , s nimiž vůbec nepočítáme , které si nikdo nepředstavil , jak ostatně ukazuje stávající pandemie .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+6851,Vůbec ne !,O O O
+11475,Předloni přepravil zhruba 130 milionů cestujících .,O O O O O O O
+2373,"„ I když obchodníci budou vynakládat veškeré úsilí tyto náklady mírnit , očekáváme , že budou nuceni ceny v obchodech prostě zvýšit .",O O O O O O O O O O O O O O O O O O O O O O O
+5317,"V ní už tři roky fungovalo česko - čínské centrum , které pacientům nabízelo třeba akupunkturu či ušní terapii .",O O O O O O O O O O O O O O O O O O O O
+12418,"Před koncem ostře sledovaného klání má navrch Biden , který si v celonárodních průzkumech udržuje zhruba devítiprocentní vedení .",O O O O O O O B-PER O O O O O O O O O O O
+10823,Zvláště v Polsku a dalších zemích středoevropského regionu .,O O B-LOC O O O O O O
+8393,"Vysíláme Rusku signál , jak jsme v našich strategiích krátkozrací , “ prohlásil předminulý týden slovenský prezident Andrej Kiska .",O B-LOC O O O O O O O O O O O O O O O B-PER I-PER O
+11503,"Akce tří velkých odborových ústředen - socialistické FGTB , křesťanskodemokratické CSC a liberální CGSLB - se má dotknout všech sektorů , jak veřejných , tak i soukromých , a to v celé zemi .",O O O O O O O B-ORG O O B-ORG O O B-ORG O O O O O O O O O O O O O O O O O O O O
+9996,Itálii ochromila stávka řidičů .,B-LOC O O O O
+6121,Tentokrát to ale bude mít mnohem složitější .,O O O O O O O O
+1876,""" Pokud by voliči věděli o spojení mezi Banksem a Ruskem , jsem si jistá , že by i tak učinili stejné rozhodnutí , "" uzavřela Oakeshottová .",O O O O O O O O B-PER O B-LOC O O O O O O O O O O O O O O O B-PER O
+1896,"Cokoli , co podkope úsilí vlády , ztíží jednání s EU , "" řekl mluvčí Mayové .",O O O O O O O O O O B-ORG O O O O B-PER O
+10219,"Jak v pondělí oznámil odborový svaz SNPVAC , stávka se uskuteční ve dnech 29 . března a 1 . a 4 . dubna .",O O O O O O B-ORG O O O O O O O O O O O O O O O O O
+5366,"Šok tak zažívají lidé , veřejné finance i ministerstvo zdravotnictví .",O O O O O O O O O O O
+315,Bibiová rouhání vždy odmítala .,B-PER O O O O
+2685,"Přiznává , že sledovat , jak se výsledky referenda kloní k odchodu , pro ni bylo strašným zážitkem : „ Sledovala jsem výsledky celou noc .",O O O O O O O O O O O O O O O O O O O O O O O O O O
+4201,Během kampaně ale bojoval za setrvání Spojeného království v unii .,O O O O O O B-LOC I-LOC O O O
+2173,"Předpokládám , že by se vrátil do svého rodiště , do Tokia .",O O O O O O O O O O O B-LOC O
+906,Pákistánský premiér Imran Chán přitom ve středečním večerním televizním projevu vyzýval obyvatele ke klidu a k respektování rozhodnutí soudu .,O O B-PER I-PER O O O O O O O O O O O O O O O O
+8562,"Převážná většina respondentů ( 84 % ) však nesouhlasí s tvrzením prezidenta USA Donalda Trumpa , že Německo je plně zásobováno plynem ze strany Ruska .",O O O O O O O O O O O O B-LOC B-PER I-PER O O B-LOC O O O O O O B-LOC O
+10497,"Aerolinky kvůli protestu zrušily zhruba 400 z 2400 plánovaných letů , což se dotýká asi 55 tisíc cestujících .",O O O O O O O O O O O O O O O O O O O
+11979,Do souboje o Bílý dům zbývají dva dny .,O O O B-LOC I-LOC O O O O
+10834,Snižování nákladů na práci paradoxně generuje další výdaje .,O O O O O O O O O
+11116,"Přinejmenším jeden letoun společnosti Ryanair musel kvůli doplnění paliva neplánovaně přistát ve španělském Santiagu de Compostela , uvedla agentura Reuters s odvoláním na letové dispečery .",O O O O B-ORG O O O O O O O O B-LOC I-LOC I-LOC O O O B-ORG O O O O O O
+8543,"Sama podle svých slov jako občanka Německé demokratické republiky ( NDR ) zažila , jaké to bylo , když byla část země pod kontrolou Sovětského svazu .",O O O O O O B-LOC I-LOC I-LOC O B-LOC O O O O O O O O O O O O O B-LOC I-LOC O
+1945,Kde chce vzít EU peníze po brexitu ?,O O O B-ORG O O B-EVT O
+9868,"Irská nízkonákladová letecká společnost Ryanair snížila prognózu letošního zisku o 12 procent na 1 , 1 až 1 , 2 miliardy eur ( asi 28 , 3 až 30 , 9 miliardy korun ) .",O O O O B-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+8646,Proti plynovodu Nord Stream 2 dlouhodobě protestují některé státy střední a východní Evropy včetně Polska či Ukrajiny .,O O B-PRO I-PRO I-PRO O O O O B-LOC O B-LOC I-LOC O B-LOC O B-LOC O
+8660,Pokládka potrubí má začít v srpnu .,O O O O O O O
+9624,"Loni v prosinci Ryanair dokázal odvrátit rozsáhlé stávky , když se poprvé ve své 32 leté historii rozhodl uznat odborové svazy .",O O O B-ORG O O O O O O O O O O O O O O O O O O
+11466,Další stávky naplánované na čtvrtek a neděli zatím platí .,O O O O O O O O O O
+1537,Evropským firmám se otevřou nové trhy .,O O O O O O O
+6063,"V pátek test postoupilo jen něco málo přes 6 , 5 tisíce lidí .",O O O O O O O O O O O O O O
+369,Pákistánský nejvyí soud ji ale tento týden zprostil viny .,B-ORG I-ORG I-ORG O O O O O O O
+10831,"Zaměstnanců je nedostatek , chybí zvláště piloti , takže je třeba je dobře zaplatit .",O O O O O O O O O O O O O O O
+11312,I české vlaky jsou dochvilnější než letadla .,O O O O O O O O
+4509,Ekonom Petr Král žije s rodinou v Roudnici nad Labem .,O B-PER I-PER O O O O B-LOC I-LOC I-LOC O
+2222,Do Spojeného království míří každý rok víc než polovina irského exportu masa .,O B-LOC I-LOC O O O O O O O O O O
+9942,"Ryanair čelí kritice , že valnou část personálu ve všech zemích zaměstnává jen podle irského pracovního práva , což je pro zaměstnance nevýhodné , protože jim neumožňuje čerpat sociální dávky .",B-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+2371,Brexit přinese náklady spotřebitelům .,B-EVT O O O O
+516,"Demonstranti požadovali , aby aby by žena byla veřejně oběšena , a domáhali se rovněž trestů smrti pro soudce , kteří vyřkli osvobozující verdikt .",O O O O O O O O O O O O O O O O O O O O O O O
+2450,Podle navrženého dodatku měl mít parlament možnost odmítnout brexitovou dohodu vyjednanou vládou a Evropskou unií .,O O O O O O O O B-PRO I-PRO O O O B-ORG I-ORG O
+4666,"Spolupráce v obranné a bezpečnostní oblasti je podle britskou stranou zveřejněného dokumentu významná pro obě strany a Londýn nevylučuje , že by se mohl zapojovat do misí pod hlavičkou společné unijní obranné a bezpečnostní politiky .",O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O
+8670,Pokládka potrubí má začít v srpnu .,O O O O O O O
+10640,Kopírovat do schránky Belgický pilot se účastní stávky letecké společnosti Ryanair |,O O O O O O O O O O B-ORG O
+1311,"Islamistická strana Tehríke Labajk ( TLP ) dokonce žádala smrt předsedy nejvyššího soudu a dalších dvou soudců , kteří trest smrti zvrátili .",O O B-ORG I-ORG O B-ORG O O O O O O O O O O O O O O O O O
+7607,Setkání slovenského premiéra Petera Pellegriniho s Donaldem Trumpem v Bílém doměMarček nikoho nešetřil : Chování Pellegriniho v Bílém domě bylo až nedůstojné a směšné .,O O O B-PER I-PER O B-PER I-PER O O O O O O O B-PER O B-LOC I-LOC O O O O O O
+9763,"Ty mají výrazně vyšší hodnotu než "" jednouličkové "" stroje , typicky Airbusy 320 a Boeingy 737 určené na krátké a střední tratě , a při vhodném nasazení také mnohem víc vydělávají .",O O O O O O O O O O O O B-PRO I-PRO O B-PRO I-PRO O O O O O O O O O O O O O O O O
+918,"Agentura Reuters s odvoláním na tři různé bezpečnostní zdroje napsala , že Bibiová byla bezprostředně po propuštění z vězení letecky transportována na letiště poblíž pákistánského hlavního města Islámábádu .",O B-ORG O O O O O O O O O O B-PER O O O O O O O O O O O O O O B-LOC O
+627,"Tamní pákistánští muslimové by se vzbouřili , šlo by jí o krk",O O O O O O O O O O O O
+4482,"Vláda britské premiérky Theresy Mayové vyhrála dalí klíčová hlasování o dodatcích k zákonu o odchodu země z Evropské unie , jež navrhla horní komora parlamentu či opoziční labouristé .",O O O B-PER I-PER O O O O O O O O O O O O B-ORG I-ORG O O O O O O O O B-PER O
+4018,"V případě dohody s EU pak mělo jít o 6 , 2 procenta a u měkkého brexitu o 3 , 8 procenta .",O O O O B-ORG O O O O O O O O O O O B-EVT O O O O O O
+2044,"Částkou 15 milionů dolarů ji podpořil republikánský miliardář Robert Mercer a jméno jí vybral budoucí , dnes již bývalý poradce Donalda Trumpa Steve Bannon .",O O O O O O O O B-PER I-PER O O O O O O O O O O B-PER I-PER B-PER I-PER O
+4762,"Podrobnosti zveřejní ministerstvo zdravotnictví v úterý , premiér Andrej Babiš ( ANO ) však již o víkendu prozradil některé podrobnosti .",O O O O O O O O B-PER I-PER O B-ORG O O O O O O O O O
+1462,"Tím by Londýn získal přístup na unijní vnitřní trh se zbožím a v praxi by se mu tak podařilo vybrat si z podmínek účasti na jednotném trhu jen to , co je pro Británii výhodné .",O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O
+12219,"Američané vezmou volební lístky , dojdou k urně , odvolí .",B-PER O O O O O O O O O O
+7476,Ekonomika v Evropě Evropská komise falšování měření emisí přehlížela ( ilustrační foto ) Foto : Reuters,O O B-LOC B-ORG I-ORG O O O O O O O O O O B-ORG
+11063,"Kvůli předchozí stávce , jež proběhla 10 . srpna , musela společnost zrušit dokonce 250 německých letů .",O O O O O O O O O O O O O O O O O O
+519,"Advokát Mulúk dohodu nazval "" bolestivou "" .",O B-PER O O O O O O
+12006,"Kdo bude příští čtyři roky vést Spojené státy , zda Donald Trump , nebo Joe Biden , bychom teoreticky měli vědět už ve středu 4 . listopadu v brzkých ranních hodinách středoevropského času .",O O O O O O B-LOC I-LOC O O B-PER I-PER O O B-PER I-PER O O O O O O O O O O O O O O O O O O
+7504,"MPO Evropská komise zahájila veřejné konzultace , jejichž cílem je získat názor nejširšího okruhu subjektů na otázku , jak v EU posílit podnikání .",B-MISC B-ORG I-ORG O O O O O O O O O O O O O O O O O B-LOC O O O
+9004,O měsíc později Gazprom a jeho partneři žádost zaslanou polskému úřadu stáhli .,O O O B-ORG O O O O O O O O O
+3933,""" Za sedm týdnů budeme mít dohodu s Evropskou unií , "" uvedla Mayová v rozhovoru pro BBC s odkazem na jednání o přechodném období , které Britové označují jako období "" implementační "" .",O O O O O O O O B-ORG I-ORG O O O B-PER O O O B-PRO O O O O O O O O O B-PER O O O O O O O
+302,"Pákistánská islamistická strana Tehríke Labajk ( TLP ) , která protesty rozpoutala , nakonec uzavřela dohodu s vládou , podle níž Bibiová nebude smět opustit zemi .",O O O B-ORG I-ORG O B-ORG O O O O O O O O O O O O O O B-PER O O O O O
+4739,UKIP se před několika lety stala za předsedy Farage jednou z nejvýznamnějích politických sil v Británii .,B-ORG O O O O O O O B-PER O O O O O O B-LOC O
+1668,"Dalším faktorem je nejistota , protože lidé nevědí , jaké dokumenty potřebují .",O O O O O O O O O O O O O
+11228,Časově neohraničená stávka pilotů v sobotu vstoupila do druhého dne .,O O O O O O O O O O O
+1816,"Řekl bych , že ta nestabilita na jedné straně byla vyřešena tím , že vznikla vláda , která získala většinu a bude vládnout .",O O O O O O O O O O O O O O O O O O O O O O O O
+2253,Mayová toho docílila mimo jiné několika ústupky vůči proevropským rebelům mezi jejími konzervativci .,B-PER O O O O O O O O O O O B-PER O
+1894,"Při hlasování o některých z nich by se ale na stranu opozice mohla přidat i zhruba desítka rebelů ze strany premiérky Mayové , kteří se staví proti takzvanému tvrdému brexitu .",O O O O O O O O O O O O O O O O O O O O O B-PER O O O O O O O B-EVT O
+5541,"VIDEO : Tato pandemie je duchovní a psychologickou válkou proti lidem Dr . Ben Tapper mluví o tom , jak důsledky pandemických nařízení mají horší dopad než samotná „ pandemie ” .",O O O O O O O O O O O O O B-PER I-PER O O O O O O O O O O O O O O O O O
+9729,Chystáte se na prodloužený víkend ?,O O O O O O
+6970,"Nejvíce nakažených je stále v Praze , během středy tam přibylo 27 nových potvrzených případů , celkem jich je v metropoli 181 , mezi novými pacienty je 25 dospělých a dvě děti .",O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O
+5369,Jedná se o doslovný přepis Jaromír Soukup Live ze dne 22 . 9 . 2020 .,O O O O O B-PER I-PER O O O O O O O O O
+11535,"Agentura AFP uvedla , že v Gentu byli při blokádách zraněni dva odboráři při srážce s autem , police řidiče vozu zadržela .",O B-ORG O O O O B-LOC O O O O O O O O O O O O O O O O
+11851,"Demokrat Joe Biden vystoupil s prohlášením , že už posbíral dost hlasů na to , aby aby by mohl počítat s vítězstvím , republikán Donald Trump ale požaduje zastavení sčítání v Pensylvánii , Michiganu a Georgii .",O B-PER I-PER O O O O O O O O O O O O O O O O O O O B-PER I-PER O O O O O B-LOC O B-LOC O B-LOC O
+3835,"Podle serveru BuzzFeed News to vyplývá z dosud utajované analýzy , kterou vypracovaly britské úřady a kterou server získal .",O O B-PRO I-PRO O O O O O O O O O O O O O O O O
+5594,Výsledkem je současný stav .,O O O O O
+3670,"Během něho budou muset Britové přesto plnit unijní pravidla , ačkoliv již na ně nebudou mít vliv .",O O O O B-PER O O O O O O O O O O O O O
+8336,"Již minulý týden povolilo finské ministerstvo hospodářství , aby aby by zhruba 375 kilometrový úsek plynovodu procházel finskými vodami označovanými jako výhradní ekonomická zóna .",O O O O B-ORG I-ORG I-ORG O O O O O O O O O O O O O O O O
+8741,"„ Nord Stream - 2 je špatný návrh jak z hlediska energetické politiky a ekologie , tak z hlediska bezpečnostní politiky .",O B-PRO I-PRO I-PRO I-PRO O O O O O O O O O O O O O O O O O
+8387,Nejde pouze o politiku .,O O O O O
+5552,"Jenže o nějakém antimalariku tu nebyla vůbec řeč , což nasvědčuje tomu , že Donaldem Trumpem dříve propagovaný hydroxychlorochin při léčbě covid - 19 nebude tím pravým ořechovým .",O O O O O O O O O O O O O O B-PER I-PER O O B-PRO O O B-EVT I-EVT I-EVT O O O O O
+5890,"Ugur Sahin , šéf farmaceutické firmy BioNTech , která se podílela na vývoji první používané vakcíny , se domnívá , že k normálnímu životu se vrátíme .",B-PER I-PER O O O O B-ORG O O O O O O O O O O O O O O O O O O O O
+5790,Prezident v projevu tentokrát „ neoperoval “ žádnými čísly ani počty .,O O O O O O O O O O O O
+1230,"On sám se tomu nediví , protože by manžela mohl potkat stejný osud , jako nedávno křesťanský pár , který byl zaživa upálený více než tisícihlavým davem .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+12382,"K tomu , aby aby by se stal prezidentem , potřebuje kandidát hlasy minimálně 270 volitelů ze 538 .",O O O O O O O O O O O O O O O O O
+11023,"Loni v prosinci Ryanair dokázal odvrátit rozsáhlé stávky , když se poprvé ve své 32 leté historii rozhodl uznat odborové svazy .",O O O B-ORG O O O O O O O O O O O O O O O O O O
+10737,Nizozemští piloti Ryanairu se mohou zapojit do páteční stávky,O O B-ORG O O O O O O
+9068,Německo považuje Nord Stream 2 kvůli očekávané rostoucí spotřebě plynu jako užitečný,B-LOC O B-PRO I-PRO I-PRO O O O O O O O
+4343,Britská premiérka Theresa Mayová oficiálně oznámila Bruselu úmysl své země odejít z EU loni 29 . března .,O O B-PER I-PER O O B-LOC O O O O O B-ORG O O O O O
+633,"Jeden z místních duchovních , který v roce 2009 obvinil Bibiovou z rouhání , se již minulý týden obrátil na nejvyšší soud s žádostí , aby aby by osvobozující verdikt zvrátil .",O O O O O O O O O O B-PER O O O O O O O O O O O O O O O O O O O
+3278,Projednají ho unijní státy,O O O O
+6913,"Postupem času lékaři objevují i další , méně obvyklé příznaky spojené s nemocí covid - 19 .",O O O O O O O O O O O O O B-EVT I-EVT I-EVT O
+9356,"Problémem je , že to nebude takové množství jako dnes . . . ukrajinský plynový dopravní systém v podobě , v níž existuje , nebude nutný - může čerpat od 120 do 140 miliard kubických metrů ročně , což nebude zapotřebí .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1139,"Pavel Svoboda , předseda právního výboru Evropského parlamentu , se rozhodl pokračovat v krocích pro osvobození Asii Bibi , pákistánské křesťanky vězněné kvůli místnímu zákonu o rouhání .",B-PER I-PER O O O O B-ORG I-ORG O O O O O O O O B-PER I-PER O O O O O O O O O O
+1831,"V rámci migrační politiky se Italové vždy snažili prosazovat věci , které Evropská unie většinou házela pod stůl , za velkého přispění členských zemí bývalého komunistického bloku .",O O O O O B-PER O O O O O O B-ORG I-ORG O O O O O O O O O O O O O O
+12636,"Velká část zpochybňování voleb z jeho strany stojí na vodě , několik rýsujících se soudních bitev má ale potenciál výsledky ještě zvrátit .",O O O O O O O O O O O O O O O O O O O O O O O
+1205,"Právní zástupce Bibiové uvedl , že jeho klientka byla s těmito ženami ve sporu .",O O B-PER O O O O O O O O O O O O
+3972,""" Čas nejednoznačných vyjádření už vypršel , firmy musí činit investiční a personální rozhodnutí , "" vzkázala premiérce Mayové ve středu Britská obchodní komora , která zastupuje společnosti s celkovými šesti miliony zaměstnanců .",O O O O O O O O O O O O O O O O O O B-PER O O B-ORG I-ORG I-ORG O O O O O O O O O O
+5419,Ta může vzniknout dvojí cestou .,O O O O O O
+1356,Ekonomická sebevražda .,O O O
+4217,"Mayová dnes šéfovi Evropské rady zopakovala to , co uvedla ve středu britským poslancům , tedy , že první verze dohody je nepřijatelná , protože by její uplatnění podkopalo společný britský trh a ústavní celistvost Spojeného království .",B-PER O O B-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC I-LOC O
+6039,"V Rusku přibylo 26.301 infikovaných , na Ukrajině 5038 .",O B-LOC O O O O O B-LOC O O
+6878,"Přitom praktický lékař měl na tuto nemoc podezření , “ potvrdila pro MF DNES mluvčí Krajské hygienické stanice Středočeského kraje Dana Šalamunová .",O O O O O O O O O O O O B-PRO I-PRO O B-ORG I-ORG I-ORG I-ORG I-ORG B-PER I-PER O
+1224,Hodili mě do dodávky jako koš na odpadky .,O O O O O O O O O
+2725,"Evropské hospodářství podle Babiše totiž roste , a tak jedno procento hrubého domácího produktu ( HDP ) unie , které je nyní stropem pro evropský rozpočet , znamená fakticky větší objem peněz .",O O O B-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+5585,To už není jen tupost .,O O O O O O
+562,"Italská katolická asociace ACS , která podporuje nejen Bibiovou , ale všechny perzekvované křesťany na světě , oznámila , že se na ni obrátil s prosbou o pomoc Asiin manžel .",B-ORG I-ORG I-ORG B-ORG O O O O B-PER O O O O O O O O O O O O O O O O O O O B-PER O O
+2471,V referendu v roce 2016 hlasovalo 56 % Severních Irů pro setrvání a 44 % pro opuštění Evropské unie .,O O O O O O O O B-PER I-PER O O O O O O O B-ORG I-ORG O
+8754,"Německo Trumpova slova odmítlo a uvedlo , že je otevřeno diverzifikaci svých energetických zdrojů .",B-LOC B-PER O O O O O O O O O O O O O
+11407,"Berlínská letiště zrušila kvůli stávce desítky letů , bezpečnostní pracovníci požadují vyšší mzdy",O O O O O O O O O O O O O
+1569,"Podle BBC britský kabinet nehodlá měnit názor na setrvání v celní unii , který je u většiny ministrů dlouhodobě odmítavý .",O B-PRO O O O O O O O O O O O O O O O O O O O
+10708,"Stávky se účastní rovněž piloti Ryanairu v Irsku , védsku , Belgii a Nizozemsku .",O O O O O B-ORG O B-LOC O B-LOC O B-LOC O B-LOC O
+7365,Jak se domlouvá smlouva o Transatlantickém obchodním a investičním partnerství ?,O O O O O B-MISC I-MISC I-MISC I-MISC I-MISC O
+5752,Vakcína proti covidu - 19 se prý od jiných vůbec neliší .,O O B-EVT I-EVT I-EVT O O O O O O O
+5286,Americký list The New York,O O B-PRO I-PRO I-PRO
+10663,"Největší dopad má stávka pilotů v Německu , kde bylo zrušeno 250 letů .",O O O O O O B-LOC O O O O O O O
+3471,"V roce 2016 , kdy si Spojené království v referendu odhlasovalo odchod z Evropské unie , již ve Francii podalo žádost o občanství na 1363 Britů .",O O O O O O B-LOC I-LOC O O O O O B-ORG I-ORG O O O B-LOC O O O O O O B-PER O
+8437,"V neděli totiž polský prezident Andrzej Duda na západě Ukrajiny uctil památku polských obětí masakru , který před 75 lety spáchali ukrajinští nacionalisté .",O O O O O B-PER I-PER O O B-LOC O O O O O O O O O O O O O O
+10565,Se zapojením do stávky souhlasí podle svazu Vereinigung Cockpit 96 procent německých pilotů Ryanair .,O O O O O O O B-ORG I-ORG O O O O B-ORG O
+161,"Radikální pákistánský duchovní Chádim Husajn Rizví , který organizoval protesty proti propuštění křesťanky Asie Bibiové odsouzené za rouhačství , byl obviněn z terorismu a podněcování ke vzpouře .",O O O B-PER I-PER I-PER O O O O O O O B-PER I-PER O O O O O O O O O O O O O
+10876,"Ta ale loni poplatky za velká příruční zavazadla naopak zrušila a uvedla , že toto zavazadlo bude zahrnuto v ceně letenky .",O O O O O O O O O O O O O O O O O O O O O O
+3961,"Rok 2018 je poslední možností , abychom aby bychom se vyslovili , jestli naše budoucí vztahy s Evropou budou lepší než ty stávající , "" uvedl Blair v prohlášení na své internetové stránce .",O O O O O O O O O O O O O O O B-LOC O O O O O O O O B-PER O O O O O O O
+3515,Současně by ale měla země volnou ruku v uzavírání obchodních smluv se třetími zeměmi v oblasti služeb .,O O O O O O O O O O O O O O O O O O
+3170,HN : Do jaké míry se může po odchodu Británie z Evropské unie změnit postavení Londýna v globálním finančním byznysu ?,B-PRO O O O O O O O O B-LOC O B-ORG I-ORG O O B-LOC O O O O O
+2070,Myšlence Brexitu jsme naprosto oddáni,O B-EVT O O O
+3174,Za druhé : Londýn má velké výhody .,O O O B-LOC O O O O
+6443,"Výrazněji od té doby vzrostl jen strach z nedostatečné kapacity nemocnic , které se na jaře obávalo jen 30 procent Čechů .",O O O O O O O O O O O O O O O O O O O O B-PER O
+8318,Na jarním zasedání Parlamentního shromáždění NATO ve Varšavě to dnes řekl polský premiér Mateusz Morawiecki .,O O O B-ORG I-ORG I-ORG O B-LOC O O O O O B-PER I-PER O
+1090,"To vyvolalo demonstrace radikálních muslimů po celé zemi , kteří požadovali , aby aby by žena byla veřejně oběšena .",O O O O O O O O O O O O O O O O O O
+6029,S covidem - 19 tam už zemřelo téměř 75.000 lidí .,O B-EVT I-EVT I-EVT O O O O O O O
+3197,"Momentálně se zdá , že nemá dost autority , aby aby by prosadila jasnou vizi toho , jakou podobu by měl mít brexit , což je největší téma britské politiky .",O O O O O O O O O O O O O O O O O O O O B-EVT O O O O O O O O
+7323,"Evropská komise totiž plánuje , že na území států Evropské unie zavede povinnost implementace 19 specifikovaných inteligentních asistenčních systémů ve všech nových automobilech .",B-ORG I-ORG O O O O O O O B-LOC I-LOC O O O O O O O O O O O O O
+12166,"Právě ziskem 20 volitelů z Pensylvánie , které mu podle svých projekcí přisoudila agentura AP a televize CNN a ABC , se Biden dostal nad potřebnou hranici 270 .",O O O O O B-LOC O O O O O O O O B-ORG O O B-PRO O B-PRO O O B-PER O O O O O O
+1157,"Budu požadovat , aby aby by dolo k přehodnocení tohoto rozsudku .",O O O O O O O O O O
+986,"Smlouva pomohla vyřešit situaci a předejít násilí , “ řekl ministr .",O O O O O O O O O O O O
+2416,"Voliči opozičních labouristů si více rozmýšlejí své postoje : devět procent z těch , kteří byli pro odchod , by v unii raději setrvali .",O O B-PER O O O O O O O O O O O O O O O O O O O O O O
+113,Matku čtyř dětí soud nařídil propustit na svobodu .,O O O O O O O O O
+9176,Praha -,B-LOC O
+8810,Jasně proti se nestaví ani Česko .,O O O O O B-LOC O
+5316,Vojtěch ale měsíc po nástupu do čela resortu zařízl Prymulův záměr na výstavbu kliniky čínské medicíny pod střechou Fakultní nemocnice v Hradci Králové .,B-PER O O O O O O O O B-PER O O O O O O O O B-LOC I-LOC I-LOC I-LOC I-LOC O
+10091,Svaz Verdi v Německu zastupuje přibližně tisíc členů posádek Ryanairu .,O B-ORG O B-LOC O O O O O B-ORG O
+3767,Vyjednávači EU a Británie pro brexit Michel Barnier a David Davis se setkají v pondělí v Londýně .,O B-ORG O B-LOC O B-EVT B-PER I-PER O B-PER I-PER O O O O O B-LOC O
+5616,jsou velmi neobvyklé .,O O O O
+400,"V následné slovní přestřelce ženy Bibiovou vyzvaly , aby aby by konvertovala k islámu , načež měla žena třikrát urazit proroka Mohameda .",O O O O O B-PER O O O O O O O O O O O O O B-PER O
+228,Uvedla to agentura AFP s odvoláním na pákistánské úřady .,O O O B-ORG O O O O O O
+12261,"Obhájí Bílý dům republikán Donald Trump , nebo ho v Oválné pracovně vystřídá favorizovaný Joe Biden ?",O B-LOC I-LOC O B-PER I-PER O O O O B-LOC I-LOC O O B-PER I-PER O
+4609,"Věc už byla podle diplomatických informací ČTK částí posledního kola vyjednávání , evropští vyjednavači se k věci ještě hodlají vrátit poté , co se sedmadvacet zemí seznámí právě s nově zveřejněným britským dokumentem , který se spolupráce v této oblasti týká .",O O O O O O B-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+5958,"Prvním na seznamu je Tedros Adhanom Ghebreyesus , etiopský mikrobiolog , imunolog a politik .",O O O O B-PER I-PER I-PER O O O O O O O O
+11915,"Americký prezident Donald Trump ve středu prohlásil , že očekávané masivní využívání korespondenčního hlasování v listopadových prezidentských volbách povede k tolika podvodům , že se kvůli tomu bude muset nejsledovanější hlasování na světě zřejmě opakovat .",O O B-PER I-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+356,To však spustilo silné protesty .,O O O O O O
+5439,Na madridský region připadá třetina nově potvrzených případů infekce v celé zemi .,O B-LOC I-LOC O O O O O O O O O O
+80,"Osobní strážce Mumtáz Kadrí guvernéra zastřelil v lednu 2011 v metropoli Islámábádu , když byl ve službě .",O O B-PER I-PER O O O O O O O B-LOC O O O O O O
+8071,"Polsko se aktivně snaží zablokovat plánovanou stavbu plynovodu Nord Stream 2 , kterou podle Varšavy Německo porušuje princip diverzifikace energetických zdrojů .",B-LOC O O O O O O O B-PRO I-PRO I-PRO O O O O B-LOC O O O O O O
+11555,"Belgické dráhy SNCB hodlají zajistit alespoň minimální službu , ale očekávají , že kvůli protestu nevypraví polovinu vlaků .",O O B-ORG O O O O O O O O O O O O O O O O
+11930,Trump se pokouší o zázrak .,B-PER O O O O O
+2905,Marneová rovněž označila černochy za ošklivé .,B-PER O O O O O O
+8262,Moskva ale aktivní vojenské zapojení v regionu popírá .,B-LOC O O O O O O O O
+10001,"Řidiči se také dohodli s představiteli města , že s protestem začnou až po skončení ranní špičky .",O O O O O O O O O O O O O O O O O O
+9770,"Stávka na největších trzích aerolinek se tak zřejmě stane druhou největší jednodenní stávkou , potom kdy protesty pilotů v pěti zemích v srpnu narušily plány 55 tisícům cestujících , napsala agentura Reuters .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-ORG O
+3498,"Zastánci zachování listiny v britském právu včetně autora v pondělí schváleného dodatku Davida Pannicka argumentují tím , že vláda by mohla odstranění dokumentu využít k oslabení práv občanů .",O O O O O O O O O O O O B-PER I-PER O O O O O O O O O O O O O O O
+9295,"„ Nás prostě žádal , abychom aby bychom byli v této otázce tišší .",O O O O O O O O O O O O
+9017,Alternativ je málo .,O O O O
+2523,Pro britskou premiérku představuje výsledek dnešního hlasování významnou porážku .,O O O O O O O O O O
+3715,Mayová : Celní unii rozhodně nechceme !,B-PER O O O O O O
+7809,Polsko .,B-LOC O
+8513,Zopakoval své známé výhrady vůči příliš nízkým výdajům Berlína a dalších evropských spojenců na obranu .,O O O O O O O O B-LOC O O O O O O O
+2823,"Evropská komise navrhla nový rozpočet , krátí výnosy z emisních povolenek",B-ORG I-ORG O O O O O O O O O
+11121,"Irské nízkonákladové aerolinky Ryanair se loni dostaly mezi deset největších znečišťovatelů ovzduší v Evropě jako první firma , která neprovozuje uhelnou elektrárnu .",O O O B-ORG O O O O O O O O O B-LOC O O O O O O O O O
+6498,Ve skutečnosti tomu tak není .,O O O O O O
+8822,"Ruský vývoz zemního plynu do Evropy vzrostl v roce 2017 o 8 , 1 procenta na rekordních 193 , 9 miliard kubických metrů , přičemž Gazprom má účinný monopol na ruskou síť plynovodů do Evropy a dodává 40 procent evropského plynu .",O O O O O B-LOC O O O O O O O O O O O O O O O O O O O B-ORG O O O O O O O O B-LOC O O O O O O O
+8877,"Němci přišli s návrhem jak zajistit , aby aby by Ukrajina zůstala tranzitní zemí plynu",B-PER O O O O O O O B-LOC O O O O
+3890,Ceny domů v Británii klesly .,O O O B-LOC O O
+8179,Němcům vyčítají mnozí kritici ve střední a východní Evropě jejich podporu chystanému plynovodu Nord Stream 2 .,B-PER O O O O B-LOC O B-LOC I-LOC O O O O B-PRO I-PRO I-PRO O
+8904,"USA byly tradičně a konzistentně proti tomuto plynovodu , protože oslabuje Ukrajinu a do určité míry i Polsko a činí tyto spojence v rámci NATO zranitelnějšími vůči Rusku .",B-LOC O O O O O O O O O O B-LOC O O O O O B-LOC O O O O O O B-ORG O O B-LOC O
+10766,"Irské nízkonákladové aerolinky byly nucené zrušit zhruba 400 z 2400 plánovaných letů , což se dotýká kolem 55.000 cestujících .",O O O O O O O O O O O O O O O O O O O O
+4017,"Podle dřívějších výpočtů měl brexit za 15 let růst Británie zpomalit o 7 , 5 procenta v případě nejtvrdšího scénáře .",O O O O B-EVT O O O O B-LOC O O O O O O O O O O O
+4263,A ty ostatní aspekty a výhody členství v Unii tady nejsou .,O O O O O O O O B-ORG O O O
+5584,"Pseudoodborníci , podvodníci .",O O O O
+9759,"Reálný kapitalismus Luďka Vainerta : Letectví , obor krachům zaslíbený",O O B-PER I-PER O O O O O O
+1330,"Asia Bibiová byla zatčena v roce 2009 po hádce s muslimskými ženami , které následně tvrdily , že urazila proroka .",B-PER I-PER O O O O O O O O O O O O O O O O O O O
+7312,"Zejména slíbil , že výrobci a distributoři osobních počítačů nebudou muset do počítačů s operačním systémem Windows instalovat servis LinkedIn .",O O O O O O O O O O O O O O O O B-MISC O O B-ORG O
+6428,"Jsem velice ráda , že se podařilo schválit rozpočet , který počítá s velice velkorysým plánem obnovy ekonomiky , abychom aby bychom se vrátili zase k nějaké éře hospodářského růstu po poměrně velkém ekonomickém propadu .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+4939,"Logunov na tiskové konferenci prohlásil , že vakcína byla podávána zdravým dobrovolníkům ve věku od 18 do 60 let a nebyly hlášeny žádné závažné vedlejší účinky .",B-PER O O O O O O O O O O O O O O O O O O O O O O O O O O
+7216,číst více Evropská komise se dohodla s provozovateli největších světových sociálních sítí o rušení profilů „ šířících nenávist “ .,O O B-ORG I-ORG O O O O O O O O O O O O O O O O
+4464,"Vůdce britských opozičních labouristů Jeremy Corbyn v pátek vyloučil ze stínové vlády jejího člena , který vyzval k novému referendu o odchodu země z Evropské unie .",O O O B-PER B-PER I-PER O O O O O O O O O O O O O O O O O O B-ORG I-ORG O
+831,Pákistán osvobozenou křesťanku zatím nepropustil .,B-LOC O O O O O
+1298,"BBC dodává , že v posledních letech čelila jejich komunita řadě útoků .",B-PRO O O O O O O O O O O O O
+7816,Velkým zastáncem plynovodu je Rakousko .,O O O O B-LOC O
+11969,"Ale také nechci čekat tři měsíce a pak zjistit , že hlasy úplně chybí a volby nic neznamenají , “ prohlásil republikánský prezident , který usiluje o znovuzvolení .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+9174,"Podle agentury Reuters Perry nedávno uvedl , že Spojené státy by stále mohly uvalit sankce na společnosti , které se podílejí na stavbě plynovodu Nord Stream 2 .",O O B-ORG B-PER O O O O B-LOC I-LOC O O O O O O O O O O O O O O B-PRO I-PRO I-PRO O
+8992,Budovaný plynovod Nord Stream 2 spojí Německo s Ruskem po dně Baltického moře .,O O B-PRO I-PRO I-PRO O B-LOC O B-LOC O O B-LOC I-LOC O
+7741,"Nord Stream 2 dělá Evropu zranitelnější , "" uvedl Mitchell po schůzce se státním tajemníkem ( náměstkem ) slovenského ministerstva zahraničí Ivanem Korčokem .",B-PRO I-PRO I-PRO O B-LOC O O O O B-PER O O O O O O O O O O O B-PER I-PER O
+4538,Británie Evropskou unií opustí 29 . března příštího roku .,B-LOC B-ORG I-ORG O O O O O O O
+2009,cz / ČTK .,O O B-ORG O
+4792,Některé nemocnice jsou na hranici svých možností .,O O O O O O O O
+1598,"Je to záložní plán pro každou situaci ? “ vyjmenoval Barnier na Twitteru otázky , kterými se bude Brusel při prověřování britského návrhu zabývat .",O O O O O O O O O O B-PER O B-PRO O O O O O B-LOC O O O O O O
+4388,"Unijní právo , které má ztratit nadřazenost nad britskými zákony dnem vystoupení Británie z evropského bloku , tímto krokem z britského právního řádu automaticky nemizí .",O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O
+4423,"Republikán , který se loni odmítl setkat s nástupcem britského trůnu princem Charlesem , touží po sjednoceném Irsku a členství v EU .",O O O O O O O O O O O O B-PER O O O O B-LOC O O O B-ORG O
+12626,Vše je jednou poprvé .,O O O O O
+9282,"Viděli jste , že Německo se snaží o zajištění tranzitu plynu přes Ukrajinu .",O O O O B-LOC O O O O O O O B-LOC O
+7471,"Volkswagen loni v září přiznal , že software , který umožňuje manipulovat s testy dusíkových emisí , instaloval po celém světě do zhruba 11 milionů naftových aut .",B-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O
+4389,Parlament si vyhrazuje možnost ho dál přezkoumávat dle potřeb země .,O O O O O O O O O O O
+2828,Brexit : snížení výdajů a navýšení příjmů .,B-EVT O O O O O O O
+10022,"Pokud se prognóza naplní , bude to znamenat pokles o 17 až 24 procent z doposud rekordního zisku v předchozím roce .",O O O O O O O O O O O O O O O O O O O O O O
+7052,Veškerý koronavirus SARS - CoV - 2 na celém světě by se vešel na čajovou lžičku,O O B-EVT I-EVT I-EVT I-EVT I-EVT O O O O O O O O O
+8801,"Je příkladem sobeckých ekonomických zájmů za cenu stability a prosperity v našem nejbližším sousedství , ” upozornil Kiska .",O O O O O O O O O O O O O O O O O B-PER O
+12343,"Americká média už to vnímala jako signál k tomu , že by sám Biden na základě tohoto zlomu mohl oznámit vítězství ve volbách .",O O O O O O O O O O O O O B-PER O O O O O O O O O O
+11210,Aerolinkám hrozil bankrot,O O O
+398,Celý incident začal nevinný spor o kbelík s vodou během sběru ovoce .,O O O O O O O O O O O O O
+6076,S covidem - 19 tam už zemřelo téměř 75 tisíc lidí .,O B-EVT I-EVT I-EVT O O O O O O O O
+4917,"Kontraindikací podle jeho slov není ani to , zda člověk už prodělal covid - 19 .",O O O O O O O O O O O O B-EVT I-EVT I-EVT O
+5226,Je to logické .,O O O O
+11632,"Belgii zasáhla generální stávka , chaos panuje zejména v dopravě",B-LOC O O O O O O O O O
+6977,Středeční údaje nejsou zatím k dispozici .,O O O O O O O
+1013,"Rozhodnutí soudu vyvolalo v Pákistánu demonstrace radikálních muslimů , kteří požadovali , aby aby by žena byla veřejně oběšena .",O O O O B-LOC O O O O O O O O O O O O O
+12222,Je jich 50 různých .,O O O O O
+7582,"„ Musíme vědět , kdo naši hranici překračuje , “ uvedl již dříve .",O O O O O O O O O O O O O O
+10811,Je to třikrát více než za stejné období loni .,O O O O O O O O O O
+6589,"Tyto první závěry testování na lidech jsou více než slibné , ale stále je podle expertů příliš brzo na to , aby aby by mohla být vakcína zpřístupněna široké veřejnosti .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+10261,"Ryanair zveřejnil výsledky před nejhoršími stávkami , jaké firmu dosud zasáhly .",B-ORG O O O O O O O O O O O
+5306,"Společnost podílející se na byznysu kolem vakcín inkasovala ročně za klinické studie od farmaceutických společností desítky milionů korun , jak tehdy upozornil Zdravotnický deník .",O O O O O O O O O O O O O O O O O O O O O O B-PRO I-PRO O
+10798,Své klienty se rozhodl odškodnit formou šeků .,O O O O O O O O
+3749,Skotové už hlasovali o své nezávislosti v referendu v roce 2014 a tehdy jich většina byla pro setrvání Skotska v Británii .,B-PER O O O O O O O O O O O O O O O O O B-LOC O B-LOC O
+12622,Ve Spojených státech je enormní zájem o korespondenční a předčasné hlasování ve volbách .,O B-LOC I-LOC O O O O O O O O O O O
+7264,Evropská komise hodlá omezit některé praktiky Googlu | Computerworld .,B-ORG I-ORG O O O O B-ORG O O O
+5839,"V jedné ze svých posledních várek videí vyvrací například mýty o tom , že virus přivezli do Číny vojáci USA , po Evropě ho rozšiřují vojáci NATO a migranti .",O O O O O O O O O O O O O O O O O B-LOC O B-LOC O O B-LOC O O O B-ORG O O O
+3274,"Když byl na konci ledna v Bruselu český premiér Andrej Babiš , stavěl se k možnosti zvýšit český příspěvek spíše odmítavě .",O O O O O O B-LOC O O B-PER I-PER O O O O O O O O O O O
+4949,"Dodal , že tato fáze se má týkat 40 tisíc lidí a cílem je prověřit bezpečnost a účinnost vakcíny .",O O O O O O O O O O O O O O O O O O O O
+12449,Na svém webu o tom informuje deník The New York Times .,O O O O O O O B-PRO I-PRO I-PRO I-PRO O
+6142,Po debaklu v krajských volbách se bude poroučet i dosavadní místopředsedkyně Jaroslava Pokorná Jermanová .,O O O O O O O O O O O B-PER I-PER I-PER O
+6339,Kuba za zásadní považuje očkování lidí nad 60 let .,B-PER O O O O O O O O O
+6110,Evropská unie se zpožděním 22 . prosince .,B-ORG I-ORG O O O O O O
+9573,Kromě četných výpadků musejí pasažéři Ryanairu počítat také se zpožděními .,O O O O O B-ORG O O O O O
+103,Během telefonického rozhovoru s reportéry agentury AFP reagovala značně překvapeně .,O O O O O O B-ORG O O O O
+5429,"Podařilo se vám na větším počtu případů potvrdit , že to tak skutečně je ?",O O O O O O O O O O O O O O O
+8313,"Proti plynovodu se staví nejen Polsko , ale i pobaltské státy či Ukrajina .",O O O O O B-LOC O O O B-LOC I-LOC O B-LOC O
+281,Urážka Mohameda ?,O B-PER O
+2081,"Zvláště poté , co byl tento nápad zamítnut členy její vlastní komise Brexitu , “ citoval deník The Sunday Telegraph zdroj blízký vládě .",O O O O O O O O O O O O B-EVT O O O O B-PRO I-PRO I-PRO O O O O
+10088,Irská nízkonákladová letecká společnost Ryanair se dohodla s německým odborovým svazem pracovníků ve službách Verdi na pracovních podmínkách a platech pro palubní personál .,O O O O B-ORG O O O O O O O O O B-ORG O O O O O O O O O
+4072,Český premiér v demisi v pondělí absolvoval sérii schůzek v Bruselu .,O O O O O O O O O O B-LOC O
+12645,"Filadelfie ve státě Pennsylvania byla klíčovým místem , kde se mělo rozhodnout o výsledku letošních prezidentských voleb .",B-LOC O O B-LOC O O O O O O O O O O O O O O
+8815,Vzhledem k pochybnostem nad ruským plynovodem do Německa vidí Washington mezeru na trhu .,O O O O O O O B-LOC O B-LOC O O O O
+3218,"Celá myšlenka ovšem zarámovala včerejší Macronovo setkání s Mayovou , při němž se jen málokdo vracel k nepříjemné realitě − tedy k tomu , že se rozvodové rozhovory táhnou a stále chybí shoda na spoustě věcí , například ohledně práv evropských občanů žijících trvale na britských ostrovech .",O O O O O B-PER O O B-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+239,Z místa nepokojů přicházejí záběry zobrazující stovky lidí protestujících proti rozhodnutí soudu .,O O O O O O O O O O O O O
+7659,"Spojení s jedním z uznávaných lídrů v tomto průmyslu k projektu , je důležité , morálně i psychologicky .",O O O O O O O O O O O O O O O O O O O
+7515,Evropská komise obvinila Google ze zneužívání dominantního postavení u Androidu ITBIZ,B-ORG I-ORG O B-ORG O O O O O B-MISC O
+4073,Hovořil i s předsedou Evropské komise Jeanem - Claudem Junckerem .,O O O O B-ORG I-ORG B-PER I-PER I-PER I-PER O
+6766,"Podle odborníků Rusové napřed nejsou , jen proces jednodue zkrátili a urychlili .",O O B-PER O O O O O O O O O O
+5041,"Jacob Serrano ( 23 ) z americké Floridy se stal vůbec prvním Američanem , který byl oočkován experimentální vakcínou proti koronaviru , ta vznikla za spolupráce vědců z Oxfordské univerzity a farmaceutické společnosti AstraZeneca .",B-PER I-PER O O O O O B-LOC O O O O B-PER O O O O O O O B-EVT O O O O O O O B-ORG I-ORG O O O B-ORG O
+2162,A Mayové hrozí předčasné volby,O B-PER O O O
+3176,"Toto "" common law "" , které v rámci EU platí ještě v Irsku , velice dobře podporuje uzavírání finančních transakcí .",O O O O O O O O O B-ORG O O O B-LOC O O O O O O O O
+9543,"Strany se také nemohou dohodnout na zprostředkovateli , který by konflikt vyřešil , jak navrhl Ryanair .",O O O O O O O O O O O O O O O B-ORG O
+10712,Od té doby ale nedokáže s řadou z nich uzavřít kolektivní smlouvy .,O O O O O O O O O O O O O
+7559,"Místopředseda komise pro energetickou unii Maroš Šefčovič upozornil na to , že většina zemí návrh vítá .",O O O O O B-PER I-PER O O O O O O O O O O
+6733,Lék na koronavirus už možná existuje 50 let .,O O B-EVT O O O O O O
+2630,Protest zastánců setrvání Velké Británie v Evropské unii před britským parlamentem ( ilustrační foto ) .,O O O B-LOC I-LOC O B-ORG I-ORG O B-ORG I-ORG O O O O O
+8204,Na jarním zasedání Parlamentního shromáždění NATO ve Varšavě to v pondělí řekl polský premiér Mateusz Morawiecki .,O O O B-ORG I-ORG I-ORG O B-LOC O O O O O O B-PER I-PER O
+1395,Avast loni zvýšil konsolidované výnosy o 91 procent na 653 milionů dolarů .,B-ORG O O O O O O O O O O O O
+10547,Od té doby ale nedokáže s řadou z nich uzavřít smlouvy o pracovních podmínkách .,O O O O O O O O O O O O O O O
+1675,Dále čtěte :,O O O
+7424,Česká republika má mezi příjemci jednoho zástupce .,B-LOC I-LOC O O O O O O
+11176,"„ Pokud se v nejbližší době nepodaří opět poslat boeingy do vzduchu , čeká výrazné omezení letů všechna letiště , ostravské nevyjímaje .",O O O O O O O O O O O O O O O O O O O O O O O
+7075,"Rekordní počty nakažených hlásí na přelomu roku i další země , včetně našich sousedů .",O O O O O O O O O O O O O O O
+7420,"Tag : Evropská komise - Věda a výzkum Evropská komise zveřejnila druhou monitorovací zprávu programu Horizont 2020 , která shrnuje data dostupná k doposud uzavřeným výzvám v letech 2014 a 2015 a poskytuje tak přehled dosavadní implementace programu H 2020 .",O O B-ORG I-ORG O O O O B-ORG I-ORG O O O O O B-MISC I-MISC O O O O O O O O O O O O O O O O O O O O O O O O
+37,"V rámci dohody nebude smět Asia Bibiová opustit zemi , dodal .",O O O O O B-PER I-PER O O O O O
+1477,Britští lordi se postavili proti premiérce Mayové v otázce brexitu,B-PER I-PER O O O O B-PER O O B-EVT
+8574,"Barrasso dlouhodobě podporuje vývoz amerického zkapalněného plynu do Evropy , což je v návrhu i explicitně zmíněno .",B-PER O O O O O O O B-LOC O O O O O O O O O
+6078,Británie na začátku prosince začala očkovat zdravotníky a seniory vakcínou firem Pfizer a BioNTech a v pondělí má začít očkovat další schválenou vakcínou vyvinutou na Oxfordské univerzitě ve spolupráci s firmou AstraZeneca .,B-LOC O O O O O O O O O O B-ORG O B-ORG O O O O O O O O O O O B-ORG I-ORG O O O O B-ORG O
+5207,"Prudký nárůst osob nakažených koronavirem JAR zaznamenala v červenci , kdy denně hlásila 10.000 až 15.000 nových případů .",O O O O B-EVT B-LOC O O O O O O O O O O O O O
+6858,"Mluvíme tedy o vakcíně , kterou 99 , 74 % z nás ani nepotřebuje .",O O O O O O O O O O O O O O O
+8669,"V noci na dnešek u pobřeží zahájila práce technická loď , na jejíž palubě se bude potrubí svářet a následně ukládat na dno .",O O O O O O O O O O O O O O O O O O O O O O O O
+146,"Muž , který ještě před pár týdny patřil mezi pákistánskou právní špičku .",O O O O O O O O O O O O O
+11948,Data federálních voleb jsou v USA upravena federálními zákony a Trump tak nemá pravomoc je odložit .,O O O O O B-LOC O O O O B-PER O O O O O O
+4761,"Po vakcinaci lidí , kteří jsou klíčoví pro péči o ostatní pacienty s covidem - 19 , začne očkování široké veřejnosti .",O O O O O O O O O O O O O B-EVT I-EVT I-EVT O O O O O O
+9976,"Naší prvotní ambicí není stát se jedničkou , ale může to tak dopadnout , “ řekl pro Radiožurnál .",O O O O O O O O O O O O O O O O O B-PRO O
+101,"Nejvyšší soudce Saqib Nisarm během vynesení rozsudku uvedl , že Asia Bibiová může věznici ve městě Sheikhupura nedaleko Láhauru , hlavního města provincie Paňdžáb svobodně opustit , pokud vůči ní není vzneseno další obvinění .",O O B-PER I-PER O O O O O O B-PER I-PER O O O O B-LOC O B-LOC O O O O B-LOC O O O O O O O O O O O
+10883,"Fórsa rovněž uvedla , že zprostředkovatel jednání požádal , aby aby by ani jedna ze stran dohodu dále nekomentovala , dokud hlasování neskončí .",B-ORG O O O O O O O O O O O O O O O O O O O O O
+4623,"Představitelé Británie podle BBC varovali unii , že její přístup k rokováním může poškodit ekonomické a bezpečnostní vztahy .",O B-LOC O B-PRO O O O O O O O O O O O O O O O
+2212,Británie je podle něj důležitá zejména pro české automobilky .,B-LOC O O O O O O O O O
+2478,Předmětem dotazníků byly rovněž i letištní a přístavní kontroly na trasách uvnitř Velké Británie či pohraniční kontroly mezi Irskem a Severním Irskem .,O O O O O O O O O O O O B-LOC I-LOC O O O O B-LOC O B-LOC I-LOC O
+3397,Za členství v Evropské unii si připlatí,O O O B-ORG I-ORG O O
+3306,Paříž se podle něj na vyšetřování podílí .,B-LOC O O O O O O O
+2344,"Ledaže dojde ke změně názoru našich britských přátel , “ pronesl dnes Tusk .",O O O O O O O O O O O O B-PER O
+1892,Ty mají zachovat úzký vztah Británie s EU i po brexitu .,O O O O O B-LOC O B-ORG O O B-EVT O
+7880,Kromě Německa byla výstavba plynovodu schválena pouze Finskem .,O B-LOC O O O O O B-LOC O
+7411,"Komora OZE dále znovu připomíná , že všechny již dříve poskytované podpory obnovitelným zdrojům jsou garantované zákonem , nastaveny legislativou v přiměřené výši a k jejímu omezení může dojít pouze v případě neslučitelnosti s pravidly vnitřního trhu EU , o čemž může rozhodnout pouze Evropská komise .",O B-MISC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O O O B-ORG I-ORG O
+4986,"Člověk , který koronavirus prodělal , by prý mohl být chráněný až deset let .",O O O B-EVT O O O O O O O O O O O
+6590,"Je nutné větší testování , které už momentálně probíhá .",O O O O O O O O O O
+9987,"Pracovníci společnosti Aviapartners , která na Zaventemu zajišťuje pohyb nákladů , stávkují kvůli pracovním podmínkám .",O O B-ORG O O O B-LOC O O O O O O O O O
+8530,"„ Máme vás chránit před Ruskem , ale platíte miliardy dolarů Rusku .",O O O O O B-LOC O O O O O B-LOC O
+8299,"Donald Trump je na domácí scéně pod tlakem kvůli ruskému vměšování do voleb v roce 2016 , proto může být financování ohroženo .",B-PER I-PER O O O O O O O O O O O O O O O O O O O O O
+6755,"Ruská vakcína vznikla příliš rychle a může být nebezpečná , shodují se odborníci",O O O O O O O O O O O O O
+3365,"Diskuse se zatím týkaly pouze přípravy rozvodové “ dohody , jejímiž stěžejními body jsou účet za Brexit , práva občanů EU v Británii po Brexitu a režim na hranici mezi Irskem a Severním Irskem .",O O O O O O O O O O O O O O O O B-EVT O O O B-ORG O B-LOC O B-EVT O O O O O B-LOC O B-LOC I-LOC O
+2997,"I tak by ale nejspíš bylo zapotřebí , aby aby by některá politická strana s požadavkem na nové referendum šla do voleb , vyhrála je a následně byla schopna Brity přesvědčit i v opakovaném referendu .",O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PER O O O O O O
+4081,"Brexit Británii poškodí , ať bude dohoda jakákoli , ukazuje uniklý dokument",B-EVT B-LOC O O O O O O O O O O
+443,Následně byla zadržena policií .,O O O O O
+4749,"Nemocnicím dochází personál , jihlavská žádá o pomoc armádu .",O O O O O O O O O O
+3519,Premiérka nyní čelí tlaku zastánců tvrdého ukončení vztahů s Bruselem ve své Konzervativní straně .,O O O O O O O O O B-LOC O O B-ORG I-ORG O
+4790,V nemocnicích je po neděli o 192 volných postelí méně než po sobotě .,O O O O O O O O O O O O O O
+2888,"V tom případě se ale mezi Evropskou unií a Británií musí zavést hraniční kontroly , protože oba celky už nebudou mít stejné celní tarify .",O O O O O O B-ORG I-ORG O B-LOC O O O O O O O O O O O O O O O
+1570,""" Nebudeme setrvávat nebo se zapojovat do ( nové ) celní unie , "" uvedl zdroj BBC z britské vlády .",O O O O O O O O O O O O O O O O B-PRO O O O O
+8413,""" Je to geopolitický projekt , který má oslabit Ukrajinu , nechat ji bez příjmů z již existujícího transportního systému , "" uvedl ukrajinský prezident .",O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O
+10426,"Jeho ředitel Jan Klas uvedl , že současné kapacity Letiště Václava Havla v Praze - Ruzyni jsou téměř vyčerpány .",O O B-PER I-PER O O O O O B-LOC I-LOC I-LOC O B-LOC I-LOC I-LOC O O O O
+12538,To teď nikdo přesněji neodhadne .,O O O O O O
+7218,"V České republice to má být iniciativa Hate Free ( Nenáviď svobodné ) , spadající pod Agenturu pro pomoc uprchlíkům , spadající pod Dienstbierovo ministerstvo .",O B-LOC I-LOC O O O O B-ORG I-ORG O B-ORG I-ORG O O O O B-ORG I-ORG I-ORG I-ORG O O O B-PER O O
+11643,Belgie musela kvůli generální stávce v noci uzavřít svůj vzdušný prostor .,B-LOC O O O O O O O O O O O
+9228,"Na seznam Myrotvorec ukrajinští nacionalisté zařazují "" nepřátele Ukrajiny "" a podle Welt . de jeho vznik iniciovalo ukrajinské ministerstvo vnitra .",O O B-PRO O O O O O B-LOC O O O B-PRO I-PRO I-PRO O O O B-ORG I-ORG I-ORG O
+8041,"Proti projektu protestuje řada zemí střední a východní Evropy , včetně České republiky .",O O O O O O O B-LOC I-LOC O O B-LOC I-LOC O
+1063,"A hlavně : kde rozhořčení místních lidí vedlo nejenom k demonstracím , ale i k napadání cizinců .",O O O O O O O O O O O O O O O O O O
+9403,"Bývalý německý kancléř Gerhard Schröder zasedá v dozorčí radě ruského ropného koncernu Rosněfť , připomíná server .",O O O B-PER I-PER O O O O O O O B-ORG O O O O
+6250,"Novinářům to dnes řekl jihočeský hejtman a předseda asociace krajů Martin Kuba ( ODS ) , když představoval krajskou strategii pro očkování proti covidu - 19 .",O O O O O O O O B-ORG I-ORG B-PER I-PER O B-ORG O O O O O O O O O B-EVT I-EVT I-EVT O
+6738,"Užívali ho i pacienti v domově seniorů v Litovli , kde se nakazilo více než 60 lidí , píše magazín Forbes .",O O O O O O O O B-LOC O O O O O O O O O O O B-PRO O
+12480,"Trump se už prohlásil za vítěze a řekl , že došlo ke zastavení sčítání hlasů a že jde o podvod .",B-PER O O O O O O O O O O O O O O O O O O O O
+2807,"Na Mayovou tlačí jak zastánci co nejužších budoucích vztahů s EU , tak ti politici , kteří se od unie chtějí co nejvíc "" odstřihnout "" .",O B-PER O O O O O O O O B-ORG O O O O O O O O O O O O O O O O
+5953,"V říjnu mi odložili operaci nohy , a protože jsem absolvoval předoperační vyšetření , lékař mi nedoporučil se zúčastnit posledního natáčecího dne filmu Praga pana Příhody .",O O O O O O O O O O O O O O O O O O O O O O O B-PRO I-PRO I-PRO O
+6312,Prostředky bude podle Havlíčka možné využít na další fixní náklady jako je například splácení leasingů .,O O O B-PER O O O O O O O O O O O O
+11957,My vyhrajeme .,O O O
+2999,"Zatím nic nenasvědčuje tomu , že by se schylovalo k předčasným volbám .",O O O O O O O O O O O O O
+1240,Italský kněz se odkazoval na křesťanku Asiu Bibiovou v souvislosti s pronásledováním křesťanů po celém světě během Vánoc .,O O O O O O B-PER I-PER O O O O O O O O O B-EVT O
+3780,"Britská vláda už konečně spočítala , jak drahý bude pro Brity Brexit .",O O O O O O O O O O B-PER B-EVT O
+5898,"Lék má být určený v první řadě pro lékaře v první linii , kteří se dostávají do přímého styku s nakaženými .",O O O O O O O O O O O O O O O O O O O O O O
+9717,Už příští pátek čeká irské nízkonákladové aerolinky Ryanair další stávka .,O O O O O O O B-ORG O O O
+7782,"Této americké Kubiceho zprávě se ve washingtonském newspeaku říká „ dossier “ , čili řekněme třeba „ složka “ , a každý pochopitelně ví , o jaké „ dossier “ se jedná , když na to přijde řeč .",O O B-PRO I-PRO O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+6152,"Je těžké představit si jinou událost kdekoliv na planetě , při které uhynulo nebo se muselo přesunout tak ohromné množství zvířat .",O O O O O O O O O O O O O O O O O O O O O O
+1022,Foto : Mohsin Raza | Zdroj : Reuters .,O O B-PER I-PER O O O B-ORG O
+4786,"Ostatně na okresní úrovni mají dva ze tří okresů Karlovarského kraje maximální uváděnou hodnotu 100 , je to na Chebsku i Sokolovsku .",O O O O O O O O O B-LOC I-LOC O O O O O O O O B-LOC O B-LOC O
+11572,"Druhé největší letiště Charleroi , z něhož působí irská nízkonákladová společnost Ryanair , bude zcela uzavřeno , vypočítala agentura AFP .",O O O B-LOC O O O O O O O B-ORG O O O O O O O B-ORG O
+3305,Už v sobotu seznam otázek týkající se této kauzy poslalo Rusko také Británii a Francii .,O O O O O O O O O O B-LOC O B-LOC O B-LOC O
+11125,Letecký průmysl by se tak v příštích třech desetiletích mohl stát největším producentem skleníkových plynů .,O O O O O O O O O O O O O O O O
+3577,"Loni tak odešlo více než 2300 přednášejících , informoval britský deník The Independent s odvoláním na údaje , které si vyžádali Liberální demokraté na 105 britských univerzitách .",O O O O O O O O O O O B-PRO I-PRO O O O O O O O O B-PER I-PER O O O O O
+7354,Může je ale taky účtovat zvlášť .,O O O O O O O
+6227,"Úplně nejhorší jsou tak v krizové situaci nenaplněná očekávání lidí , “ uvedl liberecký hejtman v dopise .",O O O O O O O O O O O O O O O O O O
+9853,"Piloti Ryanairu v Německu stávkují , firma zrušila 150 letů .",O B-ORG O B-LOC O O O O O O O
+5154,"„ Rozhodl jsem se , že to minimálně řeknu svému kocourkovi Micíkovi , kterého poučuji na svém blogu .",O O O O O O O O O O O B-PER O O O O O O O
+5213,Ten virus má skvělý marketing,O O O O O
+6680,"Často se ale dostavuje už druhá fáze s těžkým průběhem , kdy už působí jako zánět mozkových blan nebo mozku .",O O O O O O O O O O O O O O O O O O O O O
+7572,"Chystané opatření má pomoci ověřovat , zda daná osoba představuje bezpečnostní nebo zdravotní riziko ještě předtím , než do některé ze zemí Unie přijede .",O O O O O O O O O O O O O O O O O O O O O O O O O
+593,"Její manžel se s dětmi vrátil z Británie a čeká na propuštění své ženy , aby aby by mohli společně odletět pryč z Pákistánu .",O O O O O O O B-LOC O O O O O O O O O O O O O B-LOC O
+1012,Nejvyšší soud ale 31 . října rozhodl o jejím osvobození .,O O O O O O O O O O O
+4936,"Dodal , že tato fáze se má týkat 40 tisíc lidí a cílem je prověřit bezpečnost a účinnost vakcíny .",O O O O O O O O O O O O O O O O O O O O
+10859,"Dalších 30 procent lidí podle firmy cestuje jen s jedním malým zavazadlem , jako je právě kabelka .",O O O O O O O O O O O O O O O O O O
+10743,Stávkovali piloti Ryanairu v pěti zemích,O O B-ORG O O O
+7038,"Hongkongští vědci už vyvinuli vakcínu , která je však prozatím nepoužitelná .",O O O O O O O O O O O O
+1350,"Například ve středu musel viceprezident Svazu průmyslu a dopravy Radek Špicar vysvětlovat japonským investorům aktuální politickou situaci a její dopady na ekonomiku , upozornil ve středu na twitteru .",O O O O O B-ORG I-ORG I-ORG I-ORG B-PER I-PER O O O O O O O O O O O O O O O O B-PRO O
+6272,"V Jihočeském kraji pak hejtman Martin Kuba ( ODS ) uspořádal tiskovku , na které představil krajský systém očkování , za jehož nezbytnou součást považuje vakcinační centra . .",O B-LOC O O O B-PER I-PER O B-ORG O O O O O O O O O O O O O O O O O O O O
+5128,""" Přes tlak a snahy o rychlý vývoj vakcíny je realistické počítat s případnou registrovanou vakcínou nejdříve ke konci roku 2020 a dostupností v roce 2021 .",O O O O O O O O O O O O O O O O O O O O O O O O O O O
+10531,"Šéf aerolinek O ' Leary prohlásil , že je ochoten se zaměstnanci jednat , než by podlehl požadavkům , které by podkopaly nízkonákladový model .",O O B-PER I-PER I-PER O O O O O O O O O O O O O O O O O O O O
+8340,"Ještě se čeká na oficiální vyjádření Ruska a také Dánska a Švédska , do jejichž vod trasa 1200 kilometrů dlouhého plynovodu rovněž zasahuje .",O O O O O O B-LOC O O B-LOC O B-LOC O O O O O O O O O O O O
+4297,Naproti tomu narůstá přistěhovalectví ze zemí mimo Evropskou unii .,O O O O O O O B-ORG I-ORG O
+10211,Ryanair kvůli stávce zruší v pátek 24 letů mezi Irskem a Británií,B-ORG O O O O O O O O B-LOC O B-LOC
+11671,"Letecký provoz nad Belgií funguje pouze pro přelety , pro přistání a odlety mají výjimku jen vládní , vojenské a nouzové lety , řekl agentuře AFP mluvčí řízení letového provozu Dominique Dehaene .",O O O B-LOC O O O O O O O O O O O O O O O O O O O O O B-ORG O O O O B-PER I-PER O
+3289,""" Poprvé po 40 letech budeme mít možnost sami si určovat obchodní politiku , "" trvá na svém Bravermanová , jež ji má ve svém úřadu na starosti .",O O O O O O O O O O O O O O O O O O B-PER O O O O O O O O O O
+1225,"V jejich očích jsem ztratila veškerou lidskost . """,O O O O O O O O O
+7071,"Ne že by tam byl uměle vyroben , nicméně unikl , protože tam se běžně prováděly různé výzkumy , které vycházely z přírodních rezervoárů , to znamená z různých netopýrů a podobně .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+6294,"Takto by trvalo 3000 let , zlobí se odborníci",O O O O O O O O O
+11419,Příští vyjednávací kolo obou stran se uskuteční 23 . ledna .,O O O O O O O O O O O
+669,Ti požadovali její veřejné oběšení a zabití soudců .,O O O O O O O O O
+9283,"K tomu probíhají jednání s Evropskou unií , a doufám , že přinese výsledky , “ řekl Steinmeier po jednání s Petro Porošenkem .",O O O O O B-ORG I-ORG O O O O O O O O O O B-PER O O O B-PER I-PER O
+7633,[ 2 ],O O O
+12264,Události ve Washingtonu odsoudili politici napříč světem .,O O B-LOC O O O O O
+11614,"a Bruselem , konkrétně jde o čtyři zpáteční lety , řekl mluvčí Letiště Václava Havla Roman Pacvoň .",O B-LOC O O O O O O O O O O B-LOC I-LOC I-LOC B-PER I-PER O
+694,Věru v divném světě to žijeme !,O O O O O O O
+1340,Úřadující šéf strany Šafík Amíní soud před vynesením verdiktu znovu varoval před výrokem ve prospěch Bibiové .,O O O B-PER I-PER O O O O O O O O O O B-PER O
+7974,Projekt Nord Stream 2 má za cíl rozšířit stávající přepravní kapacitu plynovodu o 55 miliard metru krychlových zemního plynu ročně .,O B-PRO I-PRO I-PRO O O O O O O O O O O O O O O O O O
+5090,Jde o dlouhotrvající fyzickou poruchu hlasu .,O O O O O O O
+4142,"Britové totiž po loňském formálním oznámení , že opouští EU v souladu s článkem 50 unijních smluv , řešili komplikovanou vnitropolitickou situaci .",B-PER O O O O O O O O B-ORG O O O B-PRO I-PRO O O O O O O O O
+181,"Radiální pákistánský islámský duchovní Háfiz Saíd , kterého Spojené státy a Indie viní z přípravy teroristických útoků v indické finanční metropoli Bombaji se 166 oběťmi z roku 2008 , svolal na dnešek masové protesty .",O O O O B-PER I-PER O O B-LOC I-LOC O B-LOC O O O O O O O O O B-LOC O O O O O O O O O O O O O
+935,Ten podle některých informací už několik let finančně podporuje obhajobu Bibiové .,O O O O O O O O O O B-PER O
+7704,"Tím chtěla Moskva dokončit obklíčení Ukrajiny , aby aby by tak nemusela používat její tranzitní infrastrukturu .",O O B-LOC O O B-LOC O O O O O O O O O
+10095,Od ledna odepsaly akcie zhruba 20 procent .,O O O O O O O O
+119,"Vlivný radikální duchovní Chádim Husajn Rizví naopak už před rozsudkem vyzval své stoupence , aby aby by manifestacemi ve všech větších městech vyjádřili svou „ lásku k prorokovi “ , pakliže bude Bibiová propuštěna .",O O O B-PER I-PER I-PER O O O O O O O O O O O O O O O O O O O O O O O O B-PER O O
+9540,V Itálii jsou podle nich nedostatečně vyřešeny otázky týkající se pracovní doby a odměňování .,O B-LOC O O O O O O O O O O O O O
+10003,"Stávka dopravců přišla den před sobotním veřejným protestem , kterým obyvatelé Říma chtějí vyjádřit nespokojenost se současným stavem města .",O O O O O O O O O O O B-LOC O O O O O O O O
+11765,Zároveň by měli letuky a stevardi pracovat minimálně 600 hodin ročně .,O O O O O O O O O O O O
+1259,Pomoc Bibiové a její rodině nabídla také Kanada ;,O B-PER O O O O O B-LOC O
+12014,Problémy americké pošty : na cestě se zaseklo přes 150 tisíc hlasů,O O O O O O O O O O O O
+11493,Naposledy se generální stávka v Belgii konala v prosinci 2014 .,O O O O O B-LOC O O O O O
+8546,Evropští spojenci v NATO by podle amerického prezidenta Donalda Trumpa měli zvýšit své obranné výdaje okamžitě .,O O O B-ORG O O O O B-PER I-PER O O O O O O O
+7721,"Ještě hůře je na tom plynovod Turkish Stream vedoucí po dně Černého moře do Turecka , který bude stát 21 mi­liard dolarů a nezaplatí se ani do půl století .",O O O O O O B-PRO I-PRO O O O B-LOC I-LOC O B-LOC O O O O O O O O O O O O O O O
+779,Žena i její rodina se po jejím propuštění ze strachu ukrývají .,O O O O O O O O O O O O
+8917,"Podle tureckého prezidenta Spojené státy pokračují v sankční politice a ukládají ji jiným zemím , přičemž je nemožné vytvořit spravedlivý světový řád na principu „ pravdu má ten , kdo je silnější """,O O O B-LOC I-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+12136,"Ovšem v Pensylvánii , tam se mohly začít sčítat až včera .",O O B-LOC O O O O O O O O O
+3849,"Brusel přitom navrhuje , aby aby by v přechodném období , které by mohlo trvat až do konce roku 2020 , platila v Británii nadále unijní pravidla , a to i nově přijatá .",B-LOC O O O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O
+12040,ONLINE : Prezidentské volby v USA,O O B-EVT I-EVT I-EVT I-EVT
+8745,"Švédské politické strany z důvodu bezpečnosti nechtějí , aby aby by Rusko „ pracovalo “ blízko pobřeží Švédska .",O O O O O O O O O B-LOC O O O O O B-LOC O
+11579,"Společnost Stib , která provozuje dopravu v Bruselu , rovněž očekává silné výpadky .",O B-ORG O O O O O B-LOC O O O O O O
+9556,"Firma se sídlem v Irsku teprve minulý rok ve své 33 leté historii uznala činnost odborů , čímž odvrátila rozsáhlé stávky .",O O O O B-LOC O O O O O O O O O O O O O O O O O
+11583,Naposledy se generální stávka v Belgii konala v prosinci 2014 .,O O O O O B-LOC O O O O O
+1815,"Ono záleží , z jakého úhlu pohledu se na to díváme .",O O O O O O O O O O O O
+10115,Jeho výstavba začala předloni v květnu a stála 267 milionů korun .,O O O O O O O O O O O O
+12089,Právě covid - 19 v minulosti zlehčoval .,O B-EVT I-EVT I-EVT O O O O
+10522,Odboráři obviňují Ryanair z porušení pracovního práva,O O B-ORG O O O O
+1907,""" Pokud chcete být schopni jednat , musíte být jednotní , dnes více než kdy dříve , "" prohlásil konzervativní politik v narážce na kroky amerického prezidenta Donalda Trumpa rozbíjejícího vazby s Evropou .",O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PER I-PER O O O B-LOC O
+3922,""" Snažím se zastupovat pohled těch , kteří hlasovali pro brexit , "" uvedl Farage .",O O O O O O O O O O B-EVT O O O B-PER O
+7593,"Je důležité , abychom aby bychom vždy věděli , kdo do EU míří …",O O O O O O O O O B-LOC O O
+796,Právní zástupce Bibiové v obavách o život už z Pákistánu uprchl .,O O B-PER O O O O O O B-LOC O O
+4725,Odchod Velké Británie z EU se pro ně stal těžkou ránou .,O B-LOC I-LOC O B-ORG O O O O O O O
+11073,Tu se mu však tímto krokem podařilo pouze o několik měsíců posunout .,O O O O O O O O O O O O O
+3535,"Ředitel personální agentury Morgan McKinley Darren Burns uvedl , že v letošním roce se v Británii očekává ještě vyšší najímání nových zaměstnanců ve srovnání s loňským rokem .",O O O B-ORG I-ORG B-PER I-PER O O O O O O O O B-LOC O O O O O O O O O O O O
+7293,"Podle komisařů Facebook slíbil , že po nákupu služby nespojí účty jedné osoby z obou služeb , podle zjištění však Facebook takový mechanizmus vyvíjel už v roce 2014 .",O O B-ORG O O O O O O O O O O O O O O O O O B-ORG O O O O O O O O
+6675,"Lékařka Hana Cabrnochová provozující od roku 1997 ordinaci praktického lékaře pro děti a dorost , vícekrát zvolená předsedkyně Odborné společnosti praktických dětských lékařů ČLS JEP a místopředsedkyně České vakcinologické společnosti ČLS JEP varovala před zrádností klíšťové encefalitidy , která spočívá v tom , že nemá své typické symptomy .",O B-PER I-PER O O O O O O O O O O O O O O O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG O O B-ORG I-ORG I-ORG I-ORG I-ORG O O O O O O O O O O O O O O O O O
+810,Toho se podle úřadů dopustili při demonstracích za trest smrti pro Bibiovou .,O O O O O O O O O O O B-PER O
+7492,Jedním z důvodů nižšího čerpání je u některých programů pomalý proces hodnocení projektových žádostí .,O O O O O O O O O O O O O O O
+9379,"Šéf Gazpromu Alexej Miller na to konto prohlásil : „ Jsme kategoricky proti tomu , aby aby by se na náš účet řešily problémy Ukrajiny .",O B-ORG B-PER I-PER O O O O O O O O O O O O O O O O O O B-LOC O
+5718,"Bude také více lidí , jejichž imunitní systém prodělal infekci , a to znamená , že v populaci nebude tolik přenašečů .",O O O O O O O O O O O O O O O O O O O O O O
+10612,"Ryanair létá do desítek zemí , včetně České republiky .",B-ORG O O O O O O B-LOC I-LOC O
+6817,"Očkovací látku bylo možné připravit tak rychle proto , že jde o upravenou vakcínu používanou proti jiným nemocem .",O O O O O O O O O O O O O O O O O O O
+5658,""" Obézní lidé jsou také náchylnější k syndromu akutní respirační tísně , což je v současnosti hlavní příčina úmrtí pacientů na koronavirus , "" dodal .",O O O O O O O O O O O O O O O O O O O O O B-EVT O O O O
+8145,"Výstavba plynovodu Nord Stream 2 , který má přes Baltské moře spojit Rusko a Německo , nebude podle spolkové kancléřky Angely Merkelové možná , aniž by bylo jasné , jakou roli bude mít Ukrajina jako dosud tranzitní země .",O O B-PRO I-PRO I-PRO O O O O B-LOC I-LOC O B-LOC O B-LOC O O O O O B-PER I-PER O O O O O O O O O O O B-LOC O O O O O
+5881,"„ Byla to dlouhá a klikatá cesta , “ vypůjčila si předsedkyně Evropské komise Ursula von der Leyenová titul známé písně Beatles , aby aby by charakterizovala složitá vyjednávání o pobrexitové smlouvě s Británií .",O O O O O O O O O O O O B-ORG I-ORG B-PER I-PER I-PER I-PER O O O B-ORG O O O O O O O O O B-LOC O
+965,"Kromě vůdců skupiny Tehríke Labajk zadržela pákistánská policie i přes 3000 jejích stoupenců , řekl dnes Čaudhrí .",O O O B-ORG I-ORG O O O O O O O O O O O B-PER O
+12462,USA : Oprávněné pochyby,B-LOC O O O
+8948,"Šéf Bílého domu již v červenci na summitu NATO obvinil Německo , že je zajatcem Ruska kvůli své energetické závislosti , a vyzval k zastavení prací na plynovodu Nord Stream 2 , jehož stavbu řídí Rusko .",O B-LOC I-LOC O O O O O B-ORG O B-LOC O O O O B-LOC O O O O O O O O O O O O B-PRO I-PRO I-PRO O O O O B-LOC O
+7948,Kyjev se bojí ztráty příjmů z tranzitu ruského modrého paliva a Washington má ambiciózní plány na vývoz zkapalněného zemního plynu do Evropy .,B-LOC O O O O O O O O O O B-LOC O O O O O O O O O B-LOC O
+227,"Pákistánská křesťanka Asia Bibiová , která byla před osmi lety odsouzena k trestu smrti za urážku islámského proroka Mohameda a před týdnem byla zproštěna viny , zůstává nadále ve vězení .",O O B-PER I-PER O O O O O O O O O O O O O O B-PER O O O O O O O O O O O O
+5471,"Podle Daniela je obecně nejvhodnější populaci buď promořit , nebo provakcinovat , aby aby by se nemoc dále v populaci běžně nevyskytovala .",O B-PER O O O O O O O O O O O O O O O O O O O
+7668,"Putin řekl , že nová vlna ruských sankcí proti USA , o níž jedná ruský parlament , nesmí pokodit nejen ruskou ekonomiku , ale ani hospodářství "" poctivých "" ruských obchodních partnerů v cizině .",B-PER O O O O O O O O B-LOC O O O O B-ORG I-ORG O O O O O O O O O O O O O O O O O O O
+3721,S odvoláním na vládní kruhy o tom dnes informují britská média .,O O O O O O O O O O O O
+5726,Plošné testování .,O O O
+8843,"Podle autora článku vidí kancléřka v tomto poměrně levném a jednoduchém způsobu uklidnění „ excentrického "" amerického prezidenta .",O O O O O O O O O O O O O O O O O O O
+8261,"Odkazoval tak na válečný konflikt mezi Ruskem a Gruzií v roce 2008 a boje na východě Ukrajiny , kde od roku 2014 zahynulo více než 10 000 lidí .",O O O O O O B-LOC O B-LOC O O O O O O O B-LOC O O O O O O O O O O O O
+465,Bibiová byla v roce 2010 odsouzena k absolutnímu trestu za urážku proroka Mohameda .,B-PER O O O O O O O O O O O B-PER O
+12337,Aktuální informace z USA hledejte v našem on - line přenosu uvnitř článku .,O O O B-LOC O O O O O O O O O O
+2894,Totéž prosazuje i labouristická opozice .,O O O O O O
+879,"Bibiová , matka pěti dětí , se údajného rouhání dopustila v roce 2009 , když šla pro vodu .",B-PER O O O O O O O O O O O O O O O O O O
+10775,"Těmto lidem tak v rukou zůstaly nové , ovšem dražší letenky , které nevyužijí .",O O O O O O O O O O O O O O O
+9508,S odbory od té doby jedná a další problémy v tomto ohledu očekává kolem Velikonoc .,O O O O O O O O O O O O O O B-EVT O
+11850,"Ve Spojených státech stále není rozhodnuto o tom , kdo bude šéfem Bílého domu .",O B-LOC I-LOC O O O O O O O O O B-LOC I-LOC O
+6807,"Tato očkovavací látka by být použitelná pro veřejnost , přičemž jako první by ji měli dostal zdravotníci , to potvrdila i vicepremiérka .",O O O O O O O O O O O O O O O O O O O O O O O
+1343,"' Odešli bychom z Česka , ' varovali ho",O O O O B-LOC O O O O
+2209,Babiš označil za významný bod budoucích vztahů z hlediska Česka zachování obchodní výměny .,B-PER O O O O O O O O B-LOC O O O O
+2832,Výše prostředků na nové a dosavadní priority EU zůstala zachována nebo byla navýšena .,O O O O O O O B-ORG O O O O O O
+9544,"Vedení aerolinek podle VC trvalo na mediátorovi z Irska , který podle nich nemá potřebné právní znalosti pro Německo .",O O O B-ORG O O O O B-LOC O O O O O O O O O B-LOC O
+9171,Do Prahy se ze Sofie stěhuje evropský regionální úřad amerického ministerstva energetiky .,O B-LOC O O B-LOC O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG O
+11580,Aerolinky Brussels Airlines již zrušily všechny lety .,O B-ORG I-ORG O O O O O
+11543,České ministerstvo zahraničí doporučilo svým občanům sledovat aktuální informace o konkrétním leteckém spojení a počítat s omezením ostatních sektorů dopravy a služeb v celé zemi .,B-ORG I-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O O O
+12604,"Tato odpověď se zdá být poněkud žertovná , ale ve skutečnosti se dotýká samé podstaty amerického volebního systému , tedy esence tzv . "" demokracie "" .",O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1848,A to je Velká Británie v daleko lepší pozici než státy na kontinentě .,O O O B-LOC I-LOC O O O O O O O O O
+6927,"jde o nejvyšší přírůstek , který země od vypuknutí pandemie zaznamenala .",O O O O O O O O O O O O
+3944,Zchudnou všichni .,O O O
+12619,Bidenovi a dalším hrozí zatčení !,B-PER O O O O O
+12129,"O podvodu nejsou důkazy , Trump tímto tvrzením rozděluje společnost , říká právní analytička Wehleová",O O O O O B-PER O O O O O O O O B-PER
+4872,Vědci si pohrávají s jinými čísly kolektivní imunity než původně,O O O O O O O O O O
+572,"„ Udělám vše , co je v lidských silách , abych aby bych této ženě zabezpečil budoucnost , “ napsal na twitteru italský ministr vnitra Matteo Salvini .",O O O O O O O O O O O O O O O O O O O B-PRO O O O B-PER I-PER O
+7,"Demonstranti , kteří kromě popravy Bibiové požadovali i smrt trojice soudců , kteří křesťanku osvobodili , blokovali silnice spojující Islámábád s jinými velkými pákistánskými městy .",O O O O O B-PER O O O O O O O O O O O O O B-LOC O O O O O O
+5744,"Jak ale uvedla imunoložka z Manchesterské univerzity Sheena Cruikshanková , nešlo o dvojitě slepý test , takže nelze vyloučit , že výsledky mohl nevědomky ovlivnit například lékař , který látku podával .",O O O O O B-ORG I-ORG B-PER I-PER O O O O O O O O O O O O O O O O O O O O O O O
+5876,"Digitálně navíc půjde i o důkaz , že dotyčný se nechal naočkovat vakcínou schválenou v USA , což může usnadnit prokazování například na letišti , ve škole nebo v práci , píše agentura",O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O
+4162,"( 19 . března 2018 ) | foto : ČTK Finální shodu se podle obou vyjednávačů podařilo nalézt ohledně textu těch částí dohody , které se týkají finančního vyrovnání britských závazků , práv občanů EU v Británii po brexitu , několika dalších bodů , ale především také podoby časově omezeného přechodného období , o které Londýn požádal .",O O O O O O O O O B-ORG O O O O O O O O O O O O O O O O O O O O O O O O B-ORG O B-LOC O B-EVT O O O O O O O O O O O O O O O O B-LOC O O
+8309,Druhá větev plynovodu Nord Stream má vést po dně Baltu z Ruska do Německa .,O O O B-PRO I-PRO O O O O B-LOC O B-LOC O B-LOC O
+2386,"Většina ze sporných bodů ohledně odchodu Londýna z evropského svazku je vyřešena , napsal v pondělí server týdeníku Focus .",O O O O O O B-LOC O O O O O O O O O O O B-PRO O
+1722,"Dnes , když je dobrý den , jich přijde hrstka .",O O O O O O O O O O O
+537,"Některé země , například Francie a Španělsko , již rodině nabídly azyl .",O O O O B-LOC O B-LOC O O O O O O
+8414,"Unii dnes vyzval , aby aby by se společnými silami zasadila o ukončení projektu .",B-ORG O O O O O O O O O O O O
+3166,""" Mrzí nás to , ale nedá se s tím nic dělat .",O O O O O O O O O O O O O
+323,Asia Bibiová byla zatčena v roce 2009 po hádce s muslimskými ženami .,B-PER I-PER O O O O O O O O O O O
+4473,Vypuzení Smithe okamžitě vyvolalo kritiku proti Corbynovi .,O B-PER O O O O B-PER O
+8008,"Ztroskotá projekt plynovodu "" Nord Stream - 2 "" na Dánsku ?",O O O O B-PRO I-PRO I-PRO I-PRO O O B-LOC O
+5689,"Málokdy dříve , pokud kdy vůbec , byli čeští vědci stejně často vidět jako v uplynulém tři čtvrtě roce .",O O O O O O O O O O O O O O O O O O O O
+7828,Podle průzkumu stavba Nord Stream - 2 by mohla být zahájena v německém teritoriálním moři v polovině května po ukončení sezóny sleďů .,O O O B-ORG I-ORG I-ORG I-ORG O O O O O O O O O O O O O O O O
+7887,Podle plánu by Nord Stream - 2 měl kopírovat trasu již existujícího vedení Nord Stream z Ruska do Německa .,O O O B-PRO I-PRO I-PRO I-PRO O O O O O O B-ORG I-ORG O B-LOC O B-LOC O
+8162,"Ruská státní plynárenská společnost Gazprom bude potřebovat ukrajinskou plynovodní síť i v roce 2020 , po skončení platnosti tranzitní dohody .",O O O O B-ORG O O O O O O O O O O O O O O O O
+5550,"A všechny sdělovací prostředky se začaly zajímat o to , jak že je léčen .",O O O O O O O O O O O O O O O
+4832,"Studie dosud nedaly odpověď , zda vakcína brání očkovanému člověku přenášet nemoc a šířit ji , aniž by byl sám ohrožen .",O O O O O O O O O O O O O O O O O O O O O O
+5908,První dávku už dostalo přes milion lidí .,O O O O O O O O
+1082,Dostal by spisovatel Rushdie takovou ochranu před fatvou smrti za rouhání jako před třiceti lety ?,O O O B-PER O O O O O O O O O O O O
+1734,"Tehdy díky vstupu do EU začali jezdit pracovat do Spojeného království lidé z Česka , Slovenska , Polska , Estonska , Maďarska , Lotyska , Litvy či Slovinska .",O O O O B-ORG O O O O B-LOC I-LOC O O B-LOC O B-LOC O B-LOC O B-LOC O B-LOC O B-LOC O B-LOC O B-LOC O
+9470,"Pokud Rusko může vyvážet plyn do Evropy bez Ukrajiny , pak zvýší svoji schopnost výrazně ovlivňovat dodávky plynu na Ukrajinu .",O B-LOC O O O O B-LOC O B-LOC O O O O O O O O O O B-LOC O
+5772,Podruhé nakažená pacientka zemřela,O O O O
+10782,"Vedle náhrad nebo alternativních letů mají zasažení cestující také "" právo na péči "" a za určitých okolností mohou získat nárok na odškodnění , řekl novinářům v Bruselu mluvčí Evropské komise Enrico Brivio .",O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O B-ORG I-ORG B-PER I-PER O
+4479,Ještě více se ale firmy obávají rizika státních a mezinárodních regulací .,O O O O O O O O O O O O
+3973,""" Vláda musí předložit své plány , "" napsala organizace v dopise .",O O O O O O O O O O O O O
+3898,Navíc mnohé podniky čekají na vyjasnění budoucích vztahů Británie s EU a investiční rozhodnutí odkládají .,O O O O O O O O B-LOC O B-ORG O O O O O
+6070,Naopak nejlepší situace je na Domažlicku .,O O O O O B-LOC O
+6291,"Přes 11.000 zemřelých , to je jako kdyby když by zmizelo jedno celé okresní město .",O O O O O O O O O O O O O O
+8117,"Projekt však má stále svá rizika : kromě možného zásahu politiků ( např . změnou legislativy ) je zde riziko amerických sankcí , které je zejména v posledních měsících často diskutováno .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+6058,Nejhorší situace je ale ve Středočeském a Pardubickém kraji .,O O O O O B-LOC O B-LOC I-LOC O
+473,"Stovky dalších nespokojenců blokují také dálnici , která spojuje Islámábád s jinými velkými pákistánskými městy .",O O O O O O O O O B-LOC O O O O O O
+3042,Postoj britských labouristů a jejich lídra Corbyna zvyšuje tlak na premiérku Mayovou .,O O B-PER O O O B-PER O O O O B-PER O
+8538,Zmínil prý rovněž své výhrady k plynovodu Nord Stream .,O O O O O O O B-PRO I-PRO O
+89,Radikálové se dohodli s vládou,O O O O O
+10462,"VC oznámil , že pro stávku hlasovalo 96 procent německých pilotů Ryanairu .",B-ORG O O O O O O O O O O B-ORG O
+4141,Obě strany nyní dohánějí několik ztracených měsíců .,O O O O O O O O
+10730,"Irské nízkonákladové aerolinky byly nucené zrušit zhruba 400 z 2400 plánovaných letů , což se dotýká kolem 55.000 cestujících .",O O O O O O O O O O O O O O O O O O O O
+3918,"Dodal , že Británie po odchodu z EU zchudne a zeslábne .",O O O B-LOC O O O B-ORG O O O O
+6673,"Zatím se zlepšuje pomalu , ale stále je odkázán na pomoc druhých lidí .",O O O O O O O O O O O O O O
+10134,"Firma nicméně upozornila , že další přerušení leteckého spojení nelze vyloučit .",O O O O O O O O O O O O
+11325,"Jen asi 11 , 3 procent letadel přiletělo s předstihem a všechna ostatní měla zpoždění .",O O O O O O O O O O O O O O O O
+1226,""" Život této ženy visí na vlásku .",O O O O O O O O
+10087,"Ryanair se dohodl s odbory , mzdy se zvýší",B-ORG O O O O O O O O
+8246,"Nord Stream 2 je hybridní zbraní Moskvy , tvrdí polský premiér Morawiecki",B-PRO I-PRO I-PRO O O O B-LOC O O O O B-PER
+7442,Podporu vypsal až na základě nařízení vlády těsně před koncem roku .,O O O O O O O O O O O O
+9922,"A nejen to , narušeno bude zřejmě i letecké spojení .",O O O O O O O O O O O
+8809,Nord Stream 2 si z ekonomických důvodů přejí i Rakušané .,B-PRO I-PRO I-PRO O O O O O O B-PER O
+11691,"Cestující , jichž se zrušení linek dotklo , mají kontaktovat svou leteckou společnost , která jim nabídne náhradní řešení .",O O O O O O O O O O O O O O O O O O O O
+11002,"Dodal , že i když stávky nemá rád , je ochoten vyjednávat , aby aby by ubránil firemní model nízkých nákladů .",O O O O O O O O O O O O O O O O O O O O
+2669,"Ministr obchodu Liam Fox a ministr pro brexit David Davis zdůraznili , že odchod z Unie bez dohody nadále zůstává jednou z možností .",O O B-PER I-PER O O O B-EVT B-PER I-PER O O O O O B-ORG O O O O O O O O
+6066,""" Je to vývoj , který se dal očekávat .",O O O O O O O O O O
+3237,"Vzhledem k tomu , že ekonomika má za normálních okolností docela velkou setrvačnost , ponesou se i první měsíce roku ve stejném duchu .",O O O O O O O O O O O O O O O O O O O O O O O O
+4789,"Zdravotníci onemocněli , nemocnice mají personální potíže",O O O O O O O
+5031,"Roman ŠMUCLER , prezident České stomatologické komory",B-PER I-PER O O B-ORG I-ORG I-ORG
+2397,"Zvažuje se také možnost přechodného období , které by trvalo do konce roku 2020 a během nějž by byla sepsána dohoda o volném obchodu .",O O O O O O O O O O O O O O O O O O O O O O O O O
+5914,To má téměř 360 tisíc aktivních případů nákazy .,O O O O O O O O O
+5097,"Řídím největší skupinu pro ochranu vody , která se jmenuje Water Keeper Alliance .",O O O O O O O O O O B-ORG I-ORG I-ORG O
+10275,"To podle názoru aerolinek znamená , že lidem cestujícím mezi členskými státy , kde se nestávkuje , je odepřena svoboda cestovat .",O O O O O O O O O O O O O O O O O O O O O O
+10080,Evropská komise v roce 2014 tuto pomoc označila za nezákonnou a podle francouzských úřadů musí firma získané peníze vrátit .,B-ORG I-ORG O O O O O O O O O O O O O O O O O O
+1368,Kvůli brexitu se proškrtá rozpočet EU .,O B-EVT O O O B-ORG O
+3196,Mayová je pod stále větším tlakem své rozhádané konzervativní strany .,B-PER O O O O O O O B-ORG I-ORG O
+10656,Protestují proti pomalému postupu rozhovorů o pracovních podmínkách .,O O O O O O O O O
+11687,"„ Ačkoliv terminál zůstává otevřený , laskavě žádáme cestující , aby aby by na letiště ve středu nechodili , “ informovalo předem mezinárodní bruselské letiště , které odbaví asi 650 letů denně .",O O O O O O O O O O O O O O O O O O O O B-LOC I-LOC I-LOC O O O O O O O O
+12163,Podle projekcí zámořských médií vyhrál demokrat Joe Biden v Pensylvánii a přehoupl se tak přes potřebnou hranici 270 volitelů .,O O O O O O B-PER I-PER O B-LOC O O O O O O O O O O
+1145,"Text dopisu ale prozatím konzultuje s poradci , kteří mají blízko k rodině Asii Bibi a mohou posoudit , jaká formulace dopisu může přispět ke správnému porozumění žádosti a k udělení milosti .",O O O O O O O O O O O O O B-PER I-PER O O O O O O O O O O O O O O O O O O
+5261,"Můžeme se jen domýšlet , jak by hodnotil postup šéfa britské vlády Borise Johnsona .",O O O O O O O O O O B-ORG I-ORG B-PER I-PER O
+10843,V průměru již na palubě Wizz Airu k základní ceně letenky připlácíme v přepočtu kolem 720 korun hlavně za zavazadlo ( i když častěji se to pravděpodobně týká bohatší části Evropy ) .,O O O O O B-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O
+10007,"Irské nízkonákladové letecké společnosti Ryanair Holdings klesl v pololetí zisk o sedm procent na 1 , 2 miliardy eur ( 31 miliard Kč ) .",O O O O B-ORG I-ORG O O O O O O O O O O O O O O O O O O O
+9070,"Zopakovala , že kancléřka Angela Merkelová ( CDU ) chce zároveň vyjasnit roli Ukrajiny jako tranzitní země .",O O O O B-PER I-PER O B-ORG O O O O O B-LOC O O O O
+4563,"Britský ministr zahraničí Boris Johnson není spokojen s podmínkami svých cest po světě , kde vysvětluje pozici Británie po odchodu z EU .",O O O B-PER I-PER O O O O O O O O O O O O B-LOC O O O B-ORG O
+11989,Kvůli hlasování poštou,O O O
+431,Právě tato organizace podle některých zdrojů už několik let finančně podporuje obhajobu Bibiové .,O O O O O O O O O O O O B-PER O
+12308,"Trump získal Floridu , Biden Arizonu .",B-PER O B-LOC O B-PER B-LOC O
+5859,V neděli přibylo v metropoli 841 potvrzených případů nemoci covid - 19 .,O O O O O O O O O B-EVT I-EVT I-EVT O
+6472,"S kritikem přetrvávajících "" rouškových opatření "" a hlavně s kritikem mediální kampaně za Covid - 19 Janem Žaloudíkem o tom , jak bychom si měli užívat života bez strachu , zda přijde nějaká další vlna .",O O O O O O O O O O O O O O B-EVT I-EVT I-EVT B-PER I-PER O O O O O O O O O O O O O O O O O O
+5347,"Trnitá Prymulova cesta vzhůru : střet zájmů , čínské léčitelství , vyhazov z nemocnice i spory s Vojtěchem Číst článek",O B-PER O O O O O O O O O O O O O O O B-PER O O
+12459,"Prezident má pro voliče jasný vzkaz : „ Postavili jsme nejlepší ekonomiku na světě , uděláme to znovu . “",O O O O O O O O O O O O O O O O O O O O
+7224,Pod záminkou odstraňování nesnášenlivosti ( „ hate speech “ ) prý šéfové Evropské unie připravují informační „ likvidaci skutečné politické opozice “ .,O O O O O O O O O O O O O O O O O O O O O O O
+9262,"Nord Stream 2 podkopává energetickou stabilitu Evropy , prohlásil Tillerson v Polsku",B-PRO I-PRO I-PRO O O O B-LOC O O B-PER O B-LOC
+765,"Před budovou soudu , po celé pandžábské provincii i v dalších městech po celé zemi vypukly nepokoje .",O O O O O O B-LOC I-LOC O O O O O O O O O O
+12367,"Na těch sjezdech jsme mohli názorně vidět , že poselství , které se obě strany snažily voličům prezentovat , bylo dramaticky odlišné .",O O O O O O O O O O O O O O O O O O O O O O O
+8583,"Jednotlivé dodávky byly také vedeny do Polska a Litvy , uvedly německé noviny .",O O O O O O B-LOC O B-LOC O O O O O
+11462,Jednotlivé kategorie zveřejnil server Loni v září stávkovali zaměstnanci společnosti Ryanair v šesti zemích :,O O O O O O O O O O B-ORG O O O O
+3777,"Podle diplomatů se budou zabývat jak otázkami souvisejícími s dosud nedořešenými body samotného brexitu , především situací na irské hranici , tak také právě už podobou přechodného období .",O O O O O O O O O O O O O B-EVT O O O O O O O O O O O O O O O
+4304,Británii ve velkém opouští občané EU .,B-LOC O O O O B-ORG O
+9080,"Společnosti , které zdůrazňují význam plynovodu , zatím do projektu investovaly kolem čtyř miliard eur ( 103 miliard Kč ) .",O O O O O O O O O O O O O O O O O O O O O
+4540,Druhé referendum ?,O O O
+9261,"Je příznačné , že to vše se odehrávalo na pozadí zhoršených povětrnostních podmínek a poklesu teplot jak na Ukrajině , tak i v jiných evropských zemích .",O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O
+5534,"Bude umírat 200 lidí denně , v příznivém scénáři .",O O O O O O O O O O
+5780,Pozitivní i bez testu a čipování lidí .,O O O O O O O O
+4530,Britští euroskeptici se chystají vybudovat muzeum brexitu .,O O O O O O B-EVT O
+5229,Nikdy nemáte šanci odhalit sto procent .,O O O O O O O
+12054,"„ Skutečně nevíme , čekáme , že to bude ještě asi pár dní , doufejme , že v pátek , “ poznamenala Wehleová k tomu , kdy by mohly být výsledky .",O O O O O O O O O O O O O O O O O O O O O O B-PER O O O O O O O O O
+6020,"Svaz britských učitelů vyzval vládu premiéra Borise Johnsona , aby aby by prodloužila výuku na dálku nejméně o dva týdny .",B-ORG I-ORG I-ORG O O O B-PER I-PER O O O O O O O O O O O
+5784,"Lidé se pak v zaváděných protiepidemických opatřeních ztrácejí a nevědí , čemu mají věřit .",O O O O O O O O O O O O O O O
+7206,"Český stát není žádný etnografický skanzen v evropském superstátu , my chceme být pány ve vlastním domě .",O O O O O O O O O O O O O O O O O O
+3340,"S výsledkem nynějších jednání Barnier v úterý seznámí ministry 27 zemí unie na jednání Rady pro všeobecné záležitosti ( GAC ) , ve středu bude o věci jednat Evropská komise a v pátek 27 premiérů a prezidentů na summitu .",O O O O B-PER O O O O O O O O O B-ORG I-ORG I-ORG I-ORG O B-ORG O O O O O O O O B-ORG I-ORG O O O O O O O O O O
+8818,Novinářům to potvrdil americký tajemník pro energetiku Dan Brouillette : „ Americký plyn přichází do Německa .,O O O O O O O B-PER I-PER O O O O O O B-LOC O
+8517,"Ale v zásadě všichni souhlasíme , že v alianci je třeba spravedlivější sdílení nákladů , “ ujišťoval novináře Stoltenberg .",O O O O O O O O O O O O O O O O O O B-PER O
+10324,"V mnohem menší míře klesají akcie i dalším leteckým společnostem , zejména kvůli předhánění se mezi sebou o nejnižší ceny letenek .",O O O O O O O O O O O O O O O O O O O O O O
+1883,Česko bude mít i nadále 21 křesel .,B-LOC O O O O O O O
+8462,"Spojené státy výstavbě plynovodu také oponují a tvrdí , že by mohl ohrozit energetickou bezpečnost Evropy .",B-LOC I-LOC O O O O O O O O O O O O O B-LOC O
+9483,"Proti tomuto projektu stojí několik států , zejména Ukrajina , která se obává ztráty příjmů z tranzitu ruského paliva .",O O O O O O O O B-LOC O O O O O O O O O O O
+11781,Ve volbách těsně porazil Trumpa,O O O O B-PER
+2399,"Unijní vyjednávač Michel Barnier varoval , že existuje řada problémů , na něž mají britská strana a EU rozdílný názor .",O O B-PER I-PER O O O O O O O O O O O O O B-ORG O O O
+1229,"Manžel Bibi se s dětmi skrývá a tají svou pravou identitu , "" píše Zdechovský .",O B-PER O O O O O O O O O O O O B-PER O
+7090,"Vyplývá to ze statistik Univerzity Johnse Hopkinse ( JHU ) , která vývoj pandemie covidu - 19 globálně monitoruje .",O O O O B-ORG I-ORG I-ORG O B-ORG O O O O O B-EVT I-EVT I-EVT O O O
+2031,"Sněmovna lordů prosadila možnost zastavit brexit , pokud by hrozilo „ oddělení “ Irska",B-ORG I-ORG O O O B-EVT O O O O O O O B-LOC
+3537,"Zdroje z bank potvrzují , že nejméně dvě z pěti bank v USA letos najímají více než loni .",O O O O O O O O O O O O B-LOC O O O O O O
+2812,Za 50 let práce v britském automobilovém průmyslu zažil John Cooper řadu dramatických změn .,O O O O O O O O O B-PER I-PER O O O O
+2877,"Podle televize BBC rezignoval poté , co vyšlo najevo , že o této věci poskytl "" nepřesná a zavádějící "" vyjádření .",O O B-PRO O O O O O O O O O O O O O O O O O O O
+2277,Podle aktivistů je to ale málo .,O O O O O O O
+9404,"MTS je soukromý koncern , který patří z více než 50 procent společnosti AFK Sistěma ruského miliardáře Vladimira Jevtušenka .",B-ORG O O O O O O O O O O O O B-ORG I-ORG O O B-PER I-PER O
+12035,Pro republikány dostatečný důkaz o spiknutí s cílem zmanipulovat volby .,O B-PER O O O O O O O O O
+10657,"Ryanair létá do desítek zemí , včetně České republiky .",B-ORG O O O O O O B-LOC I-LOC O
+11584,"Belgii ochromí generální stávka , postihne i lety do Prahy",B-LOC O O O O O O O O B-LOC
+10748,Znamenalo to komplikace pro více než 42 000 lidí .,O O O O O O O O O O
+8469,"Konsorcium Nord Stream 2 , iniciativa pěti evropských společností a Gazprom , zahájila přípravné práce na plynovodu v zálivu Greifswald u německého pobřeží minulý měsíc .",O B-PRO I-PRO I-PRO O O O O O O B-ORG O O O O O O O O B-LOC O O O O O O
+12632,"Bývá to zábava stát v řadě se sousedy , které jsem delší dobu neviděla .",O O O O O O O O O O O O O O O
+2649,V Londýně žádaly nové hlasování o brexitu desetitisíce lidí,O B-LOC O O O O B-EVT O O
+7416,Rozhodnutí Komise je jednoznačné .,O O O O O
+7905,Na obou stranách Atlantiku probíhala živá diskuse kolem projektu plynovodu Nord Stream - 2 .,O O O B-LOC O O O O O O B-PRO I-PRO I-PRO I-PRO O
+7208,Z tohoto nikým nevoleného úředníka Evropské komise začíná padat jedno eurofederalistické moudro za druhým .,O O O O O B-ORG I-ORG O O O O O O O O
+7740,Je to politický projekt .,O O O O O
+10590,Do stávek v Ryanairu se zapojí i němečtí piloti .,O O O B-ORG O O O O O O
+3686,"Protiunijní tábor se zase obává příliš „ měkkého “ brexitu , jenž by zachoval některé zásadní vazby na EU .",O O O O O O O O O B-EVT O O O O O O O O B-ORG O
+5274,Foto : Anton Vaganov | Zdroj : Reuters .,O O B-PER I-PER O O O B-ORG O
+12174,"„ Myslím , že ( volby ) skončí u Nejvyššího soudu , “ pravil americký prezident Donald Trump 23 . září a o šest dní později to při televizní debatě s Joem Bidenem zopakoval .",O O O O O O O O O B-ORG I-ORG O O O O O B-PER I-PER O O O O O O O O O O O O O B-PER I-PER O O
+7044,"Koronavirus je souhrnné označení pro čtyři rody virů , které způsobují u lidí a zvířat onemocnění s různým stupněm závažnosti .",B-EVT O O O O O O O O O O O O O O O O O O O O
+1338,Tak byli v roce 2011 zavražděni pákistánský ministr pro menšiny a guvernér provincie Paňdžáb .,O O O O O O O O O O O O O B-LOC O
+2069,"Mayová : Opozice nás nezviklá , z Evropy odejdeme .",B-PER O O O O O O B-LOC O O
+3179,"Nikdo nemůže říci , co bude za takových 20 let .",O O O O O O O O O O O
+3611,Londýn 13 : 57 12 . února 2018 Zkrácená adresa,B-LOC O O O O O O O O O
+8713,"Na pokračování dodávek ruského plynu do Evropy přes Ukrajinu trvá nakonec i Německo , které spolu s Ruskem buduje „ Nord Stream -2 “ .",O O O O O O B-LOC O B-LOC O O O B-LOC O O O O B-LOC O O B-PRO I-PRO I-PRO O O
+7121,I přes přísný lockdown se Německo nachází v nejtěžším bodě pandemie,O O O O O B-LOC O O O O O
+6973,Nové testy i další opatření,O O O O O
+11102,Ryanair se letos kvůli pomalému pokroku jednání o pracovních smlouvách potýká se stávkami pilotů i palubního personálu v řadě zemí .,B-ORG O O O O O O O O O O O O O O O O O O O O
+1952,Přibližně o pět procent chce EK v rozpočtu pro roky 2021 až 2027 omezit prostředky na společnou zemědělskou politiku i na politiku soudržnosti .,O O O O O B-ORG O O O O O O O O O O O O O O O O O O
+2163,""" Jakmile bude jasněji ohledně brexitu a budoucnosti vztahů mezi Spojeným královstvím a EU , znovu zvážím otázku načasování referenda o nezávislosti , "" řekla Sturgeonová .",O O O O O B-EVT O O O O B-LOC I-LOC O B-ORG O O O O O O O O O O O B-PER O
+1295,"Tento verdikt ale loni v říjnu zvrátil nejvyšší soud , který konstatoval , že žalobci nebyli schopni dokázat , že by žena porušila zákon .",O O O O O O O O O O O O O O O O O O O O O O O O O
+7899,"K oncem března Německo povolilo výstavbu „ Nord Stream - 2 "" na svém území .",O O O B-LOC O O O B-PRO I-PRO I-PRO I-PRO O O O O O
+11728,Firma přitom ročně přepraví z evropských leteckých dopravců nejvíce cestujících .,O O O O O O O O O O O
+1158,A aby aby by byla propuštěna .,O O O O O
+1121,Pákistánská policie zatkla 1100 stoupenců tamního duchovního,O O O O O O O
+7221,Pan Juncker je zjevně absolutně mimo .,O B-PER O O O O O
+1618,Krátce po referendu byla ( nejen ) britská média plná zpráv o incidentech namířených proti přistěhovalcům v Británii .,O O O O O O O O O O O O O O O O O B-LOC O
+3858,Londýn -,B-LOC O
