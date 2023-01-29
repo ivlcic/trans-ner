@@ -7,6 +7,7 @@ import torch
 import collections
 import argparse
 import logging
+import string
 
 from typing import Dict
 from tmmst.torch import TrainedModelContainer
@@ -114,18 +115,14 @@ if __name__ == "__main__":
         sent_text = ''
         prev_token = None
         for v in sentence.tokens:
+            if sent_text and v.text not in string.punctuation:
+                sent_text += ' '
             if v.ner == 'O':
                 if prev_token and prev_token.ner and prev_token.ner != 'O':
                     sent_text += ']-' + prev_token.ner[2:]
-                if sent_text:
-                    sent_text += ' '
-                sent_text += v.text
-                prev_token = v
-                continue
             elif v.ner.startswith('B-'):
-                sent_text += '[' + v.text
-            else:
-                sent_text += ' ' + v.text
+                sent_text += '['
+            sent_text += v.text
             prev_token = v
 
         logger.debug('%s', sent_text)
