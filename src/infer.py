@@ -124,6 +124,9 @@ if __name__ == "__main__":
                 if sent_text and v.text not in string.punctuation:
                     sent_text += ' '
                 sent_text += '['
+            else:
+                if sent_text and v.text not in string.punctuation:
+                    sent_text += ' '
             sent_text += v.text
             prev_token = v
 
