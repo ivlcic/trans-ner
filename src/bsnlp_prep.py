@@ -31,7 +31,7 @@ if __name__ == "__main__":
     )
     args = parser.parse_args()
     tokenizer = tmmst.data.get_classla_tokenizer(args.lang) \
-        if args.lang in ['bg', 'hr', 'sl'] \
+        if args.lang in ['bg', 'hr', 'sl', 'sr', 'mk'] \
         else tmmst.data.get_stanza_tokenizer(args.lang)
     confs = [
         {

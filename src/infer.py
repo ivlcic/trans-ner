@@ -64,12 +64,18 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(
         description='Simple NER Neural inference script for manual checking.')
     parser.add_argument('pretrained_model', help='Pretrained model to use for inference')
-    parser.add_argument('lang', help='language of the text',
-                        choices=['sl', 'hr', 'sr', 'bs', 'mk', 'sq', 'cs'])
+    parser.add_argument('lang', help='language of the text needed for the word tokenizer.',
+                        choices=['sl', 'hr', 'sr', 'bs', 'mk', 'sq', 'cs', 'pl', 'ru'])
     parser.add_argument('text', help='Text to classify')
     tmmst.args.add_common_dirs(parser)
     parser.add_argument(
         '--no_misc', help='Remove MISC tag (replace i with "O").', action='store_true', default=False
+    )
+    parser.add_argument(
+        '--pro', help='Enable Product (PRO) tag.', action='store_true', default=False
+    )
+    parser.add_argument(
+        '--evt', help='Enable Event (EVT) tag.', action='store_true', default=False
     )
     parser.add_argument(
         '-c', '--limit_cuda_device', help='Limit ops to specific cuda device.', type=int, default=None
@@ -82,7 +88,9 @@ if __name__ == "__main__":
         tmmst.args.get_pretrained_model_path(args), tmmst.args.get_tags_to_remove(args)
     )
     mc.model.eval()
-    tokenizer = tmmst.data.get_classla_tokenizer(args.lang)
+    tokenizer = tmmst.data.get_classla_tokenizer(args.lang) \
+        if args.lang in ['bg', 'hr', 'sl', 'sr', 'mk'] \
+        else tmmst.data.get_stanza_tokenizer(args.lang)
     doc = tokenizer.process(args.text)
     for sent_idx, sentence in enumerate(doc.sentences):
         word_list = [v.text for v in sentence.tokens]
@@ -103,6 +111,17 @@ if __name__ == "__main__":
                 setattr(token, 'ner', contd_cls_name)
             else:
                 token.ner = contd_cls_name
+        sent_text = ''
+        prev_token = None
+        for v in sentence.tokens:
+            if v.ner == 'O':
+                if prev_token and prev_token.ner and prev_token.ner != 'O':
+                    sent_text += ']-' + prev_token.ner[2:]
+                sent_text += ' ' + v.text
+                prev_token = v
+                continue
+            elif v.ner.startswith('B-'):
+                sent_text += '[' + v.text
+            prev_token = v
 
-        word_list = [v.text + '/' + v.ner for v in sentence.tokens]
-        logger.debug('%s', word_list)
+        logger.debug('%s', sent_text)
