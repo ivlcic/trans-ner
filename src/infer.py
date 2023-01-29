@@ -115,12 +115,14 @@ if __name__ == "__main__":
         sent_text = ''
         prev_token = None
         for v in sentence.tokens:
-            if sent_text and v.text not in string.punctuation:
-                sent_text += ' '
             if v.ner == 'O':
                 if prev_token and prev_token.ner and prev_token.ner != 'O':
-                    sent_text += ']-' + prev_token.ner[2:]
+                    sent_text += ']-{' + prev_token.ner[2:] + '}'
+                if sent_text and v.text not in string.punctuation:
+                    sent_text += ' '
             elif v.ner.startswith('B-'):
+                if sent_text and v.text not in string.punctuation:
+                    sent_text += ' '
                 sent_text += '['
             sent_text += v.text
             prev_token = v
