@@ -121,6 +121,8 @@ if __name__ == "__main__":
                 if sent_text and v.text not in string.punctuation:
                     sent_text += ' '
             elif v.ner.startswith('B-'):
+                if prev_token and prev_token.ner and prev_token.ner != 'O':
+                    sent_text += ']-{' + prev_token.ner[2:] + '}'
                 if sent_text and v.text not in string.punctuation:
                     sent_text += ' '
                 sent_text += '['
